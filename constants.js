@@ -8,7 +8,6 @@ const headers = {
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
-    "cookie": "...", // Replace with your actual cookies (if needed)
     "Referer": "https://www.practo.com/search/doctors?results_type=doctor&q=%5B%7B%22word%22%3A%22dentist%22%2C%22autocompleted%22%3Atrue%2C%22category%22%3A%22subspeciality%22%7D%5D&city=Mumbai",
     "Referrer-Policy": "strict-origin-when-cross-origin"
 }
@@ -22,7 +21,7 @@ const parameters = {
     enable_partner_listing: true,
     placement: "DOCTOR_SEARCH",
     show_new_reach_card: true,
-    tracking_id: "59c642d6-4b14-4c3f-8f5f-81a2c772a910",
+    tracking_id: "7f9efbb4-5aaf-4ea9-9cf5-f83ff1a9a817",
     with_ad: true
 }
 

@@ -2,31 +2,47 @@ const axios = require('axios')
 const fs = require('fs')
 const { headers,parameters } = require('./constants.js')
 
-async function f({ city , word , page }) {
+async function collectList({ city , word , page , category }) {
     const url = "https://www.practo.com/marketplace-api/dweb/search/provider/v2"
     const params = {
         city,page,...parameters,
-        q: JSON.stringify([{ word , "autocompleted": true, "category": "subspeciality" }]),
+        q: JSON.stringify([{ word , "autocompleted": true, category }]),
     }
 
     const response = await axios.get(url, { params,headers })
-    return response.data.doctors.entities
+    if (Object.keys(response.data.doctors?.entities).length) return response.data.doctors.entities
+    else return false
 }
+
+async function collectSlots(id) {
+    console.log("COLLECTING DATA")
+    const url = `https://www.practo.com/health/api/practicedoctors/${id}/slots?mobile=true&group_by_hour=true&logged_in_api=false&first_available=true`
+    
+    try {
+          const response = await axios.get(url, { headers });
+          return response.data.slots
+  
+    } catch (error) {
+      console.error(error.message);
+    }
+  }
 
 let collectedData = {}
 
+async function main(  ) {
 
-
-async function y() {
-
-    for ( let page = 0;page<11;page ++ ) {
+    let page = 0;
+    while ( true ) {
 
         params = {
-            city : "Mumbai",
-            word : "dentist",
+            city : "Delhi",
+            word : "General Physician",
+            category : "subspeciality",
             page 
         }
-        let response = await f(params)
+        let response = await collectList(params)
+        if (!response) break
+
         for (const key in response) {
             let value = response[key];
             value = {
@@ -55,17 +71,18 @@ async function y() {
             response[key] = value
         }
         collectedData = { ...collectedData,...response }
+        console.log( "Total Doctors = ",Object.keys(collectedData).length)
+        page ++
     }
-    console.log( Object.keys(collectedData).length)
 
-    fs.writeFile("data.json", JSON.stringify(collectedData, null, 4), (err) => {
-      if (err) {
-        console.error(err);
-      } else {
-        console.log("Data saved successfully!");
-      }
-    });
+    await Promise.all(Object.keys(collectedData).map(async (id) => {
+      const slots = await collectSlots(id);
+      collectedData[id] = { ...collectedData[id], slots };
+    }));
+  
+    await fs.promises.writeFile("collectedData.json", JSON.stringify(collectedData, null, 4));
+
 } 
 
-y()
+main()
 
