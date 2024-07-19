@@ -1,6 +1,10 @@
 const axios = require('axios') 
 const fs = require('fs')
 const { headers,parameters } = require('./constants.js')
+const { timeStamp } = require('console')
+
+const currentDateTime = new Date();
+const timestamp = currentDateTime.toLocaleString('en-US');
 
 async function collectList({ city , word , page , category }) {
     const url = "https://www.practo.com/marketplace-api/dweb/search/provider/v2"
@@ -15,7 +19,6 @@ async function collectList({ city , word , page , category }) {
 }
 
 async function collectSlots(id) {
-    console.log("COLLECTING DATA")
     const url = `https://www.practo.com/health/api/practicedoctors/${id}/slots?mobile=true&group_by_hour=true&logged_in_api=false&first_available=true`
     
     try {
@@ -29,14 +32,14 @@ async function collectSlots(id) {
 
 let collectedData = {}
 
-async function main(  ) {
+async function main() {
 
     let page = 0;
     while ( true ) {
 
         params = {
-            city : "Delhi",
-            word : "General Physician",
+            city : "Bangalore",
+            word : "Cardiologist",
             category : "subspeciality",
             page 
         }
@@ -66,7 +69,7 @@ async function main(  ) {
                 recommendation_percent : value.recommendation_percent,
                 patients_count : value.patients_count,
                 reviews_count : value.reviews_count,
-
+                timestamp 
             }
             response[key] = value
         }
