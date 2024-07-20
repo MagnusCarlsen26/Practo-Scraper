@@ -3,14 +3,9 @@ import csv
 import pandas as pd
 import datetime
 
-def sort_time_strings(time_strings):
-
-   sorted_times = sorted(time_strings, key=lambda x: datetime.datetime.strptime(x, '%Y-%m-%d %H:%M:%S'))
-   return sorted_times
-
 def convert_json_to_csv(data):
 
-  headers = "id,doctor_id,practice_id,image_url,profile_url,doctor_name,specialization," + \
+  headers = "id,doctor_id,practice_id,image_url,profile_url,doctor_name,gender,specialization," + \
             "qualification,college,completion_year," + \
             "qualification,college,completion_year,experience_years," + \
             "practice_city,practice_locality,practice_type,practice_name," + \
@@ -22,7 +17,6 @@ def convert_json_to_csv(data):
     qualifications = data[element].get('qualifications', [])
     qual1 = qualifications[0] if qualifications else {}
     qual2 = qualifications[1] if len(qualifications) > 1 else {}
-
     row = [
       data[element].get('id', ''),
       data[element].get('doctor_id', ''),
@@ -30,6 +24,7 @@ def convert_json_to_csv(data):
       data[element].get('image_url', ''),
       data[element].get('profile_url', ''),
       data[element].get('doctor_name', ''),
+      data[element].get('gender', ''),
       data[element].get('specialization', ''),
       qual1.get('qualification', ''),
       qual1.get('college', ''),
@@ -52,38 +47,6 @@ def convert_json_to_csv(data):
     rows.append(row)
 
   return headers, rows
-
-def saveSlots(data) :
-   allTimeSlots = {}
-   for key in data :
-      for slot in data[key]["slots"] :
-         for slo in slot["slots"]:
-            for timeslots in slo["timeslots"]: 
-               allTimeSlots[timeslots["ts"]] = []
-
-   allTimeSlots["id"] = []
-
-   for key in data :
-      for k in allTimeSlots:
-         if k != "id" :
-            allTimeSlots[k].append(False)
-      allTimeSlots["id"].append( data[key]["doctor_name"] )
-      for slot in data[key]["slots"] :
-         for slo in slot["slots"]:
-            for timeslots in slo["timeslots"]: 
-               allTimeSlots[timeslots["ts"]][-1] = (timeslots["available"])
-
-   sorted_times = sort_time_strings( [item for item in list(allTimeSlots.keys()) if item != "id"] )
-   rows = []
-
-   for i in range(len(allTimeSlots["id"])) :
-      row = allTimeSlots['id'][i] + ","
-      for time in sorted_times:
-         row +=str( allTimeSlots[time][i] )+ ","
-      rows.append([row])
-   
-   return ["Doctor Name"] + [ i for i in sorted_times ] , rows
-
 
 with open('collectedData.json', 'r',encoding="utf-8") as f:
   json_content = f.read()

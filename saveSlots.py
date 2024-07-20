@@ -16,27 +16,29 @@ def saveSlots(data) :
                allTimeSlots[timeslots["ts"]] = []
 
    allTimeSlots["id"] = []
-
+   allTimeSlots["gender"] = []
    for key in data :
       for k in allTimeSlots:
-         if k != "id" :
-            allTimeSlots[k].append(False)
+         if k != "id" and k!= "gender" :
+            allTimeSlots[k].append(-1)
       allTimeSlots["id"].append( data[key]["doctor_name"] )
+      allTimeSlots["gender"].append( data[key]["gender"] )
+
       for slot in data[key]["slots"] :
          for slo in slot["slots"]:
             for timeslots in slo["timeslots"]: 
                allTimeSlots[timeslots["ts"]][-1] = (timeslots["available"])
 
-   sorted_times = sort_time_strings( [item for item in list(allTimeSlots.keys()) if item != "id"] )
+   sorted_times = sort_time_strings( [item for item in list(allTimeSlots.keys()) if (item != "id" and item != "gender")] )
    rows = []
 
    for i in range(len(allTimeSlots["id"])) :
-      row = allTimeSlots['id'][i] + ","
+      row = allTimeSlots['id'][i] + "," + allTimeSlots["gender"][i] + ","
       for time in sorted_times:
          row +=str( allTimeSlots[time][i] )+ ","
       rows.append([row])
    
-   return ["Doctor Name"] + [ i for i in sorted_times ] , rows
+   return ["Doctor Name"] + ["Gender"] + [ i for i in sorted_times ] , rows
 
 
 with open('collectedData.json', 'r',encoding="utf-8") as f:
