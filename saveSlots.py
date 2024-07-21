@@ -1,60 +1,31 @@
 import json
 import csv
-import datetime
-
-def sort_time_strings(time_strings):
-
-   sorted_times = sorted(time_strings, key=lambda x: datetime.datetime.strptime(x, '%Y-%m-%d %H:%M:%S'))
-   return sorted_times
-
-def saveSlots(data) :
-   allTimeSlots = {}
-   for key in data :
-      for slot in data[key]["slots"] :
-         for slo in slot["slots"]:
-            for timeslots in slo["timeslots"]: 
-               allTimeSlots[timeslots["ts"]] = []
-
-   allTimeSlots["id"] = []
-   allTimeSlots["gender"] = []
-   for key in data :
-      for k in allTimeSlots:
-         if k != "id" and k!= "gender" :
-            allTimeSlots[k].append(-1)
-      allTimeSlots["id"].append( data[key]["doctor_name"] )
-      allTimeSlots["gender"].append( data[key]["gender"] )
-
-      for slot in data[key]["slots"] :
-         for slo in slot["slots"]:
-            for timeslots in slo["timeslots"]: 
-               allTimeSlots[timeslots["ts"]][-1] = (timeslots["available"])
-
-   sorted_times = sort_time_strings( [item for item in list(allTimeSlots.keys()) if (item != "id" and item != "gender")] )
-   rows = []
-
-   for i in range(len(allTimeSlots["id"])) :
-      row = allTimeSlots['id'][i] + "," + allTimeSlots["gender"][i] + ","
-      for time in sorted_times:
-         row +=str( allTimeSlots[time][i] )+ ","
-      rows.append([row])
-   
-   return ["Doctor Name"] + ["Gender"] + [ i for i in sorted_times ] , rows
-
+import os
+from utils import saveSlots,saveDoctors
 
 with open('collectedData.json', 'r',encoding="utf-8") as f:
-  json_content = f.read()
+    json_content = f.read()
 
 if isinstance(json_content, str):
     data = json.loads(json_content)
 else:
     data = json_content
 
+with open('data.csv', 'w', newline='',encoding='utf-8') as csvfile:
+    csv_writer = csv.writer(csvfile)
+    headers,data = saveDoctors(data)
+    csv_writer.writerow(headers.split(','))
+    csv_writer.writerows(data)
+
+with open('collectedData.json', 'r',encoding="utf-8") as f:
+  json_content = f.read()
+
+data = json.loads(json_content)
+
 with open('slots.csv', 'w', newline='') as csvfile:
-   csv_writer = csv.writer(csvfile)
+    csv_writer = csv.writer(csvfile)
 
-   headers,rows = saveSlots(data)
-   csv_writer.writerow(headers)
-   for row in rows :
-      csv_writer.writerow(row)
-
-
+    headers,rows = saveSlots(data)
+    csv_writer.writerow(headers)
+    for row in rows :
+        csv_writer.writerow(row)
