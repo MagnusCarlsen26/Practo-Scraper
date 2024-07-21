@@ -27,7 +27,7 @@ const parameters = {
 
 queries = {
     cities : [
-        "Mumbai",
+        // "Mumbai",
         "Delhi",
         "Bangalore",
         "Chennai",
@@ -38,7 +38,7 @@ queries = {
         "General Physician",
         "Cardiologist",
         "Dentist",
-        "Orthopedist",
+        // "Orthopedist",
         "Pediatrician",
         "Gynecologist"
     ]

@@ -26,7 +26,7 @@ async function collectList({ city , word , page , category , gender }) {
         q: JSON.stringify([{ word , "autocompleted": true, category }]),
     }
     const response = await axios.get(url, { params,headers })
-    console.log('hi')
+    pausecomp(5000)
     if (Object.keys(response.data.doctors?.entities).length) return response.data.doctors.entities
     else return false
 }
@@ -35,6 +35,7 @@ async function collectSlots(id) {
     const url = `https://www.practo.com/health/api/practicedoctors/${id}/slots?mobile=true&group_by_hour=true&logged_in_api=false&first_available=true`
     
     const response = await axios.get(url, { headers })
+    pausecomp(5000)
     return response.data.slots
 
 }
@@ -49,7 +50,6 @@ async function saveToJSON(collectedData) {
 }
 
 async function main( params ) {
-    console.log(params)
     let collectedData = {}
     genders = ['male','female']
 
@@ -91,11 +91,9 @@ async function main( params ) {
                 response[key] = value
             }
             collectedData = { ...collectedData,...response }
-            console.log( "Total Doctors = ",Object.keys(collectedData).length)
             page ++
         }
     }
-    console.log(Object.keys(collectedData).length,"F")
     await Promise.all(Object.keys(collectedData).map(async (id) => {
         const slots = await collectSlots(id)
         collectedData[id] = { ...collectedData[id], slots }
@@ -104,7 +102,7 @@ async function main( params ) {
     await fs.promises.writeFile(`FinalData/${params.city}/${params.word}/collectedData.json`, JSON.stringify(collectedData, null, 4) , (err) => {console.log(err)})
     await fs.promises.writeFile(`FinalData/${params.city}/${params.word}/config.json`, JSON.stringify( params , null, 4))
     console.log(`${params.city}/${params.word} done.`)
-    pausecomp(10000)
+    pausecomp(60000)
 } 
 
 async function processCitiesAndWords(queries) {
