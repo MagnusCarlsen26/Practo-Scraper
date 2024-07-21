@@ -8,7 +8,7 @@ const headers = {
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
-    "Referer": "https://www.practo.com/search/doctors",
+    "Referer": "https://www.practo.com/search/doctors?results_type=doctor&q=%5B%7B%22word%22%3A%22dentist%22%2C%22autocompleted%22%3Atrue%2C%22category%22%3A%22subspeciality%22%7D%5D&city=Mumbai",
     "Referrer-Policy": "strict-origin-when-cross-origin"
 }
 const parameters = {

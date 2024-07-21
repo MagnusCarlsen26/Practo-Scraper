@@ -25,8 +25,8 @@ async function collectList({ city , word , page , category , gender }) {
         city,page,...parameters,...modifiedFilters,
         q: JSON.stringify([{ word , "autocompleted": true, category }]),
     }
-
     const response = await axios.get(url, { params,headers })
+    console.log('hi')
     if (Object.keys(response.data.doctors?.entities).length) return response.data.doctors.entities
     else return false
 }
@@ -34,13 +34,9 @@ async function collectList({ city , word , page , category , gender }) {
 async function collectSlots(id) {
     const url = `https://www.practo.com/health/api/practicedoctors/${id}/slots?mobile=true&group_by_hour=true&logged_in_api=false&first_available=true`
     
-    try {
-          const response = await axios.get(url, { headers })
-          return response.data.slots
-  
-    } catch (error) {
-      console.error(error.message)
-    }
+    const response = await axios.get(url, { headers })
+    return response.data.slots
+
 }
 
 async function saveToJSON(collectedData) {
@@ -53,7 +49,7 @@ async function saveToJSON(collectedData) {
 }
 
 async function main( params ) {
-
+    console.log(params)
     let collectedData = {}
     genders = ['male','female']
 
@@ -63,7 +59,6 @@ async function main( params ) {
         while ( true ) {
             
             params = { ...params,page,gender }
-            
             let response = await collectList(params)
             if (!response) break
             
@@ -112,11 +107,32 @@ async function main( params ) {
     pausecomp(10000)
 } 
 
-for( let i=0;i<queries.cities.length;i++ )
-    for( let j=0;j<queries.words.length;j++ )
-        main({
-            city : queries.cities[i],
-            word : queries.words[j],
-            category : "subspeciality"
-         })
+async function processCitiesAndWords(queries) {
+    for (let i = 0; i < queries.cities.length; i++) {
+      const city = queries.cities[i];
+      const promises = [];
+  
+      for (let j = 0; j < queries.words.length; j++) {
+        const word = queries.words[j];
+        await (main({
+          city,
+          word,
+          category: "subspeciality"
+        }));
+      }
+  
+    }
+}
+
+try {
+    processCitiesAndWords(queries)  
+} catch (error) {
+    console.log("ERROR")
+}
+
+// main({
+//     city : "Mumbai",
+//     word : "Cardiologist",
+//     category : "subspeciality"
+// })
 
