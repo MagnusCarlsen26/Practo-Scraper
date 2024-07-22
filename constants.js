@@ -27,20 +27,21 @@ const parameters = {
 
 queries = {
     cities : [
-        "Mumbai",
-        "Delhi",
+      // "Mumbai",
+//        "Delhi",
         "Bangalore",
-        "Chennai",
-        "Kolkata",
-        "Hyderabad"
+    //    "Chennai",
+//    "Kolkata",
+  //    "Hyderabad"
     ],
     words : [
-        "General Physician",
-        "Cardiologist",
-        "Dentist",
-        "Orthopedist",
-        "Pediatrician",
-        "Gynecologist"
+  //     "General Physician",
+    //  "Cardiologist",
+ ,
+//        "Orthopedist",
+  //   "Pediatrician",
+        "Gynecologist",
+ "Dentist"
     ]
 }
 

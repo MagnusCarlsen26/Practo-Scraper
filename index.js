@@ -26,7 +26,7 @@ async function collectList({ city , word , page , category , gender }) {
         q: JSON.stringify([{ word , "autocompleted": true, category }]),
     }
     const response = await axios.get(url, { params,headers })
-    console.log('hi')
+    
     if (Object.keys(response.data.doctors?.entities).length) return response.data.doctors.entities
     else return false
 }
@@ -104,7 +104,7 @@ async function main( params ) {
     await fs.promises.writeFile(`FinalData/${params.city}/${params.word}/collectedData.json`, JSON.stringify(collectedData, null, 4) , (err) => {console.log(err)})
     await fs.promises.writeFile(`FinalData/${params.city}/${params.word}/config.json`, JSON.stringify( params , null, 4))
     console.log(`${params.city}/${params.word} done.`)
-    pausecomp(10000)
+    pausecomp(60000)
 } 
 
 async function processCitiesAndWords(queries) {
