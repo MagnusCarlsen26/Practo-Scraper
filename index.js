@@ -26,6 +26,7 @@ async function collectList({ city , word , page , category , gender }) {
         q: JSON.stringify([{ word , "autocompleted": true, category }]),
     }
     const response = await axios.get(url, { params,headers })
+    console.log(response.data.doctors?.entities)
     pausecomp(5000)
     if (Object.keys(response.data.doctors?.entities).length) return response.data.doctors.entities
     else return false
@@ -127,10 +128,4 @@ try {
 } catch (error) {
     console.log("ERROR")
 }
-
-// main({
-//     city : "Mumbai",
-//     word : "Cardiologist",
-//     category : "subspeciality"
-// })
 

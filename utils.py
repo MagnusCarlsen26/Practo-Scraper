@@ -82,7 +82,8 @@ def saveDoctors(data):
             data[element].get('recommendation_percent', ''),
             data[element].get('patients_count', ''),
             data[element].get('reviews_count', ''),
-            data[element].get('timestamp', '')
+            data[element].get('timestamp', ''),
+            data[element].get('position', '')
         ]
         rows.append(row)
 
