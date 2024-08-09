@@ -13,29 +13,44 @@ function pausecomp(millis)
     while(curDate-date < millis);
 }
 
-async function collectList({ city , word , page , category , gender }) {
+async function collectList({ city , word , page , category }) {
     const url = "https://www.practo.com/marketplace-api/dweb/search/provider/v2"
 
-    const modifiedFilters = {  }
-
-    if ( gender === 'male') modifiedFilters['filters[doctor_gender][]'] = 'male'
-    if ( gender === 'female' ) modifiedFilters['filters[doctor_gender][]'] = 'female'
-
     const params = {
-        city,page,...parameters,...modifiedFilters,
+        city,page,...parameters,
         q: JSON.stringify([{ word , "autocompleted": true, category }]),
     }
-    const response = await axios.get(url, { params,headers })
-    console.log(response.data.doctors?.entities)
+    let response;
+    try {
+        response = await axios.get(url, { params,headers })
+    } catch(error) {
+        if (error.code === 'ECONNRESET') {
+            console.error('ECONNRESET error:', error.message);
+            return collectList({ city , word , page , category })
+          } else {
+            console.error('Other error:', error);
+            process.exit()
+          }
+    }
     pausecomp(5000)
-    if (Object.keys(response.data.doctors?.entities).length) return response.data.doctors.entities
+    if (Object.keys(response?.data.doctors?.entities).length) return response.data.doctors.entities
     else return false
 }
 
 async function collectSlots(id) {
     const url = `https://www.practo.com/health/api/practicedoctors/${id}/slots?mobile=true&group_by_hour=true&logged_in_api=false&first_available=true`
-    
-    const response = await axios.get(url, { headers })
+    let response;
+    try {
+        response = await axios.get(url, { headers })
+    } catch(error) {
+        if (error.code === 'ECONNRESET') {
+            console.error('ECONNRESET error:', error.message);
+            return collectSlots(id)
+          } else {
+            console.error('Other error:', error);
+            process.exit()
+          }
+    }
     pausecomp(5000)
     return response.data.slots
 
@@ -52,14 +67,12 @@ async function saveToJSON(collectedData) {
 
 async function main( params ) {
     let collectedData = {}
-    genders = ['male','female']
 
-    for( let g = 0;g<2;g++ ) {
-        const gender = genders[g]
+    for( let g = 0;g<1;g++ ) {
         let page = 0
         while ( true ) {
-            
-            params = { ...params,page,gender }
+            console.log(page)
+            params = { ...params,page,}
             let response = await collectList(params)
             if (!response) break
             
@@ -72,7 +85,6 @@ async function main( params ) {
                     image_url : value.image_url,
                     profile_url : value.profile_url,
                     doctor_name : value.doctor_name,
-                    gender,
                     specialization : value.specialization,
                     qualifications : value.qualifications,
                     experience_years : value.experience_years,
@@ -87,6 +99,9 @@ async function main( params ) {
                     recommendation_percent : value.recommendation_percent,
                     patients_count : value.patients_count,
                     reviews_count : value.reviews_count,
+                    position : value.position,
+                    rank : value.rank,
+                    page,
                     timestamp
                 }
                 response[key] = value

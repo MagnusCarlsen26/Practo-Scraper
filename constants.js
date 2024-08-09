@@ -8,7 +8,7 @@ const headers = {
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
-    "Referer": "https://www.practo.com/search/doctors?results_type=doctor&q=%5B%7B%22word%22%3A%22dentist%22%2C%22autocompleted%22%3Atrue%2C%22category%22%3A%22subspeciality%22%7D%5D&city=Mumbai",
+    "Referer": "https://www.practo.com/",
     "Referrer-Policy": "strict-origin-when-cross-origin"
 }
 const parameters = {
@@ -21,26 +21,25 @@ const parameters = {
     enable_partner_listing: true,
     placement: "DOCTOR_SEARCH",
     show_new_reach_card: true,
-    tracking_id: "7f9efbb4-5aaf-4ea9-9cf5-f83ff1a9a817",
     with_ad: true
 }
 
 queries = {
     cities : [
-        "Mumbai",
-        "Delhi",
+        // "Mumbai",
+        // "Delhi",
         "Bangalore",
-        "Chennai",
-        "Kolkata",
-        "Hyderabad"
+        // "Chennai",
+        // "Kolkata",
+        // "Hyderabad"
     ],
     words : [
-        "General Physician",
-        "Cardiologist",
+        // "General Physician",
+        // "Cardiologist",
+        "Gynecologist",
         "Dentist",
-        "Orthopedist",
-        "Pediatrician",
-        "Gynecologist"
+        // "Orthopedist",
+        // "Pediatrician"`,
     ]
 }
 
