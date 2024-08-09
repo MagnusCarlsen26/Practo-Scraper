@@ -40,8 +40,8 @@ def extractDoctors(path) :
             csvreader = list(csv.reader(csvfile))
             csvreader1 = csv.reader(csvfile1)
             for i in range(1,len(csvreader)) :
-                slug = csvreader[i][4].split('/')[3].split('?')[0]
-                doctorsCSV += ",".join([csvreader[i][5],slug,path,csvreader[i][6],"\n"]) 
+                slug = csvreader[i][5].split('/')[3].split('?')[0]
+                doctorsCSV += ",".join([csvreader[i][6],slug,path,csvreader[i][7],"\n"]) 
 
 def readJson(directory):
 
@@ -55,7 +55,7 @@ def readJson(directory):
                 else :
                     file_path = file_path[:len(file_path)-11] 
                 print(file_path)       
-                save(file_path)
+                extractDoctors(file_path)
     
 
 readJson("./FinalData")
