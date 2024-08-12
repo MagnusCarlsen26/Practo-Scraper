@@ -13,7 +13,6 @@ def fetch_data(url, headers):
 
 
 def main(info):
-    print(info)
     slug = info[1]
     page = 0
     url = f"https://www.practo.com/marketplace-api/dweb/profile/provider/feedback?slug={slug}&profile_type=PROVIDER&page={page}&mr=true&active_filter%5Bid%5D=0&active_filter%5Btext%5D=All&active_filter%5Btype%5D=All&show_recommended_reviews=true&show_feedback_summary_tags=true"
