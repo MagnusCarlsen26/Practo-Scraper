@@ -1,0 +1,426 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2407655,
+            "status": "PUBLISHED",
+            "note": "2024-07-02 12:04:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 268389,
+            "practice_id": 689185,
+            "practice_name": "Prabhat Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-02T13:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46812056,
+                "review_text": "Dr. Mukul was really polite and helpful. He educated me about the oral problems and what precautions should I take to maintain a good oral health.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-01 10:10:51",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sahil Vashisht"
+        },
+        "entity_id": 161714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 164282,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 268389,
+            "practice_id": 689185,
+            "practice_name": "Prabhat Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-12T10:22:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 4251,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Gaurav for taking time to write us an inspiring feedback. I'm glad I could help you and meet your expectations. At Prabhat Dental Care, we maintain highest standards of dental care in a cost effective manner.  Thanks again for appreciating our efforts. A pat on the back is always needed.",
+                "replied_at": "2016-01-15T15:10:50+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 216374,
+                "modified_by_id": null,
+                "replier_name": "Dr. Mukul Prabhat",
+                "replier_logo": "https://images1-fabric.practo.com/537f4da086975611e23eaf4a64d2f06f86c7485a55e78.jpg"
+            },
+            "survey_response": {
+                "id": 10996550,
+                "review_text": "Excellent Dr. I am very much satisfied with the treatment,his way of dealing and listening to patients problems. I visited for the teeth fillings.\r\nHe is really very nice person and talks to patient politely .He explains you the problem properly and the treatment options available. Doesn't push to start the treatment and give proper time to make a decision .in fact he help you in making a decision of ways best for you depending on the patient expectations. Till now my experience with him is really good. Earlier also I have visited him for scaling.\r\nI loved his treatment.Clinic ambience is also nice, charges for the treatment is also reasonable.Would definitely recommend.He is the best dentist in east Delhi. \r\nOne of my friend came from Vaishali only because of his great knowledge and best in class treatment at affordable rates.\r\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-12 09:50:53",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gaurav"
+        },
+        "entity_id": 161714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193955,
+                "text": "Tartar Removal"
+            },
+            {
+                "id": 80,
+                "text": "Abnormal Tooth Color"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1014351,
+            "status": "PUBLISHED",
+            "note": "2018-11-08 09:24:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 268389,
+            "practice_id": 689185,
+            "practice_name": "Prabhat Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-08T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38563550,
+                "review_text": "Dr Mukul was very nice during the whole process and was highly professional. He explained the issue very well and recommended the best solution and performed the same very precisely as well. I am very happy with the results and highly recommend Dr Mukul. He's very friendly and the prices are also pocket friendly. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-06 09:54:54",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gaurav Dutt"
+        },
+        "entity_id": 161714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 534774,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 268389,
+            "practice_id": 689185,
+            "practice_name": "Prabhat Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-22T06:34:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34140097,
+                "review_text": "excellent doctor very nice clinic clean and hygienic and orthodontist is also very nice i recommend this doctor to everyone",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-21 17:53:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jatinbatra"
+        },
+        "entity_id": 161714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 580022,
+            "status": "PUBLISHED",
+            "note": "2017-06-06 07:01:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 268389,
+            "practice_id": 689185,
+            "practice_name": "Prabhat Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-06T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34611233,
+                "review_text": "He is awesome, nice, good Dr. ....he is God for me bcs i was litterly dieing with toothach..... but he vanished all my pain in my 1st visit.....He is very friendly Dr. I hv ever seen in my life.....i will give him 200 out of 100.....thanks a ton Dr.",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-03 06:35:03",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anjana Saxena"
+        },
+        "entity_id": 161714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 173242,
+                "text": "General  Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1596711,
+            "status": "PUBLISHED",
+            "note": "2020-12-15 09:14:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 268389,
+            "practice_id": 689185,
+            "practice_name": "Prabhat Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-15T10:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42150605,
+                "review_text": "Very professional service. Would recommend to everyone in Shahdara area where there is a dearth of good medical facilities.",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-14 04:31:08",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Varoon"
+        },
+        "entity_id": 161714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1060,
+                "text": "Tooth Sensitivity"
+            },
+            {
+                "id": 95,
+                "text": "Impacted Tooth"
+            },
+            {
+                "id": 88,
+                "text": "Toothache"
+            },
+            {
+                "id": 888,
+                "text": "Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 718281,
+            "status": "PUBLISHED",
+            "note": "2017-11-07 12:13:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 268389,
+            "practice_id": 689185,
+            "practice_name": "Prabhat Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-07T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36009886,
+                "review_text": "Dr. Mukul is like my family doctor. He is so nice with professionally and personally. I highly recommend Dr. Mukul for any tooth problem. He's always ready to help you in any way.",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-04 13:21:23",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mansi Ahluwalia"
+        },
+        "entity_id": 161714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1513661,
+            "status": "PUBLISHED",
+            "note": "2020-09-08 07:26:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 268389,
+            "practice_id": 689185,
+            "practice_name": "Prabhat Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-08T08:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41709518,
+                "review_text": "** ** **** **** ****** i visited him on vediocon for my son but. He responded so well and he fine since now. Thank you so much. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 291121
+                    }
+                ],
+                "reviewed_on": "2020-09-06 07:15:40",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 161714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

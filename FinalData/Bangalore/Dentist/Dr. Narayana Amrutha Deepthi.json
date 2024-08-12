@@ -1,0 +1,63 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2060447,
+            "status": "PUBLISHED",
+            "note": "2022-09-04 05:17:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 915655,
+            "practice_id": 1364240,
+            "practice_name": "The Image Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-04T06:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44784702,
+                "review_text": "Doctor is friendly. Well maintained clinic. Good Staff Behavior. Precautions and after care explained in detail",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-02 14:55:43",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 797361,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

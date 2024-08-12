@@ -1,0 +1,1024 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1461432,
+            "status": "PUBLISHED",
+            "note": "2020-07-07 09:59:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-07T10:01:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41445513,
+                "review_text": "Highly experienced doctor. I came to visit her with my wife. Highly experienced, well explained each and every details.\nShe help us a lot to understand the responsibilities during pregnancy. \nHer experience sounds in every appointment. I\u2019m completely satisfied with her services and recommend her to everyone.\nThanks a lot Doctor\ud83d\ude4f\ud83d\ude4f",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-06 06:54:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "HARISH"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192685,
+                "text": "Gynaecological Problem"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2006178,
+            "status": "PUBLISHED",
+            "note": "2022-06-08 06:15:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-08T07:00:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44465869,
+                "review_text": "I have delivered my bundle of joy under the guidence of dr ranjana sharma ma'am. I don't have words for ma'am. Dr ma'am has done a great job in my pregnancy. Maam has given life to my daughter. From starting to end whenever I call ma'am .maam always resolved my problems. I delivered my baby in 36+2 days . **** ** *** *** ** *ma'am has taken right decision and my done my emergency lscs because baby placenta got repture .if ma'am will not suggest me this. Any thing wrong can happen. But miracle happen and i m glade that i have choose ma'am and my decision became life for me. Thank you so much for your kind help and i never feel like that I am your patient.you always resolve my problem like your own daughter. Thank you ma'am i don't have more words. But i will say if anyone who was want to delivered there bundle of joy reach to ma'am and do delivery in apollo cradle royale .",
+                "review_alterations": [
+                    {
+                        "start_index": 307,
+                        "end_index": 326,
+                        "reason": "NON_COMPLIANT",
+                        "id": 413071
+                    }
+                ],
+                "reviewed_on": "2022-06-06 14:45:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 672935,
+            "status": "PUBLISHED",
+            "note": "2017-09-15 13:19:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-15T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35556489,
+                "review_text": "Extremely rude doctor..never respond in a convincing manner...she treats her patients as if they are themselves doctors and expects them to be aware of everything already...never recommend her for anyone..\u20b91500 consultation fee which is highly costly and she doesnt even give you her proper visit time..not at all worth visiting..pathetic!!!! impolite, rude & chiding.. which is non expecting from a doctor.. please never visit her & waste your money.\n\nPS: her consultation fee is \u20b91500 per visit but not \u20b91000..please do not misguide people.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-07 21:09:41",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Pooja gaur"
+        },
+        "entity_id": 212729,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186455,
+                "text": " Ovarian Cyst"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2232001,
+            "status": "PUBLISHED",
+            "note": "2023-07-15 08:24:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-15T09:00:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45780827,
+                "review_text": "She has no respect for the patient and person who paid Rs 2000 to her, this is most ownest review about her that do not come here to wast your hard earned money, even there is no time management *** **** ***** ******** **** **** ******* ******* **** ******* ******* * ****** **** ***, she even dragged her patient outside the clinic by not answering their queries, I have spent huge money on tests and at last when I got chance to review those reports then she asked for another test, I have to get out of her without ny conclusion *** ** **** **** ** *** ***** **** * ******* ** *** **** ** ******* ***** ***** *** *** **** *** ***** **** ** **** I can apprise you on my personal experience, baki apki marzi, ***** *** ***** **** **** ** *******, 1st visit could be polite since you have paid fresh fees *** ** *** ***** ***** ** * **** **** *** **** ***** *** **** ******* **** ** **** ",
+                "review_alterations": [
+                    {
+                        "start_index": 195,
+                        "end_index": 282,
+                        "reason": "NON_COMPLIANT",
+                        "id": 462973
+                    },
+                    {
+                        "start_index": 531,
+                        "end_index": 646,
+                        "reason": "NON_COMPLIANT",
+                        "id": 462974
+                    },
+                    {
+                        "start_index": 710,
+                        "end_index": 745,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 462975
+                    },
+                    {
+                        "start_index": 805,
+                        "end_index": 886,
+                        "reason": "NON_COMPLIANT",
+                        "id": 462976
+                    }
+                ],
+                "reviewed_on": "2023-07-11 12:36:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 212729,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2001971,
+            "status": "PUBLISHED",
+            "note": "2022-06-01 06:28:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-01T07:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44441275,
+                "review_text": "I booked online consultation paying 1600 she called on vedio and and she left for 3 min she came back in hurry asked my details she dint see tge prescriotion and problem which i had alreafy shared in chat of appointment her secreatery wrote down my detaiks and they disconnected telling we ll call in night and she just send me prescription for no joy with lots of tests in it she even know wht i consulted for she dint listen wht i wanted to ask anout a injection and tab whixh i was supposed take advised by my family doc ...i someone managed to pay 1600 for no joy i ahould have consulted near by gyno with 800rs who atleast listens give 20 min of time for pateints.... Plz dont lose  ur money on this doc.. God knows how they do this to people who is suffering ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-30 16:18:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 212729,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 823,
+                "text": "Normal Vaginal Delivery (NVD)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2027901,
+            "status": "PUBLISHED",
+            "note": "2022-07-12 12:42:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-12T13:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44590256,
+                "review_text": "I delivered my baby under doctor Dr Ranjan Sharma. She is great doctor . Wonderful experience. And she is a great human being ",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-11 12:33:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ishwari"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1461420,
+            "status": "PUBLISHED",
+            "note": "2020-07-07 09:54:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-07T10:01:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41445459,
+                "review_text": "Our experience with dr Ranjana sharma is highly recommended.. doctor is very nice , helpful,friendly and highly professional .she help me a lot in my 9 months pregnancy.thank you so ma'am and Apollo cradle royals Nehru enclave team ",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-06 06:40:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nuzhat"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 29399,
+                "text": "Pregnancy Tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2170363,
+            "status": "PUBLISHED",
+            "note": "2023-03-20 11:22:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-20T12:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45412298,
+                "review_text": "The doctor didn't do an ultrasound or any tests.  *** **** ******* *** **** **** *** ***** ***  She barely bothered to check or explain anything.  The next day after my appointment I had a serious complication, which had Dr. Ranjana done an appropriate exam, she would have caught it and saved me a lot of pain and money.  I do not recommend her at all.  ",
+                "review_alterations": [
+                    {
+                        "start_index": 50,
+                        "end_index": 93,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449312
+                    }
+                ],
+                "reviewed_on": "2023-03-19 10:58:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 212729,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1862948,
+            "status": "PUBLISHED",
+            "note": "2021-10-30 05:36:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-30T06:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43642560,
+                "review_text": "I have visited doctor Ranjana for a problem recently my age is very less 16 only and i was felling very nervous and anxious but she is a very soft spoken lady a very sweet person and a very experienced doctor she helped a lot and i would recommend her to everyone.\nI loved her behaviour a lot\nEvery gynaecologist should be like her.\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-28 16:53:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1545662,
+            "status": "PUBLISHED",
+            "note": "2020-10-11 06:35:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-11T07:01:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41878639,
+                "review_text": "I had delivered a baby boy through normal delivery under the consultation of doctor Ranjana Sharma and under her guidance I was able to do that with ease..Very cooperative staff and all services are upto the mark.Would like to recommend Apollo Cradle for having a good maternity experience.Nursing experience was extremely good as after delivery they have made the recovery process much easier and comfortable.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-10 05:07:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1461432,
+            "status": "PUBLISHED",
+            "note": "2020-07-07 09:59:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-07T10:01:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41445513,
+                "review_text": "Highly experienced doctor. I came to visit her with my wife. Highly experienced, well explained each and every details.\nShe help us a lot to understand the responsibilities during pregnancy. \nHer experience sounds in every appointment. I\u2019m completely satisfied with her services and recommend her to everyone.\nThanks a lot Doctor\ud83d\ude4f\ud83d\ude4f",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-06 06:54:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "HARISH"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192685,
+                "text": "Gynaecological Problem"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2006178,
+            "status": "PUBLISHED",
+            "note": "2022-06-08 06:15:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-08T07:00:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44465869,
+                "review_text": "I have delivered my bundle of joy under the guidence of dr ranjana sharma ma'am. I don't have words for ma'am. Dr ma'am has done a great job in my pregnancy. Maam has given life to my daughter. From starting to end whenever I call ma'am .maam always resolved my problems. I delivered my baby in 36+2 days . **** ** *** *** ** *ma'am has taken right decision and my done my emergency lscs because baby placenta got repture .if ma'am will not suggest me this. Any thing wrong can happen. But miracle happen and i m glade that i have choose ma'am and my decision became life for me. Thank you so much for your kind help and i never feel like that I am your patient.you always resolve my problem like your own daughter. Thank you ma'am i don't have more words. But i will say if anyone who was want to delivered there bundle of joy reach to ma'am and do delivery in apollo cradle royale .",
+                "review_alterations": [
+                    {
+                        "start_index": 307,
+                        "end_index": 326,
+                        "reason": "NON_COMPLIANT",
+                        "id": 413071
+                    }
+                ],
+                "reviewed_on": "2022-06-06 14:45:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 672935,
+            "status": "PUBLISHED",
+            "note": "2017-09-15 13:19:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-15T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35556489,
+                "review_text": "Extremely rude doctor..never respond in a convincing manner...she treats her patients as if they are themselves doctors and expects them to be aware of everything already...never recommend her for anyone..\u20b91500 consultation fee which is highly costly and she doesnt even give you her proper visit time..not at all worth visiting..pathetic!!!! impolite, rude & chiding.. which is non expecting from a doctor.. please never visit her & waste your money.\n\nPS: her consultation fee is \u20b91500 per visit but not \u20b91000..please do not misguide people.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-07 21:09:41",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Pooja gaur"
+        },
+        "entity_id": 212729,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186455,
+                "text": " Ovarian Cyst"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2232001,
+            "status": "PUBLISHED",
+            "note": "2023-07-15 08:24:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-15T09:00:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45780827,
+                "review_text": "She has no respect for the patient and person who paid Rs 2000 to her, this is most ownest review about her that do not come here to wast your hard earned money, even there is no time management *** **** ***** ******** **** **** ******* ******* **** ******* ******* * ****** **** ***, she even dragged her patient outside the clinic by not answering their queries, I have spent huge money on tests and at last when I got chance to review those reports then she asked for another test, I have to get out of her without ny conclusion *** ** **** **** ** *** ***** **** * ******* ** *** **** ** ******* ***** ***** *** *** **** *** ***** **** ** **** I can apprise you on my personal experience, baki apki marzi, ***** *** ***** **** **** ** *******, 1st visit could be polite since you have paid fresh fees *** ** *** ***** ***** ** * **** **** *** **** ***** *** **** ******* **** ** **** ",
+                "review_alterations": [
+                    {
+                        "start_index": 195,
+                        "end_index": 282,
+                        "reason": "NON_COMPLIANT",
+                        "id": 462973
+                    },
+                    {
+                        "start_index": 531,
+                        "end_index": 646,
+                        "reason": "NON_COMPLIANT",
+                        "id": 462974
+                    },
+                    {
+                        "start_index": 710,
+                        "end_index": 745,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 462975
+                    },
+                    {
+                        "start_index": 805,
+                        "end_index": 886,
+                        "reason": "NON_COMPLIANT",
+                        "id": 462976
+                    }
+                ],
+                "reviewed_on": "2023-07-11 12:36:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 212729,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2001971,
+            "status": "PUBLISHED",
+            "note": "2022-06-01 06:28:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-01T07:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44441275,
+                "review_text": "I booked online consultation paying 1600 she called on vedio and and she left for 3 min she came back in hurry asked my details she dint see tge prescriotion and problem which i had alreafy shared in chat of appointment her secreatery wrote down my detaiks and they disconnected telling we ll call in night and she just send me prescription for no joy with lots of tests in it she even know wht i consulted for she dint listen wht i wanted to ask anout a injection and tab whixh i was supposed take advised by my family doc ...i someone managed to pay 1600 for no joy i ahould have consulted near by gyno with 800rs who atleast listens give 20 min of time for pateints.... Plz dont lose  ur money on this doc.. God knows how they do this to people who is suffering ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-30 16:18:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 212729,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 823,
+                "text": "Normal Vaginal Delivery (NVD)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2027901,
+            "status": "PUBLISHED",
+            "note": "2022-07-12 12:42:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-12T13:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44590256,
+                "review_text": "I delivered my baby under doctor Dr Ranjan Sharma. She is great doctor . Wonderful experience. And she is a great human being ",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-11 12:33:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ishwari"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1461420,
+            "status": "PUBLISHED",
+            "note": "2020-07-07 09:54:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-07T10:01:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41445459,
+                "review_text": "Our experience with dr Ranjana sharma is highly recommended.. doctor is very nice , helpful,friendly and highly professional .she help me a lot in my 9 months pregnancy.thank you so ma'am and Apollo cradle royals Nehru enclave team ",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-06 06:40:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nuzhat"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 29399,
+                "text": "Pregnancy Tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2170363,
+            "status": "PUBLISHED",
+            "note": "2023-03-20 11:22:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-20T12:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45412298,
+                "review_text": "The doctor didn't do an ultrasound or any tests.  *** **** ******* *** **** **** *** ***** ***  She barely bothered to check or explain anything.  The next day after my appointment I had a serious complication, which had Dr. Ranjana done an appropriate exam, she would have caught it and saved me a lot of pain and money.  I do not recommend her at all.  ",
+                "review_alterations": [
+                    {
+                        "start_index": 50,
+                        "end_index": 93,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449312
+                    }
+                ],
+                "reviewed_on": "2023-03-19 10:58:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 212729,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1862948,
+            "status": "PUBLISHED",
+            "note": "2021-10-30 05:36:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-30T06:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43642560,
+                "review_text": "I have visited doctor Ranjana for a problem recently my age is very less 16 only and i was felling very nervous and anxious but she is a very soft spoken lady a very sweet person and a very experienced doctor she helped a lot and i would recommend her to everyone.\nI loved her behaviour a lot\nEvery gynaecologist should be like her.\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-28 16:53:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1545662,
+            "status": "PUBLISHED",
+            "note": "2020-10-11 06:35:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 309234,
+            "practice_id": 1122370,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-11T07:01:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41878639,
+                "review_text": "I had delivered a baby boy through normal delivery under the consultation of doctor Ranjana Sharma and under her guidance I was able to do that with ease..Very cooperative staff and all services are upto the mark.Would like to recommend Apollo Cradle for having a good maternity experience.Nursing experience was extremely good as after delivery they have made the recovery process much easier and comfortable.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-10 05:07:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 721349,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2387644,
+            "status": "PUBLISHED",
+            "note": "2024-05-23 06:23:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1066271,
+            "practice_id": 1457620,
+            "practice_name": "La Dentista Vitality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-23T07:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46697799,
+                "review_text": "I needed to relocate to a new dentist after changing \nmy city. The doctor seemed knowledgeable, she stepped  me through the process, recommended care and provided me with options as per my needs.I believe the treatment plan is actionable and has my best interests in mind.",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-21 08:52:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 905317,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2386455,
+            "status": "PUBLISHED",
+            "note": "2024-05-19 11:56:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1066271,
+            "practice_id": 1453678,
+            "practice_name": "Docube Healthcare Pvt Ltd",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-19T12:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451368,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you! Glad that Dr Ankita could help!",
+                "replied_at": "2024-06-10T02:54:22+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 15379305,
+                "modified_by_id": 15379305,
+                "replier_name": "Docube Healthcare Pvt Ltd",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1453678/docube-healthcare-pvt-ltd-bangalore-65f0013e1f17b.png"
+            },
+            "survey_response": {
+                "id": 46690626,
+                "review_text": "I had the issues bleeding from gums, I visited her clinic for the same. She was professional, also helped me identify a slightly rotated molar tooth which needs some attention during tooth brush. Procedure/treatment went smooth.",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-18 11:52:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 906636,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

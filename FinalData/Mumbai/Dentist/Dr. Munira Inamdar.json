@@ -1,0 +1,173 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 11587,
+                "text": "Pyorrhoea Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2038983,
+            "status": "PUBLISHED",
+            "note": "2022-07-29 05:51:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 201088,
+            "practice_id": 662791,
+            "practice_name": "Dr. Inamdar's Dental Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-29T06:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44652643,
+                "review_text": "Treatment and the material used in it are superior and moreover Guiding for necessary treatment & good followup by the team of Dr Inamdar",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-27 16:20:48",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hamza Kanchwala"
+        },
+        "entity_id": 93415,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 134,
+                "text": "Teeth Straightening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 748618,
+            "status": "PUBLISHED",
+            "note": "2017-12-19 06:06:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 201088,
+            "practice_id": 710515,
+            "practice_name": "Dr. Inamdar's Dental Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-19T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36301518,
+                "review_text": "Dental design studio is very nice dental clinic.\nFeeling well and good.\nDr.munira is very nice doctor.she give proper guidline to patient.\n\nThanks to Dr.Munira\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-13 13:48:10",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vijya"
+        },
+        "entity_id": 219528,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1016,
+                "text": "Bleeding Gums Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2142955,
+            "status": "PUBLISHED",
+            "note": "2023-02-01 06:43:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 201088,
+            "practice_id": 662791,
+            "practice_name": "Dr. Inamdar's Dental Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-01T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45255390,
+                "review_text": "She made me comfortable throughout the process and was fast with her work and the process was very smooth",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-30 20:39:33",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 93415,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

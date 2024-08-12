@@ -1,0 +1,187 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 901,
+                "text": "Stained Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1661427,
+            "status": "PUBLISHED",
+            "note": "2021-03-03 05:01:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 726067,
+            "practice_id": 959436,
+            "practice_name": "Derma Dent Aesthetic clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-03T06:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42501623,
+                "review_text": "Dr Shivani was really helpful. She explained problems on the fly, even predicted few causes and was quick with the treatment. She helped me with future precautions which I should be taking and dental care routine that I should be following.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-02 04:28:35",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kartik A"
+        },
+        "entity_id": 671327,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 210710,
+                "text": "Surgical treatment for leukoplakia"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1152085,
+            "status": "PUBLISHED",
+            "note": "2019-05-14 06:11:04",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 726067,
+            "practice_id": 959436,
+            "practice_name": "Derma Dent Aesthetic clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-14T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39481175,
+                "review_text": "Dr shivani has treat me so better she is treat me like a small sister she look every peation as a family member i suggest to all of my friends or my family member to do treatment with Dr . Shivani ",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-11 16:41:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671327,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1279372,
+            "status": "PUBLISHED",
+            "note": "2019-11-01 04:46:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 726067,
+            "practice_id": 959436,
+            "practice_name": "Derma Dent Aesthetic clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-31T04:46:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40295033,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 40,
+                        "end_index": 64,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 217854
+                    },
+                    {
+                        "start_index": 80,
+                        "end_index": 131,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 217855
+                    }
+                ],
+                "reviewed_on": "2019-10-30 14:37:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671327,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

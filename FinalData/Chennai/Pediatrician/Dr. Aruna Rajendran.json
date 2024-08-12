@@ -1,0 +1,89 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2312606,
+            "status": "PUBLISHED",
+            "note": "2023-12-24 04:42:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 987829,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-24T05:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46267314,
+                "review_text": "***** **** ** *** **** *******  ********** ** *** *****.\nShe treated my wife for AML with utmost care and confidence. She has handles the most difficult case and takes the challenging case and giving her best. Strict in treatment protocol but kind to patients makes her unique. God give this blessed soil a very long and healthy life.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 54,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 475641
+                    }
+                ],
+                "reviewed_on": "2023-12-22 14:58:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "PUSHKALA"
+        },
+        "entity_id": 846604,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2303817,
+            "status": "PUBLISHED",
+            "note": "2023-12-08 05:41:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 987829,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-08T06:01:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46217532,
+                "review_text": "She is very active person. She's my baby's doctor.  Her treatments is very good.......... may God bless his.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-06 20:14:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 846604,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

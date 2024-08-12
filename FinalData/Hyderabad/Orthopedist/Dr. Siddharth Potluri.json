@@ -1,0 +1,63 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183094,
+                "text": "Upper Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2329184,
+            "status": "PUBLISHED",
+            "note": "2024-01-24 06:54:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1073021,
+            "practice_id": 1442523,
+            "practice_name": "Prasad Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-24T07:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46362124,
+                "review_text": "The hospital staff is good and they do ontime follow-ups. Doctor is friendly, his explaination is good, have good patience and support well. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-23 04:07:38",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 885873,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

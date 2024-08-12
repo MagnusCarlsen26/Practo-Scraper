@@ -1,0 +1,125 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1070284,
+            "status": "PUBLISHED",
+            "note": "2019-01-25 10:59:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 203238,
+            "practice_id": 628763,
+            "practice_name": "Ashakiran Woman's And Child Health Care Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-25T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38949687,
+                "review_text": "caring very humble  friendly  and understanding the needs of patient\npunctual in time what required that tests only she will advise",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-24 10:56:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "shobha satish"
+        },
+        "entity_id": 232539,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            },
+            {
+                "id": 23,
+                "text": "Vaginal Dryness"
+            },
+            {
+                "id": 24,
+                "text": "Vaginal Infection"
+            },
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            },
+            {
+                "id": 15,
+                "text": "Genetic Disorders During Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 825413,
+            "status": "PUBLISHED",
+            "note": "2018-03-21 05:23:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 203238,
+            "practice_id": 628763,
+            "practice_name": "Ashakiran Woman's And Child Health Care Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-21T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37031871,
+                "review_text": "* *** *** *** ****** ** *** ** *** **** ************ ** ********** She is very caring and friendly doctor i ever seen in the corporate. 100% i can recommend the doctor. No doubt at all. \u263a\u263a\u263a",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 65,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 97971
+                    }
+                ],
+                "reviewed_on": "2018-03-19 16:34:28",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs.Suhasini Praveen"
+        },
+        "entity_id": 232539,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

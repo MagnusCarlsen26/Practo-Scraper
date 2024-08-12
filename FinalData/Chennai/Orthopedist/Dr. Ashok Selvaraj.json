@@ -1,0 +1,136 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1693539,
+            "status": "PUBLISHED",
+            "note": "2021-04-08 11:19:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678391,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-08T12:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42678605,
+                "review_text": "*** ***** ******** ** * **** *********** ******** I have never seen a humble and responsible doctor like him.He treats his patients very much carefully and calmly.I ll must recommend him for everyone whose have knee problems.I will always be grateful to him for solving my knee problems for the life time\ud83d\ude4f .",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 48,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 337948
+                    }
+                ],
+                "reviewed_on": "2021-04-07 11:17:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 643862,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1571647,
+            "status": "PUBLISHED",
+            "note": "2020-11-11 11:03:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678391,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-11T12:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42017624,
+                "review_text": " way of  he handengling me in very excellent.His communication is very well, he engraening me in better way. I always recommend for this doctor to my office circle.I thank for doctor Ashok selvaraj sir. because he gave more effort to cure my injury. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-10 10:41:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 643862,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1820985,
+            "status": "PUBLISHED",
+            "note": "2021-09-07 06:39:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678391,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-07T07:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43382728,
+                "review_text": "I really appreciate Dr. Ashok for the effort and care taking with patient and the way of treating others those who accompanying with patient is very good.  ** ******** ** ******** * ********* ******************\n",
+                "review_alterations": [
+                    {
+                        "start_index": 156,
+                        "end_index": 209,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 370951
+                    }
+                ],
+                "reviewed_on": "2021-09-05 07:32:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 643862,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

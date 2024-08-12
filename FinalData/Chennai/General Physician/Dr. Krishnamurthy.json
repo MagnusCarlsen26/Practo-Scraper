@@ -1,0 +1,147 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1840098,
+            "status": "PUBLISHED",
+            "note": "2021-09-29 06:34:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 494938,
+            "practice_id": 1005781,
+            "practice_name": "Apollo Speciality Cancer Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-29T07:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43501448,
+                "review_text": "Dr. Is very simple, listens carefuly, understands well, answers all queries, explains well like a brother, to our full satisfaction.\nBut nowadays, online consultation is not giving satisfaction. Waiting for the hospital visit soon. God bless Dr. And his family, for his selfless service.",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-28 06:14:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Malarvizhi N"
+        },
+        "entity_id": 438047,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 614,
+                "text": "Rheumatism Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1401440,
+            "status": "PUBLISHED",
+            "note": "2020-03-18 08:09:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 494938,
+            "practice_id": 1005781,
+            "practice_name": "Apollo Speciality Cancer Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-18T09:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41135472,
+                "review_text": "**** treatment is given to the patient she feel better now. Doctors attitude is good. Hospital also good\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 4,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 257784
+                    }
+                ],
+                "reviewed_on": "2020-03-16 08:01:25",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sri dharani"
+        },
+        "entity_id": 438047,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 260,
+                "text": "Spondylitis"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1237950,
+            "status": "PUBLISHED",
+            "note": "2019-09-05 07:14:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 494938,
+            "practice_id": 1005781,
+            "practice_name": "Apollo Speciality Cancer Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-05T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40025569,
+                "review_text": "Very Good. so satisfactory. In near future 8 will consult with this doctor.I am happy to cover date with the doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-02 19:59:16",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 438047,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

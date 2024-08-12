@@ -1,0 +1,150 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2195893,
+            "status": "PUBLISHED",
+            "note": "2023-05-10 06:27:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 612789,
+            "practice_id": 1153807,
+            "practice_name": "GMH Health Care Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-10T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45568129,
+                "review_text": "Reshma mam is such a friendly and understanding doctor. I never thought I'll have normal delivery because of my situation from beginning of my pregnancy itself but mam encouraged me so much that I can have normal delivery if I put efforts. After delivery also mam personally gave lot of suggestions for my recovery. She keeps on monitoring her patients very closely by clearing all our doubts. I'm very much happy with her service. Thank you mam\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-08 18:41:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 595801,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1310876,
+            "status": "PUBLISHED",
+            "note": "2019-12-12 07:57:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 612789,
+            "practice_id": 1122372,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-12T09:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40511144,
+                "review_text": "Dr reshma mam is very polite and listens to patient's problems with lot of patience .I really liked my interaction with her and her treatment guidance.would surely recommend her to friends and family .\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-10 08:34:36",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671027,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1132822,
+            "status": "PUBLISHED",
+            "note": "2019-04-18 04:51:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 612789,
+            "practice_id": 1153807,
+            "practice_name": "GMH Health Care Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-18T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39360401,
+                "review_text": "It was very great experience. Every procedure was smooth and timely. Availability of doctor  was on call. I recommend this doctor for every individual patient with pregnancy cases.. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-16 14:13:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 595801,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

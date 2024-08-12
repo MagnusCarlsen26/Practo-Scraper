@@ -1,0 +1,150 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1148236,
+            "status": "PUBLISHED",
+            "note": "2019-05-08 06:40:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 277163,
+            "practice_id": 692922,
+            "practice_name": "S L Raheja Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-08T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39456986,
+                "review_text": "Relaxed experienced friendly and very supportive. She was so encouraging during my dressing which is quite complicated, I never experienced this kind of pain. So her motivation was much appreciated.",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-07 06:18:42",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shruti Bajaj"
+        },
+        "entity_id": 173427,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192757,
+                "text": "Pregnancy care and management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1260867,
+            "status": "PUBLISHED",
+            "note": "2019-10-06 05:30:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 277163,
+            "practice_id": 692922,
+            "practice_name": "S L Raheja Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-06T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40174010,
+                "review_text": "Dr Alka Kumar is a rare phenomenon and people like her come once in a Lifetime...A positive, humble and a wonderful human being...The routine check up and her motherly guidance kept us going all the way up to our D-Day. Dr Alka has an amazing network and is well recognised...Highly recommended.\nWe wish you all the success Doc and may you find everything that you looking for... cheers",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-04 14:48:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 173427,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2046791,
+            "status": "PUBLISHED",
+            "note": "2022-08-13 07:42:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 277163,
+            "practice_id": 692922,
+            "practice_name": "S L Raheja Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-13T08:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44704365,
+                "review_text": "Amazing amazing doctor. Very caring, motherly and very motivating. Doctors like her are rare to find! ",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-12 07:40:33",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 173427,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

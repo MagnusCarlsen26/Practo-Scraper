@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2299973,
+            "status": "PUBLISHED",
+            "note": "2023-12-01 06:51:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1007971,
+            "practice_id": 1392404,
+            "practice_name": "Miles Of Smiles Dental Care ",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-01T07:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46195865,
+                "review_text": "I recently visited this dental clinic and had an outstanding experience. Dr. Alok Singh is an exceptional professional, demonstrating both expertise and genuine care. The service was excellent, and the doctor was attentive, creating a welcoming atmosphere. The clinic's commitment to cleanliness was evident, contributing to a safe and hygienic environment. I highly recommend this clinic for anyone seeking a very good dental care.",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-29 17:56:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anshul Ghildiyal"
+        },
+        "entity_id": 885162,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

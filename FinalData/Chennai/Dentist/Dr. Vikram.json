@@ -1,0 +1,107 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3764,
+                "text": "Straightening Teeth (Conventional Braces)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1993451,
+            "status": "PUBLISHED",
+            "note": "2022-05-18 06:14:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604078,
+            "practice_id": 1180558,
+            "practice_name": "Dr.Vikram's Dental & General Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-18T07:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44393352,
+                "review_text": "Vikram was very friendly Dr, before the treatment he explains everything what they r going to do and then what not to do. He pings up and asks the patient how they r feeling. V can approach him anytime and he replies for the messages immediately. I went for my daughters braces yesterday. She is fine now. Very very good service. Thank you Vikram. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-17 03:53:28",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs. Rekha - Ms.H.Arthi"
+        },
+        "entity_id": 622762,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1947693,
+            "status": "PUBLISHED",
+            "note": "2022-03-08 10:00:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604078,
+            "practice_id": 1180558,
+            "practice_name": "Dr.Vikram's Dental & General Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-07T13:41:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 346263,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you sir ... ",
+                "replied_at": "2022-03-07T13:41:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2575640,
+                "modified_by_id": 2575640,
+                "replier_name": "Dr. Vikram",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/709922/dr-vikram-5c1ca0a797c4d.jpeg"
+            },
+            "survey_response": {
+                "id": 44137559,
+                "review_text": "Patiently interacting with me for observing my difficulties/problems and allowing me to choose the best option affordable to me.  Keeping perfectly the time schedule for completing the job.  Post treatment advice for maintaining the dental care is appreciable.  Nice experience for me.  Thanks Dr. Vikram. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-07 05:25:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arulbabu"
+        },
+        "entity_id": 622762,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

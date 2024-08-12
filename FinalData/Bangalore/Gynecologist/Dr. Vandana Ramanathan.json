@@ -1,0 +1,102 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1940188,
+            "status": "PUBLISHED",
+            "note": "2022-02-24 13:06:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 954485,
+            "practice_id": 759577,
+            "practice_name": "GarbhaGudi IVF Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-24T13:09:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 344468,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.",
+                "replied_at": "2022-02-24T13:09:50+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 220924,
+                "modified_by_id": 220924,
+                "replier_name": "Garbhagudi IVF Centre",
+                "replier_logo": "https://images1-fabric.practo.com/garbhagudi-ivf-center-kalyan-nagar-bangalore-1489483505-58c7b6f172be7.jpg"
+            },
+            "survey_response": {
+                "id": 44096109,
+                "review_text": "I visited Dr. Vandana for an emergency as I was unable to visit my regular gynecologist due to the distance.I was experiencing pain in my lower abdomen and that was concerning. She provided me all the relevant information and assurance. Thank you for your time and patience Dr. Vandana. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-23 12:59:33",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 784636,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1878179,
+            "status": "PUBLISHED",
+            "note": "2021-11-23 08:32:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 954485,
+            "practice_id": 759577,
+            "practice_name": "GarbhaGudi IVF Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-23T09:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 344467,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.",
+                "replied_at": "2022-02-24T13:09:44+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 220924,
+                "modified_by_id": 220924,
+                "replier_name": "Garbhagudi IVF Centre",
+                "replier_logo": "https://images1-fabric.practo.com/garbhagudi-ivf-center-kalyan-nagar-bangalore-1489483505-58c7b6f172be7.jpg"
+            },
+            "survey_response": {
+                "id": 43737757,
+                "review_text": "She is an amazing doctor who does excellent diagnosis and tells it as it is. her treatment is practical and quite effective.  I felt very comfortable with her and she guided me well through each procedure patient and expertly. Thank you Dr. Vandana for your excellent support and help!!",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-21 13:10:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 784636,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

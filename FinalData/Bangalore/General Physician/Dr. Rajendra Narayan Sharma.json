@@ -1,0 +1,224 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2131704,
+            "status": "PUBLISHED",
+            "note": "2023-01-11 06:38:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 451103,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-11T07:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45191477,
+                "review_text": "He seemed uninterested the entire time. He was using his phone, and did even notice when his patient left the room",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-10 02:44:20",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Yashwita Suvarna"
+        },
+        "entity_id": 659570,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1657608,
+            "status": "PUBLISHED",
+            "note": "2021-02-27 06:22:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 451103,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-27T07:01:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42480380,
+                "review_text": "I had minor fever and went to doc. He asked me to test mp,typhoid,dengue and blood worth 6.5k with no reason as I had no symptom. The results came negative which was expected. He gave me calcium tablets and paracetamol. Paracetamol is understood but why calcium tablets in fever. I am not a doctor but this is basic. Although I have started taking Azithromycin he suggested me Amoxycillin. \n\nNot very happy this time when a basic blood test can show that I have viral fever.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-25 18:25:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 659570,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1729375,
+            "status": "PUBLISHED",
+            "note": "2021-05-23 05:42:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 451103,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-23T06:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42872512,
+                "review_text": "This doctor is least bothered about you *** ** **** ** **** **** ****** He will write a prescription and never entertain any follow ups. He and his team at Apollo will ask you to pay and book a fresh appointment even if you approach him the next day after your first consultation. *** **** ************** ****** **** **** **** ******* ****** ***** ** *** ** **** ******* You cannot deny the patient their rights for follow up consultations. ",
+                "review_alterations": [
+                    {
+                        "start_index": 40,
+                        "end_index": 70,
+                        "reason": "NON_COMPLIANT",
+                        "id": 346759
+                    },
+                    {
+                        "start_index": 280,
+                        "end_index": 369,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 346760
+                    }
+                ],
+                "reviewed_on": "2021-05-21 17:55:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 659570,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2044730,
+            "status": "PUBLISHED",
+            "note": "2022-08-10 05:31:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 451103,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-10T06:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44692054,
+                "review_text": "not good results with the consultation and directed to other physician.. Response should be quicker ",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-08 15:57:06",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhishek "
+        },
+        "entity_id": 659570,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1605,
+                "text": "Intravenous"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1653322,
+            "status": "PUBLISHED",
+            "note": "2021-02-23 08:53:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 451103,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-23T09:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42457254,
+                "review_text": "We reached the hospital and were told doctor was on leave. This is completely UNACCEPTABLE . Inform people if doctors are not available",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-21 13:05:57",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 659570,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

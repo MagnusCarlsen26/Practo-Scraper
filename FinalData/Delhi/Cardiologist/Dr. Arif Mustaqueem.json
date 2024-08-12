@@ -1,0 +1,106 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1214,
+                "text": "Hypertension Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1307454,
+            "status": "PUBLISHED",
+            "note": "2019-12-07 09:42:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 552660,
+            "practice_id": 1150723,
+            "practice_name": "Fortis Escorts and Heart Institute",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-07T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40484940,
+                "review_text": "Very satisfactory . This was my first visit. Investigations will be done tomorrow as suggested by Dr.",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-05 14:18:36",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Intezar khan"
+        },
+        "entity_id": 520542,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 6284,
+                "text": "Cardiac Diseases"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1544220,
+            "status": "PUBLISHED",
+            "note": "2020-10-10 05:13:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 552660,
+            "practice_id": 1150723,
+            "practice_name": "Fortis Escorts and Heart Institute",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-10T06:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41871112,
+                "review_text": "Very pleasant experience meeting him .. will definitely complete my treatment with him . Totally satisfied by his discussion with patient. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-08 13:43:37",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 520542,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

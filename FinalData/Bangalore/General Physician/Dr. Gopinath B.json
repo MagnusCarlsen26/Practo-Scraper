@@ -1,0 +1,547 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186431,
+                "text": "Respiratory tract infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2342118,
+            "status": "PUBLISHED",
+            "note": "2024-02-18 05:05:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1210665,
+            "practice_name": "M S Specialty Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-18T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46436629,
+                "review_text": "Excellent Doctor for analysing the root cause for the Fever and Persistant Cough. Medicine prescribed for above ailment is tremendous.",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-16 15:01:00",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suresh Kumar"
+        },
+        "entity_id": 645521,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 583842,
+            "status": "PUBLISHED",
+            "note": "2017-06-09 10:02:58",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1154396,
+            "practice_name": "People Tree Hospitals at Chris",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-09T10:31:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 31581,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your kind and encouraging words \nMr Satish. Will be happy to help at any time. \nThank you.",
+                "replied_at": "2017-06-09T10:31:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2215804,
+                "modified_by_id": 2215804,
+                "replier_name": "Dr. Gopinath B",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/592509/dr-gopinath-b-6598ff75a0090.jpg"
+            },
+            "survey_response": {
+                "id": 34648064,
+                "review_text": "Pleasant, confident and reassuring. Highly experienced, calm and collected. Builds trust instantly and is super reliable!",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-07 03:32:44",
+                "channel": "sapphire",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.Satish Anbarasan"
+        },
+        "entity_id": 578559,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1046,
+                "text": "Swelling Of Legs"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 737416,
+            "status": "PUBLISHED",
+            "note": "2017-12-01 09:09:37",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1154396,
+            "practice_name": "People Tree Hospitals at Chris",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-01T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36189119,
+                "review_text": "Dr.Gopinath is our family doctor and we know him since from 3 years. He treats patients very friendly and answers to all the queries related to health. ****** ** ** ** *** ******* ** ***** ***** ********* ******* *********** *********** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 151,
+                        "end_index": 242,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 79046
+                    }
+                ],
+                "reviewed_on": "2017-11-28 14:55:07",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs.Savitha"
+        },
+        "entity_id": 578559,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 304,
+                "text": "Wheezing"
+            },
+            {
+                "id": 442,
+                "text": "Dizziness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 822054,
+            "status": "PUBLISHED",
+            "note": "2018-03-17 05:53:09",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1154396,
+            "practice_name": "People Tree Hospitals at Chris",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-17T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37000878,
+                "review_text": "Very nice and understanding Doctor...\nUnderstand your issues and give proper diagnosis...\nHighly recommended",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-15 17:38:52",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rosalyn Ch. Gupta"
+        },
+        "entity_id": 578559,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 442,
+                "text": "Dizziness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 726394,
+            "status": "PUBLISHED",
+            "note": "2017-11-16 12:42:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1154396,
+            "practice_name": "People Tree Hospitals at Chris",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-16T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36084527,
+                "review_text": "The hospital isn't well managed. There's lot of confusion from reception to doctor. \n****** ****** ***** **** *** ****** ** *********\nMy BP was checked need 3 times.   \nAm not satisfied with medical treatment. \nThe medical store lady wasnt really interested to give me medicines.  I stood there for 15 minutes and then left coz she didn't even look at me.  \n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 85,
+                        "end_index": 132,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 76217
+                    }
+                ],
+                "reviewed_on": "2017-11-14 14:02:20",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Chaitra Herur"
+        },
+        "entity_id": 578559,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 882894,
+            "status": "PUBLISHED",
+            "note": "2018-05-26 05:38:27",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1154396,
+            "practice_name": "People Tree Hospitals at Chris",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-26T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37532619,
+                "review_text": "Very good doc. Polite and nice behaviour. Listens to patient. my wife ia now doing well after his treatmemt.",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-25 04:35:12",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sheuli Saha"
+        },
+        "entity_id": 578559,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 673658,
+            "status": "PUBLISHED",
+            "note": "2017-09-12 06:58:59",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1154396,
+            "practice_name": "People Tree Hospitals at Chris",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-12T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35564079,
+                "review_text": "He was courteous and professional. He explained the problem well and gave the remedy. I was satisfied with the interaction.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-08 14:44:24",
+                "channel": "sapphire",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 578559,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1148311,
+            "status": "PUBLISHED",
+            "note": "2019-05-08 07:33:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1069241,
+            "practice_name": "Shamana Speciality Clinic and Day Care Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-08T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39457406,
+                "review_text": "He was very patient enough to listen to the problem and also asked for the history of the same problem.  Suggested medicine and also explained the situation if not taken care well. Iam satisfied with the approach of doctor and on the medicines given.  ",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-07 07:30:23",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 636277,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1038203,
+            "status": "PUBLISHED",
+            "note": "2018-12-12 07:09:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1069241,
+            "practice_name": "Shamana Speciality Clinic and Day Care Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-12T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38733863,
+                "review_text": "To the point.. nothing too fancy, but very close to reality. Doesn't suggest any unnecessary medicine or treatment and his suggestions work.",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-10 12:40:33",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 636277,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 315,
+                "text": "Chickenpox"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 768923,
+            "status": "PUBLISHED",
+            "note": "2018-01-20 06:00:06",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 592509,
+            "practice_id": 1154396,
+            "practice_name": "People Tree Hospitals at Chris",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-20T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36499212,
+                "review_text": "He explained properly about the disease & myths related to it. Treatment is still going on. He is friendly and punctual. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-11 04:17:01",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 578559,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

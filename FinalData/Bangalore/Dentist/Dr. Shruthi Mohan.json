@@ -1,0 +1,134 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2208712,
+            "status": "PUBLISHED",
+            "note": "2023-06-03 04:51:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 404433,
+            "practice_id": 656055,
+            "practice_name": "Tooth Spa",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-03T05:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45644606,
+                "review_text": "I was extremely happy with the way doctor and staff was friendly. Anyone can blindly visit this place. This place deserves  more then 5 star for so postive environment.",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-01 13:33:27",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lavanya V"
+        },
+        "entity_id": 325450,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1257462,
+            "status": "PUBLISHED",
+            "note": "2019-09-28 06:35:15",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 404433,
+            "practice_id": 656055,
+            "practice_name": "Tooth Spa",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-27T10:19:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 166638,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you",
+                "replied_at": "2019-09-27T10:19:42+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 38026,
+                "modified_by_id": 38026,
+                "replier_name": "smylexl dental clinic",
+                "replier_logo": "https://images1-fabric.practo.com/practices/656055/smylexl-dental-clinic-bangalore-651c217fc3f38.jpg"
+            },
+            "survey_response": {
+                "id": 40151404,
+                "review_text": "The doctor is very friendly she gave the correct advise to correct my missing tooth now I have a beautiful smile thanks Dr shruthi for ur timely advise",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-27 06:34:39",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manjula "
+        },
+        "entity_id": 325450,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

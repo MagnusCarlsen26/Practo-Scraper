@@ -1,0 +1,998 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 931,
+                "text": "Ligament Reconstruction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2408928,
+            "status": "PUBLISHED",
+            "note": "2024-07-05 07:16:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1142313,
+            "practice_name": "Ruby General Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-05T08:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46819278,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-03 16:19:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "DiNabandhu samanta"
+        },
+        "entity_id": 607665,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2214109,
+            "status": "PUBLISHED",
+            "note": "2023-06-13 07:08:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-13T08:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45676594,
+                "review_text": "I had a good experience with Hon'ble Dr Ritwik Ganguli. For the first time we have come at Amri, Dhakuria. Dr Ganguli was very friendly  with us and advice us for proper treatment. We were feeling very relax as my son admitted under his supervision. After O. T.   he explained us the details and others words in a simple manner, that's great. \nOne can take an appointment without any delay, if required. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-11 06:01:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Goutam kumar Sarkar"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70,
+                "text": "Hip Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1198255,
+            "status": "PUBLISHED",
+            "note": "2019-07-14 05:18:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 700871,
+            "practice_name": "Sparsh Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-14T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39774941,
+                "review_text": "I had a very bad experience with the doctor. He has given medicine and told to do some test after 3 days. Accordingly, I have taken medicines and ready to doing test after 3 days. And before test I have doubt for this test procedure(i.e - empty stomach or not). So, I was called him once morning but he rudely treat me, and told me that before 10 PM he could not talk to me or hear my problem. * *** ****** ******** *** **** **** ***** ********* ***** ******* **** **** ********* ******* **** ** * ******* he should be heard the problems from patients or patients parties as well.  I will never ever recommend this doctor anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 393,
+                        "end_index": 505,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 191236
+                    }
+                ],
+                "reviewed_on": "2019-07-12 12:53:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671744,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            },
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            },
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1316708,
+            "status": "PUBLISHED",
+            "note": "2019-12-18 12:45:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1129160,
+            "practice_name": "Hindustan Health Point",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-18T13:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40552708,
+                "review_text": "It was a disappointed experience with Dr. Ganguly. He was soo in hurry in seeing me. I reached hindustan hospital at 6:45 pm and person told me doctor will come at 7pm. I waited for more than an hour.. He came at 8:15 pm. Very unprofessional. ** ****** ******* ** ** ******* ** ****** I will not recommend him",
+                "review_alterations": [
+                    {
+                        "start_index": 243,
+                        "end_index": 283,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 229835
+                    }
+                ],
+                "reviewed_on": "2019-12-17 12:08:47",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "S K PATHAK"
+        },
+        "entity_id": 579566,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1446226,
+            "status": "PUBLISHED",
+            "note": "2020-06-17 06:44:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-17T07:01:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41369661,
+                "review_text": "I met the doctor as I had finger injury in my right hand. The finger was broken. It was a normal treatment. The doctor was great, marvelous and polite. He prescribed medicines and I was able to see improvements. Waiting time was around one hour. I am satisfied with the treatment given. I can recommend doctor to my family or friends. Now I am fine and it's recovered.",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-15 19:16:21",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arijit Bhattacharya"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1740235,
+            "status": "PUBLISHED",
+            "note": "2021-06-04 06:40:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-04T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42929215,
+                "review_text": "I have taken appointment for orthopedic concern and I have visited the hospital. In my appointment all things was good only doctor response was good, check up was on time and treatment was given after the check, over all I can rate 5 out 5 start with this doctor. Hospital staff were quite good. I would like to recommend this doctor for my friends and family members also if required.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-03 06:05:22",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "005445"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1740226,
+            "status": "PUBLISHED",
+            "note": "2021-06-04 06:50:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-04T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42929178,
+                "review_text": "I have taken appointment for my mother for orthopedic concern and we have visited the hospital. Doctor was very good in terms of speaking and doing the check up for my mother. There was no wait time for us in hospital and it was on time. Hospital staff response was good and we did not face any issue in our appointment, all things went good only. I would like to recommend this doctor for my friends and family members also.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-03 05:53:49",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shyamali sarkar"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1503682,
+            "status": "PUBLISHED",
+            "note": "2020-08-28 04:49:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-28T05:02:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41658089,
+                "review_text": "My husband had been to the hospital and it was for ortho related issue. My husband had an emergency health concern and met Dr. Ritwik Ganguli but he had told to admit my husband ****** **** ********* ***** *** *** ********* ** ***** *** told do test in AMRI itself. Rather than outside charges was more in AMRI. He suggested tests could not be done outside. My husband was in critical situation only. He had swelling on collar bone. My brother in law suggested to go to the orthopedic related doctor. ** ********* ******** *** ** ***** *** ***** ** **** ****** I won't recommend the doctor. ****** ******* ** ********* ****** **** ******** ******** There was waiting time in the hospital. My husband felt nervous later we admitted him. Tests were suggested like X-ray. Hospitality was good. Even for my daughter, I had visited AMRI long back.",
+                "review_alterations": [
+                    {
+                        "start_index": 177,
+                        "end_index": 198,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 288061
+                    },
+                    {
+                        "start_index": 200,
+                        "end_index": 235,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 288062
+                    },
+                    {
+                        "start_index": 501,
+                        "end_index": 559,
+                        "reason": "NON_COMPLIANT",
+                        "id": 288063
+                    },
+                    {
+                        "start_index": 591,
+                        "end_index": 648,
+                        "reason": "NON_COMPLIANT",
+                        "id": 288064
+                    }
+                ],
+                "reviewed_on": "2020-08-26 19:11:58",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 54904,
+                "text": "ACL &PCL Reconstruction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2233952,
+            "status": "PUBLISHED",
+            "note": "2023-07-15 10:50:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-15T11:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45791724,
+                "review_text": "Experience with DOCTOR WAS REALLY GREAT.He was really friendly and his attitude towards patient is very caring.After OT I didn't feel any can't of much pain till 10 days.I am here to Visit him again after 10 days.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-14 10:43:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2232738,
+            "status": "PUBLISHED",
+            "note": "2023-07-14 05:59:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-14T06:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45784981,
+                "review_text": "Dr Ganguli is giving good treatment. My wife suffered wrist fracture. Dr Ganguli operated wrist very carefully at Amri hospital Dhakuria. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-12 13:36:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 931,
+                "text": "Ligament Reconstruction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2408928,
+            "status": "PUBLISHED",
+            "note": "2024-07-05 07:16:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1142313,
+            "practice_name": "Ruby General Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-05T08:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46819278,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-03 16:19:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "DiNabandhu samanta"
+        },
+        "entity_id": 607665,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2214109,
+            "status": "PUBLISHED",
+            "note": "2023-06-13 07:08:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-13T08:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45676594,
+                "review_text": "I had a good experience with Hon'ble Dr Ritwik Ganguli. For the first time we have come at Amri, Dhakuria. Dr Ganguli was very friendly  with us and advice us for proper treatment. We were feeling very relax as my son admitted under his supervision. After O. T.   he explained us the details and others words in a simple manner, that's great. \nOne can take an appointment without any delay, if required. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-11 06:01:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Goutam kumar Sarkar"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70,
+                "text": "Hip Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1198255,
+            "status": "PUBLISHED",
+            "note": "2019-07-14 05:18:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 700871,
+            "practice_name": "Sparsh Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-14T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39774941,
+                "review_text": "I had a very bad experience with the doctor. He has given medicine and told to do some test after 3 days. Accordingly, I have taken medicines and ready to doing test after 3 days. And before test I have doubt for this test procedure(i.e - empty stomach or not). So, I was called him once morning but he rudely treat me, and told me that before 10 PM he could not talk to me or hear my problem. * *** ****** ******** *** **** **** ***** ********* ***** ******* **** **** ********* ******* **** ** * ******* he should be heard the problems from patients or patients parties as well.  I will never ever recommend this doctor anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 393,
+                        "end_index": 505,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 191236
+                    }
+                ],
+                "reviewed_on": "2019-07-12 12:53:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671744,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            },
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            },
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1316708,
+            "status": "PUBLISHED",
+            "note": "2019-12-18 12:45:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1129160,
+            "practice_name": "Hindustan Health Point",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-18T13:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40552708,
+                "review_text": "It was a disappointed experience with Dr. Ganguly. He was soo in hurry in seeing me. I reached hindustan hospital at 6:45 pm and person told me doctor will come at 7pm. I waited for more than an hour.. He came at 8:15 pm. Very unprofessional. ** ****** ******* ** ** ******* ** ****** I will not recommend him",
+                "review_alterations": [
+                    {
+                        "start_index": 243,
+                        "end_index": 283,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 229835
+                    }
+                ],
+                "reviewed_on": "2019-12-17 12:08:47",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "S K PATHAK"
+        },
+        "entity_id": 579566,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1446226,
+            "status": "PUBLISHED",
+            "note": "2020-06-17 06:44:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-17T07:01:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41369661,
+                "review_text": "I met the doctor as I had finger injury in my right hand. The finger was broken. It was a normal treatment. The doctor was great, marvelous and polite. He prescribed medicines and I was able to see improvements. Waiting time was around one hour. I am satisfied with the treatment given. I can recommend doctor to my family or friends. Now I am fine and it's recovered.",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-15 19:16:21",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arijit Bhattacharya"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1740235,
+            "status": "PUBLISHED",
+            "note": "2021-06-04 06:40:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-04T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42929215,
+                "review_text": "I have taken appointment for orthopedic concern and I have visited the hospital. In my appointment all things was good only doctor response was good, check up was on time and treatment was given after the check, over all I can rate 5 out 5 start with this doctor. Hospital staff were quite good. I would like to recommend this doctor for my friends and family members also if required.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-03 06:05:22",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "005445"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1740226,
+            "status": "PUBLISHED",
+            "note": "2021-06-04 06:50:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-04T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42929178,
+                "review_text": "I have taken appointment for my mother for orthopedic concern and we have visited the hospital. Doctor was very good in terms of speaking and doing the check up for my mother. There was no wait time for us in hospital and it was on time. Hospital staff response was good and we did not face any issue in our appointment, all things went good only. I would like to recommend this doctor for my friends and family members also.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-03 05:53:49",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shyamali sarkar"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1503682,
+            "status": "PUBLISHED",
+            "note": "2020-08-28 04:49:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-28T05:02:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41658089,
+                "review_text": "My husband had been to the hospital and it was for ortho related issue. My husband had an emergency health concern and met Dr. Ritwik Ganguli but he had told to admit my husband ****** **** ********* ***** *** *** ********* ** ***** *** told do test in AMRI itself. Rather than outside charges was more in AMRI. He suggested tests could not be done outside. My husband was in critical situation only. He had swelling on collar bone. My brother in law suggested to go to the orthopedic related doctor. ** ********* ******** *** ** ***** *** ***** ** **** ****** I won't recommend the doctor. ****** ******* ** ********* ****** **** ******** ******** There was waiting time in the hospital. My husband felt nervous later we admitted him. Tests were suggested like X-ray. Hospitality was good. Even for my daughter, I had visited AMRI long back.",
+                "review_alterations": [
+                    {
+                        "start_index": 177,
+                        "end_index": 198,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 288061
+                    },
+                    {
+                        "start_index": 200,
+                        "end_index": 235,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 288062
+                    },
+                    {
+                        "start_index": 501,
+                        "end_index": 559,
+                        "reason": "NON_COMPLIANT",
+                        "id": 288063
+                    },
+                    {
+                        "start_index": 591,
+                        "end_index": 648,
+                        "reason": "NON_COMPLIANT",
+                        "id": 288064
+                    }
+                ],
+                "reviewed_on": "2020-08-26 19:11:58",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 54904,
+                "text": "ACL &PCL Reconstruction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2233952,
+            "status": "PUBLISHED",
+            "note": "2023-07-15 10:50:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-15T11:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45791724,
+                "review_text": "Experience with DOCTOR WAS REALLY GREAT.He was really friendly and his attitude towards patient is very caring.After OT I didn't feel any can't of much pain till 10 days.I am here to Visit him again after 10 days.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-14 10:43:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2232738,
+            "status": "PUBLISHED",
+            "note": "2023-07-14 05:59:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593401,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-14T06:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45784981,
+                "review_text": "Dr Ganguli is giving good treatment. My wife suffered wrist fracture. Dr Ganguli operated wrist very carefully at Amri hospital Dhakuria. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-12 13:36:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

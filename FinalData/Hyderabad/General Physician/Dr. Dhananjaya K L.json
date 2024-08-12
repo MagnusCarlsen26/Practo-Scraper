@@ -1,0 +1,213 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1857561,
+            "status": "PUBLISHED",
+            "note": "2021-10-22 11:54:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 547296,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-22T12:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43609411,
+                "review_text": "Dr. Dhanunjaya is best at his job of saving lives. \nWe visited him at Continental Hospital along with my father who was in serious discomfort. Dr. had a prolonged examination with my dad and tried to understand all he could and finally suggested us to get the admission which seemed inevitable. After just a couple of days my dad was doing great. With clear examination and great patient care Dr became go to person for diabeties for my father, while Doctor himself being a nephrologist, treated him well that almost all my dad's reports are normal. Thanks to Dr. Dhanunjaya.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-21 10:56:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 513053,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1046,
+                "text": "Swelling Of Legs"
+            },
+            {
+                "id": 186436,
+                "text": "High cholesterol"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1661277,
+            "status": "PUBLISHED",
+            "note": "2021-03-03 04:40:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 547296,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-03T05:01:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42500771,
+                "review_text": "My mother faced problem with Swelling (edema) and proteinuria. We consulted Dr Dhanunjay sir..He is very cool, calm and highly professional. we are very satisfied with his treatment ..very busy doctor but he always make himself available for pationts to clarify their doubts and  explains everything very clearly.\n**** ************* ******** now mother is recovering :)\n",
+                "review_alterations": [
+                    {
+                        "start_index": 314,
+                        "end_index": 340,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 330161
+                    }
+                ],
+                "reviewed_on": "2021-03-01 17:11:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 513053,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 220,
+                "text": "Dialysis / Haemodialysis"
+            },
+            {
+                "id": 213303,
+                "text": "Chronic Kidney Disease (CKD) treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1046277,
+            "status": "PUBLISHED",
+            "note": "2018-12-23 05:34:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 547296,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-22T05:34:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38788332,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 35,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 145554
+                    },
+                    {
+                        "start_index": 104,
+                        "end_index": 148,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 145555
+                    }
+                ],
+                "reviewed_on": "2018-12-21 16:07:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 513053,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1471430,
+            "status": "PUBLISHED",
+            "note": "2020-07-19 08:06:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 547296,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-19T09:01:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41496224,
+                "review_text": "explanation of doctor is very good.. everything he will speak frankly and suggests good treatment..my brother treatment was going very good under dhananjaya sir",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-18 08:04:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 513053,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

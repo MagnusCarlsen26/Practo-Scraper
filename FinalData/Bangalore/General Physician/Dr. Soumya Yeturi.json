@@ -1,0 +1,251 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 846082,
+            "status": "PUBLISHED",
+            "note": "2018-04-13 04:39:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450982,
+            "practice_id": 711486,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-13T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37213922,
+                "review_text": "Doctor was very polite and spent time understanding the issue/asking questions. Getting as much information as she can. When giving medication, she clearly explained what it is for and how long it would take to recover.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-11 12:29:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jagan Reddy"
+        },
+        "entity_id": 386837,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2139070,
+            "status": "PUBLISHED",
+            "note": "2023-01-25 05:49:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450982,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-25T06:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45233338,
+                "review_text": "I had visited dr Soumya for my stomach pain which turned out to be UTI. She was really helpful and kind during the entire process. She was patient and listened to all of my concerns. As a precaution she recommended few tests and kept the the tab of the results too. I felt very comfortable consulting her.I would definitely recommend her. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-23 17:06:45",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811170,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 819,
+                "text": "Measles Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2076452,
+            "status": "PUBLISHED",
+            "note": "2022-09-29 07:26:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450982,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-29T08:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44877782,
+                "review_text": "Attendent should be always there to attend patients and manage the queue. Otherwise nobody know when they need to visit doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-28 07:10:43",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811170,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2401143,
+            "status": "PUBLISHED",
+            "note": "2024-06-20 06:50:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450982,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-20T07:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46775235,
+                "review_text": "Really sweet, really nice to talk to... *** *** ** *********** *** ****** ** **** ******* *********\nBut first made us spend about 15k on tests that's all came out negative.\n\nAfter which we backed out on getting admitted.\nTakecare, make sure to meet another doctor before you do anything  with her.",
+                "review_alterations": [
+                    {
+                        "start_index": 39,
+                        "end_index": 98,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 489034
+                    }
+                ],
+                "reviewed_on": "2024-06-19 03:44:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nitin P"
+        },
+        "entity_id": 811170,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 774483,
+            "status": "PUBLISHED",
+            "note": "2018-01-30 08:58:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450982,
+            "practice_id": 711486,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-30T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36553144,
+                "review_text": "Dr Saumya gives simple and to the point solution to the health issue. The good thing is, she does not scare us with the unnecessary complications and medicines. I always prefer to visit her and suggest my friends to her. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-18 12:06:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386837,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

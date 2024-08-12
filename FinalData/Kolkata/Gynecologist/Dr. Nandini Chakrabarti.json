@@ -1,0 +1,2003 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192216,
+                "text": "Polycystic Ovarian Syndrome"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1334911,
+            "status": "PUBLISHED",
+            "note": "2020-01-09 06:05:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-09T07:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40677266,
+                "review_text": "more than a doctor. nice personality. enjoyed conversation. awesome experience. she provided detailed information.",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-07 17:05:30",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akash sarawagi"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 23,
+                "text": "Vaginal Dryness"
+            },
+            {
+                "id": 2,
+                "text": "Irregular Periods"
+            },
+            {
+                "id": 35,
+                "text": "PCOS"
+            },
+            {
+                "id": 24,
+                "text": "Vaginal Infection"
+            },
+            {
+                "id": 27,
+                "text": "Painful Sexual Intercourse"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1725950,
+            "status": "PUBLISHED",
+            "note": "2021-05-19 06:01:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-19T07:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42855146,
+                "review_text": "I liked her. i want to visits again. As my issues of pcos is yet remains and I m tensed about it. doctor pls help me with it. thank you ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-18 03:21:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rituparna Sen"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2351372,
+            "status": "PUBLISHED",
+            "note": "2024-03-06 07:32:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-06T08:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46490715,
+                "review_text": "I would advise everyone to avoid this lady. I dont know about other doctors at Charnock but because of this lady I will personally never go back to the hospital.\n*** *** ********* *** ******** **** **** ** ********** ******* We entered and explained we wanted to have a checkup in India for my pregnancy as we were visiting temporarily.*** ******** **** ** **** ****** ***** ** ******* ** **** **** ******* ******** ******** **** ** ****** ******* ******* *** ********** ******* ** *** ******* *********She had the audacity to question my choice to travel to India during pregnancy even though mine is a healthy pregnancy with no restrictions from my doctor so far.",
+                "review_alterations": [
+                    {
+                        "start_index": 162,
+                        "end_index": 223,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480633
+                    },
+                    {
+                        "start_index": 336,
+                        "end_index": 424,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480634
+                    },
+                    {
+                        "start_index": 425,
+                        "end_index": 502,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480635
+                    }
+                ],
+                "reviewed_on": "2024-03-04 17:24:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 29399,
+                "text": "Pregnancy Tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2175021,
+            "status": "PUBLISHED",
+            "note": "2023-03-28 12:35:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-28T13:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45439380,
+                "review_text": "**** ****** ** ********* ************** *** **** *** **** *** ***** ****** ** ***** ** * *******. My wife has conceived and we went to her for consultation. Before speaking to your patients rudely, kindly behave nicely with them as they come to you for help and guidance. ** **** *********** ********* **** *** ** **** ** **** ********** Do not visit her for recommendation as she will charge you *** **** **** ** *** *********** ********* ***** *** ****** **** *** ****** **** Extremely dissatisfied with her behaviour! ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 95,
+                        "reason": "NON_COMPLIANT",
+                        "id": 450394
+                    },
+                    {
+                        "start_index": 271,
+                        "end_index": 337,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 450395
+                    },
+                    {
+                        "start_index": 397,
+                        "end_index": 477,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 450396
+                    }
+                ],
+                "reviewed_on": "2023-03-27 12:32:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Pramit Roy"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192757,
+                "text": "Pregnancy care and management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2310406,
+            "status": "PUBLISHED",
+            "note": "2023-12-20 06:37:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-20T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46254922,
+                "review_text": "We visited charnock for our 2nd pregnancy care and treatment. She is very rude *** ********** ******* ********* Very much unexpected behaviour of doctor I have seen 1st time in a big pvt hospital.\nAs per her everybody should consult doctor before family planning, **** ** **** **** ***************** **** **** *** ** ***** **** ********** * doctor can give confident by explaining every queries. But she started teasing/taunting *** ********* ************ our past experiences, few questions regarding symptoms like vomiting and nausea.\nTotal dissatisfied *** ** *** ****** ********* ********* and decided to avoid charnock Hospital and planned for next hospital/doctor visit for the same.",
+                "review_alterations": [
+                    {
+                        "start_index": 79,
+                        "end_index": 111,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 475419
+                    },
+                    {
+                        "start_index": 263,
+                        "end_index": 340,
+                        "reason": "NON_COMPLIANT",
+                        "id": 475420
+                    },
+                    {
+                        "start_index": 429,
+                        "end_index": 455,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 475421
+                    },
+                    {
+                        "start_index": 556,
+                        "end_index": 592,
+                        "reason": "NON_COMPLIANT",
+                        "id": 475422
+                    }
+                ],
+                "reviewed_on": "2023-12-18 16:18:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2120401,
+            "status": "PUBLISHED",
+            "note": "2022-12-20 08:17:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-20T09:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45124942,
+                "review_text": " Do not recommend her.My wife had a miscarriage in Aug 2021. In 2022 we went to her to plan for a baby. She made all the tests but never asked to test thyroid. When my wife became pregnant and faced some complications and we went to her then she asked us to show the thyroid report and we told her that you did not prescribe TSH test . Knowing this fact she asked me to show her 1 st prescription, when I gave that to her then she added TSH test with the list of  tests prescribed in the 1st prescription . When TSH was done my wife was found with high thyroid. She could not carry healthy pregnancy. *** *** **** ****** ***** *** **** ** *** * ** ************ **** ***** *** ********** **** * ******* *** *** **** ******** ** **** *** * ** *** **** *** **** ******* *** ******** *** ********* ** **** ***** **** *** ** **** *** ******** ",
+                "review_alterations": [
+                    {
+                        "start_index": 601,
+                        "end_index": 836,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 436737
+                    }
+                ],
+                "reviewed_on": "2022-12-19 02:53:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1850448,
+            "status": "PUBLISHED",
+            "note": "2021-10-13 04:57:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-13T05:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43565854,
+                "review_text": "*** ** *** * **** ****** *** ********** *** * **** ************* *** ** ********** ** *** **** *** ***** *** *********** ** *** ********* We had to wait for 1.5 hours. While consultation, she started asking WHY questions to us. I thought she was supposed to answer those questions after taking 800 consultation fee. She recommended multiple tests **** **** ** **** *** ****** ******** ** **** **** *** *** ************ ** ***** ***** ** ***** ** ********** *** ****** ***** ***** ** ** ****** *** *** **** *** ******** ** ******* \nDO NOT GO TO HER FOR ANY CONSULTATION..",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 27,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 378359
+                    },
+                    {
+                        "start_index": 28,
+                        "end_index": 63,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 378360
+                    },
+                    {
+                        "start_index": 64,
+                        "end_index": 136,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378361
+                    },
+                    {
+                        "start_index": 347,
+                        "end_index": 417,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378363
+                    },
+                    {
+                        "start_index": 418,
+                        "end_index": 528,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378364
+                    }
+                ],
+                "reviewed_on": "2021-10-11 13:15:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 883984,
+            "status": "PUBLISHED",
+            "note": "2018-05-29 06:10:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-29T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37540894,
+                "review_text": "May be she is a good doctor.  But she is not polite neither behaved well with us.  During my check up I called her and asked for a suggestion about my pain relief due to teeth problem.  As because in pregnancy you cant take any medicine, so I asked for that.  She misbehaved and ask me to visit dentist.  If a gyneocologist cant suggest a pain killer during pregnancy then why sould I continue with her. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-26 09:34:05",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Arijiya"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2,
+                "text": "Irregular Periods"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2188270,
+            "status": "PUBLISHED",
+            "note": "2023-04-24 11:55:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-24T12:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45521666,
+                "review_text": "Rude Behaviour \nNo Acknowledgment of the Patients history.\n\nNever going back again. **** ************* ********* . Asking too much personal questions *** ******* ******* ** ****** ********* . \n\nZero empathy for people who are having doubts or queries.",
+                "review_alterations": [
+                    {
+                        "start_index": 84,
+                        "end_index": 112,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453692
+                    },
+                    {
+                        "start_index": 150,
+                        "end_index": 188,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 453693
+                    }
+                ],
+                "reviewed_on": "2023-04-23 10:20:56",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1108534,
+            "status": "PUBLISHED",
+            "note": "2019-03-17 11:34:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-17T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39204351,
+                "review_text": "*** ** **** ************* *** explains things in well mannered way. I visited her for pregnancy and it was good and did best for me and my baby .Really appreciate her acknowledgement when my water broke untimely and she was there on time to operate and took good care. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 161858
+                    }
+                ],
+                "reviewed_on": "2019-03-16 01:52:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192216,
+                "text": "Polycystic Ovarian Syndrome"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1334911,
+            "status": "PUBLISHED",
+            "note": "2020-01-09 06:05:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-09T07:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40677266,
+                "review_text": "more than a doctor. nice personality. enjoyed conversation. awesome experience. she provided detailed information.",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-07 17:05:30",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akash sarawagi"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 23,
+                "text": "Vaginal Dryness"
+            },
+            {
+                "id": 2,
+                "text": "Irregular Periods"
+            },
+            {
+                "id": 35,
+                "text": "PCOS"
+            },
+            {
+                "id": 24,
+                "text": "Vaginal Infection"
+            },
+            {
+                "id": 27,
+                "text": "Painful Sexual Intercourse"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1725950,
+            "status": "PUBLISHED",
+            "note": "2021-05-19 06:01:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-19T07:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42855146,
+                "review_text": "I liked her. i want to visits again. As my issues of pcos is yet remains and I m tensed about it. doctor pls help me with it. thank you ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-18 03:21:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rituparna Sen"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2351372,
+            "status": "PUBLISHED",
+            "note": "2024-03-06 07:32:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-06T08:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46490715,
+                "review_text": "I would advise everyone to avoid this lady. I dont know about other doctors at Charnock but because of this lady I will personally never go back to the hospital.\n*** *** ********* *** ******** **** **** ** ********** ******* We entered and explained we wanted to have a checkup in India for my pregnancy as we were visiting temporarily.*** ******** **** ** **** ****** ***** ** ******* ** **** **** ******* ******** ******** **** ** ****** ******* ******* *** ********** ******* ** *** ******* *********She had the audacity to question my choice to travel to India during pregnancy even though mine is a healthy pregnancy with no restrictions from my doctor so far.",
+                "review_alterations": [
+                    {
+                        "start_index": 162,
+                        "end_index": 223,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480633
+                    },
+                    {
+                        "start_index": 336,
+                        "end_index": 424,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480634
+                    },
+                    {
+                        "start_index": 425,
+                        "end_index": 502,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480635
+                    }
+                ],
+                "reviewed_on": "2024-03-04 17:24:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 29399,
+                "text": "Pregnancy Tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2175021,
+            "status": "PUBLISHED",
+            "note": "2023-03-28 12:35:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-28T13:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45439380,
+                "review_text": "**** ****** ** ********* ************** *** **** *** **** *** ***** ****** ** ***** ** * *******. My wife has conceived and we went to her for consultation. Before speaking to your patients rudely, kindly behave nicely with them as they come to you for help and guidance. ** **** *********** ********* **** *** ** **** ** **** ********** Do not visit her for recommendation as she will charge you *** **** **** ** *** *********** ********* ***** *** ****** **** *** ****** **** Extremely dissatisfied with her behaviour! ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 95,
+                        "reason": "NON_COMPLIANT",
+                        "id": 450394
+                    },
+                    {
+                        "start_index": 271,
+                        "end_index": 337,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 450395
+                    },
+                    {
+                        "start_index": 397,
+                        "end_index": 477,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 450396
+                    }
+                ],
+                "reviewed_on": "2023-03-27 12:32:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Pramit Roy"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192757,
+                "text": "Pregnancy care and management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2310406,
+            "status": "PUBLISHED",
+            "note": "2023-12-20 06:37:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-20T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46254922,
+                "review_text": "We visited charnock for our 2nd pregnancy care and treatment. She is very rude *** ********** ******* ********* Very much unexpected behaviour of doctor I have seen 1st time in a big pvt hospital.\nAs per her everybody should consult doctor before family planning, **** ** **** **** ***************** **** **** *** ** ***** **** ********** * doctor can give confident by explaining every queries. But she started teasing/taunting *** ********* ************ our past experiences, few questions regarding symptoms like vomiting and nausea.\nTotal dissatisfied *** ** *** ****** ********* ********* and decided to avoid charnock Hospital and planned for next hospital/doctor visit for the same.",
+                "review_alterations": [
+                    {
+                        "start_index": 79,
+                        "end_index": 111,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 475419
+                    },
+                    {
+                        "start_index": 263,
+                        "end_index": 340,
+                        "reason": "NON_COMPLIANT",
+                        "id": 475420
+                    },
+                    {
+                        "start_index": 429,
+                        "end_index": 455,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 475421
+                    },
+                    {
+                        "start_index": 556,
+                        "end_index": 592,
+                        "reason": "NON_COMPLIANT",
+                        "id": 475422
+                    }
+                ],
+                "reviewed_on": "2023-12-18 16:18:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2120401,
+            "status": "PUBLISHED",
+            "note": "2022-12-20 08:17:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-20T09:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45124942,
+                "review_text": " Do not recommend her.My wife had a miscarriage in Aug 2021. In 2022 we went to her to plan for a baby. She made all the tests but never asked to test thyroid. When my wife became pregnant and faced some complications and we went to her then she asked us to show the thyroid report and we told her that you did not prescribe TSH test . Knowing this fact she asked me to show her 1 st prescription, when I gave that to her then she added TSH test with the list of  tests prescribed in the 1st prescription . When TSH was done my wife was found with high thyroid. She could not carry healthy pregnancy. *** *** **** ****** ***** *** **** ** *** * ** ************ **** ***** *** ********** **** * ******* *** *** **** ******** ** **** *** * ** *** **** *** **** ******* *** ******** *** ********* ** **** ***** **** *** ** **** *** ******** ",
+                "review_alterations": [
+                    {
+                        "start_index": 601,
+                        "end_index": 836,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 436737
+                    }
+                ],
+                "reviewed_on": "2022-12-19 02:53:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1850448,
+            "status": "PUBLISHED",
+            "note": "2021-10-13 04:57:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-13T05:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43565854,
+                "review_text": "*** ** *** * **** ****** *** ********** *** * **** ************* *** ** ********** ** *** **** *** ***** *** *********** ** *** ********* We had to wait for 1.5 hours. While consultation, she started asking WHY questions to us. I thought she was supposed to answer those questions after taking 800 consultation fee. She recommended multiple tests **** **** ** **** *** ****** ******** ** **** **** *** *** ************ ** ***** ***** ** ***** ** ********** *** ****** ***** ***** ** ** ****** *** *** **** *** ******** ** ******* \nDO NOT GO TO HER FOR ANY CONSULTATION..",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 27,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 378359
+                    },
+                    {
+                        "start_index": 28,
+                        "end_index": 63,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 378360
+                    },
+                    {
+                        "start_index": 64,
+                        "end_index": 136,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378361
+                    },
+                    {
+                        "start_index": 347,
+                        "end_index": 417,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378363
+                    },
+                    {
+                        "start_index": 418,
+                        "end_index": 528,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378364
+                    }
+                ],
+                "reviewed_on": "2021-10-11 13:15:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 883984,
+            "status": "PUBLISHED",
+            "note": "2018-05-29 06:10:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-29T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37540894,
+                "review_text": "May be she is a good doctor.  But she is not polite neither behaved well with us.  During my check up I called her and asked for a suggestion about my pain relief due to teeth problem.  As because in pregnancy you cant take any medicine, so I asked for that.  She misbehaved and ask me to visit dentist.  If a gyneocologist cant suggest a pain killer during pregnancy then why sould I continue with her. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-26 09:34:05",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Arijiya"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2,
+                "text": "Irregular Periods"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2188270,
+            "status": "PUBLISHED",
+            "note": "2023-04-24 11:55:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-24T12:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45521666,
+                "review_text": "Rude Behaviour \nNo Acknowledgment of the Patients history.\n\nNever going back again. **** ************* ********* . Asking too much personal questions *** ******* ******* ** ****** ********* . \n\nZero empathy for people who are having doubts or queries.",
+                "review_alterations": [
+                    {
+                        "start_index": 84,
+                        "end_index": 112,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453692
+                    },
+                    {
+                        "start_index": 150,
+                        "end_index": 188,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 453693
+                    }
+                ],
+                "reviewed_on": "2023-04-23 10:20:56",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1108534,
+            "status": "PUBLISHED",
+            "note": "2019-03-17 11:34:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-17T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39204351,
+                "review_text": "*** ** **** ************* *** explains things in well mannered way. I visited her for pregnancy and it was good and did best for me and my baby .Really appreciate her acknowledgement when my water broke untimely and she was there on time to operate and took good care. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 161858
+                    }
+                ],
+                "reviewed_on": "2019-03-16 01:52:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 36,
+                "text": "Uterine Fibroids"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 891178,
+            "status": "PUBLISHED",
+            "note": "2018-06-05 10:35:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-05T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37600768,
+                "review_text": "Such a bad doctor I have never seen. She thinks she treats the best. But anyway I had to consult other doctor. ** *** *** ** ** **** She is so rude with patient that you would not feel like explaining your health issues to her as she will start interrupting you with her sarcastic words",
+                "review_alterations": [
+                    {
+                        "start_index": 111,
+                        "end_index": 131,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 110804
+                    }
+                ],
+                "reviewed_on": "2018-06-04 09:57:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2273891,
+            "status": "PUBLISHED",
+            "note": "2023-10-10 07:36:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-10T08:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46048248,
+                "review_text": "*** ** *** **** ****** *** * very good human being I ever met .. my both pregnancy was totally taken care by her *** ** *** **** ***",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 27,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 470426
+                    },
+                    {
+                        "start_index": 112,
+                        "end_index": 131,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 470427
+                    }
+                ],
+                "reviewed_on": "2023-10-08 11:34:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192698,
+                "text": "Thyroid"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2243107,
+            "status": "PUBLISHED",
+            "note": "2023-08-02 05:02:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-02T06:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45848193,
+                "review_text": "Dr.Nandini Chakarbati did a great job with my first health exam .She explained everything to me in very clear manner.She was also kind and friendly.All of the staff was great they were helpful.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-31 13:26:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192685,
+                "text": "Gynaecological Problem"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1799870,
+            "status": "PUBLISHED",
+            "note": "2021-08-12 05:10:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-12T06:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43260073,
+                "review_text": "Please don't visit this doctor specialiy gyno prblms this doctor *** **** **** *** ** ******** ******** trust me this my aftr check up experience please don't visit this doctor any one . This is my request to everyone \ud83d\ude4f\ud83d\ude4f",
+                "review_alterations": [
+                    {
+                        "start_index": 65,
+                        "end_index": 102,
+                        "reason": "NON_COMPLIANT",
+                        "id": 365180
+                    }
+                ],
+                "reviewed_on": "2021-08-10 15:14:08",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2,
+                "text": "Irregular Periods"
+            },
+            {
+                "id": 6,
+                "text": "Vaginal Discharge"
+            },
+            {
+                "id": 24,
+                "text": "Vaginal Infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1397348,
+            "status": "PUBLISHED",
+            "note": "2020-03-13 07:19:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-13T08:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41109733,
+                "review_text": "Experience is quite good doctor nature is friendly she thoroughly listen my problem over all a good experience.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-12 06:08:00",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440485,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 36,
+                "text": "Uterine Fibroids"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1380923,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 11:33:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T12:02:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41011089,
+                "review_text": "Timely advice for treatment for pain. First of all Dr.'s carefull checking, then advice for some outside path.lab.checkings. Atlast some advice to counter the sufferings with prescribed medicines",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-25 07:46:03",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 866,
+                "text": "PCOD/PCOS Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1481830,
+            "status": "PUBLISHED",
+            "note": "2020-08-07 09:21:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 1000745,
+            "practice_name": "Spandan Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-07T10:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41547162,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 40,
+                        "end_index": 159,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282833
+                    }
+                ],
+                "reviewed_on": "2020-08-06 07:32:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 437580,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1299045,
+            "status": "PUBLISHED",
+            "note": "2019-11-27 07:06:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-27T08:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40423631,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 29,
+                        "end_index": 78,
+                        "reason": "NON_COMPLIANT",
+                        "id": 224108
+                    },
+                    {
+                        "start_index": 154,
+                        "end_index": 254,
+                        "reason": "NON_COMPLIANT",
+                        "id": 224109
+                    }
+                ],
+                "reviewed_on": "2019-11-24 18:26:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1183004,
+            "status": "PUBLISHED",
+            "note": "2019-06-23 08:08:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 1000745,
+            "practice_name": "Spandan Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-23T09:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39676384,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-22 07:50:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 437580,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1064811,
+            "status": "PUBLISHED",
+            "note": "2019-01-18 10:29:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492075,
+            "practice_id": 621621,
+            "practice_name": "Charnock Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-18T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38913193,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-17 10:20:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 440488,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

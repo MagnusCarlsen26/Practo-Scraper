@@ -1,0 +1,1110 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1599410,
+            "status": "PUBLISHED",
+            "note": "2020-12-18 06:07:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-18T07:01:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42164572,
+                "review_text": "The doctor was patient and listened to our concerns well. He studied the medical history of our kid and took the required measure to sort out the problem ****** **** *********** *********** *********** Will definitely be consulting him again when needed.",
+                "review_alterations": [
+                    {
+                        "start_index": 153,
+                        "end_index": 200,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 314816
+                    }
+                ],
+                "reviewed_on": "2020-12-17 04:47:07",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Somesh kumar"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1797275,
+            "status": "PUBLISHED",
+            "note": "2021-08-08 09:19:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-08T10:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43244853,
+                "review_text": "We have been visiting Dr. Veerbhadra since 2016 and it has always been a great experience. I\u2019ve a 5 year old daughter and he has been very supportive and handles the kids very well during the check ups.",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-07 09:15:53",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shashi Chhabra"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1013,
+                "text": "Urinary Incontinence In Children"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2272545,
+            "status": "PUBLISHED",
+            "note": "2023-10-08 05:13:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1407248,
+            "practice_name": "Sarv Advanced Multi-Speciality Clinic and Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-08T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46040731,
+                "review_text": "we went for UTI (urinary track infection) for my kid along with stomach pain. I need to appreciate they given the first priority to consult the doctor and given pain killer syrub to reduce the pain.  Post that my kid was feeling better. He is polite and kind. \nwhat i don't like is the culture report has to come 3 days. but lab system was showing as 6 days. Not sure why the lab is not following even this critical situation with time bound. Also just 2 hours back only taken test of UTE, but once again Dr adviced to take test in SARV clinic only. The cost of UTE also double in SARV.\nMy recommendation is to align  the report cost with market reasonable rate and should not insist to take again if the port was already done. **** ***** *********** ******** ***** ****** *** ******* *** *** *********** **** ******* *********** *** ***** ***** ******* *** ** ***** ****** ** **** *** ** *** ** ****** ******.  All report and scans are normal finally. Finally the culture report came in 3 days after Dr spoken to lab people.\nwe continued the prescription as he suggested. *** **** ** **** ******* **** ************* *** ***** ****** ********** ********** *** ** *** *** ** ****** ************** ** **** ** *** ********** ***** **** ************ ****** ** ****** *** *********** ***********\nEnsure the report on time and avoid paying the fees once again due to report delay if beyond the free consultation after 3 days.\nKindly take it as positive feed back if really worth and customer satisfaction.\n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 728,
+                        "end_index": 908,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 470263
+                    },
+                    {
+                        "start_index": 1073,
+                        "end_index": 1289,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 470264
+                    }
+                ],
+                "reviewed_on": "2023-10-06 10:07:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 844738,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1960160,
+            "status": "PUBLISHED",
+            "note": "2022-03-29 07:41:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-29T08:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44205680,
+                "review_text": "My 1.3 year old son was having diarrhea. I have told the doctor teething is happening but bloating and diarrhea is there. He was not so keen to ask further questions just took paper and wrote two tests (urine regular and culture test ). After urine test he said urine test is normal we will wait for culture test. He prescribed some probiotics.  After three days he said culture test is normal no need to bother Once probiotic is over he started having diarrhea. My parents said while teething diarrhea will happen it is normal. * ***** ** ***** **** ***** **** ** ************* ** *** ****** *** He was not friendly towards parents or child. Even after mention so many times about teething he never said teething will cause diarrhea and bloating. ** *** **** ** ****** *** ********* ** **** **** **** ** **** ***** *** *** *** ************* I have never ever had this kind of experience in any hospital.",
+                "review_alterations": [
+                    {
+                        "start_index": 528,
+                        "end_index": 595,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 402673
+                    },
+                    {
+                        "start_index": 748,
+                        "end_index": 783,
+                        "reason": "NON_COMPLIANT",
+                        "id": 402674
+                    },
+                    {
+                        "start_index": 784,
+                        "end_index": 840,
+                        "reason": "NON_COMPLIANT",
+                        "id": 402675
+                    }
+                ],
+                "reviewed_on": "2022-03-26 04:25:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "ramarajan"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1871659,
+            "status": "PUBLISHED",
+            "note": "2021-11-13 10:29:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-12T13:44:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 326546,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Dear if u believe in Google for treatment then only Google will help you, nobody can. Not even GOD.\nU have travelled four to five cities in a span of 7 days and u think it's easy to decide what is required.\nUr kind of people don't deserve to be treated",
+                "replied_at": "2021-11-12T13:44:47+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8092826,
+                "modified_by_id": 8092826,
+                "replier_name": "Dr. Veerbhadra V Mallad",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/867925/dr-veerbhadra-v-mallad-6113dde2c69e6.JPG"
+            },
+            "survey_response": {
+                "id": 43697245,
+                "review_text": "*** ** *** ***** ******** ****** ** ****** *** **** **** ******* I took my 1.2 year old son to this place for * ****** cough and the doctor prescribed for blood test and x-ray ***** *** ******** ********* ** ******* ****** **** **** ** **** * ****** ******** Although we went thru with the tests given and the medicines recommended, we weren't happy with the way the treatment and procedure was conducted. The sheer way in which the doctor was conducting his work seemed that he was not very interested *** *** **** ********** ** ******* ** ** **** ** ********* On the pretext my son was born in Columbia Asia while my wife was covid positive during her delivery and one can imagine the bill that would have been accumulated for the delivery of a Covid patient. *** ******** *** *** *** *** ****** *** *** *** ****** *** ***** *** ** ***** *** ******* ***** **** *** ** ******* ** **** ***** ** ******** **** ******** ** ********* *** **** ** *** **** ****** ****** ** ******* **** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 64,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383268
+                    },
+                    {
+                        "start_index": 110,
+                        "end_index": 117,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383269
+                    },
+                    {
+                        "start_index": 176,
+                        "end_index": 257,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383270
+                    },
+                    {
+                        "start_index": 503,
+                        "end_index": 560,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383271
+                    },
+                    {
+                        "start_index": 762,
+                        "end_index": 990,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383272
+                    }
+                ],
+                "reviewed_on": "2021-11-12 09:31:02",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1897649,
+            "status": "PUBLISHED",
+            "note": "2021-12-23 06:52:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-23T07:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43848268,
+                "review_text": "I will not recommend this doc who is least bother to see their patients !I have literally followed this doc to give communicate wen my 1 year kid suffering !He don't have time ! Unfortunate incident !",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-21 18:32:07",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "SHAKTI SINGH"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1818768,
+            "status": "PUBLISHED",
+            "note": "2021-09-04 05:54:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-04T06:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 326547,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Dear the constipation is long standing and it is to be needed to be addressed from the core.\nU feel it can be treated at home then treat it yourself, why visit a doctor n spend a consultation fees n waste doctor's time",
+                "replied_at": "2021-11-12T13:47:21+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8092826,
+                "modified_by_id": 8092826,
+                "replier_name": "Dr. Veerbhadra V Mallad",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/867925/dr-veerbhadra-v-mallad-6113dde2c69e6.JPG"
+            },
+            "survey_response": {
+                "id": 43369541,
+                "review_text": "He is not listining properly to what the issue is . Recommend to give enima for constipation for a 18 month old baby. Not asking the problem and not explaining the solution. Recommending the tests worth 4000 for constipation",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-02 14:34:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "ARVIND"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1497962,
+            "status": "PUBLISHED",
+            "note": "2020-08-22 04:43:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-21T08:20:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 226427,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u so much.it means a lot to me\ud83d\ude4f\ud83d\ude0a",
+                "replied_at": "2020-08-21T08:20:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8092826,
+                "modified_by_id": 8092826,
+                "replier_name": "Dr. Veerbhadra V Mallad",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/867925/dr-veerbhadra-v-mallad-6113dde2c69e6.JPG"
+            },
+            "survey_response": {
+                "id": 41629265,
+                "review_text": "** *********** ** ***** we visited him to consult for my 8 months old baby. she suffered from Diarrhoea and vomiting since 3days we consult him and now she is fine. The doctor is polite and Humble. Highly recommend ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 286384
+                    }
+                ],
+                "reviewed_on": "2020-08-20 13:59:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanka P G"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1913709,
+            "status": "PUBLISHED",
+            "note": "2022-01-16 17:22:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-16T18:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43948250,
+                "review_text": "not great.1st pediatrician I saw who arrives really late, and diagonise children hearing the symptoms from parent while sending the infant patient out of the chamber.For stomach ache my son was diagonised with viral fever for which xray wa sdone and nebuliser dose of drug were suggested daily.",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-15 11:03:33",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2043762,
+            "status": "PUBLISHED",
+            "note": "2022-08-07 09:05:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-07T10:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44684874,
+                "review_text": "Great . Explain him the issues and doubts and he will come up with best options. \nIt has being a good experience with treatment for kids . \nGood humble and will listen . \n",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-06 08:48:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1599410,
+            "status": "PUBLISHED",
+            "note": "2020-12-18 06:07:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-18T07:01:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42164572,
+                "review_text": "The doctor was patient and listened to our concerns well. He studied the medical history of our kid and took the required measure to sort out the problem ****** **** *********** *********** *********** Will definitely be consulting him again when needed.",
+                "review_alterations": [
+                    {
+                        "start_index": 153,
+                        "end_index": 200,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 314816
+                    }
+                ],
+                "reviewed_on": "2020-12-17 04:47:07",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Somesh kumar"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1797275,
+            "status": "PUBLISHED",
+            "note": "2021-08-08 09:19:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-08T10:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43244853,
+                "review_text": "We have been visiting Dr. Veerbhadra since 2016 and it has always been a great experience. I\u2019ve a 5 year old daughter and he has been very supportive and handles the kids very well during the check ups.",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-07 09:15:53",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shashi Chhabra"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1013,
+                "text": "Urinary Incontinence In Children"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2272545,
+            "status": "PUBLISHED",
+            "note": "2023-10-08 05:13:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1407248,
+            "practice_name": "Sarv Advanced Multi-Speciality Clinic and Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-08T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46040731,
+                "review_text": "we went for UTI (urinary track infection) for my kid along with stomach pain. I need to appreciate they given the first priority to consult the doctor and given pain killer syrub to reduce the pain.  Post that my kid was feeling better. He is polite and kind. \nwhat i don't like is the culture report has to come 3 days. but lab system was showing as 6 days. Not sure why the lab is not following even this critical situation with time bound. Also just 2 hours back only taken test of UTE, but once again Dr adviced to take test in SARV clinic only. The cost of UTE also double in SARV.\nMy recommendation is to align  the report cost with market reasonable rate and should not insist to take again if the port was already done. **** ***** *********** ******** ***** ****** *** ******* *** *** *********** **** ******* *********** *** ***** ***** ******* *** ** ***** ****** ** **** *** ** *** ** ****** ******.  All report and scans are normal finally. Finally the culture report came in 3 days after Dr spoken to lab people.\nwe continued the prescription as he suggested. *** **** ** **** ******* **** ************* *** ***** ****** ********** ********** *** ** *** *** ** ****** ************** ** **** ** *** ********** ***** **** ************ ****** ** ****** *** *********** ***********\nEnsure the report on time and avoid paying the fees once again due to report delay if beyond the free consultation after 3 days.\nKindly take it as positive feed back if really worth and customer satisfaction.\n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 728,
+                        "end_index": 908,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 470263
+                    },
+                    {
+                        "start_index": 1073,
+                        "end_index": 1289,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 470264
+                    }
+                ],
+                "reviewed_on": "2023-10-06 10:07:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 844738,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1960160,
+            "status": "PUBLISHED",
+            "note": "2022-03-29 07:41:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-29T08:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44205680,
+                "review_text": "My 1.3 year old son was having diarrhea. I have told the doctor teething is happening but bloating and diarrhea is there. He was not so keen to ask further questions just took paper and wrote two tests (urine regular and culture test ). After urine test he said urine test is normal we will wait for culture test. He prescribed some probiotics.  After three days he said culture test is normal no need to bother Once probiotic is over he started having diarrhea. My parents said while teething diarrhea will happen it is normal. * ***** ** ***** **** ***** **** ** ************* ** *** ****** *** He was not friendly towards parents or child. Even after mention so many times about teething he never said teething will cause diarrhea and bloating. ** *** **** ** ****** *** ********* ** **** **** **** ** **** ***** *** *** *** ************* I have never ever had this kind of experience in any hospital.",
+                "review_alterations": [
+                    {
+                        "start_index": 528,
+                        "end_index": 595,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 402673
+                    },
+                    {
+                        "start_index": 748,
+                        "end_index": 783,
+                        "reason": "NON_COMPLIANT",
+                        "id": 402674
+                    },
+                    {
+                        "start_index": 784,
+                        "end_index": 840,
+                        "reason": "NON_COMPLIANT",
+                        "id": 402675
+                    }
+                ],
+                "reviewed_on": "2022-03-26 04:25:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "ramarajan"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1871659,
+            "status": "PUBLISHED",
+            "note": "2021-11-13 10:29:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-12T13:44:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 326546,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Dear if u believe in Google for treatment then only Google will help you, nobody can. Not even GOD.\nU have travelled four to five cities in a span of 7 days and u think it's easy to decide what is required.\nUr kind of people don't deserve to be treated",
+                "replied_at": "2021-11-12T13:44:47+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8092826,
+                "modified_by_id": 8092826,
+                "replier_name": "Dr. Veerbhadra V Mallad",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/867925/dr-veerbhadra-v-mallad-6113dde2c69e6.JPG"
+            },
+            "survey_response": {
+                "id": 43697245,
+                "review_text": "*** ** *** ***** ******** ****** ** ****** *** **** **** ******* I took my 1.2 year old son to this place for * ****** cough and the doctor prescribed for blood test and x-ray ***** *** ******** ********* ** ******* ****** **** **** ** **** * ****** ******** Although we went thru with the tests given and the medicines recommended, we weren't happy with the way the treatment and procedure was conducted. The sheer way in which the doctor was conducting his work seemed that he was not very interested *** *** **** ********** ** ******* ** ** **** ** ********* On the pretext my son was born in Columbia Asia while my wife was covid positive during her delivery and one can imagine the bill that would have been accumulated for the delivery of a Covid patient. *** ******** *** *** *** *** ****** *** *** *** ****** *** ***** *** ** ***** *** ******* ***** **** *** ** ******* ** **** ***** ** ******** **** ******** ** ********* *** **** ** *** **** ****** ****** ** ******* **** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 64,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383268
+                    },
+                    {
+                        "start_index": 110,
+                        "end_index": 117,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383269
+                    },
+                    {
+                        "start_index": 176,
+                        "end_index": 257,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383270
+                    },
+                    {
+                        "start_index": 503,
+                        "end_index": 560,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383271
+                    },
+                    {
+                        "start_index": 762,
+                        "end_index": 990,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383272
+                    }
+                ],
+                "reviewed_on": "2021-11-12 09:31:02",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1897649,
+            "status": "PUBLISHED",
+            "note": "2021-12-23 06:52:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-23T07:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43848268,
+                "review_text": "I will not recommend this doc who is least bother to see their patients !I have literally followed this doc to give communicate wen my 1 year kid suffering !He don't have time ! Unfortunate incident !",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-21 18:32:07",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "SHAKTI SINGH"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1818768,
+            "status": "PUBLISHED",
+            "note": "2021-09-04 05:54:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-04T06:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 326547,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Dear the constipation is long standing and it is to be needed to be addressed from the core.\nU feel it can be treated at home then treat it yourself, why visit a doctor n spend a consultation fees n waste doctor's time",
+                "replied_at": "2021-11-12T13:47:21+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8092826,
+                "modified_by_id": 8092826,
+                "replier_name": "Dr. Veerbhadra V Mallad",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/867925/dr-veerbhadra-v-mallad-6113dde2c69e6.JPG"
+            },
+            "survey_response": {
+                "id": 43369541,
+                "review_text": "He is not listining properly to what the issue is . Recommend to give enima for constipation for a 18 month old baby. Not asking the problem and not explaining the solution. Recommending the tests worth 4000 for constipation",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-02 14:34:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "ARVIND"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1497962,
+            "status": "PUBLISHED",
+            "note": "2020-08-22 04:43:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-21T08:20:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 226427,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u so much.it means a lot to me\ud83d\ude4f\ud83d\ude0a",
+                "replied_at": "2020-08-21T08:20:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8092826,
+                "modified_by_id": 8092826,
+                "replier_name": "Dr. Veerbhadra V Mallad",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/867925/dr-veerbhadra-v-mallad-6113dde2c69e6.JPG"
+            },
+            "survey_response": {
+                "id": 41629265,
+                "review_text": "** *********** ** ***** we visited him to consult for my 8 months old baby. she suffered from Diarrhoea and vomiting since 3days we consult him and now she is fine. The doctor is polite and Humble. Highly recommend ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 286384
+                    }
+                ],
+                "reviewed_on": "2020-08-20 13:59:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanka P G"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1913709,
+            "status": "PUBLISHED",
+            "note": "2022-01-16 17:22:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-16T18:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43948250,
+                "review_text": "not great.1st pediatrician I saw who arrives really late, and diagonise children hearing the symptoms from parent while sending the infant patient out of the chamber.For stomach ache my son was diagonised with viral fever for which xray wa sdone and nebuliser dose of drug were suggested daily.",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-15 11:03:33",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2043762,
+            "status": "PUBLISHED",
+            "note": "2022-08-07 09:05:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 867925,
+            "practice_id": 1292595,
+            "practice_name": "Sarv Advanced Multispeciality Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-07T10:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44684874,
+                "review_text": "Great . Explain him the issues and doubts and he will come up with best options. \nIt has being a good experience with treatment for kids . \nGood humble and will listen . \n",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-06 08:48:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 722541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2309853,
+            "status": "PUBLISHED",
+            "note": "2023-12-19 09:43:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1020203,
+            "practice_id": 1421087,
+            "practice_name": "Suraksha Diagonostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-19T10:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46251756,
+                "review_text": "Calm and confident young doctor. My mother in law is getting ready for a total knee replacement surgery to be done by Dr Abhijit Sen. I have a gut feeling that she is in good hands. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-17 16:37:58",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 859444,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2348774,
+            "status": "PUBLISHED",
+            "note": "2024-03-01 06:08:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1067096,
+            "practice_id": 1258011,
+            "practice_name": "Sakra Premium Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-01T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46475582,
+                "review_text": "The doctor is exceptionally patient and helpful. He listens to our questions and accurately diagnoses the situation.",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-28 22:10:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 872350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2262815,
+            "status": "PUBLISHED",
+            "note": "2023-09-19 05:22:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1067096,
+            "practice_id": 1258011,
+            "practice_name": "Sakra Premium Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-19T06:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45981724,
+                "review_text": "Experienced Doctor. And the very first thing one would notice is his friendly gesture and . Will make you calm and feel better, no matter how bad the issue is. My experience was quite good with him.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-16 13:33:56",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kunal Bhardwaj"
+        },
+        "entity_id": 872350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

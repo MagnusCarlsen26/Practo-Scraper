@@ -1,0 +1,520 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2129987,
+            "status": "PUBLISHED",
+            "note": "2023-01-07 10:20:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 711006,
+            "practice_name": "IRIS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-07T11:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45181049,
+                "review_text": "A wonderful person and a great doctor.i poulami roy chakraborty on dec 24 gave birth to a baby boy under the supervision of doctor Dr tanuka Dasgupta.My pregnancy was a high risk pregnancy.I was diagonised with high blood pressure and fibroid..Tanuka mam was there for me whenever i needed her. She always used to keep track on my ongoing pregancy and referred me whatever i needed\nshe was always attentive towards her patients.she always listens to her patients and always available to answer during any emergency..*** ** *** ** **..I would always recomend her to everybody.",
+                "review_alterations": [
+                    {
+                        "start_index": 516,
+                        "end_index": 531,
+                        "reason": "NON_COMPLIANT",
+                        "id": 438859
+                    }
+                ],
+                "reviewed_on": "2023-01-06 10:14:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Poulami Chakraborty"
+        },
+        "entity_id": 550340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2110943,
+            "status": "PUBLISHED",
+            "note": "2022-12-02 10:39:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 711006,
+            "practice_name": "IRIS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-02T11:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45071032,
+                "review_text": "Thank you Ma'am for the wonderful experience we had with you at Peerless Hospital. You are incredible. \nWe are sharing this story of the wonderful experience we had with Dr Tanuka Dasgupta . She is just incredible. Not only has she taken great care of my daughter's health who was her patient but also she is lovely to speak with at every appointment. She explained everything to my daughter in a very clear manner. Dr Tanuka Dasgupta is really godsent. She is a wonderful surgeon. She operated on my daughter with a huge ovarian cyst through laparoscopy which other doctors suggested open one. With her blessings my daughter recovered quickly. My sincere gratitude to her and feel fortunate to have chose her. We would highly recommend her to anyone.",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-01 10:34:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "UTTAM DAS"
+        },
+        "entity_id": 550340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1023582,
+            "status": "PUBLISHED",
+            "note": "2018-11-21 11:28:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 711006,
+            "practice_name": "IRIS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-21T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38628910,
+                "review_text": "Dr. Tanuka is a rare combination of ********* ****** *** compassionate behavior.\nMy wife (Ankita) gave birth to a baby girl in October 2018 under her supervision. Ankita was having a high risk pregnancy due to high blood pressure but Dr. Tanuka clearly explained what to expect during these times and what will be the fallback plan in case of any emergency. Due to her open conversation and transparent discussion about each challenges, we had a very clear mindset throughout the course of treatment.\nShe was reachable most of the time and replied through sms or whatsapp whenever we had any queries.\nThere were situations where she had put the wellbeing of patient ahead of everything else. That is why she earned our respect and this is what makes her a great and effective doctor!",
+                "review_alterations": [
+                    {
+                        "start_index": 36,
+                        "end_index": 55,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 140567
+                    }
+                ],
+                "reviewed_on": "2018-11-20 11:26:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sourav Chatterjee"
+        },
+        "entity_id": 550340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1550087,
+            "status": "PUBLISHED",
+            "note": "2020-10-16 05:53:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 711006,
+            "practice_name": "IRIS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-16T06:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41901582,
+                "review_text": "Dr, Tanuka Das Gupta is a sweetheart,we felt welcomed by her sweet smiling face as she guided me and my husband just like our elder sister in clearing all our queries before planning our pregnancy,giving us time and equal attention.  Due to her open conversation and  transperancy regarding her patient it was easy for us to discuss things in detail which usually people dont.Not  only did she did an excellent job of delivering my baby healthy and me being fine but also cured my  infection which i was suffering post marriage. God bless her for being so enthusiastic in her field\ud83d\udc9f\ud83d\udc4d",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-14 19:43:01",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 550340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1551129,
+            "status": "PUBLISHED",
+            "note": "2020-10-17 06:10:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 711006,
+            "practice_name": "IRIS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-17T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41906882,
+                "review_text": "Wonderful experience , Really friendly humble sweet caring doctor , **** ************* * \n\nIn covid time also she was always available and the care she given to us was the best part of her .. \n\n\nOnly pain Is she does her delivery only at Apolo Gengelis (Very Costly) & Iris*************** * ****** *********** , which were not convinient for us \n\nWe wanted to do our Delivery from Neotia Newtown , \n\n\nThroughout the pregnancy journey during covid She was an Angel for us who made sure our baby is safe .. \n\nThank you so much Tanuka mam for this wonderful experience and we will remember you forever\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 68,
+                        "end_index": 87,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 301763
+                    },
+                    {
+                        "start_index": 273,
+                        "end_index": 308,
+                        "reason": "NON_COMPLIANT",
+                        "id": 301764
+                    }
+                ],
+                "reviewed_on": "2020-10-16 03:17:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 550340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2340321,
+            "status": "PUBLISHED",
+            "note": "2024-02-14 11:12:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 711006,
+            "practice_name": "IRIS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-14T12:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46426637,
+                "review_text": "Love her. I first consulted her around 2019, since then for any Gynae problem I go to her. I infact recommended her to a friend, and she loved the experience as well.",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-13 09:15:02",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 550340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1697,
+                "text": "Breast Cancer Screening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2300187,
+            "status": "PUBLISHED",
+            "note": "2023-12-01 08:01:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 711006,
+            "practice_name": "IRIS Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-01T09:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46197076,
+                "review_text": "The doctor and staff were very unprpfessional. Not visiting this doctor and this hospital ever again",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-30 07:50:50",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rajdeep Das"
+        },
+        "entity_id": 550340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 624588,
+            "status": "PUBLISHED",
+            "note": "2017-07-19 11:39:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 1126027,
+            "practice_name": "Bengal Cancer Foundation",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-19T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35059427,
+                "review_text": "Very much happy & satisfied with her .now I am a proud mother . special thanks to Dr tanuka das Gupta . ",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-16 05:36:44",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Somdatta Chakraborty"
+        },
+        "entity_id": 550237,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 621422,
+            "status": "PUBLISHED",
+            "note": "2017-07-14 11:39:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 1126027,
+            "practice_name": "Bengal Cancer Foundation",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-14T12:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35027710,
+                "review_text": "Since month 1 she was excellent, now I am a happy father , over all she is verymuch friendly & brilliant doctor . we are very happy & great ful to her. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-13 07:04:16",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "\u09b8\u09a8\u09cd\u09a6\u09bf\u09aa\u09a8 \u099a\u0995\u09cd\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0"
+        },
+        "entity_id": 550237,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1306227,
+            "status": "PUBLISHED",
+            "note": "2019-12-05 07:45:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571299,
+            "practice_id": 711006,
+            "practice_name": "IRIS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-05T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40476015,
+                "review_text": "She is very helpfull on visit as well as over phone.She always explain the exact problem area and recommend for solution.When we meet her always there is a feel good situation.She handle any tough situation smoothly.Thanks to madam.",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-04 07:06:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 550340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

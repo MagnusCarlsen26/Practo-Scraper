@@ -1,0 +1,96 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1912045,
+            "status": "PUBLISHED",
+            "note": "2022-01-14 06:58:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 602523,
+            "practice_id": 1146711,
+            "practice_name": "Sukam Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-14T07:01:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43938228,
+                "review_text": " I took fertility treatment n conceived through IUI I had high risk pregnancy due to hypertension I lost by first'baby in the 9 th month at narayana NH hospital I got treatment r my second baby with her *** * *** ** *** **** ****** ** ********* I had hypertension n sugar during second my pregnancy her treatment gave me lots of hope n delivered healthy Princess at 36 weeks..",
+                "review_alterations": [
+                    {
+                        "start_index": 202,
+                        "end_index": 244,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 392017
+                    }
+                ],
+                "reviewed_on": "2022-01-12 18:35:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Venkatalakshmi"
+        },
+        "entity_id": 588621,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1559177,
+            "status": "PUBLISHED",
+            "note": "2020-10-28 07:17:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 602523,
+            "practice_id": 1146711,
+            "practice_name": "Sukam Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-28T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41949765,
+                "review_text": "**** ********I had high risk pregnancy and she made sure I delivered a healthy baby..she gave us hopes and positive vibes every time we visited her..speaks nicely,answers all our silly questions with smiling face..replies to messages on WhatsApp 24/7..she always tries for normal delivery..gives least priority to money..I highly recommend Dr Anitha to all..go to her and believe her blindly..she will give healthy baby to your hand..",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 12,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 304149
+                    }
+                ],
+                "reviewed_on": "2020-10-25 14:07:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nagashree"
+        },
+        "entity_id": 588621,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

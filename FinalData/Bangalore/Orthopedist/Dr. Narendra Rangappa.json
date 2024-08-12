@@ -1,0 +1,124 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 477944,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 84068,
+            "practice_id": 637777,
+            "practice_name": "Bone & Joint Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-22T06:52:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31817637,
+                "review_text": "My Experience with Dr. Narendra was pathetic. ** ***** *** ********  ********* just gave some medicines which gave temporary relief. But the pain appeared again. And the medicines prescribed by him is only available with the chemist next to his clinic. And chemist is very rude and harsh with customers.",
+                "review_alterations": [
+                    {
+                        "start_index": 46,
+                        "end_index": 78,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 28664
+                    }
+                ],
+                "reviewed_on": "2017-02-20 08:43:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Harini"
+        },
+        "entity_id": 48486,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 54904,
+                "text": "ACL &PCL Reconstruction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1263658,
+            "status": "PUBLISHED",
+            "note": "2019-10-06 12:17:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 84068,
+            "practice_id": 711687,
+            "practice_name": "Manipal Hospital Malleshwaram",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-06T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40191324,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 88,
+                        "reason": "NON_COMPLIANT",
+                        "id": 212649
+                    },
+                    {
+                        "start_index": 150,
+                        "end_index": 173,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 212650
+                    }
+                ],
+                "reviewed_on": "2019-10-05 12:15:24",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Dileep"
+        },
+        "entity_id": 481364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

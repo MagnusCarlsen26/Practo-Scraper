@@ -1,0 +1,1176 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            },
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2425220,
+            "status": "PUBLISHED",
+            "note": "2024-08-07 08:04:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-07T09:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46912665,
+                "review_text": "I had many dental issues which needed extractions, root canals, implants and cavity and all. He provided treatment plan and meticulously followed .   He is thoroughly professional and highly competent. I am extremely happy I am under his care. Many many thanks a lot doc",
+                "review_alterations": [],
+                "reviewed_on": "2024-08-05 16:24:28",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kirit Mehta"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101773,
+                "text": "Gum Disease Treatment/ Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 801664,
+            "status": "PUBLISHED",
+            "note": "2018-02-23 07:08:51",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-23T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36810981,
+                "review_text": "Dr. Irfan Kachwala was extremely professional and well-versed. *** ********* *** ****** **** *** ***** *** ****** *********** I particularly liked the friendly atmosphere, the personal treatment and his tendency to go the extra mile. The office was extremely clean with state of the art machinery. With minimal wait time, the entire experience was amazing. I typically am one of those who is afraid of going to the dentist, but he was able to calm me down and be rather careful as well non-intrusive. I would highly recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 63,
+                        "end_index": 124,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 92959
+                    }
+                ],
+                "reviewed_on": "2018-02-21 03:48:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashfaque"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 800557,
+            "status": "PUBLISHED",
+            "note": "2018-02-22 10:03:38",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-22T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36801188,
+                "review_text": "Visiting a dentist has always been a nightmare for me. But now it\u2019s something that I no longer dread going for and it\u2019s all thanks to Dr Irfan and his light hand and his assuring smile that all\u2019s going to be well. Thank you for giving me a beautiful smile. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-19 17:03:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Maria Kachwala"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 934434,
+            "status": "PUBLISHED",
+            "note": "2018-07-31 10:21:54",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-31T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37965342,
+                "review_text": "Few doctors, especially in the aesthetics department, can be as reassuring and competent as Dr.Irfan and Dr.Priyanka. The whole time I have been under their care, I have felt supported and increasingly confident that not only am I getting great value for the money I'm putting in but also sure that any doubts or questions I have will be attended to with patience, non bias and a happy dose of optimism.",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-29 16:36:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Natasha Goldberg"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 138,
+                "text": "Veneers / Laminates"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 904000,
+            "status": "PUBLISHED",
+            "note": "2018-06-21 11:17:50",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-21T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37708220,
+                "review_text": "Dr. Irfan Kachwala is great at his work. I see him every time I come to India. He has done a great job on my veneers and implant. He pays a lot of attention on details and would not let go until he is satisfied with his job. I would definitely recommend him.\nThank you for the amazing job. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-20 11:15:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ellahe Hussaini "
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 800266,
+            "status": "PUBLISHED",
+            "note": "2018-02-22 07:27:16",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-22T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36798654,
+                "review_text": "Dr.Irfan is one of the first dentists who has made me comfortable with the idea of going to a dentist.\n\nHe is very professional and at the same time very friendly too.\n\nI look forward to going back to him for further dental treatments. \n\nHave already recommended him to all my friends and family.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-19 13:23:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sahil Aggarwal"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 800570,
+            "status": "PUBLISHED",
+            "note": "2018-02-22 10:08:48",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-22T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36801256,
+                "review_text": "Soft touch and a reassuring nature. Very Meticulous in his work as well as firmness in what has to be done. \nQualities which I could relate to. \nKnew I was in good hands.\nThks Irfan. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-19 17:20:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hamza Kachwala"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 87,
+                "text": "Tooth Loss"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1167287,
+            "status": "PUBLISHED",
+            "note": "2019-06-02 07:29:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-02T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39576979,
+                "review_text": "very professional and confident. I guess comes form his USA training and years of experience.Great experience and I would highly recommend. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-01 07:29:08",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saif"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 926651,
+            "status": "PUBLISHED",
+            "note": "2018-07-20 13:21:02",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-20T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37901112,
+                "review_text": " The doctor explained the problem in detail, was very approachable in answering my queries plus was not very expensive & in line with market rate and overall treatment was very well done ",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-19 13:03:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sunil Lund"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 137,
+                "text": "Tooth Coloured Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 805960,
+            "status": "PUBLISHED",
+            "note": "2018-02-27 12:17:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-27T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36849638,
+                "review_text": "Dr Irfan is ****** ******* *** a thorough professional. Luckily I found him through a friend of mine and since then I haven\u2019t had to look for another dentist. I highly recommend him for all kind of dental woes.",
+                "review_alterations": [
+                    {
+                        "start_index": 12,
+                        "end_index": 29,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 93850
+                    }
+                ],
+                "reviewed_on": "2018-02-25 11:02:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Khushbu"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            },
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2425220,
+            "status": "PUBLISHED",
+            "note": "2024-08-07 08:04:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-07T09:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46912665,
+                "review_text": "I had many dental issues which needed extractions, root canals, implants and cavity and all. He provided treatment plan and meticulously followed .   He is thoroughly professional and highly competent. I am extremely happy I am under his care. Many many thanks a lot doc",
+                "review_alterations": [],
+                "reviewed_on": "2024-08-05 16:24:28",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kirit Mehta"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101773,
+                "text": "Gum Disease Treatment/ Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 801664,
+            "status": "PUBLISHED",
+            "note": "2018-02-23 07:08:51",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-23T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36810981,
+                "review_text": "Dr. Irfan Kachwala was extremely professional and well-versed. *** ********* *** ****** **** *** ***** *** ****** *********** I particularly liked the friendly atmosphere, the personal treatment and his tendency to go the extra mile. The office was extremely clean with state of the art machinery. With minimal wait time, the entire experience was amazing. I typically am one of those who is afraid of going to the dentist, but he was able to calm me down and be rather careful as well non-intrusive. I would highly recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 63,
+                        "end_index": 124,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 92959
+                    }
+                ],
+                "reviewed_on": "2018-02-21 03:48:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashfaque"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 800557,
+            "status": "PUBLISHED",
+            "note": "2018-02-22 10:03:38",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-22T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36801188,
+                "review_text": "Visiting a dentist has always been a nightmare for me. But now it\u2019s something that I no longer dread going for and it\u2019s all thanks to Dr Irfan and his light hand and his assuring smile that all\u2019s going to be well. Thank you for giving me a beautiful smile. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-19 17:03:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Maria Kachwala"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 934434,
+            "status": "PUBLISHED",
+            "note": "2018-07-31 10:21:54",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-31T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37965342,
+                "review_text": "Few doctors, especially in the aesthetics department, can be as reassuring and competent as Dr.Irfan and Dr.Priyanka. The whole time I have been under their care, I have felt supported and increasingly confident that not only am I getting great value for the money I'm putting in but also sure that any doubts or questions I have will be attended to with patience, non bias and a happy dose of optimism.",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-29 16:36:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Natasha Goldberg"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 138,
+                "text": "Veneers / Laminates"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 904000,
+            "status": "PUBLISHED",
+            "note": "2018-06-21 11:17:50",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-21T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37708220,
+                "review_text": "Dr. Irfan Kachwala is great at his work. I see him every time I come to India. He has done a great job on my veneers and implant. He pays a lot of attention on details and would not let go until he is satisfied with his job. I would definitely recommend him.\nThank you for the amazing job. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-20 11:15:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ellahe Hussaini "
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 800266,
+            "status": "PUBLISHED",
+            "note": "2018-02-22 07:27:16",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-22T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36798654,
+                "review_text": "Dr.Irfan is one of the first dentists who has made me comfortable with the idea of going to a dentist.\n\nHe is very professional and at the same time very friendly too.\n\nI look forward to going back to him for further dental treatments. \n\nHave already recommended him to all my friends and family.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-19 13:23:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sahil Aggarwal"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 800570,
+            "status": "PUBLISHED",
+            "note": "2018-02-22 10:08:48",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-22T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36801256,
+                "review_text": "Soft touch and a reassuring nature. Very Meticulous in his work as well as firmness in what has to be done. \nQualities which I could relate to. \nKnew I was in good hands.\nThks Irfan. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-19 17:20:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hamza Kachwala"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 87,
+                "text": "Tooth Loss"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1167287,
+            "status": "PUBLISHED",
+            "note": "2019-06-02 07:29:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-02T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39576979,
+                "review_text": "very professional and confident. I guess comes form his USA training and years of experience.Great experience and I would highly recommend. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-01 07:29:08",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saif"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 926651,
+            "status": "PUBLISHED",
+            "note": "2018-07-20 13:21:02",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-20T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37901112,
+                "review_text": " The doctor explained the problem in detail, was very approachable in answering my queries plus was not very expensive & in line with market rate and overall treatment was very well done ",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-19 13:03:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sunil Lund"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 137,
+                "text": "Tooth Coloured Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 805960,
+            "status": "PUBLISHED",
+            "note": "2018-02-27 12:17:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6225,
+            "practice_id": 656570,
+            "practice_name": "DentAppeal Premium Multi-Speciality Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-27T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36849638,
+                "review_text": "Dr Irfan is ****** ******* *** a thorough professional. Luckily I found him through a friend of mine and since then I haven\u2019t had to look for another dentist. I highly recommend him for all kind of dental woes.",
+                "review_alterations": [
+                    {
+                        "start_index": 12,
+                        "end_index": 29,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 93850
+                    }
+                ],
+                "reviewed_on": "2018-02-25 11:02:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Khushbu"
+        },
+        "entity_id": 7166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

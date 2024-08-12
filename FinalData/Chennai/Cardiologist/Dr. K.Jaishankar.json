@@ -1,0 +1,984 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2362895,
+            "status": "PUBLISHED",
+            "note": "2024-03-30 06:32:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1000657,
+            "practice_name": "Medway Heart Institute",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-30T07:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46555720,
+                "review_text": "Im really happy and satisfied with Doctor\nThank you very much \ud83d\ude0c\ud83d\ude0c\ud83d\ude0c\ud83d\ude0c\ud83d\ude0c\n\nHe will give appropriate medical advice\nI went to the doctor for my mom constantly for Angio   My mother's back pain has not subsided and I have seen more than 10 doctors\n\nI finally met him \nBy Dr. Basheer Orthopaedic Surgeon -vadapalni \n\nI have taken it to him and he gives proper advice to mother, medicines and pills and answers in a beautiful manner and half of the disease is cured by his speech. \n\nHe is the right doctor during this period who will prepare you some medicine in the right way and send you home in good condition.\n\nNow my mother has got back pain relief because of her proper medical advice and this happened.My sincere thanks. *** ** **** ******* ******* **********",
+                "review_alterations": [
+                    {
+                        "start_index": 717,
+                        "end_index": 755,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482671
+                    }
+                ],
+                "reviewed_on": "2024-03-28 19:19:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohammed sharief"
+        },
+        "entity_id": 876645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1337041,
+            "status": "PUBLISHED",
+            "note": "2020-01-11 06:32:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-11T07:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40690950,
+                "review_text": "Consultation experience was ok nothing to complain. I was having blood pressure problem the medicines he gave got adjusted to my blood pressure. I would recommend the doctor to others. Doctor's behaviour was good, the way of talking of the doctor was good, ** ** ********** ******** am satisfied with doctor and treatment.",
+                "review_alterations": [
+                    {
+                        "start_index": 256,
+                        "end_index": 282,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 236598
+                    }
+                ],
+                "reviewed_on": "2020-01-09 19:15:08",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raghavan Krishnaswamy"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1446966,
+            "status": "PUBLISHED",
+            "note": "2020-06-18 06:13:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-18T07:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41373249,
+                "review_text": "We went to the hospital to meet the doctor for my father, he had undergone open-heart surgery before. We went for a followup checkup. He had undergone surgery 2 yrs back and we got to know the doctor was in MIOT International Hospital. Doctor told to continue medicines prescribed. There was no waiting time. I am satisfied with the treatment given. He is alright. Walking was suggested for him. I can recommend the doctor to my family or friends. I can rate the doctor 5/5.",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-16 15:45:39",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohamed Azad"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3595,
+                "text": "Electrophysiologic Study"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1321178,
+            "status": "PUBLISHED",
+            "note": "2019-12-25 07:11:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-25T08:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40582041,
+                "review_text": "Yesterday my wife Revathy had undergone RFA for supraventicular tachycardia and we are immensely satisfied with the treatment and the concern he shows to the patient is simply marvellous. We had undergone various health issues earlier and he is the best doctor we had come across in our lifetime\nIam 69.\nAnd special word of appreciation for his Secretary Ms Anjeline for her helpful attitude. \nWe wish and pray to God for their long life and service. \n",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-22 10:30:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "JRengarajan"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1664881,
+            "status": "PUBLISHED",
+            "note": "2021-03-06 09:56:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-06T10:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42519577,
+                "review_text": "DrK.Jaishankar is god gifted doctor.\nVery respected nice person, he treats every one with mercy\nHighly recommended..",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-05 09:46:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "KBalamurugan"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1487867,
+            "status": "PUBLISHED",
+            "note": "2020-08-11 05:52:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-11T06:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41578448,
+                "review_text": "We had been to hospital and it was for heart related issue for my mother. My mother is consulting this doctor from last 7 to 8 years. Doctor was very nice. I am satisfied with the treatment given.\u00a0 I can recommend doctor to my family or friends. There was no waiting time in the hospital.\u00a0She is doing good now. Medicine was prescribed by the doctor.\u00a0We had reports with us. Hospitality was good. Diet and exercise was also suggested by doctor. Usually we consult this doctor once in 6 months",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-08 11:00:20",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1479568,
+            "status": "PUBLISHED",
+            "note": "2020-07-29 12:27:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-29T13:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41536314,
+                "review_text": "We had visited the hospital as my wife had heart related issue. In my family we visit this Dr. K.Jaishankar regularly. Hospital is not good. Doctor is very good in treating her. Medicine was prescribed by the doctor. I am satisfied with the treatment given.  I can recommend doctor to my family or friends. The administration in the hospital is very strict. There was no waiting time in the hospital. Charges are more in hospital. We are unable to see the chief doctor to the complaint the issues we have faced. Medical tests like scanning and blood test were done for my wife.",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-28 10:44:09",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1442846,
+            "status": "PUBLISHED",
+            "note": "2020-06-12 10:11:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-12T11:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41352413,
+                "review_text": "** ** * ***** ****** *** * **** ****** He remembered his patient (my dad) from 10years back and treated him again with utmost care. He explained the problem really well and helped me in every way possible.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 37,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 270232
+                    }
+                ],
+                "reviewed_on": "2020-06-11 09:40:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Michevans"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1099624,
+            "status": "PUBLISHED",
+            "note": "2019-03-06 09:43:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-06T10:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39146946,
+                "review_text": "He is very much friendly with all patients and he will hear all your problems and then he will advise you to do any test . He will mostly avoid unnecessary tests. My mom is referring him for almost 6 years now and still he is the same kindhearted person.\n\nIf you really wanted to go to good cardiologist you definitely need to meet this doctor and this is my personal opinion",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-05 05:26:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1479574,
+            "status": "PUBLISHED",
+            "note": "2020-07-29 11:07:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-29T12:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41536329,
+                "review_text": "I had cardiac related issue so went to hospital. ****** *** ****. I am satisfied with the treatment given.\u00a0I can recommend doctor to my family or friends. Waiting time was for 10 minutes only. I am good now. ",
+                "review_alterations": [
+                    {
+                        "start_index": 49,
+                        "end_index": 63,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 280740
+                    }
+                ],
+                "reviewed_on": "2020-07-28 10:46:55",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ganesh Kumar"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2362895,
+            "status": "PUBLISHED",
+            "note": "2024-03-30 06:32:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1000657,
+            "practice_name": "Medway Heart Institute",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-30T07:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46555720,
+                "review_text": "Im really happy and satisfied with Doctor\nThank you very much \ud83d\ude0c\ud83d\ude0c\ud83d\ude0c\ud83d\ude0c\ud83d\ude0c\n\nHe will give appropriate medical advice\nI went to the doctor for my mom constantly for Angio   My mother's back pain has not subsided and I have seen more than 10 doctors\n\nI finally met him \nBy Dr. Basheer Orthopaedic Surgeon -vadapalni \n\nI have taken it to him and he gives proper advice to mother, medicines and pills and answers in a beautiful manner and half of the disease is cured by his speech. \n\nHe is the right doctor during this period who will prepare you some medicine in the right way and send you home in good condition.\n\nNow my mother has got back pain relief because of her proper medical advice and this happened.My sincere thanks. *** ** **** ******* ******* **********",
+                "review_alterations": [
+                    {
+                        "start_index": 717,
+                        "end_index": 755,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482671
+                    }
+                ],
+                "reviewed_on": "2024-03-28 19:19:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohammed sharief"
+        },
+        "entity_id": 876645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1337041,
+            "status": "PUBLISHED",
+            "note": "2020-01-11 06:32:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-11T07:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40690950,
+                "review_text": "Consultation experience was ok nothing to complain. I was having blood pressure problem the medicines he gave got adjusted to my blood pressure. I would recommend the doctor to others. Doctor's behaviour was good, the way of talking of the doctor was good, ** ** ********** ******** am satisfied with doctor and treatment.",
+                "review_alterations": [
+                    {
+                        "start_index": 256,
+                        "end_index": 282,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 236598
+                    }
+                ],
+                "reviewed_on": "2020-01-09 19:15:08",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raghavan Krishnaswamy"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1446966,
+            "status": "PUBLISHED",
+            "note": "2020-06-18 06:13:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-18T07:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41373249,
+                "review_text": "We went to the hospital to meet the doctor for my father, he had undergone open-heart surgery before. We went for a followup checkup. He had undergone surgery 2 yrs back and we got to know the doctor was in MIOT International Hospital. Doctor told to continue medicines prescribed. There was no waiting time. I am satisfied with the treatment given. He is alright. Walking was suggested for him. I can recommend the doctor to my family or friends. I can rate the doctor 5/5.",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-16 15:45:39",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohamed Azad"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3595,
+                "text": "Electrophysiologic Study"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1321178,
+            "status": "PUBLISHED",
+            "note": "2019-12-25 07:11:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-25T08:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40582041,
+                "review_text": "Yesterday my wife Revathy had undergone RFA for supraventicular tachycardia and we are immensely satisfied with the treatment and the concern he shows to the patient is simply marvellous. We had undergone various health issues earlier and he is the best doctor we had come across in our lifetime\nIam 69.\nAnd special word of appreciation for his Secretary Ms Anjeline for her helpful attitude. \nWe wish and pray to God for their long life and service. \n",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-22 10:30:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "JRengarajan"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1664881,
+            "status": "PUBLISHED",
+            "note": "2021-03-06 09:56:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-06T10:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42519577,
+                "review_text": "DrK.Jaishankar is god gifted doctor.\nVery respected nice person, he treats every one with mercy\nHighly recommended..",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-05 09:46:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "KBalamurugan"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1487867,
+            "status": "PUBLISHED",
+            "note": "2020-08-11 05:52:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-11T06:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41578448,
+                "review_text": "We had been to hospital and it was for heart related issue for my mother. My mother is consulting this doctor from last 7 to 8 years. Doctor was very nice. I am satisfied with the treatment given.\u00a0 I can recommend doctor to my family or friends. There was no waiting time in the hospital.\u00a0She is doing good now. Medicine was prescribed by the doctor.\u00a0We had reports with us. Hospitality was good. Diet and exercise was also suggested by doctor. Usually we consult this doctor once in 6 months",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-08 11:00:20",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1479568,
+            "status": "PUBLISHED",
+            "note": "2020-07-29 12:27:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-29T13:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41536314,
+                "review_text": "We had visited the hospital as my wife had heart related issue. In my family we visit this Dr. K.Jaishankar regularly. Hospital is not good. Doctor is very good in treating her. Medicine was prescribed by the doctor. I am satisfied with the treatment given.  I can recommend doctor to my family or friends. The administration in the hospital is very strict. There was no waiting time in the hospital. Charges are more in hospital. We are unable to see the chief doctor to the complaint the issues we have faced. Medical tests like scanning and blood test were done for my wife.",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-28 10:44:09",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1442846,
+            "status": "PUBLISHED",
+            "note": "2020-06-12 10:11:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-12T11:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41352413,
+                "review_text": "** ** * ***** ****** *** * **** ****** He remembered his patient (my dad) from 10years back and treated him again with utmost care. He explained the problem really well and helped me in every way possible.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 37,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 270232
+                    }
+                ],
+                "reviewed_on": "2020-06-11 09:40:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Michevans"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1099624,
+            "status": "PUBLISHED",
+            "note": "2019-03-06 09:43:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-06T10:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39146946,
+                "review_text": "He is very much friendly with all patients and he will hear all your problems and then he will advise you to do any test . He will mostly avoid unnecessary tests. My mom is referring him for almost 6 years now and still he is the same kindhearted person.\n\nIf you really wanted to go to good cardiologist you definitely need to meet this doctor and this is my personal opinion",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-05 05:26:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1479574,
+            "status": "PUBLISHED",
+            "note": "2020-07-29 11:07:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 678930,
+            "practice_id": 1011230,
+            "practice_name": "MIOT International Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-29T12:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41536329,
+                "review_text": "I had cardiac related issue so went to hospital. ****** *** ****. I am satisfied with the treatment given.\u00a0I can recommend doctor to my family or friends. Waiting time was for 10 minutes only. I am good now. ",
+                "review_alterations": [
+                    {
+                        "start_index": 49,
+                        "end_index": 63,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 280740
+                    }
+                ],
+                "reviewed_on": "2020-07-28 10:46:55",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ganesh Kumar"
+        },
+        "entity_id": 644099,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 236254,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 533270,
+            "practice_id": 1069581,
+            "practice_name": "Dr Lal's Internist Clinic, Somajiguda",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-04-13T08:33:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 16200866,
+                "review_text": "The doctor is immensly friendly. has a nag for solving the fears in a whilst.  I was scared that my fever was not related to anything serious but the Dr Lal knows about the cases too well. all he did was prescribe a few medicines and i was well in a week's time. Thanks to him.i recommend him to everyone",
+                "review_alterations": [],
+                "reviewed_on": "2016-04-12 04:53:13",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pulkit Joshi"
+        },
+        "entity_id": 493081,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1226789,
+            "status": "PUBLISHED",
+            "note": "2019-08-22 05:34:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 533270,
+            "practice_id": 711315,
+            "practice_name": "Udai Omni Hospital",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-22T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39953886,
+                "review_text": "It was very short time consultation not that great,  it was OK, Doctor wanted me to go for  some other test, but i felt it was not that much big problem, and i did not go there, but the medication he give it was good for my problem.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-19 06:42:15",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Srinivas"
+        },
+        "entity_id": 232048,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 692139,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 533270,
+            "practice_id": 1131614,
+            "practice_name": "The Deccan Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-06T06:03:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35749879,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-05 15:15:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 55413,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 833152,
+            "status": "PUBLISHED",
+            "note": "2018-03-29 10:51:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 533270,
+            "practice_id": 1131614,
+            "practice_name": "The Deccan Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-29T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37102538,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-28 09:48:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 55413,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

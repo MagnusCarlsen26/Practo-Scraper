@@ -1,0 +1,422 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2028920,
+            "status": "PUBLISHED",
+            "note": "2022-07-14 07:11:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 580708,
+            "practice_id": 1135509,
+            "practice_name": "Dr Mohini Soni Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-14T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44595867,
+                "review_text": "We shifted to delhi when my wife was in 8th month of her pregnancy and by that time its really hard to get a doctor whom you can trust. Been through google reviews, Practo reviews and also had prior visit to a doctor in my hometown and here also spoken with few on phone, everyone will speak with you frankly as the profession is like that but no one likes to encourage for a normal delivery even when everything was in favour of that.\nDr. Mohini has not only supported us for normal delivery during our initial talk but also encouraged and guided us in the very short span of time. Unfornuately, we had to go with C-section as my spouse tried for around 12 hours for normal delivery with no luck. All went well and both my wife and my child is doing well. *** ** *** **** ********* ****** *** ********** ** ***** glad that I visited her \ud83d\ude0a\nAgain thanks a lot Mam for supporting us.",
+                "review_alterations": [
+                    {
+                        "start_index": 757,
+                        "end_index": 812,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 417974
+                    }
+                ],
+                "reviewed_on": "2022-07-12 17:22:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nitesh Singh"
+        },
+        "entity_id": 563360,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1411,
+                "text": "Obstetrics Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1661806,
+            "status": "PUBLISHED",
+            "note": "2021-03-03 09:36:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 580708,
+            "practice_id": 1135509,
+            "practice_name": "Dr Mohini Soni Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-02T15:23:04+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 270995,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks a lots sir ",
+                "replied_at": "2021-03-02T15:23:04+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1719690,
+                "modified_by_id": 1719690,
+                "replier_name": "Dr. Mohini Soni",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/580708/dr-mohini-soni-5cab65d026a08.jpg"
+            },
+            "survey_response": {
+                "id": 42503428,
+                "review_text": "Words which I have to say for Dr. Mohini soni is ``she is very didicated and experience doctor. She is very much knowledgeable and experienced. She attached with us a lot and treated very well. Whenever we need , she is the first person to guide and support. And I will recommend to others as well.\n                   Thanks doctor",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-02 08:31:35",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Devesh kumar"
+        },
+        "entity_id": 563360,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1559062,
+            "status": "PUBLISHED",
+            "note": "2020-10-27 06:50:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 580708,
+            "practice_id": 1135509,
+            "practice_name": "Dr. Mohini Soni Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-27T07:01:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 247008,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks dear for kind words",
+                "replied_at": "2020-11-09T11:13:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1719690,
+                "modified_by_id": 1719690,
+                "replier_name": "Dr. Mohini Soni",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/580708/dr-mohini-soni-5cab65d026a08.jpg"
+            },
+            "survey_response": {
+                "id": 41949111,
+                "review_text": "amazing friendly doctor.. i was very scared about my symptoms and worried but she took care of me so well she made me understand everything.. the medicine and the prescription.. she gave me all the time i needed ... im thank full i met her.. would recommend everyone .",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-25 09:02:16",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shahjahan Shaikh "
+        },
+        "entity_id": 563360,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1691790,
+            "status": "PUBLISHED",
+            "note": "2021-04-06 12:10:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 580708,
+            "practice_id": 1135509,
+            "practice_name": "Dr Mohini Soni Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-05T13:18:06+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 278949,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your kind reply",
+                "replied_at": "2021-04-05T13:18:06+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1719690,
+                "modified_by_id": 1719690,
+                "replier_name": "Dr. Mohini Soni",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/580708/dr-mohini-soni-5cab65d026a08.jpg"
+            },
+            "survey_response": {
+                "id": 42669091,
+                "review_text": "Best wishes for your future .. keep doing good work .. pure heart... caring doctor. best of luck...\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-05 12:10:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Khushal"
+        },
+        "entity_id": 563360,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1680064,
+            "status": "PUBLISHED",
+            "note": "2021-03-23 11:03:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 580708,
+            "practice_id": 1135509,
+            "practice_name": "Dr Mohini Soni Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-22T15:23:11+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 275824,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for kind words",
+                "replied_at": "2021-03-22T15:23:11+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1719690,
+                "modified_by_id": 1719690,
+                "replier_name": "Dr. Mohini Soni",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/580708/dr-mohini-soni-5cab65d026a08.jpg"
+            },
+            "survey_response": {
+                "id": 42603176,
+                "review_text": "I had a wonderful experience with dr mohini  she is always available at the time of emergency thorugh online consultation also treatment is good and affordable.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-22 03:47:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "AKASHSHARMA"
+        },
+        "entity_id": 563360,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1688020,
+            "status": "PUBLISHED",
+            "note": "2021-04-02 04:59:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 580708,
+            "practice_id": 1135509,
+            "practice_name": "Dr Mohini Soni Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-02T05:01:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 278412,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for sparing some time to rewiew my work.. I am really thankful to you.. ",
+                "replied_at": "2021-04-03T05:53:50+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1719690,
+                "modified_by_id": 1719690,
+                "replier_name": "Dr. Mohini Soni",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/580708/dr-mohini-soni-5cab65d026a08.jpg"
+            },
+            "survey_response": {
+                "id": 42647437,
+                "review_text": "I am from UP. I talk to her over phone first.  My mother was suffering from heavy bleeding.. she is very calm & caring doctor and explain everything in details..she did not advice unnecessary tests,all doctor told me to remove uterus of my mother but she did hysteroscopy and after that mother feel so well after long time..                                                     **** ************* *** **** **** ******.. recommend her for sure..",
+                "review_alterations": [
+                    {
+                        "start_index": 324,
+                        "end_index": 415,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 336518
+                    }
+                ],
+                "reviewed_on": "2021-03-31 15:20:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 563360,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1693902,
+            "status": "PUBLISHED",
+            "note": "2021-04-09 07:27:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 580708,
+            "practice_id": 1135509,
+            "practice_name": "Dr Mohini Soni Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-08T08:12:19+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 279639,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your kind words ",
+                "replied_at": "2021-04-08T08:12:19+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1719690,
+                "modified_by_id": 1719690,
+                "replier_name": "Dr. Mohini Soni",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/580708/dr-mohini-soni-5cab65d026a08.jpg"
+            },
+            "survey_response": {
+                "id": 42680639,
+                "review_text": "I would recommend Dr. Mohini to others as she is very friendly and listens to the problems very carefully. She explains everything in detail and prescribed me proper medications. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-07 18:39:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 563360,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1683249,
+            "status": "PUBLISHED",
+            "note": "2021-03-26 09:13:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 580708,
+            "practice_id": 1135509,
+            "practice_name": "Dr Mohini Soni Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-25T13:53:21+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 276734,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Congratulations dear as USG is showing healthy fetus, you can relax and celebrate now.. \nThanks dear for your kind review.. ",
+                "replied_at": "2021-03-25T13:53:21+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1719690,
+                "modified_by_id": 1719690,
+                "replier_name": "Dr. Mohini Soni",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/580708/dr-mohini-soni-5cab65d026a08.jpg"
+            },
+            "survey_response": {
+                "id": 42620796,
+                "review_text": "**** ***** ****** * ** **** I was trying to conceive and with the help of doctor mohini, now we are starting our journey of parenthood..",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 26,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 335266
+                    }
+                ],
+                "reviewed_on": "2021-03-25 09:12:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 563360,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

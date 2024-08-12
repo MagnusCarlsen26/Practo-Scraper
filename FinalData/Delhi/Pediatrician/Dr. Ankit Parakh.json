@@ -1,0 +1,409 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2401127,
+            "status": "PUBLISHED",
+            "note": "2024-06-20 08:04:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 257871,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-20T09:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46775168,
+                "review_text": "Had heard a lot about him that he is very good doctor, found him more than my expectations, a gentleman who listens to you very carefully, very much satisfied with his medication too, would highly recommend! Best of \ud83e\udd1e",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-19 03:03:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kamal"
+        },
+        "entity_id": 165596,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2162795,
+            "status": "PUBLISHED",
+            "note": "2023-03-07 04:59:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 257871,
+            "practice_id": 686111,
+            "practice_name": "Children's Chest Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-07T05:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45368404,
+                "review_text": "** ** **** **** ******* Listens well. Prescribe well. \nHe is very cool calm and knowledgeable. \nI really recommand him for the kids who has some respiratory issues or cough cole or something similar . ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 447481
+                    }
+                ],
+                "reviewed_on": "2023-03-05 14:35:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MRS.FARHA KHAN"
+        },
+        "entity_id": 148953,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1385825,
+            "status": "PUBLISHED",
+            "note": "2020-03-03 04:45:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 257871,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-03T05:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41039411,
+                "review_text": "Doctor listens carefully and explains the issue well. He is very friendly and treats the patient well.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-29 13:16:18",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rishi Khandelwal"
+        },
+        "entity_id": 165596,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3680,
+                "text": "Paediatrics - Chest"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1207023,
+            "status": "PUBLISHED",
+            "note": "2019-07-25 09:49:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 257871,
+            "practice_id": 686111,
+            "practice_name": "Children's Chest Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-25T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39829133,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 25,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 194447
+                    },
+                    {
+                        "start_index": 26,
+                        "end_index": 41,
+                        "reason": "NON_COMPLIANT",
+                        "id": 194448
+                    }
+                ],
+                "reviewed_on": "2019-07-23 13:45:15",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 148953,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1321570,
+            "status": "PUBLISHED",
+            "note": "2019-12-25 11:42:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 257871,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-25T12:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40584678,
+                "review_text": "** ** * **** **** *******he gave a medicine to my child for chest.after 5to 6 months my child became fine.he is a very well mannered doctor and also he behaves very nice with the patients and childrens",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 24,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 231635
+                    }
+                ],
+                "reviewed_on": "2019-12-23 05:27:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mandeep"
+        },
+        "entity_id": 165596,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1123878,
+            "status": "PUBLISHED",
+            "note": "2019-04-06 07:13:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 257871,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-06T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39302366,
+                "review_text": "It' was so nice\nDoctor is very friendly.\nI m satisfied for every suggestion of the doctor. \nHospital also good\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-04 14:44:58",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 165596,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3680,
+                "text": "Paediatrics - Chest"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 961827,
+            "status": "PUBLISHED",
+            "note": "2018-09-01 06:32:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 257871,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-01T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38186536,
+                "review_text": "A very friendly *** ************* pediatric for Pulmonologist (Child Chest Specialist) at BL Kapur Super Specialty Hospital, Pusa Road. ",
+                "review_alterations": [
+                    {
+                        "start_index": 15,
+                        "end_index": 33,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 126916
+                    }
+                ],
+                "reviewed_on": "2018-08-31 03:48:11",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 165596,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 890982,
+            "status": "PUBLISHED",
+            "note": "2018-06-05 09:08:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 257871,
+            "practice_id": 686111,
+            "practice_name": "Children's Chest Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-05T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37599115,
+                "review_text": "He is the very genuine doctor. And give value to their pateint.100 % satisfied his way of treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-04 05:06:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 148953,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

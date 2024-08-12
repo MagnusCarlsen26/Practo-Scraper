@@ -1,0 +1,87 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3431,
+                "text": "Dental Examinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2272668,
+            "status": "PUBLISHED",
+            "note": "2023-10-08 05:14:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 904089,
+            "practice_id": 1129924,
+            "practice_name": "SCI International Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-08T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46041293,
+                "review_text": "The doctor was friendly and explained the situation very well. The treatment was quick and efficient. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-06 12:33:23",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tanuj Nanda"
+        },
+        "entity_id": 748387,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1908230,
+            "status": "PUBLISHED",
+            "note": "2022-01-08 08:13:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 904089,
+            "practice_id": 1129924,
+            "practice_name": "SCI International Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-08T09:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43913621,
+                "review_text": "doctor was unavailable at appoinment time. he had not shown up. so, no consultation was possible. disappointing.",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-07 07:44:39",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 748387,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

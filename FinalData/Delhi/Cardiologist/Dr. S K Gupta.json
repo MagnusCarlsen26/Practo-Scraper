@@ -1,0 +1,377 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1688455,
+            "status": "PUBLISHED",
+            "note": "2021-04-02 08:43:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600573,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-02T09:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42649942,
+                "review_text": "Very Nice. In his treatment for last 11 years. Always had satisfactory response and his treatment responded well",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-01 08:13:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "user"
+        },
+        "entity_id": 586914,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1214,
+                "text": "Hypertension Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 952740,
+            "status": "PUBLISHED",
+            "note": "2018-08-22 05:23:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600573,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-22T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38114378,
+                "review_text": "Very nice . The doctor listened to us patiently and then decided the course of action. He was not in a hurry to prescribe lots of medicine.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-20 08:13:02",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jyoti Samant"
+        },
+        "entity_id": 586914,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2308123,
+            "status": "PUBLISHED",
+            "note": "2023-12-16 06:42:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600573,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-16T07:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46241944,
+                "review_text": "Ty for your good duty.i have feel better after ur introductions.\nMy best wishes for u Dr and ur hospital.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-14 14:08:55",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586914,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1632577,
+            "status": "PUBLISHED",
+            "note": "2021-01-29 08:04:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600573,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-29T09:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42342937,
+                "review_text": "I met doctor in March 2010.We went from Meerut.** ** *** **** ******* ******** Treats each patient giving full time and **** medicine. ** ** ******* *** *** *** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 47,
+                        "end_index": 78,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 323161
+                    },
+                    {
+                        "start_index": 120,
+                        "end_index": 124,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 323163
+                    },
+                    {
+                        "start_index": 134,
+                        "end_index": 167,
+                        "reason": "NON_COMPLIANT",
+                        "id": 323162
+                    }
+                ],
+                "reviewed_on": "2021-01-28 07:49:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586914,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1369206,
+            "status": "PUBLISHED",
+            "note": "2020-02-15 07:26:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600573,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-15T08:01:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40933074,
+                "review_text": "** ** ***** ** **** **** *** ** * *******he checks very well and explains very well medicines prescribed by him are very good ** ** ****** **** ** *** *** **",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 40,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 248053
+                    },
+                    {
+                        "start_index": 126,
+                        "end_index": 156,
+                        "reason": "NON_COMPLIANT",
+                        "id": 248054
+                    }
+                ],
+                "reviewed_on": "2020-02-14 03:07:31",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586914,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183104,
+                "text": "Cardiac checkup - General"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1322229,
+            "status": "PUBLISHED",
+            "note": "2019-12-25 12:58:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600573,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-25T13:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40589441,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-23 18:02:38",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586914,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 963089,
+            "status": "PUBLISHED",
+            "note": "2018-09-02 09:56:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600573,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-02T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38195575,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-01 09:55:24",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586914,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

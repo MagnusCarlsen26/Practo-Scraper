@@ -1,0 +1,148 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 866,
+                "text": "PCOD/PCOS Treatment"
+            },
+            {
+                "id": 1454,
+                "text": "Obstetrics / Antenatal Care"
+            },
+            {
+                "id": 183114,
+                "text": "Labor and Delivery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1937060,
+            "status": "PUBLISHED",
+            "note": "2022-02-20 05:50:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 427780,
+            "practice_id": 936372,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-20T06:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44079369,
+                "review_text": "A TRUSTWORTHY DOCTOR\nI have been Dr. Madhumathi's patient since 2016 for pcod. She is very attentive and caring towards her patients health conditions. When I got to know that am pregnant, my go to person was Dr.Madhumathi.\nThough I was been in other state until my second trimester, she was always a call away to advice and guide me. Her investigations are deeper and makes sure her patient is perfectly alright. In a word, journey with such doctor is stress free and happy. \nI strongly recommend Dr madhumathi for any of your gynic problems and obstetrics",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-18 20:08:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Franky Grace"
+        },
+        "entity_id": 584663,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1900066,
+            "status": "PUBLISHED",
+            "note": "2021-12-28 05:02:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 427780,
+            "practice_id": 1122372,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-28T06:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43862669,
+                "review_text": "Dr. Madhumathi is very very helpful and supportive throughout the pregnancy and even during labour, I have had the best experience with Dr. Madhumathi, I couldn\u2019t have asked for any other best doctor for my first pregnancy, you can be assured you are in safe hands when she treats you. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-25 13:05:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 553031,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1695096,
+            "status": "PUBLISHED",
+            "note": "2021-04-10 09:18:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 427780,
+            "practice_id": 936372,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-10T10:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42686865,
+                "review_text": "Hi everyone. Don\u2019t prefer dis doctor. I lost  my time since one year. **** ****** ***** *** ***** ****** ****** hav no time to listen pashent problems. Only she said come often one week and u have to pay every time 600 rupees. ********* *** ** *** ******** *********** Don\u2019t go . ",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 110,
+                        "reason": "NON_COMPLIANT",
+                        "id": 338422
+                    },
+                    {
+                        "start_index": 227,
+                        "end_index": 267,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 338423
+                    }
+                ],
+                "reviewed_on": "2021-04-09 09:17:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584663,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

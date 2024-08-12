@@ -1,0 +1,51 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192987,
+                "text": "Orthopedic Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1071751,
+            "status": "PUBLISHED",
+            "note": "2019-01-29 06:19:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 165956,
+            "practice_id": 649193,
+            "practice_name": "Brahma Kumaris' Global Hospital & Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-29T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38958889,
+                "review_text": "He is very experienced and very friendly but too costly, 1500 for consultation is too high. \nPoor people who can't afford it should be considered and some concession should be given to them. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-26 07:44:27",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 68235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 193477,
+                "text": "Child specialists "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2163442,
+            "status": "PUBLISHED",
+            "note": "2023-03-08 06:45:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 991610,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-08T07:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45372273,
+                "review_text": "**** **** ******* very very good examination process and helpful treatment.  and very kind and helpful. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 447613
+                    }
+                ],
+                "reviewed_on": "2023-03-07 04:11:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 837504,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

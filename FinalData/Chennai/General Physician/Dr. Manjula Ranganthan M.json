@@ -1,0 +1,143 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2256627,
+            "status": "PUBLISHED",
+            "note": "2023-09-05 07:20:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747049,
+            "practice_id": 1144009,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-05T08:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45942080,
+                "review_text": "* ***** *** *** ** *** *** *** the only thing I don't like is she talk to my mom so far, that way of taking care of patients is bad. abut however she find my mom's problem after taking blood test. So nothing to say anymore about doc",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 30,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 467464
+                    }
+                ],
+                "reviewed_on": "2023-09-03 12:53:22",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 682979,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2162886,
+            "status": "PUBLISHED",
+            "note": "2023-03-07 06:11:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747049,
+            "practice_id": 1144009,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-07T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45368958,
+                "review_text": "This doctor never touches the patient and stands or sits far away ...**** ***** ** ****** ** ******** ********** ** ******** *** ********* **** ** **** **************** *** ***** **** . This happened many times when we visited the doctor ...i suggest no patients to take her consultation....No personal touch with the patients ",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 182,
+                        "reason": "NON_COMPLIANT",
+                        "id": 447495
+                    }
+                ],
+                "reviewed_on": "2023-03-06 02:24:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 682979,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1595498,
+            "status": "PUBLISHED",
+            "note": "2020-12-13 08:39:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747049,
+            "practice_id": 1144009,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-13T09:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42143751,
+                "review_text": "I had a bad experience with this doctor, when I went to show to my mother she just came in and standing very far and asked just couple of questions, she has not even listened about our problem. Just told to do all master health and other lab tests first.*** ** ****** ** ***** **** *** ****** *** **** ** ********.As doctor profession is very valuable and she should first talk to patient to understand more. ",
+                "review_alterations": [
+                    {
+                        "start_index": 254,
+                        "end_index": 312,
+                        "reason": "NON_COMPLIANT",
+                        "id": 313734
+                    }
+                ],
+                "reviewed_on": "2020-12-12 08:38:42",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 682979,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

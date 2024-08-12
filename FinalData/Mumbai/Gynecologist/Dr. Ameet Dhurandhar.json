@@ -1,0 +1,91 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2116490,
+            "status": "PUBLISHED",
+            "note": "2022-12-13 08:00:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 444737,
+            "practice_id": 850214,
+            "practice_name": "Surya Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-13T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45102745,
+                "review_text": "Dr Ameet   is great with patients and addresses their queries n doubts patiently . He is not dominating Na explains the problem and solution very well . Highly recommend him",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-11 15:30:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shikha Khurana"
+        },
+        "entity_id": 377540,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 325471,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 444737,
+            "practice_id": 850214,
+            "practice_name": "Surya Mother And Child Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-02T10:50:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22306041,
+                "review_text": "Fantastic!!! A very relaxed doctor who takes his time and makes sure you get your questions off your chest and answered",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-31 18:27:51",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "tatjana chen"
+        },
+        "entity_id": 377540,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

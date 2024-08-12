@@ -1,0 +1,395 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2414934,
+            "status": "PUBLISHED",
+            "note": "2024-07-17 12:03:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 629152,
+            "practice_id": 1465547,
+            "practice_name": "Apollo Sugar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-17T13:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46853964,
+                "review_text": "The behaviour of the doctor is very good as well as I am very much satisfied with his treatment. Staffs are very polite and cordial. The service that they provided it was extraordinary.  Overall I would recommend everyone to visit Beliaghata Apollo Clinic due to his maintained hospitality, cleanliness and affordable services.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-16 11:17:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 931988,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101486,
+                "text": "Type 2 Diabetes Treatment"
+            },
+            {
+                "id": 193762,
+                "text": "  Diabetes and diabetes complication management "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2101269,
+            "status": "PUBLISHED",
+            "note": "2022-11-15 07:20:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 629152,
+            "practice_id": 1043128,
+            "practice_name": "Apollo Sugar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-15T08:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45017686,
+                "review_text": "Visited for my mother | my mother is a patient of Hypertension, Type 2 Diabetes Mellitus, Dyslipidemia | Doctor Bhaduri is very polite and he listens all problems and discusses with us about reasons and remedies of those problems | Also discusses about if he prescribes new medicine and why such medicine is given | My mother is extremely happy and satisfied about his treatment and behavior | My mother is fortunate for being treated by him | Pranam ",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-13 19:37:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Debajyoti Banerjee"
+        },
+        "entity_id": 654297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101486,
+                "text": "Type 2 Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1541623,
+            "status": "PUBLISHED",
+            "note": "2020-10-07 06:16:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 629152,
+            "practice_id": 1163211,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-07T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41857328,
+                "review_text": "I am completely satisfied with his diagnosis and recommendations.He attends the patients and their issues well.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-05 16:34:31",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prerna Goenka"
+        },
+        "entity_id": 609434,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1010074,
+            "status": "PUBLISHED",
+            "note": "2018-11-01 05:15:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 629152,
+            "practice_id": 1043128,
+            "practice_name": "Apollo Sugar Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-01T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38532308,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-30 15:12:45",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 654297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1230700,
+            "status": "PUBLISHED",
+            "note": "2019-08-25 06:36:44",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 629152,
+            "practice_id": 1043128,
+            "practice_name": "Apollo Sugar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-25T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39979698,
+                "review_text": "Very friendly and listens to all concerns before prescribing drugs. Open to informal open communications",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-24 04:57:26",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kaushik RoyChowdhury"
+        },
+        "entity_id": 654297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 655,
+                "text": "Primary Hyperparathyroidism"
+            },
+            {
+                "id": 163,
+                "text": "Diabetes"
+            },
+            {
+                "id": 192844,
+                "text": "Sugar Level"
+            },
+            {
+                "id": 1193,
+                "text": "Hormonal Imbalance"
+            },
+            {
+                "id": 101703,
+                "text": "Prolactin"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1125821,
+            "status": "PUBLISHED",
+            "note": "2019-04-11 06:18:35",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 629152,
+            "practice_id": 1043128,
+            "practice_name": "Apollo Sugar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-11T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39315061,
+                "review_text": "** ****** ******* ** * **** **** *******he is very friendly,polite nd a very good human being.I am satisfied with his treatment nd he is very cool ,reliable person.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 39,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 167114
+                    }
+                ],
+                "reviewed_on": "2019-04-07 08:26:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Susmita Bhattacharyya"
+        },
+        "entity_id": 654297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 163,
+                "text": "Diabetes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1067684,
+            "status": "PUBLISHED",
+            "note": "2019-01-23 05:58:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 629152,
+            "practice_id": 1043128,
+            "practice_name": "Apollo Sugar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-22T08:58:11+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 125532,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your feedback.",
+                "replied_at": "2019-01-22T08:58:11+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4370732,
+                "modified_by_id": 4370732,
+                "replier_name": "Dr. Gaurab Bhaduri",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/629152/dr-gaurab-bhaduri-5c37056d917f9.jpg"
+            },
+            "survey_response": {
+                "id": 38932748,
+                "review_text": "understanding of doctor is so good and he is very friendly.in erms of the way he treat to our patient.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-21 10:50:47",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 654297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

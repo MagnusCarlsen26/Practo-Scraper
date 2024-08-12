@@ -1,0 +1,538 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1126173,
+            "status": "PUBLISHED",
+            "note": "2019-04-10 11:27:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-10T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39317259,
+                "review_text": "myself Soumen Pal undergone root canal treat having no knowledge about the medical procedure, except that, someone told it is pain-full. But Dr.Latha made it so simple that I believe I can go for another RTC.\\nthe following points I stress upon about the clinic:\\n1. Dr. Latha is expert in her treatment and absolute honest too\\n2. clinic ambience is very much comfortable and friendly\\n3. wait time is negligibly small\\n4. last but not the least \\\" patient's satisfaction the ultimae\\",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-08 05:18:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SOUMEN PAL"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 615277,
+            "status": "PUBLISHED",
+            "note": "2017-07-08 06:58:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-08T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34964831,
+                "review_text": "*** ***** ** ***** *** ****** *** friendliest doctors I have ever visited. She seems to know her job well and I do recommend her for any sort of dental problem.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 32,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 55688
+                    }
+                ],
+                "reviewed_on": "2017-07-06 16:54:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arijit Dutta"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 99,
+                "text": "Dental Cavities"
+            },
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 482790,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-28T03:55:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32095578,
+                "review_text": "*** ** ******* ** **** *** *****. I don't think anyone can find better. All problems solved. Highly satisfied. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 31,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 29603
+                    }
+                ],
+                "reviewed_on": "2017-02-25 16:23:04",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rishabh Sahai Verma"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 84,
+                "text": "Broken Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 504656,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-24T07:17:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33388861,
+                "review_text": "I got fracture in my front tooth. Doctor taken care of my teeth very well now they look like natural.. I strongly suggest dr.latha ..",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-24 07:15:48",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Madhuri waghmare"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 94,
+                "text": "Painful Teething"
+            },
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 485123,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-02T07:00:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32227125,
+                "review_text": "Dr latha was very helpful and explained to me all my treatment options in detail she is very friendly \n\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-01 03:42:36",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashwini Poojary"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 889,
+                "text": "Dental Caries"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 484116,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-28T10:24:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32176782,
+                "review_text": "Very very happy with the treatment. The rates are affordable and timings are flexible too. Would definitely recommend it to all",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-27 15:15:21",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "rakshita parab"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 480683,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-24T08:32:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31982492,
+                "review_text": "Visited doctor for front two teeth replacement.\n****** *** **** * ***** *** *\nI am fully satisfied and she gave back my smile . ",
+                "review_alterations": [
+                    {
+                        "start_index": 48,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 29293
+                    }
+                ],
+                "reviewed_on": "2017-02-23 09:10:16",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neena Grover"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 94,
+                "text": "Painful Teething"
+            },
+            {
+                "id": 88,
+                "text": "Toothache"
+            },
+            {
+                "id": 95,
+                "text": "Impacted Tooth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 467699,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-09T10:21:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31156735,
+                "review_text": "** ***** *********** ** *** ** *** **** ******** * **** **** ** \nShe is very punctual and *** ** *** *** ********** all my problems have been solved immediately and at a very affordable price.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 63,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 26367
+                    },
+                    {
+                        "start_index": 90,
+                        "end_index": 114,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 26368
+                    }
+                ],
+                "reviewed_on": "2017-02-07 15:24:00",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shikha Punjabi"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 828480,
+            "status": "PUBLISHED",
+            "note": "2018-03-24 05:42:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-24T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37058707,
+                "review_text": "*** ***** ** *** **** *** most caring doctor I have ever encountered...\n**** ************* and helpful....\nI was treated very well and would highly recommend it to my family and friends....\n:)",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 25,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 98602
+                    },
+                    {
+                        "start_index": 72,
+                        "end_index": 89,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 98603
+                    }
+                ],
+                "reviewed_on": "2018-03-22 18:16:17",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 960853,
+            "status": "PUBLISHED",
+            "note": "2018-08-31 05:29:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581349,
+            "practice_id": 1136096,
+            "practice_name": "Fine Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-31T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38179669,
+                "review_text": "Doctor is very friendly and explains very well about the problem and tries to solve the issue with minimal treatment. Fees also very much reasonable.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-29 17:25:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 564370,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

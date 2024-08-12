@@ -1,0 +1,402 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 727395,
+            "status": "PUBLISHED",
+            "note": "2017-11-17 13:36:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 10587,
+            "practice_id": 608248,
+            "practice_name": "Isser Medical Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-17T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36094153,
+                "review_text": "Dr Isser is a brilliant physician and takes care of the patient quite well.\n\n*** ********* ** ************ *** he takes utmost care in going through ills of a patient by giving him/her a keen hearing and understanding what the patient might be going through, never to forget that he shows great empathy with the patient.\n\nWell done Sir - Kudos to you!!!\n\nThanks very much.",
+                "review_alterations": [
+                    {
+                        "start_index": 77,
+                        "end_index": 110,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 76505
+                    }
+                ],
+                "reviewed_on": "2017-11-15 17:35:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanjeev Jaggi"
+        },
+        "entity_id": 12866,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2280351,
+            "status": "PUBLISHED",
+            "note": "2023-10-21 07:39:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 10587,
+            "practice_id": 1327449,
+            "practice_name": "Isser Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-21T08:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46084884,
+                "review_text": "Dr. Issar listened the problem patiently and prescribed the good medicines which helped in curing the problem. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-20 04:32:24",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Paramjit Singh"
+        },
+        "entity_id": 758586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2349192,
+            "status": "PUBLISHED",
+            "note": "2024-03-02 06:24:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 10587,
+            "practice_id": 1327449,
+            "practice_name": "Isser Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-02T07:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46477875,
+                "review_text": "Nothing significant. Excellent doctor and his advice. Seen patient personally amd takes care of the patient.",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-29 13:54:38",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 758586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2386090,
+            "status": "PUBLISHED",
+            "note": "2024-05-19 05:36:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 10587,
+            "practice_id": 1327449,
+            "practice_name": "Isser Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-19T06:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46688350,
+                "review_text": "Takes multiple visits for small problem. Recommend only one particular diagnostic centre. I am not going again. Thats my individual opinion's.",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-17 15:31:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 758586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2260074,
+            "status": "PUBLISHED",
+            "note": "2023-09-12 08:00:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 10587,
+            "practice_id": 1327449,
+            "practice_name": "Isser Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-12T08:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45964639,
+                "review_text": "Very humble doctor. Listens each and every problems in details and prescribes appropriate medications. Btw I suffered from typhoid fever and doc completely cured me in 12 days. Very happy and satisfied with Dr VS Isser. \nThanks again",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-11 06:42:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yogesh Khadiya"
+        },
+        "entity_id": 758586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            },
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            },
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1265934,
+            "status": "PUBLISHED",
+            "note": "2019-10-11 06:00:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 10587,
+            "practice_id": 608248,
+            "practice_name": "Isser Medical Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-11T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40206602,
+                "review_text": "**** **** ** *** very approach towards problem is really good. very cool during checkup and hungry to listen the problem first and then prescription writing.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 213317
+                    }
+                ],
+                "reviewed_on": "2019-10-09 12:45:08",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anand Kumar"
+        },
+        "entity_id": 12866,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2312083,
+            "status": "PUBLISHED",
+            "note": "2023-12-23 05:26:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 10587,
+            "practice_id": 1327449,
+            "practice_name": "Isser Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-23T06:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46264339,
+                "review_text": "Doctor understood the issue & explained it well with good *** ********* ********** He made me comfortable & could comfortably talk to him. ",
+                "review_alterations": [
+                    {
+                        "start_index": 58,
+                        "end_index": 82,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 475588
+                    }
+                ],
+                "reviewed_on": "2023-12-21 14:35:10",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 758586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2038714,
+            "status": "PUBLISHED",
+            "note": "2022-07-28 11:58:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 10587,
+            "practice_id": 1327449,
+            "practice_name": "Isser Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-28T12:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44651203,
+                "review_text": "Dr. Isser is very patient and gentle. He listens to you very carefully. Spends enough time going through your reports and answering your questions.",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-27 11:56:19",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 758586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,996 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 5,
+                "text": "Knee replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 449643,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-17T05:50:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30112857,
+                "review_text": "** * * *********** ** *** *** ** *** **** *** ****** ******* *** **** *********** ******** I did a lot of research and then admitted my father-in-law for the unilateral knee replacement under Dr RDC . The kind of service that Narayana Health provides is really very good with great surgeons. My Father-in-law was fit to walk within 4 days..\n\n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 90,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 22748
+                    }
+                ],
+                "reviewed_on": "2017-01-15 06:06:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sudeep"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1112,
+                "text": "Joint and Muscle Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093388,
+            "status": "PUBLISHED",
+            "note": "2022-11-01 10:00:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-01T10:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44974254,
+                "review_text": "Very much friendly & explained each & every aspect of the ailments and it's recovery*  * ***** *** ** *** **** ****** ** **** *********** ******* * recommends all to check up him, if anyone suffered from knee problems. ",
+                "review_alterations": [
+                    {
+                        "start_index": 84,
+                        "end_index": 147,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 431241
+                    }
+                ],
+                "reviewed_on": "2022-10-31 09:41:25",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumit Halder"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 169773,
+                "text": "Cervical Spondylitis Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2325297,
+            "status": "PUBLISHED",
+            "note": "2024-01-17 05:27:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-17T06:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46339953,
+                "review_text": "** ****** ********** I visited for worsening neck pain, radiating pain to arm. He said there must be nerve bulging issue if we do further tests, and I will get tensed by seeing the results.. instead just do physio .. I was extremely disappointed with such an experienced doctor ****** ********** **** ******* *** *** ******* ** ******** ********. \nI would not recommend him for cervical treatment atleast.. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 477197
+                    },
+                    {
+                        "start_index": 278,
+                        "end_index": 344,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 477198
+                    }
+                ],
+                "reviewed_on": "2024-01-15 06:32:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kalilur Rahman H"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 495216,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-14T04:27:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32850563,
+                "review_text": "Not a great listner.\nSuper arrogant. Had chest cartilege injury, while i was clearly showing him how the problem started and the pain points, he was in too much hurry to listen. Suggeated some physio, problem is, for sternum/cartulege injury exercise in early stage makes problem worse.At one point he shouted on me for asking detailed questions and taking his time. Needless to say, his misdiagnosis costed me a lot of pain and time.",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-13 12:53:46",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nikhil Gavraskar"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 280,
+                "text": "Knee Replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1979401,
+            "status": "PUBLISHED",
+            "note": "2022-04-26 08:52:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-26T09:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44314454,
+                "review_text": "The doctor is very experienced and well spoken. My father is patient of aplastIc anemia and he explained really well if we should take further step or not",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-25 08:15:19",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ARPITA PAUL"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1277,
+                "text": "Ankle Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 484423,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-01T07:37:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32210219,
+                "review_text": "Doctor was very senior *** ****** ** *** ****** He examined my ankle thoroughly and suggested food and exercise apart from medicine. ",
+                "review_alterations": [
+                    {
+                        "start_index": 23,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 30126
+                    }
+                ],
+                "reviewed_on": "2017-02-28 06:24:55",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Zeeshan Khateeb"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2188178,
+            "status": "PUBLISHED",
+            "note": "2023-04-24 07:02:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-24T08:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45520999,
+                "review_text": "Always in a hurry. No patience to listen. Doesn't give even 7-8 minutes time to listen and answer doubts or queries. However, he is a soft spoken gentleman. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-23 05:54:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 425806,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-12-16T09:04:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 28606961,
+                "review_text": "Good reception, quck analysis and good advice  on the Diet and course of actions for long term .overall it was nice experience",
+                "review_alterations": [],
+                "reviewed_on": "2016-12-13 06:50:34",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101965,
+                "text": "Neck Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 402876,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-15T11:12:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 27086303,
+                "review_text": "Saw us on time, *** ********* ***** Though he needs to communicate better- both listen and talk. And also examine comprehensively",
+                "review_alterations": [
+                    {
+                        "start_index": 16,
+                        "end_index": 34,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 14022
+                    }
+                ],
+                "reviewed_on": "2016-11-08 10:29:49",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 183094,
+                "text": "Upper Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2090214,
+            "status": "PUBLISHED",
+            "note": "2022-10-26 07:14:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-26T08:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44956043,
+                "review_text": "Bunch of mismanaged lot.no point in taking an appointment when we have to wait for such a long time.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-24 09:45:36",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 5,
+                "text": "Knee replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 449643,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-17T05:50:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30112857,
+                "review_text": "** * * *********** ** *** *** ** *** **** *** ****** ******* *** **** *********** ******** I did a lot of research and then admitted my father-in-law for the unilateral knee replacement under Dr RDC . The kind of service that Narayana Health provides is really very good with great surgeons. My Father-in-law was fit to walk within 4 days..\n\n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 90,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 22748
+                    }
+                ],
+                "reviewed_on": "2017-01-15 06:06:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sudeep"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1112,
+                "text": "Joint and Muscle Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093388,
+            "status": "PUBLISHED",
+            "note": "2022-11-01 10:00:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-01T10:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44974254,
+                "review_text": "Very much friendly & explained each & every aspect of the ailments and it's recovery*  * ***** *** ** *** **** ****** ** **** *********** ******* * recommends all to check up him, if anyone suffered from knee problems. ",
+                "review_alterations": [
+                    {
+                        "start_index": 84,
+                        "end_index": 147,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 431241
+                    }
+                ],
+                "reviewed_on": "2022-10-31 09:41:25",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumit Halder"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 169773,
+                "text": "Cervical Spondylitis Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2325297,
+            "status": "PUBLISHED",
+            "note": "2024-01-17 05:27:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-17T06:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46339953,
+                "review_text": "** ****** ********** I visited for worsening neck pain, radiating pain to arm. He said there must be nerve bulging issue if we do further tests, and I will get tensed by seeing the results.. instead just do physio .. I was extremely disappointed with such an experienced doctor ****** ********** **** ******* *** *** ******* ** ******** ********. \nI would not recommend him for cervical treatment atleast.. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 477197
+                    },
+                    {
+                        "start_index": 278,
+                        "end_index": 344,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 477198
+                    }
+                ],
+                "reviewed_on": "2024-01-15 06:32:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kalilur Rahman H"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 495216,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-14T04:27:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32850563,
+                "review_text": "Not a great listner.\nSuper arrogant. Had chest cartilege injury, while i was clearly showing him how the problem started and the pain points, he was in too much hurry to listen. Suggeated some physio, problem is, for sternum/cartulege injury exercise in early stage makes problem worse.At one point he shouted on me for asking detailed questions and taking his time. Needless to say, his misdiagnosis costed me a lot of pain and time.",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-13 12:53:46",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nikhil Gavraskar"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 280,
+                "text": "Knee Replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1979401,
+            "status": "PUBLISHED",
+            "note": "2022-04-26 08:52:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-26T09:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44314454,
+                "review_text": "The doctor is very experienced and well spoken. My father is patient of aplastIc anemia and he explained really well if we should take further step or not",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-25 08:15:19",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ARPITA PAUL"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1277,
+                "text": "Ankle Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 484423,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-01T07:37:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32210219,
+                "review_text": "Doctor was very senior *** ****** ** *** ****** He examined my ankle thoroughly and suggested food and exercise apart from medicine. ",
+                "review_alterations": [
+                    {
+                        "start_index": 23,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 30126
+                    }
+                ],
+                "reviewed_on": "2017-02-28 06:24:55",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Zeeshan Khateeb"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2188178,
+            "status": "PUBLISHED",
+            "note": "2023-04-24 07:02:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-24T08:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45520999,
+                "review_text": "Always in a hurry. No patience to listen. Doesn't give even 7-8 minutes time to listen and answer doubts or queries. However, he is a soft spoken gentleman. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-23 05:54:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 425806,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-12-16T09:04:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 28606961,
+                "review_text": "Good reception, quck analysis and good advice  on the Diet and course of actions for long term .overall it was nice experience",
+                "review_alterations": [],
+                "reviewed_on": "2016-12-13 06:50:34",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101965,
+                "text": "Neck Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 402876,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-15T11:12:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 27086303,
+                "review_text": "Saw us on time, *** ********* ***** Though he needs to communicate better- both listen and talk. And also examine comprehensively",
+                "review_alterations": [
+                    {
+                        "start_index": 16,
+                        "end_index": 34,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 14022
+                    }
+                ],
+                "reviewed_on": "2016-11-08 10:29:49",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 542459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 183094,
+                "text": "Upper Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2090214,
+            "status": "PUBLISHED",
+            "note": "2022-10-26 07:14:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527470,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-26T08:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44956043,
+                "review_text": "Bunch of mismanaged lot.no point in taking an appointment when we have to wait for such a long time.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-24 09:45:36",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 809112,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

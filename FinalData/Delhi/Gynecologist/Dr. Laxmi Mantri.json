@@ -1,0 +1,314 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2384708,
+            "status": "PUBLISHED",
+            "note": "2024-05-16 08:04:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 621591,
+            "practice_id": 1130787,
+            "practice_name": "Dr. R.R Mantri Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-16T09:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46680724,
+                "review_text": "*** *** ************* *** had good suggestions for next course of treatment.  Found her to be quite senior and experienced. \nBLK consulting fees was INR 1700 + Registration. \nWait time was 40 mins \nVitals check -   Weight and BP ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 24,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 486337
+                    }
+                ],
+                "reviewed_on": "2024-05-15 07:14:01",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pragya"
+        },
+        "entity_id": 645795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1150582,
+            "status": "PUBLISHED",
+            "note": "2019-05-11 06:28:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 621591,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-11T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39471410,
+                "review_text": "I have visit many of the gynaecologist for my wife pregnancy issue....but could not find any medical and metal satisfaction....now at last I visit Dr. Laxmi Mantri****** ** *** **** *** nice gynaecologist I have ever seen. She is highly experienced, soft spoken, understand the problems and many more.... So, I recommended Dr. Laxmi Mantri for any type of Gynae problems....\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                "review_alterations": [
+                    {
+                        "start_index": 163,
+                        "end_index": 185,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 174827
+                    }
+                ],
+                "reviewed_on": "2019-05-10 04:46:07",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 602498,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 184134,
+                "text": "Pregnancy with PCOD"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1399972,
+            "status": "PUBLISHED",
+            "note": "2024-05-05 04:58:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 621591,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-05T05:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41126124,
+                "review_text": "She may be a good doctor *** * *** * ******** ********** **** ****  She asked for old papers but when she came to know that these old papers are of other doctor, she did not bother to see what doctor has observed or prescribed. She did not even see the reports of tests that other doctor had prescribed.  I told her that I am trying for last 1 year but unable to get pregnant, she directly prescribed HSG. while the first step should be give medication that help in evolution. Later she prescribed follicular study.  Her exact prescription is \"10th day onwards\". She did not told for how many days the test should be done. She even did not bother to mention next day of visit. ",
+                "review_alterations": [
+                    {
+                        "start_index": 25,
+                        "end_index": 66,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 485507
+                    }
+                ],
+                "reviewed_on": "2024-05-03 13:48:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 602498,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 152020,
+                "text": "Complicated Pregnancy Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1387431,
+            "status": "PUBLISHED",
+            "note": "2020-03-04 06:10:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 621591,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-04T07:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41049279,
+                "review_text": "*** **** *** I already explain my wife case but still she took lightly and another mis carriage happen. Me and wife already told her for stitches on cervical but she told no issues everything is ok but after 22 weeks pregnancy cervical length open and preterm delivery happen.please do not visit.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 11,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 253256
+                    }
+                ],
+                "reviewed_on": "2020-03-02 11:29:18",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nitin kumar "
+        },
+        "entity_id": 602498,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2290260,
+            "status": "PUBLISHED",
+            "note": "2023-11-10 06:48:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 621591,
+            "practice_id": 1130787,
+            "practice_name": "Dr. R.R Mantri Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-10T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46141378,
+                "review_text": "She was very patient enough to listen to us and clear our doubts. She seems very professional and experienced ",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-09 06:15:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 645795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2272411,
+            "status": "PUBLISHED",
+            "note": "2023-10-07 07:37:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 621591,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-07T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46040076,
+                "review_text": "Dr. Laxmi is really wonderful, did a great job. Highly recommended . Explained everything in details and very calmly",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-06 07:35:29",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 602498,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2257876,
+            "status": "PUBLISHED",
+            "note": "2023-09-07 11:11:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 961514,
+            "practice_id": 1052964,
+            "practice_name": "Dr. Mehta's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-07T12:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45950533,
+                "review_text": "****** ** ****** *****  You MUST visit for any child neuro related issues. You will not be disappointed. He is really dedicated to his profession. Hard to see such doctors nowadays.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 467749
+                    }
+                ],
+                "reviewed_on": "2023-09-06 10:47:21",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Madhusudhan V"
+        },
+        "entity_id": 790426,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

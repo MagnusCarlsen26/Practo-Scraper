@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192842,
+                "text": "Heart Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2058739,
+            "status": "PUBLISHED",
+            "note": "2022-09-02 06:18:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1000570,
+            "practice_id": 1365095,
+            "practice_name": "Doctors' Hub",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-02T07:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44774530,
+                "review_text": "The Doctor was patient to listen to the issue being faced. Checked physical parameters and provided correct advise.",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-30 14:05:34",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kumar s"
+        },
+        "entity_id": 825931,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

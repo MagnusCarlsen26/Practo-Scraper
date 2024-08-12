@@ -1,0 +1,105 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144122,
+                "text": "Dental Braces Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1245016,
+            "status": "PUBLISHED",
+            "note": "2019-09-13 05:34:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 572286,
+            "practice_id": 648513,
+            "practice_name": "Smile With Us Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40070977,
+                "review_text": "Dr.praveen treated me .I think his name is not in this list T_T...its ok.my teeth was in a very bad condition and now it looks sooo beautiful when I smile.before i hesitated to smile but now people ask me to smile they said it makes them happy seeing me smiling....before I was afraid of dentist and now I eagerly wait for the appointment. I'm really satisfied with the treatment. The doctors are sooo sweet there. They care about everything. Each and every second they ask if its paining or not. They make sure that they don't hurt the patient. They don't only treat the patients they make happy by talking good things. They understand the problem of the patients completely u don't need to describe ur pain to them. People say dentist are so dangerous and this sweet doctors prove that they are not....(*Thank you for treating me soo good*)..\ud83d\udc9c",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-11 15:28:59",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 64760,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1247,
+                "text": "Skin Disorder"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 224365,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 572286,
+            "practice_id": 648513,
+            "practice_name": "Smile With Us Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-03-28T10:22:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 15047810,
+                "review_text": "good doctor, take time to discussion, very affordable charges. neat and clean.and honest . my experience with doctor is very good ",
+                "review_alterations": [],
+                "reviewed_on": "2016-03-26 18:28:08",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sathyanarayan.U"
+        },
+        "entity_id": 64760,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

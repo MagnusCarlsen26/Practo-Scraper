@@ -1,0 +1,56 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1363960,
+            "status": "PUBLISHED",
+            "note": "2020-02-09 10:23:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 732450,
+            "practice_id": 1233233,
+            "practice_name": "Smile World  Multispeciality Dental Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-09T11:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40893593,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 67,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 246180
+                    }
+                ],
+                "reviewed_on": "2020-02-08 07:50:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Vaidehi"
+        },
+        "entity_id": 673579,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

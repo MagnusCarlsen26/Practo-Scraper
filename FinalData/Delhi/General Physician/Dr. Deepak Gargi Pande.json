@@ -1,0 +1,140 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2329860,
+            "status": "PUBLISHED",
+            "note": "2024-01-25 06:52:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 433220,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-25T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46365837,
+                "review_text": "Hello,I am Lalita Arora and was admitted in BLK hospital for severe dehydration.I was under observation of Dr Deepak Gargi Pandey.He is such a nice and affectionate doctor,I got so much impressed with him.He explains each and every thing to the patient.He is very friendly with his patients.Highly recommended Physician .I salute him.\n",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-24 06:22:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lalita Arora "
+        },
+        "entity_id": 668554,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1737658,
+            "status": "PUBLISHED",
+            "note": "2021-06-01 10:43:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 433220,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-01T11:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42915839,
+                "review_text": "Superb talented doctor n very gud human being seriously hats off ur patience n ur work. Thank for helping us",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-31 10:42:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "neha"
+        },
+        "entity_id": 668554,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1497717,
+            "status": "PUBLISHED",
+            "note": "2020-08-21 09:30:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 433220,
+            "practice_id": 857071,
+            "practice_name": "G.D. Healthcare & Diabetes Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-21T10:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41628041,
+                "review_text": "Identifies symptoms correctly,  treats well, I am satisfied and recommend others for him. Efficient    \nDoctor, good communication ",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-20 09:28:47",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 364658,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 501,
+                "text": "Oral Cancer Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1271765,
+            "status": "PUBLISHED",
+            "note": "2019-10-18 07:25:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 494911,
+            "practice_id": 1005781,
+            "practice_name": "Apollo Speciality Cancer Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-18T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40245275,
+                "review_text": "I went for my brother in law suffering from oral issues.\nDr CS Mani took all efforts to explain the issue as well take us into the procedure involved. Dr CS Mani helped us to get mentally prepared for the treatment and gave mental strength. His method is very positive oriented and not negative at all. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-17 07:24:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "TS RAVI"
+        },
+        "entity_id": 438011,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1987513,
+            "status": "PUBLISHED",
+            "note": "2022-05-08 11:56:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 494911,
+            "practice_id": 1005781,
+            "practice_name": "Apollo Cancer Centres Chennai",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-08T12:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44359903,
+                "review_text": "*** **** ****** *** *** *** *** an amazing person. Words fall short to describe this ********* doctor. Once you consult him, all your worries and concern will simply disappear and you will get healed and not just cured.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 31,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 408646
+                    },
+                    {
+                        "start_index": 85,
+                        "end_index": 93,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 408647
+                    }
+                ],
+                "reviewed_on": "2022-05-07 11:21:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 438011,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

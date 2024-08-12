@@ -1,0 +1,57 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2270475,
+            "status": "PUBLISHED",
+            "note": "2023-10-05 05:57:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 546148,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-05T06:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46030418,
+                "review_text": "Dr Sanjeeva  Gupta is Amazing doctor \nHe explained everything about Cardiac problem\ud83d\ude0a and well experience ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-03 13:24:53",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 844906,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

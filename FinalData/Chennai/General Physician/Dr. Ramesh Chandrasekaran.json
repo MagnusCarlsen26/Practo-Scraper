@@ -1,0 +1,303 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 684107,
+            "status": "PUBLISHED",
+            "note": "2017-09-27 10:37:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 564054,
+            "practice_id": 960771,
+            "practice_name": "Alwarpet Diabetes Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-27T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35664794,
+                "review_text": "Dr.Ramesh understands patience problems,very comfortable and friendly to patients. He patently listens to our problems and gives advice which helped me to control my diabetes. He provides tips to patience how to control diabetes rather giving medicines and he gives concessions on lab tests. I heartful recommend this doctor to the people who are suffering from diabetes.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-20 04:12:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prasad"
+        },
+        "entity_id": 538546,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 660559,
+            "status": "PUBLISHED",
+            "note": "2017-08-26 06:11:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 564054,
+            "practice_id": 960771,
+            "practice_name": "Alwarpet Diabetes Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-26T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35435590,
+                "review_text": "Dr Ramesh has been my Mom's diabetes and general doctor for quite sometime now and i would be more than happy to recommend Dr Ramesh to other diabetic patients. The best thing about Dr Ramesh is that he prescribes medicines only when there is absolute necessity and  he mixes natural remedies with prescriptions whenever possible.",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-24 14:10:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "S Chandrmohan"
+        },
+        "entity_id": 538546,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193561,
+                "text": "Diabetes Counselling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 661735,
+            "status": "PUBLISHED",
+            "note": "2017-08-27 10:14:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 564054,
+            "practice_id": 960771,
+            "practice_name": "Alwarpet Diabetes Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-27T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35446990,
+                "review_text": "Dr.Ramesh Chandrasekaran, until I met him,nothing was going right in my life and it worsened when I discovered I had diabetes (Six years ago).\nHe was more than a doctor and I acted upon his advise (following diet, medicine & mild dose of tablet). I witnessed the results in less than 3 months and thanks to him.*********** ********** ** ******** ************* ******* *** ******* ******** *** ** ******* ********* *** ******** ** ***** * ************* ** ** *** **** ************* *** also humble enough to listen to our questions and clarify our doubts. Thank you doctor!",
+                "review_alterations": [
+                    {
+                        "start_index": 311,
+                        "end_index": 484,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 63343
+                    }
+                ],
+                "reviewed_on": "2017-08-26 07:49:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 538546,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 621049,
+            "status": "PUBLISHED",
+            "note": "2017-07-14 10:45:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 564054,
+            "practice_id": 960771,
+            "practice_name": "Alwarpet Diabetes Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-14T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35024607,
+                "review_text": "very humble, polite, jovial, helpful, friendly, caring, understands patients problem & economic situation of the patient. He gives concession for testing. My mom's diabetes is under good control after consulting him. It's really good to know a Dr like this. I strongly recommend him for diabetes patients. Affordable  fee.",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-12 17:11:18",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Muneera"
+        },
+        "entity_id": 538546,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 660399,
+            "status": "PUBLISHED",
+            "note": "2017-08-25 13:24:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 564054,
+            "practice_id": 960771,
+            "practice_name": "Alwarpet Diabetes Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-25T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35434137,
+                "review_text": "I was very happy for the treatment, he is friendiness to the patient and very comfortable to the patient.",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-24 12:26:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr. Sampath"
+        },
+        "entity_id": 538546,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101486,
+                "text": "Type 2 Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 735099,
+            "status": "PUBLISHED",
+            "note": "2017-11-26 13:43:23",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 564054,
+            "practice_id": 960771,
+            "practice_name": "Alwarpet Diabetes Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-26T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36168050,
+                "review_text": "I have been under his consulting for over 9 years now.   Approachable, Practical & supportive.  I would strongly recommend  for Diabetic consulting / treatment with him.",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-25 13:36:04",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manikandaraman"
+        },
+        "entity_id": 538546,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

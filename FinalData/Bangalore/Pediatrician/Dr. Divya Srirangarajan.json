@@ -1,0 +1,344 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1447166,
+            "status": "PUBLISHED",
+            "note": "2020-06-18 06:49:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604713,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-18T07:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41373901,
+                "review_text": "My little daughter had a dental issue. My husband took her to the hospital. She had tooth pain. *** ****** *** ****. We are satisfied with the treatment given. I can recommend doctor to my family or friends. It was a normal visit. My daughter is fine now.",
+                "review_alterations": [
+                    {
+                        "start_index": 95,
+                        "end_index": 114,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 271262
+                    }
+                ],
+                "reviewed_on": "2020-06-16 17:59:35",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Alisha chowdhury"
+        },
+        "entity_id": 590260,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1120,
+                "text": "Cough In Children"
+            },
+            {
+                "id": 2131,
+                "text": "Childhood Infections"
+            },
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1180526,
+            "status": "PUBLISHED",
+            "note": "2019-06-20 06:46:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604713,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-20T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39660163,
+                "review_text": "Doctor diagnosed very soon and very simple to explain about treatment and very friendly nature to the childrens ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-19 05:17:55",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "VINOD KUMAR B C"
+        },
+        "entity_id": 590260,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2064508,
+            "status": "PUBLISHED",
+            "note": "2022-09-10 06:39:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604713,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-10T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44808570,
+                "review_text": "*** ** *** **** ******** ****** * **** **** **** I went to her for my 3 years old son's treatment. He was having breathing difficulty due to cough and cold. She suggested some tests like x-ray, ecg and all ,which we have done. ***** ******** *** **** ******* *** *** ****** **** ******** ***** ** ***** *********** she told us to admit him in the hospital wanted to give him oxygen. Most important when we asked her for medicines she refused. Instead she told us to decide whether we are going to admit him or not.\nWe have decided to visit another doctor *** ** *** ** ********** ***** Better not to visit her for your child's treatment . ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 47,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 425366
+                    },
+                    {
+                        "start_index": 227,
+                        "end_index": 314,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 425367
+                    },
+                    {
+                        "start_index": 555,
+                        "end_index": 584,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 425368
+                    }
+                ],
+                "reviewed_on": "2022-09-09 04:10:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nilufar "
+        },
+        "entity_id": 590260,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1253514,
+            "status": "PUBLISHED",
+            "note": "2019-09-24 07:46:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604713,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-24T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40125682,
+                "review_text": "I deeply condemn the doctor for being so harsh on my baby, she cried for over 10 hrs after she gave her vaccination. They used doctor tape of very bad quality and for a prick the tape was stuck for more than 2 inches. Highly regret seeking her treatment",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-21 18:59:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Aayushi"
+        },
+        "entity_id": 590260,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2069638,
+            "status": "PUBLISHED",
+            "note": "2022-09-20 05:45:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604713,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-20T06:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44838778,
+                "review_text": "*** ****** ****** **** * ******* *** ********** **** We were undergoing treatment of my 1 year old daughter with Dr. parimala Thirumalesh. Since we had no appointment and walkin was not there that day, We visited dr. Divya S. in case of emergency. It was a horrible experience. She force us to do all test, xrays... When we shaw the report she didn't speak a single word about. She was talking as if we had made the blunder that we were taking treatment with Dr. P.  Thirumalesh and why we approached her in case of emergency..i can't explain what kind of question she did that day. So that day we returned without nay treatment. ** *** ***** ***** * **** ********* *** ******** *********** *** ******** ********** *** ** *** **** * ******* *** ** **** *********** *** ***** **** ** ********** ****** ***  ** ** **** ********* ** **** *********** ** *** ******** ************* ** *** ** *********** *** **** *** **** ****** ** ********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 51,
+                        "reason": "NON_COMPLIANT",
+                        "id": 426432
+                    },
+                    {
+                        "start_index": 630,
+                        "end_index": 936,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426433
+                    }
+                ],
+                "reviewed_on": "2022-09-17 03:20:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 590260,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1120,
+                "text": "Cough In Children"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1218377,
+            "status": "PUBLISHED",
+            "note": "2019-08-09 05:25:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604713,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-09T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39900980,
+                "review_text": "Not very friendly. Need to be a bit more sensitive. Understand the background or medical history of the patient ****** ***** *********** ***** *** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 111,
+                        "end_index": 151,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 198047
+                    }
+                ],
+                "reviewed_on": "2019-08-07 17:32:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Koushik"
+        },
+        "entity_id": 590260,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

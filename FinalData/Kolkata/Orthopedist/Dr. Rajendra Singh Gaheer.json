@@ -1,0 +1,96 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            },
+            {
+                "id": 718,
+                "text": "Joint Dislocation Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2405810,
+            "status": "PUBLISHED",
+            "note": "2024-06-29 06:21:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 999977,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-29T07:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46801461,
+                "review_text": "Elbow joint issue. He was an  excellent doctor and very nicely treated the issue . I would strongly recommend the doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-27 13:51:45",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 822012,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 288,
+                "text": "Physiotherapy for Sports Injury Rehabilitation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2227728,
+            "status": "PUBLISHED",
+            "note": "2023-07-06 09:28:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 999977,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-06T10:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45755991,
+                "review_text": "Very friendly and Explain everything very nicely.  Check thoroughly knees/joint and their movement. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-04 15:22:38",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nilmadhab Mondal"
+        },
+        "entity_id": 822012,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

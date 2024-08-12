@@ -1,0 +1,1046 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 288,
+                "text": "Physiotherapy for Sports Injury Rehabilitation"
+            },
+            {
+                "id": 1194,
+                "text": "Knee Problems"
+            },
+            {
+                "id": 875,
+                "text": "Hip Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2369513,
+            "status": "PUBLISHED",
+            "note": "2024-04-16 07:44:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-16T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46593532,
+                "review_text": "I have been consulting Dr Karthik since  almost 20 years. Dr is very well experienced hence diagnosis the problem very well* **** *** *** *** ** *** *********** ***** ***** Very  friendly, trustworthy, humorous which makes patient very comfortable and mentally happy. \n",
+                "review_alterations": [
+                    {
+                        "start_index": 123,
+                        "end_index": 171,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 483901
+                    }
+                ],
+                "reviewed_on": "2024-04-13 14:02:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 552493,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-10T12:16:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34326020,
+                "review_text": "I have been consulting this doctor for all Ortho issues in my family from last 4 years even while he was practicing with Apollo. You can rely on him that he won't ask you to do unnecessary scan or tests. \n\nVery humble in approach, without making any hurry while consultations. Best part is he don't even prescripe costly medicines unlike other doctors who  intend to make revenue of every opportunity. \nSurgery would be the last option if you visit him, he will have alternatives of most of the ortho issues.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-08 13:36:34",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arun"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 487792,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 920071,
+            "practice_name": "The Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-04T03:17:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32383046,
+                "review_text": "**** ** ********* ****** ** He is not interested in diagnostic tests or medicines. His focus was on curing me! Isn't that obvious? Sadly, that doesn't happen as other doctors focus on tests and medicines. \nI highly recommend Dr. Karthik for being an authentic caregiver *** **** ************* What others could not diagnose using tests for 1 year, Dr. Karthik did in 15 minutes. What others could not help cure from expensive medicines, Dr. Karthik did through suggesting posture and exercises. Thank you Dr. Karthik! ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 27,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 30766
+                    },
+                    {
+                        "start_index": 270,
+                        "end_index": 292,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 30767
+                    }
+                ],
+                "reviewed_on": "2017-03-04 03:05:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rahul Bhargava"
+        },
+        "entity_id": 387040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            },
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2189968,
+            "status": "PUBLISHED",
+            "note": "2023-04-28 06:25:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-28T07:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45532038,
+                "review_text": "Doctor very busy, he ha very few time to even listen  to us, he immediately concluded diagonises and suggested some excerise and left.... He had no time",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-26 16:54:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "SETHURAMAN"
+        },
+        "entity_id": 387040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 356201,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-19T07:51:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24302169,
+                "review_text": "*** ******* * ** ** ******* ******* I regret not visiting him at an early stage of my treatment. After I spoke with him I was convinced and all my questions were answered. He is a great doctor. He listened patiently to me and treated me exceptionally well. I would recommemd him to all who are facing any kind of orthopedic problems. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 34,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 5468
+                    }
+                ],
+                "reviewed_on": "2016-09-09 00:30:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajiv Kumar"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 277259,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-01T05:00:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 18910353,
+                "review_text": "Am amazing doctor. Very good diagnostician. Listens properly and gives time. Unlike doctors these days who just give a cursory glance at the problem, or are too busy to talk and make the patient at ease. Explains the issue through diagrams so that we are clear about the issue too. Would highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-01 03:58:17",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pallavi Jain"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 127826,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-11-17T04:37:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 8406943,
+                "review_text": "If I have to use one word to describe my experience with this doctor, it would be \"excellent\". Dr Karthik completely understands his patients' needs and values their money. His diagnosis is spot-on and he never orders tests and investigations unnecessarily. His gentle ways of dealing with patients put them at complete ease.\r\nI would strongly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2015-11-17 04:37:02",
+                "channel": "web_sms",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ravindra G. Rao"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 66,
+                "text": "Bone Fracture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 309829,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-12T07:52:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 21208651,
+                "review_text": "Excellent and very principled and highly patient friendly doctor. The way he discuss and explain patient,  we will feel relief then and there. Amazingly good person first. I strongly recommend orthopaedic, back pain related patients to visit Dr. Karthik \nRegards \nSreeni ",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-12 07:47:43",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sreenivasa Reddy Bhimanatham"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2199296,
+            "status": "PUBLISHED",
+            "note": "2023-05-17 04:52:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-17T05:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45588108,
+                "review_text": "**** **** ********.to the point and extremely patient friendly...highly recommend for ortho issues...i went for problem with elbow pain.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 456034
+                    }
+                ],
+                "reviewed_on": "2023-05-15 10:40:32",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sir Paul"
+        },
+        "entity_id": 387040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 930,
+                "text": "Shoulder SLAP (Tear) Lesions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 534161,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 920071,
+            "practice_name": "The Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-21T07:20:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34131683,
+                "review_text": "Dr. Karthik is very humble and a good listener. *** ********* ** ******** *** mostly doesn't rely on the expensive diagnostic tests.",
+                "review_alterations": [
+                    {
+                        "start_index": 47,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 40750
+                    }
+                ],
+                "reviewed_on": "2017-04-21 07:16:06",
+                "channel": "sapphire",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arwa"
+        },
+        "entity_id": 387040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 288,
+                "text": "Physiotherapy for Sports Injury Rehabilitation"
+            },
+            {
+                "id": 1194,
+                "text": "Knee Problems"
+            },
+            {
+                "id": 875,
+                "text": "Hip Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2369513,
+            "status": "PUBLISHED",
+            "note": "2024-04-16 07:44:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-16T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46593532,
+                "review_text": "I have been consulting Dr Karthik since  almost 20 years. Dr is very well experienced hence diagnosis the problem very well* **** *** *** *** ** *** *********** ***** ***** Very  friendly, trustworthy, humorous which makes patient very comfortable and mentally happy. \n",
+                "review_alterations": [
+                    {
+                        "start_index": 123,
+                        "end_index": 171,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 483901
+                    }
+                ],
+                "reviewed_on": "2024-04-13 14:02:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 552493,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-10T12:16:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34326020,
+                "review_text": "I have been consulting this doctor for all Ortho issues in my family from last 4 years even while he was practicing with Apollo. You can rely on him that he won't ask you to do unnecessary scan or tests. \n\nVery humble in approach, without making any hurry while consultations. Best part is he don't even prescripe costly medicines unlike other doctors who  intend to make revenue of every opportunity. \nSurgery would be the last option if you visit him, he will have alternatives of most of the ortho issues.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-08 13:36:34",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arun"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 487792,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 920071,
+            "practice_name": "The Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-04T03:17:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32383046,
+                "review_text": "**** ** ********* ****** ** He is not interested in diagnostic tests or medicines. His focus was on curing me! Isn't that obvious? Sadly, that doesn't happen as other doctors focus on tests and medicines. \nI highly recommend Dr. Karthik for being an authentic caregiver *** **** ************* What others could not diagnose using tests for 1 year, Dr. Karthik did in 15 minutes. What others could not help cure from expensive medicines, Dr. Karthik did through suggesting posture and exercises. Thank you Dr. Karthik! ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 27,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 30766
+                    },
+                    {
+                        "start_index": 270,
+                        "end_index": 292,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 30767
+                    }
+                ],
+                "reviewed_on": "2017-03-04 03:05:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rahul Bhargava"
+        },
+        "entity_id": 387040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            },
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2189968,
+            "status": "PUBLISHED",
+            "note": "2023-04-28 06:25:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-28T07:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45532038,
+                "review_text": "Doctor very busy, he ha very few time to even listen  to us, he immediately concluded diagonises and suggested some excerise and left.... He had no time",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-26 16:54:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "SETHURAMAN"
+        },
+        "entity_id": 387040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 356201,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-19T07:51:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24302169,
+                "review_text": "*** ******* * ** ** ******* ******* I regret not visiting him at an early stage of my treatment. After I spoke with him I was convinced and all my questions were answered. He is a great doctor. He listened patiently to me and treated me exceptionally well. I would recommemd him to all who are facing any kind of orthopedic problems. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 34,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 5468
+                    }
+                ],
+                "reviewed_on": "2016-09-09 00:30:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajiv Kumar"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 277259,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-01T05:00:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 18910353,
+                "review_text": "Am amazing doctor. Very good diagnostician. Listens properly and gives time. Unlike doctors these days who just give a cursory glance at the problem, or are too busy to talk and make the patient at ease. Explains the issue through diagrams so that we are clear about the issue too. Would highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-01 03:58:17",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pallavi Jain"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 127826,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-11-17T04:37:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 8406943,
+                "review_text": "If I have to use one word to describe my experience with this doctor, it would be \"excellent\". Dr Karthik completely understands his patients' needs and values their money. His diagnosis is spot-on and he never orders tests and investigations unnecessarily. His gentle ways of dealing with patients put them at complete ease.\r\nI would strongly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2015-11-17 04:37:02",
+                "channel": "web_sms",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ravindra G. Rao"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 66,
+                "text": "Bone Fracture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 309829,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 637556,
+            "practice_name": "Brigade Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-12T07:52:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 21208651,
+                "review_text": "Excellent and very principled and highly patient friendly doctor. The way he discuss and explain patient,  we will feel relief then and there. Amazingly good person first. I strongly recommend orthopaedic, back pain related patients to visit Dr. Karthik \nRegards \nSreeni ",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-12 07:47:43",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sreenivasa Reddy Bhimanatham"
+        },
+        "entity_id": 141871,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2199296,
+            "status": "PUBLISHED",
+            "note": "2023-05-17 04:52:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-17T05:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45588108,
+                "review_text": "**** **** ********.to the point and extremely patient friendly...highly recommend for ortho issues...i went for problem with elbow pain.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 456034
+                    }
+                ],
+                "reviewed_on": "2023-05-15 10:40:32",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sir Paul"
+        },
+        "entity_id": 387040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 930,
+                "text": "Shoulder SLAP (Tear) Lesions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 534161,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 251974,
+            "practice_id": 920071,
+            "practice_name": "The Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-21T07:20:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34131683,
+                "review_text": "Dr. Karthik is very humble and a good listener. *** ********* ** ******** *** mostly doesn't rely on the expensive diagnostic tests.",
+                "review_alterations": [
+                    {
+                        "start_index": 47,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 40750
+                    }
+                ],
+                "reviewed_on": "2017-04-21 07:16:06",
+                "channel": "sapphire",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arwa"
+        },
+        "entity_id": 387040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

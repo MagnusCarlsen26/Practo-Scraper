@@ -1,0 +1,101 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2171660,
+            "status": "PUBLISHED",
+            "note": "2023-03-22 14:47:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 972515,
+            "practice_id": 1366106,
+            "practice_name": "Sree Manju Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-22T15:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45419584,
+                "review_text": "I was exercising at home and i met with a severe fracture in my right leg where i got multiple fractures. I couldnt get up and i was rushed somehow to the hospital. I was being operated by two doctors in Manju hospitals .And one of them was Dr. Prashanth. This was the first time ever i had met with such an accident and i had given up all hopes . But he calmed me down ,assured me everything will be fine. Xrays and various reports were being taken and i had to be operated . And i had two plates and screws fixed . I was under doctors observations for 3 to 4 days . And after which i was discharged . I had a cast for almost 4 weeks and i was asked to rest . After which it was removed and then i was being asked to walk by putting 25% weight initially and slowly increasing it gradually. I am still recovering. But i am very much happy with entire process of treatment and guidance that i got from Dr. Prashanth. He is very knowledegable and helpful. And he is always ready to clear your doubts abt ur bone healing process or any other issues. I would definitely like to recommend him to more n more atients like me . ** ** *** ** *** **** *********** ******* * **** **** ***. Thank u doctor. ",
+                "review_alterations": [
+                    {
+                        "start_index": 1120,
+                        "end_index": 1177,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449614
+                    }
+                ],
+                "reviewed_on": "2023-03-21 14:45:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Minakshi Kamath"
+        },
+        "entity_id": 799572,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1917228,
+            "status": "PUBLISHED",
+            "note": "2022-01-22 04:23:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 972515,
+            "practice_id": 1366106,
+            "practice_name": "Sree Manju Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-22T05:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43969163,
+                "review_text": "Good and friendly nature. ***** ** ** *  **** **********  He is not threatening about the cause, which is always gives strengthen to patient. ",
+                "review_alterations": [
+                    {
+                        "start_index": 25,
+                        "end_index": 55,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 393251
+                    }
+                ],
+                "reviewed_on": "2022-01-20 14:37:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 799572,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

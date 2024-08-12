@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2145000,
+            "status": "PUBLISHED",
+            "note": "2023-02-04 07:17:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 768631,
+            "practice_id": 1132620,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-04T08:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45266465,
+                "review_text": "my son had a viral fever for 5 days, fever was not going down. she just didnt prescribe antibiotics like that. she asked us to wait. she explained the issue very well. I would recommend this doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-03 07:15:49",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 810386,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

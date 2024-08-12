@@ -1,0 +1,96 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2199419,
+            "status": "PUBLISHED",
+            "note": "2023-05-17 05:49:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 768666,
+            "practice_id": 1250516,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-17T06:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45588812,
+                "review_text": "I Mr. Selim Laskar. My mother Mrs. Lalbanu Laskar. My mother is a Heart Patient. On 11th May 2023 Dr. Amit Bhauwala sir Operation my mother. Dr. Amit Bhauwala is a Gentle , ********* *** *** ** *** **** ****** ** ******** Big thanks to Amit Bhauwala Sir.",
+                "review_alterations": [
+                    {
+                        "start_index": 173,
+                        "end_index": 220,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 456062
+                    }
+                ],
+                "reviewed_on": "2023-05-15 13:58:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Selim Laskar"
+        },
+        "entity_id": 692017,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1773318,
+            "status": "PUBLISHED",
+            "note": "2021-07-13 10:32:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 768666,
+            "practice_id": 1250516,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-13T11:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43110719,
+                "review_text": "A real patient friendly Doctor. Always available for any emergencies. My practical experience, he called back in the midnight to guide us about our patient. After Operation he takes care of the patient like anything. He changes the dressing by his own hands even in the post operative follow ups. ** ******* ********* ******* \n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 296,
+                        "end_index": 324,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 358239
+                    }
+                ],
+                "reviewed_on": "2021-07-10 21:20:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandeep S Dhole"
+        },
+        "entity_id": 692017,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

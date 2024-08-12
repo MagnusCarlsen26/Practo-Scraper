@@ -1,0 +1,133 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 264360,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 443190,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospitals, Mulund",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-05-16T04:41:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 18012278,
+                "review_text": "Very poor diagnosis and procedure done on my mother. When we visited him in November, he had told us that the surgery can be avoided and to wait. However looking at my mothers pain, we went for surgery. He guided us to go for laser treatment and told us it is effective. Based on that, we got my mom operated in Hiranandani Hospital. Post operation, my mom was told that she could be normal and she could fly, walk and do anything she wants. However even after 1.5 months post operation, my mother's pain was unbearable. On meeting the DR, She was advised bed rest for a week. Even post that the pain was unbearable. Due to his busy schedule, Dr. Mhatre called her to Fortis hospital. There, she was made to wait for more than 2 hours post which Dr. Mhatre turned up. He directly sent her to dopler test where her tests were taken. The Dr. Testing her told her there are some perforations and marked it in her thighs and chaff muscles. Dr. Mhatre upon his arrival cut the other Dr. In the middle and says there is nothing and that she should visit a spine surgeon!! That is when my mom realized there is something fishy and his intentions were to just take money from us. MOST IMPORTANTLY - MY MOM WAS NOT GIVEN HER DOPLER REPORTS SAYING THAT IT WAS INTERNAL AND THAT SHE HAD NOT PAID FOR IT.. SHE INSISTED TO PAY DOUBLE yet the Dr. who tested it deleted her test reports.. I really want to sue Dr. Mhatre if guided well.. We took a second opinion in Vijaya Hospital Chennai.. it was found that there were various Blocks in the vein and Dr. Mhatre had not done the surgery well at all.. Now, my mom is under bed rest and in total medication and is finding relief.. I really want to sure this Dr. who puts his business beyond everything else and fools around with his patients. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-05-14 11:38:09",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Venketesh"
+        },
+        "entity_id": 288146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1185472,
+            "status": "PUBLISHED",
+            "note": "2019-06-27 05:31:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 443190,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-27T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39692572,
+                "review_text": "In app it says 1000rs consulting fees.. But in mulund fortis hospital receptionist take 1500rs from me as a consulting fees.. They said practo app shows wrong fees!",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-25 15:10:22",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Datta Shankar Mawkar"
+        },
+        "entity_id": 288146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1744649,
+            "status": "PUBLISHED",
+            "note": "2021-06-09 10:13:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 443190,
+            "practice_id": 781411,
+            "practice_name": "Hinduja Healthcare Surgical Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-09T11:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42952945,
+                "review_text": "All the time he is in hurry , ******* ***** ***** *** ******** *** **** *********** ***** ****** **** ******* ***** ** *** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 30,
+                        "end_index": 129,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 350501
+                    }
+                ],
+                "reviewed_on": "2021-06-08 10:12:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 648042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,2767 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2409984,
+            "status": "PUBLISHED",
+            "note": "2024-07-07 06:38:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-07T07:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46825185,
+                "review_text": "It was my first time visiting a dentist, and I was skeptical about where to go. \nI'm glad I chose Dr. Srushti. She was excellent at her job, well-spoken, and friendly. I'm happy to have found a good dentist.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-06 03:12:16",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "pranit warse"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192799,
+                "text": "Rotten Tooth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2398820,
+            "status": "PUBLISHED",
+            "note": "2024-06-15 11:09:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-15T12:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46761726,
+                "review_text": "She is polite, and explains and the issue and treatment very wisely. She is very gentle and efficient with her work. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-14 07:32:18",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1658396,
+            "status": "PUBLISHED",
+            "note": "2021-02-28 05:32:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-28T06:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 270550,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback! We really appreciate your punctuality, especially during covid times when we are also trying to maintain social distancing in the waiting area!",
+                "replied_at": "2021-03-01T05:41:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 42484365,
+                "review_text": "I had visited Dr Srushti Garg on 24th Feb. First of all I was astonished to see the cleanliness and hygiene followed in the clinic. Since I had booked a prior appointment, and I reached on time, I dint have to wait outside. Dr Srushti had patiently heard my problems and guided me through the treatment process. She made me feel comfortable throughout the treatment amd kept me updated. I was overwhelmed and would recommend Dr Srushti to everyone who would want genuine advise and dental treatment. Thanks ",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-26 14:18:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rohan Daga"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1611915,
+            "status": "PUBLISHED",
+            "note": "2021-01-05 05:08:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-05T06:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 259446,
+                "reply_status": "PUBLISHED",
+                "reply_text": "We really appreciate your feedback. Co-operative patients like you are always a treat for us to treat. We hope to see you soon again\ud83d\ude0a",
+                "replied_at": "2021-01-09T06:15:32+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 42231103,
+                "review_text": "Although, it was a first oppointment with Dr. Shrushti but can happily call out that it very pleasant experience for me. Very kind and polite gesture by Dr. Shrushti. She has excellent knowledge and expertise. Had explained everything about the issue and treatment in detailed before commencing the procedure. The lab has well upto date equipments. While operating, Dr. Shrushti was immensely  focused and ensured not to caused much pain during Root Canal process by maintaining sheer control and calmness. Must recommend to every one for any Dental types problems. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-02 13:48:43",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sandesh dhuri"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2250439,
+            "status": "PUBLISHED",
+            "note": "2023-08-19 08:09:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-19T09:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 421780,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you so much for your valuable feedback",
+                "replied_at": "2023-08-22T13:00:49+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 45898652,
+                "review_text": "i have been attended by both doctor Deep Garg and Dr.Shrusti \nit was a very good experience \ninitial treatment was done by dr.shrusti followed by dental implant done by Dr.Deep\nthe processes as well as the treatment was explained very clearly along with the pros & cons\ni had reservation about the implant but its been few weeks now and i am comfortable with it .",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-18 07:55:18",
+                "channel": "web-gmf",
+                "source": "GMF",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manorama Shukla"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 1122,
+                "text": "Ceramic Crowns and Bridges Fixing"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 3758,
+                "text": "Scaling / Polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2248468,
+            "status": "PUBLISHED",
+            "note": "2023-08-15 09:48:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-15T10:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 421781,
+                "reply_status": "PUBLISHED",
+                "reply_text": "it was a pleasure treating you. thank you so much for such kind words.",
+                "replied_at": "2023-08-22T13:01:37+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 45884940,
+                "review_text": "Thank you Dr. Srushti Garg for getting my treatment done for Root Canal, Ceramic crowns, Dental filling, teeth polishing without much pain.\n\nThank you for the friendliness while treating and also for helping me understand the health issue.\n\nThanks again for the hard work you have done with lots of patience.",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-13 06:49:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Amit D Dabholkar"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 888,
+                "text": "Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1614779,
+            "status": "PUBLISHED",
+            "note": "2021-01-07 09:23:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-07T10:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 259445,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback..\nOur charges are set as per the standard DCI/IDA & Borivali/Kandivali/Malad Dentist Associations protocol ,But shall definitely look into it.\n",
+                "replied_at": "2021-01-09T06:12:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 42247130,
+                "review_text": "Consulted Dr Srushti Garg about my dental filling treatment. With her good medical knowledge and professional experience she explained me causes, precautions and treatment about my dental cavity. Clinic was well maintained. I would like to suggest doctors to think about reducing fees, it can help them grow exponentially. Overall good experience. My rating 3.5/5 :)",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-06 09:08:26",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raghav"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1558331,
+            "status": "PUBLISHED",
+            "note": "2020-10-25 09:47:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-24T16:38:15+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243804,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback. It was a pleasure treating you. Keep smiling.",
+                "replied_at": "2020-10-24T16:38:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 41945176,
+                "review_text": "As this was first experience with any dentist I was little worried before going but Doctor Srushti handled the whole situation very well and made me more comfortable with whole procedure.\nI went there as my teeth had decay and some part of it was chipped.\nDoctor Srushti handeled the whole procedure very professionally and recovered my teeth to it's earlier condition cosmetically.\nHonestly I would recommend Garg Clinic for dental procedures. Thank you for overall very very positive experience.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-24 09:44:21",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sahil todankar"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1367434,
+            "status": "PUBLISHED",
+            "note": "2020-02-13 06:59:55",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-12T13:55:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 191221,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so Much for confiding in us with your daughter's treatment. It was a pleasure treating her. Thank you for your valuable feedback.",
+                "replied_at": "2020-02-12T13:55:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 40920107,
+                "review_text": "I visited Garg Clinic for my daughter's RCT. My daughter Abhigya was having severe tooth pain. It took 3 sittings but Dr Srushti Garg was very patient. She explained everything and treatment went nice and smooth. Thank you Dr Srushti for returning smile on my daughter Abhigya's face.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-12 05:35:20",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Baby Abhigya Chauhan"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1234667,
+            "status": "PUBLISHED",
+            "note": "2019-08-30 09:21:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-29T15:15:10+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 161616,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Patients like you really boost up our confidence. Thank you so much for your valuable feedback.",
+                "replied_at": "2019-08-29T15:15:10+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 40004976,
+                "review_text": "I almost panicked when I was told I have to get root canal done but Dr srushti is so good in her consultation that she really calmed my nerves down and made the entire procedure extremely comfortable for me within the promised amount of time. Extremely confident; always punctual and has a clear head space while she's working. The clinic is very clean and maintained. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-29 05:40:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nikita rathod."
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2409984,
+            "status": "PUBLISHED",
+            "note": "2024-07-07 06:38:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-07T07:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46825185,
+                "review_text": "It was my first time visiting a dentist, and I was skeptical about where to go. \nI'm glad I chose Dr. Srushti. She was excellent at her job, well-spoken, and friendly. I'm happy to have found a good dentist.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-06 03:12:16",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "pranit warse"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192799,
+                "text": "Rotten Tooth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2398820,
+            "status": "PUBLISHED",
+            "note": "2024-06-15 11:09:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-15T12:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46761726,
+                "review_text": "She is polite, and explains and the issue and treatment very wisely. She is very gentle and efficient with her work. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-14 07:32:18",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1658396,
+            "status": "PUBLISHED",
+            "note": "2021-02-28 05:32:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-28T06:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 270550,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback! We really appreciate your punctuality, especially during covid times when we are also trying to maintain social distancing in the waiting area!",
+                "replied_at": "2021-03-01T05:41:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 42484365,
+                "review_text": "I had visited Dr Srushti Garg on 24th Feb. First of all I was astonished to see the cleanliness and hygiene followed in the clinic. Since I had booked a prior appointment, and I reached on time, I dint have to wait outside. Dr Srushti had patiently heard my problems and guided me through the treatment process. She made me feel comfortable throughout the treatment amd kept me updated. I was overwhelmed and would recommend Dr Srushti to everyone who would want genuine advise and dental treatment. Thanks ",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-26 14:18:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rohan Daga"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1611915,
+            "status": "PUBLISHED",
+            "note": "2021-01-05 05:08:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-05T06:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 259446,
+                "reply_status": "PUBLISHED",
+                "reply_text": "We really appreciate your feedback. Co-operative patients like you are always a treat for us to treat. We hope to see you soon again\ud83d\ude0a",
+                "replied_at": "2021-01-09T06:15:32+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 42231103,
+                "review_text": "Although, it was a first oppointment with Dr. Shrushti but can happily call out that it very pleasant experience for me. Very kind and polite gesture by Dr. Shrushti. She has excellent knowledge and expertise. Had explained everything about the issue and treatment in detailed before commencing the procedure. The lab has well upto date equipments. While operating, Dr. Shrushti was immensely  focused and ensured not to caused much pain during Root Canal process by maintaining sheer control and calmness. Must recommend to every one for any Dental types problems. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-02 13:48:43",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sandesh dhuri"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2250439,
+            "status": "PUBLISHED",
+            "note": "2023-08-19 08:09:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-19T09:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 421780,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you so much for your valuable feedback",
+                "replied_at": "2023-08-22T13:00:49+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 45898652,
+                "review_text": "i have been attended by both doctor Deep Garg and Dr.Shrusti \nit was a very good experience \ninitial treatment was done by dr.shrusti followed by dental implant done by Dr.Deep\nthe processes as well as the treatment was explained very clearly along with the pros & cons\ni had reservation about the implant but its been few weeks now and i am comfortable with it .",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-18 07:55:18",
+                "channel": "web-gmf",
+                "source": "GMF",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manorama Shukla"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 1122,
+                "text": "Ceramic Crowns and Bridges Fixing"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 3758,
+                "text": "Scaling / Polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2248468,
+            "status": "PUBLISHED",
+            "note": "2023-08-15 09:48:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-15T10:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 421781,
+                "reply_status": "PUBLISHED",
+                "reply_text": "it was a pleasure treating you. thank you so much for such kind words.",
+                "replied_at": "2023-08-22T13:01:37+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 45884940,
+                "review_text": "Thank you Dr. Srushti Garg for getting my treatment done for Root Canal, Ceramic crowns, Dental filling, teeth polishing without much pain.\n\nThank you for the friendliness while treating and also for helping me understand the health issue.\n\nThanks again for the hard work you have done with lots of patience.",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-13 06:49:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Amit D Dabholkar"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 888,
+                "text": "Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1614779,
+            "status": "PUBLISHED",
+            "note": "2021-01-07 09:23:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-07T10:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 259445,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback..\nOur charges are set as per the standard DCI/IDA & Borivali/Kandivali/Malad Dentist Associations protocol ,But shall definitely look into it.\n",
+                "replied_at": "2021-01-09T06:12:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 42247130,
+                "review_text": "Consulted Dr Srushti Garg about my dental filling treatment. With her good medical knowledge and professional experience she explained me causes, precautions and treatment about my dental cavity. Clinic was well maintained. I would like to suggest doctors to think about reducing fees, it can help them grow exponentially. Overall good experience. My rating 3.5/5 :)",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-06 09:08:26",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raghav"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1558331,
+            "status": "PUBLISHED",
+            "note": "2020-10-25 09:47:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-24T16:38:15+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243804,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback. It was a pleasure treating you. Keep smiling.",
+                "replied_at": "2020-10-24T16:38:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 41945176,
+                "review_text": "As this was first experience with any dentist I was little worried before going but Doctor Srushti handled the whole situation very well and made me more comfortable with whole procedure.\nI went there as my teeth had decay and some part of it was chipped.\nDoctor Srushti handeled the whole procedure very professionally and recovered my teeth to it's earlier condition cosmetically.\nHonestly I would recommend Garg Clinic for dental procedures. Thank you for overall very very positive experience.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-24 09:44:21",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sahil todankar"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1367434,
+            "status": "PUBLISHED",
+            "note": "2020-02-13 06:59:55",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-12T13:55:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 191221,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so Much for confiding in us with your daughter's treatment. It was a pleasure treating her. Thank you for your valuable feedback.",
+                "replied_at": "2020-02-12T13:55:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 40920107,
+                "review_text": "I visited Garg Clinic for my daughter's RCT. My daughter Abhigya was having severe tooth pain. It took 3 sittings but Dr Srushti Garg was very patient. She explained everything and treatment went nice and smooth. Thank you Dr Srushti for returning smile on my daughter Abhigya's face.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-12 05:35:20",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Baby Abhigya Chauhan"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1234667,
+            "status": "PUBLISHED",
+            "note": "2019-08-30 09:21:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-29T15:15:10+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 161616,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Patients like you really boost up our confidence. Thank you so much for your valuable feedback.",
+                "replied_at": "2019-08-29T15:15:10+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 40004976,
+                "review_text": "I almost panicked when I was told I have to get root canal done but Dr srushti is so good in her consultation that she really calmed my nerves down and made the entire procedure extremely comfortable for me within the promised amount of time. Extremely confident; always punctual and has a clear head space while she's working. The clinic is very clean and maintained. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-29 05:40:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nikita rathod."
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 166263,
+                "text": "Ceramic Dental Braces"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1232079,
+            "status": "PUBLISHED",
+            "note": "2019-08-27 11:15:42",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-27T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 161617,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for having confidence in our work.",
+                "replied_at": "2019-08-29T15:15:53+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 39988321,
+                "review_text": "Garg Dental Clinic Premier is a clinic which has solution  to all dental problems. Doctors there have excelled in their profession and they give you ***** treatment that won't pinch your pockets . They have latest technology advance machines and i strongly recommend that anyone seeking dental help should straight away walk into this clinic.",
+                "review_alterations": [
+                    {
+                        "start_index": 149,
+                        "end_index": 153,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 202312
+                    }
+                ],
+                "reviewed_on": "2019-08-25 18:24:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pooja Gupta"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1184934,
+            "status": "PUBLISHED",
+            "note": "2019-06-26 07:12:34",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-26T06:31:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 150729,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feed back.. we at Garg Dental Cinic were delighted to treat you. .",
+                "replied_at": "2019-06-26T06:31:57+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 39688851,
+                "review_text": "Dr Srushti Garg was recommended by a friend of mine. I was really upset with how the trartwas done at my previous dentist. I visited for a guidance session and was really impressed with the way she explained the issue and it's countermeasures. She is extremely friendly and explained to me a layman's terms. I opted for the treatment and it was a really smooth session. Overall it was a great experience I would definitely go to her for any future dental problems and recommend her to all as well",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-25 05:23:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neha Gokarn"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2282066,
+            "status": "PUBLISHED",
+            "note": "2023-10-25 07:29:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-25T08:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46094542,
+                "review_text": "Perfect guidance n soft hands.Adviced not to extract the tooth which is having some infection.If extracted would hinder normal chewing \u2026.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-23 14:45:42",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ashish datar"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3758,
+                "text": "Scaling / Polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2256297,
+            "status": "PUBLISHED",
+            "note": "2023-09-05 05:31:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-05T06:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 423437,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you so much for your valuable feedback",
+                "replied_at": "2023-09-09T13:52:59+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 45939605,
+                "review_text": "Great experience! Made a same day appointment at Garg Dental Clinic and got in right away. Dr. Srushti Garg was super helpful, gave good details and recommendations for a complete dental care. I will definately recommend it to everyone!\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-02 13:24:47",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nilesh Gokarn "
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2256296,
+            "status": "PUBLISHED",
+            "note": "2023-09-05 05:31:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-05T06:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45939600,
+                "review_text": "It was a great experience. It was easy and quick. The doctor is sweet and she gave well-advised suggestions for my further dental health. And one more amazing fact: the waiting room has such a beautiful collection of books!",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-02 13:24:42",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prajakta"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2251358,
+            "status": "PUBLISHED",
+            "note": "2023-08-23 05:13:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-22T12:59:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 421779,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you so much for such kind words. hope to see you on your next follow-up visit",
+                "replied_at": "2023-08-22T12:59:43+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 45905208,
+                "review_text": "Dr. Srushti is very polite and extremely ethical in her work. Visited for root canal treatment  they made the treatment very comfortable for me and extremely pain free. Highly recommend ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-20 09:17:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sona Agarwal "
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2151600,
+            "status": "PUBLISHED",
+            "note": "2023-02-15 16:51:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-15T17:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 412762,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you so much for your valuable feedback",
+                "replied_at": "2023-06-09T14:11:18+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 45304879,
+                "review_text": "Friendly approach to patient's. They explain both problem and treatment in the sense which made me understand. Made the whole procedure pain-free and comfortable for me. Clinic is clean and hygienic.",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-14 13:39:08",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya Jha"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2065164,
+            "status": "PUBLISHED",
+            "note": "2022-09-11 06:53:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-11T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 397677,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you so much for your kind words",
+                "replied_at": "2023-02-14T13:52:59+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 44812401,
+                "review_text": "She was very good with explaining stuffs, polite in behaviour. We arrived a bit late. But she still waited for us to arrive. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-10 05:59:02",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Subhojit Mukherjee"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 268,
+                "text": "Dental X-Ray"
+            },
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1636294,
+            "status": "PUBLISHED",
+            "note": "2021-02-03 09:54:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-02T14:32:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 264662,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for such kind words !  Hope you are feeling better. it was a pleasure treating you.",
+                "replied_at": "2021-02-02T14:32:51+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 42363223,
+                "review_text": "The doctor was extremely patient and she explained the issue very nicely and is well informed and very polite. Totally worth it.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-01 15:51:12",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sonia tandon"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1558852,
+            "status": "PUBLISHED",
+            "note": "2020-10-27 06:31:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-26T08:25:27+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 244018,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback!!!",
+                "replied_at": "2020-10-26T08:25:27+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 41948013,
+                "review_text": "Dr.Shrusti was very professional and polite and explained my tooth problem and how to take care of my tooth. I didn't have to wait before my appointment. My overall experience was very good!! \n",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-25 02:18:21",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "nishmita fernandes"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 137,
+                "text": "Tooth Coloured Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1230387,
+            "status": "PUBLISHED",
+            "note": "2019-08-25 05:11:40",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-24T09:03:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 160671,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback. Looking forward to see you on your next visit.",
+                "replied_at": "2019-08-24T09:03:47+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 39977694,
+                "review_text": "The clinic is quite well equipped and is very spacious. She maintains transparency in her work and is very economical. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-23 13:50:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "anita gupta"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            },
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 193377,
+                "text": "Ceramic Veneers / Crowns "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1228455,
+            "status": "PUBLISHED",
+            "note": "2019-08-23 07:21:13",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-22T08:37:15+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 160195,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback.It was lovely treating you..",
+                "replied_at": "2019-08-22T08:37:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 39964783,
+                "review_text": "doctor is quite experienced and is very patient while treating. she made me very comfortable during my treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-21 06:13:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "pushpa"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193843,
+                "text": " Teeth cleaning & polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1227996,
+            "status": "PUBLISHED",
+            "note": "2019-08-23 05:31:53",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-22T08:36:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 160194,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback!!!",
+                "replied_at": "2019-08-22T08:36:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 39961937,
+                "review_text": "I was regular in chewing paan and my teeth were badly stained but thanks to Dr.Srushti i can now smile with confidence.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-20 13:33:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vikas chaurasia"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1203569,
+            "status": "PUBLISHED",
+            "note": "2019-07-20 07:28:02",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-19T11:38:25+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 154652,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your  valuable feedback. !!!",
+                "replied_at": "2019-07-19T11:38:25+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 39807601,
+                "review_text": "Went to Dr srushti for replacement of my missing tooth.. she explained the treatment options so well.. my new tooth looks near to natural.. thanku so much doctor..",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-19 07:11:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nishtha sharma"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193621,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 13:17:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-06T15:12:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 152510,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback.",
+                "replied_at": "2019-07-06T15:12:54+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 39746237,
+                "review_text": "Dr. Srushti Garg is confident and punctual. The clinic is spacious and well equipped. Treatment at affordable rates.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-06 13:07:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ritesh Dalmia"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193618,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 13:14:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-06T15:12:27+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 152509,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback.",
+                "replied_at": "2019-07-06T15:12:27+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 39746206,
+                "review_text": "Dr Srushti did an excellent job , definitely recommended, she was polite in explaining the treatment..",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-06 13:03:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ronak"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 1452,
+                "text": "Tooth Air Polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1203565,
+            "status": "PUBLISHED",
+            "note": "2019-07-20 07:27:15",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-19T11:39:35+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 154653,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback.!!",
+                "replied_at": "2019-07-19T11:39:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 39807561,
+                "review_text": "Dr. Srushti Garg is a very warm and friendly Doctor who made me feel comfortable right from the beginning. I am generally nervous and afraid about dental procedures, but kept my mind off it by talking to me and explaining what she's doing. She explained it so well in lay-man language that it really helped me calm down. She was quite quick as well. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-19 07:06:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3758,
+                "text": "Scaling / Polishing"
+            },
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1985697,
+            "status": "PUBLISHED",
+            "note": "2022-05-06 05:35:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-05T13:10:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 356325,
+                "reply_status": "PUBLISHED",
+                "reply_text": "we appreciate your punctuality..! thank you so much for your valuable feedback!",
+                "replied_at": "2022-05-05T13:10:57+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3992268,
+                "modified_by_id": 3992268,
+                "replier_name": "Garg Dental Clinic Premiere",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1258515/garg-dental-clinic-premiere-mumbai-5cfe305f19731.jpg"
+            },
+            "survey_response": {
+                "id": 44349769,
+                "review_text": "On time appointment, comfortable office setup and good, painless dental cleaning/scaling procedure. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-04 15:41:55",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "amey kanse"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1180327,
+            "status": "PUBLISHED",
+            "note": "2019-06-20 05:49:07",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-19T06:52:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 149845,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you so much for your valuable feedback.",
+                "replied_at": "2019-06-19T06:52:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 39658947,
+                "review_text": "The doctor is Very polite and sweet.. The way of communication was good and I would recommend her to my friends and family !!",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-18 18:51:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 268,
+                "text": "Dental X-Ray"
+            },
+            {
+                "id": 473,
+                "text": "Dental Surgery"
+            },
+            {
+                "id": 1017,
+                "text": "Gap Closing"
+            },
+            {
+                "id": 783,
+                "text": "Mouth Bleed"
+            },
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1192492,
+            "status": "PUBLISHED",
+            "note": "2019-07-06 06:34:38",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 745457,
+            "practice_id": 1258515,
+            "practice_name": "Garg Dental Clinic Premiere",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-05T08:07:05+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 152279,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for valuable feedback",
+                "replied_at": "2019-07-05T08:07:05+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6027920,
+                "modified_by_id": 6027920,
+                "replier_name": "Dr. Srushti Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/745457/dr-srushti-garg-5d009c42753b9.jpeg"
+            },
+            "survey_response": {
+                "id": 39739093,
+                "review_text": "The doctor is very friendly and experienced.The clinic is also good with all the equipment.I never encountered a problem after my treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-05 06:30:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 681591,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,892 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1382899,
+            "status": "PUBLISHED",
+            "note": "2020-02-28 09:27:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-28T10:03:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41022223,
+                "review_text": "Hi I am Aravind, actually I had been to Dr Hajira Nazeer to treat my daughter. First of all she is very decent and friendly kind of doctor, she treated my daughter very well and she has the patience, as it took almost 40 mins she did it very well. Tooth was broken into 4 pieces she took X-ray's  4 times and finally she took it out all 4 pieces of tooth. She has all equipments in her clinic which is most important. The clinic is also maintained very well. Thank u So much doctor my daughter is well now with no pains.  ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 02:59:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aravind Suresh "
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1383135,
+            "status": "PUBLISHED",
+            "note": "2020-02-28 09:31:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-28T10:03:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41023463,
+                "review_text": "I had a tooth ache and Dr Hajira diagnosed it as a root canal issue and treated it brilliantly and professionally, the issue was treated successfully and also followed up to ensure there are no problems and more importantly there was no pain or sensitivity which I had from a long time.\n\nShe is very professional,skilled and cognizant about the patient's health.\n\nKeep up the excellent work !!!\n\nThank you\nMohammed Amin  Ahmed",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 06:28:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aminahmed"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1379897,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 07:59:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1270739,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41004994,
+                "review_text": "**** **** ******* Dr. Hajira listened  patiently about my dental issue and given treatment for me. With my treatment experience * *** *** **** ******** ****** ** *** ** *** **** ****** ******** ** ********* **** ****** ***** *** ******** ****** *** ********** ****** ********** They will give value to our money, they are not like other hospitals who will ready to take our money for unwanted treatments and tests.  There specialty is Invisalign braces and pain less root canal treatment. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 251253
+                    },
+                    {
+                        "start_index": 128,
+                        "end_index": 277,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 251254
+                    }
+                ],
+                "reviewed_on": "2020-02-24 10:25:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sk.Shameeruddin"
+        },
+        "entity_id": 698181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 113,
+                "text": "Maxillo Facial Prosthodontics"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1869555,
+            "status": "PUBLISHED",
+            "note": "2021-11-10 12:41:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-09T14:34:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 326012,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Pradyumna. We really appreciate your kind feedback .",
+                "replied_at": "2021-11-09T14:34:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6842435,
+                "modified_by_id": 6842435,
+                "replier_name": "Dr. Hajira Nazeer",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/591863/dr-hajira-nazeer-58f66e2b2631b.jpg"
+            },
+            "survey_response": {
+                "id": 43684886,
+                "review_text": "Very friendly and warm! Highly recommend this clinic to whoever wants to get their teeth checked and get their smile back!",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-09 12:40:02",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pradyumna K"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1385462,
+            "status": "PUBLISHED",
+            "note": "2020-03-01 09:52:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-01T10:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41036908,
+                "review_text": "Doctor treated me with very good patience , i had lot of pain in my teeth \nshe dealt my case with a personal interest . \n\nI took Root canal treatment \n\nhappy with her treatment ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-29 07:18:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Umesh"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1383906,
+            "status": "PUBLISHED",
+            "note": "2020-02-29 07:43:58",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-29T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41027705,
+                "review_text": "Very patient and polite in explanation, makes you feel comfortable so that you can have an open talk. Very supportive and empathetic.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 16:11:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Marshall"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1383147,
+            "status": "PUBLISHED",
+            "note": "2020-02-28 09:52:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-28T10:04:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41023539,
+                "review_text": "i had an issue with my teeth but dr.hajira  - has treated well. \n\nit was root canal treatment done in 2 hours and it was amazing and saving lot of time. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 06:35:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sagar"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1380301,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 10:11:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1270739,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T11:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41007099,
+                "review_text": "She  was very cordial  and skillful in solving my tooth problem and would recommend Dr HAJIRA to All.\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-24 14:32:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Azra Amin"
+        },
+        "entity_id": 698181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1379874,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 09:59:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1270739,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T10:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41004849,
+                "review_text": "I was referred to Dr Rehman by a friend and has been her patient for two years. The level of customised and specific care she provides for me I have not got from other dental professionals or doctors that I know of. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-24 10:06:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suraj John"
+        },
+        "entity_id": 698181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1331852,
+            "status": "PUBLISHED",
+            "note": "2020-01-07 04:50:29",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1270739,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-06T08:20:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 183557,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank Mr Anil. We are really glad that you liked our services .",
+                "replied_at": "2020-01-06T08:20:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2190483,
+                "modified_by_id": 2190483,
+                "replier_name": "Dr. Hajira Nazeer",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/591863/dr-hajira-nazeer-58f66e2b2631b.jpg"
+            },
+            "survey_response": {
+                "id": 40655623,
+                "review_text": "Great service from Hajira, she stayed late to sort out my dental pain. She even managed to successfully perform root canal treatment on friendly manner. Highly recommended. Well equipped dental clinic \ud83d\ude0a ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-04 13:12:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anil Gowda"
+        },
+        "entity_id": 698181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1382899,
+            "status": "PUBLISHED",
+            "note": "2020-02-28 09:27:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-28T10:03:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41022223,
+                "review_text": "Hi I am Aravind, actually I had been to Dr Hajira Nazeer to treat my daughter. First of all she is very decent and friendly kind of doctor, she treated my daughter very well and she has the patience, as it took almost 40 mins she did it very well. Tooth was broken into 4 pieces she took X-ray's  4 times and finally she took it out all 4 pieces of tooth. She has all equipments in her clinic which is most important. The clinic is also maintained very well. Thank u So much doctor my daughter is well now with no pains.  ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 02:59:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aravind Suresh "
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1383135,
+            "status": "PUBLISHED",
+            "note": "2020-02-28 09:31:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-28T10:03:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41023463,
+                "review_text": "I had a tooth ache and Dr Hajira diagnosed it as a root canal issue and treated it brilliantly and professionally, the issue was treated successfully and also followed up to ensure there are no problems and more importantly there was no pain or sensitivity which I had from a long time.\n\nShe is very professional,skilled and cognizant about the patient's health.\n\nKeep up the excellent work !!!\n\nThank you\nMohammed Amin  Ahmed",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 06:28:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aminahmed"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1379897,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 07:59:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1270739,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41004994,
+                "review_text": "**** **** ******* Dr. Hajira listened  patiently about my dental issue and given treatment for me. With my treatment experience * *** *** **** ******** ****** ** *** ** *** **** ****** ******** ** ********* **** ****** ***** *** ******** ****** *** ********** ****** ********** They will give value to our money, they are not like other hospitals who will ready to take our money for unwanted treatments and tests.  There specialty is Invisalign braces and pain less root canal treatment. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 251253
+                    },
+                    {
+                        "start_index": 128,
+                        "end_index": 277,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 251254
+                    }
+                ],
+                "reviewed_on": "2020-02-24 10:25:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sk.Shameeruddin"
+        },
+        "entity_id": 698181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 113,
+                "text": "Maxillo Facial Prosthodontics"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1869555,
+            "status": "PUBLISHED",
+            "note": "2021-11-10 12:41:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-09T14:34:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 326012,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Pradyumna. We really appreciate your kind feedback .",
+                "replied_at": "2021-11-09T14:34:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6842435,
+                "modified_by_id": 6842435,
+                "replier_name": "Dr. Hajira Nazeer",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/591863/dr-hajira-nazeer-58f66e2b2631b.jpg"
+            },
+            "survey_response": {
+                "id": 43684886,
+                "review_text": "Very friendly and warm! Highly recommend this clinic to whoever wants to get their teeth checked and get their smile back!",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-09 12:40:02",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pradyumna K"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1385462,
+            "status": "PUBLISHED",
+            "note": "2020-03-01 09:52:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-01T10:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41036908,
+                "review_text": "Doctor treated me with very good patience , i had lot of pain in my teeth \nshe dealt my case with a personal interest . \n\nI took Root canal treatment \n\nhappy with her treatment ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-29 07:18:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Umesh"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1383906,
+            "status": "PUBLISHED",
+            "note": "2020-02-29 07:43:58",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-29T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41027705,
+                "review_text": "Very patient and polite in explanation, makes you feel comfortable so that you can have an open talk. Very supportive and empathetic.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 16:11:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Marshall"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1383147,
+            "status": "PUBLISHED",
+            "note": "2020-02-28 09:52:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1278658,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-28T10:04:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41023539,
+                "review_text": "i had an issue with my teeth but dr.hajira  - has treated well. \n\nit was root canal treatment done in 2 hours and it was amazing and saving lot of time. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 06:35:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sagar"
+        },
+        "entity_id": 708316,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1380301,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 10:11:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1270739,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T11:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41007099,
+                "review_text": "She  was very cordial  and skillful in solving my tooth problem and would recommend Dr HAJIRA to All.\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-24 14:32:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Azra Amin"
+        },
+        "entity_id": 698181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1379874,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 09:59:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1270739,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T10:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41004849,
+                "review_text": "I was referred to Dr Rehman by a friend and has been her patient for two years. The level of customised and specific care she provides for me I have not got from other dental professionals or doctors that I know of. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-24 10:06:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suraj John"
+        },
+        "entity_id": 698181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1331852,
+            "status": "PUBLISHED",
+            "note": "2020-01-07 04:50:29",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 591863,
+            "practice_id": 1270739,
+            "practice_name": "Richmond Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-06T08:20:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 183557,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank Mr Anil. We are really glad that you liked our services .",
+                "replied_at": "2020-01-06T08:20:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2190483,
+                "modified_by_id": 2190483,
+                "replier_name": "Dr. Hajira Nazeer",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/591863/dr-hajira-nazeer-58f66e2b2631b.jpg"
+            },
+            "survey_response": {
+                "id": 40655623,
+                "review_text": "Great service from Hajira, she stayed late to sort out my dental pain. She even managed to successfully perform root canal treatment on friendly manner. Highly recommended. Well equipped dental clinic \ud83d\ude0a ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-04 13:12:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anil Gowda"
+        },
+        "entity_id": 698181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,962 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1917343,
+            "status": "PUBLISHED",
+            "note": "2022-01-22 04:56:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-22T05:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43969875,
+                "review_text": "A very sound doctor who gives the patient time and explains everything with clarity and precision. Appointments with her in her chembur clinic are very accessible and with minimal waiting time. I highly recommend her for patients in and around chembur.",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-20 17:32:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hamsini Ravi"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 1081,
+                "text": "Cesarean Delivery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1426240,
+            "status": "PUBLISHED",
+            "note": "2020-05-16 06:09:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-16T07:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41268052,
+                "review_text": "Very genuine, punctual and supportive... Thank You so much Dr. For bringing my Bundle of Joy \ud83c\udf8a safely in this world.",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-14 18:49:02",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Namrata"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 858200,
+            "status": "PUBLISHED",
+            "note": "2018-04-27 07:43:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-27T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37321646,
+                "review_text": "Good at her professional work.But she is not worried about the patients much.If asked for any immediate query,no response.We have to struggle to get her in call incase of any emergency need.Staff appointed does not have a decent approach.Doctor does not understands that its our first pregnancy and we need some extra piece of advise about foods or things to be practised.When asked for a second opinion she did not help me,though she knew I was going to deliver my baby at my hometown.If taken a little care for patients beyond her professionalism,it may help.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-25 19:57:27",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sasika John"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 397057,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-04T09:13:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26740204,
+                "review_text": "I found Dr. Gauri gore very rude, not friendly and unapproachable.\r\nI was afraid to ask her my doubts and queries as she was answering my questions as if she was doing a favour on me and was making faces.\r\nA doctor specially gynecologist shold be approachable so that patients should feel comfortable while asking their queries.\r\nShe charged me Rs. 600 for her 10 minuites of rudeness and it was definitely not worth.\r\nI will not recommend her to any of my contacts.",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-30 07:19:43",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Dhanshree  More"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 162017,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-08T18:33:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 10806260,
+                "review_text": "Doctor is very punchual for time  and  has very efficiently done the treatment for  my wife. Overall very good  experience. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-08 18:33:08",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ashish kumar"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 120598,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 1134112,
+            "practice_name": "Zen Multispecialty Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-11-06T15:14:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 8096561,
+                "review_text": "During 9 month of my pregnancy I was under her treatment. I was totally satisfied. I recommend  everyone  to consult Dr Gouri Gore for any gyne problem. But I would suggest madam to  be a little frank with her patients.",
+                "review_alterations": [],
+                "reviewed_on": "2015-11-06 15:14:15",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Monika Roy"
+        },
+        "entity_id": 345051,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1,
+                "text": "Stomach Cramps"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 704419,
+            "status": "PUBLISHED",
+            "note": "2017-10-19 10:56:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-19T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35870484,
+                "review_text": "No value for patient\u2019s time. She is always late for more than 1 hour. Extremely arrogant and disrespectful approach. Even staff has bad behaviour saying that we have been advised not call doctor again and again. We have informed her and she will come. I wouldn\u2019t recommend ",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-17 06:32:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            },
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            },
+            {
+                "id": 29399,
+                "text": "Pregnancy Tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 642000,
+            "status": "PUBLISHED",
+            "note": "2017-08-05 11:04:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 1134112,
+            "practice_name": "Zen Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-05T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35240515,
+                "review_text": "Overall Excellent Experience. She performed best for her patient's. Agreed that she is quit less talkative but keep transparency in her advise.",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-03 18:38:54",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kirti  Palshetkar"
+        },
+        "entity_id": 345051,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 296578,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 668274,
+            "practice_name": "Joy Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-27T05:24:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 20260562,
+                "review_text": "It is a worse than government hospital, the staff is worse. You have to wait for hours to wait despite taking appointment do not ever visit the hospital. No issues to doctor.. meet her in any other hospital for consultancy.",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-25 09:31:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Puneet Singh"
+        },
+        "entity_id": 345050,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 156949,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-01T06:52:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 10458249,
+                "review_text": "She is gentle,  caring.,  very patient and extremely confident.  Explains your illness which is very boosting. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-01 06:52:41",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sujata  Chandra"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1917343,
+            "status": "PUBLISHED",
+            "note": "2022-01-22 04:56:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-22T05:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43969875,
+                "review_text": "A very sound doctor who gives the patient time and explains everything with clarity and precision. Appointments with her in her chembur clinic are very accessible and with minimal waiting time. I highly recommend her for patients in and around chembur.",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-20 17:32:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hamsini Ravi"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 1081,
+                "text": "Cesarean Delivery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1426240,
+            "status": "PUBLISHED",
+            "note": "2020-05-16 06:09:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-16T07:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41268052,
+                "review_text": "Very genuine, punctual and supportive... Thank You so much Dr. For bringing my Bundle of Joy \ud83c\udf8a safely in this world.",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-14 18:49:02",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Namrata"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 858200,
+            "status": "PUBLISHED",
+            "note": "2018-04-27 07:43:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-27T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37321646,
+                "review_text": "Good at her professional work.But she is not worried about the patients much.If asked for any immediate query,no response.We have to struggle to get her in call incase of any emergency need.Staff appointed does not have a decent approach.Doctor does not understands that its our first pregnancy and we need some extra piece of advise about foods or things to be practised.When asked for a second opinion she did not help me,though she knew I was going to deliver my baby at my hometown.If taken a little care for patients beyond her professionalism,it may help.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-25 19:57:27",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sasika John"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 397057,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-04T09:13:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26740204,
+                "review_text": "I found Dr. Gauri gore very rude, not friendly and unapproachable.\r\nI was afraid to ask her my doubts and queries as she was answering my questions as if she was doing a favour on me and was making faces.\r\nA doctor specially gynecologist shold be approachable so that patients should feel comfortable while asking their queries.\r\nShe charged me Rs. 600 for her 10 minuites of rudeness and it was definitely not worth.\r\nI will not recommend her to any of my contacts.",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-30 07:19:43",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Dhanshree  More"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 162017,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-08T18:33:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 10806260,
+                "review_text": "Doctor is very punchual for time  and  has very efficiently done the treatment for  my wife. Overall very good  experience. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-08 18:33:08",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ashish kumar"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 120598,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 1134112,
+            "practice_name": "Zen Multispecialty Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-11-06T15:14:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 8096561,
+                "review_text": "During 9 month of my pregnancy I was under her treatment. I was totally satisfied. I recommend  everyone  to consult Dr Gouri Gore for any gyne problem. But I would suggest madam to  be a little frank with her patients.",
+                "review_alterations": [],
+                "reviewed_on": "2015-11-06 15:14:15",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Monika Roy"
+        },
+        "entity_id": 345051,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1,
+                "text": "Stomach Cramps"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 704419,
+            "status": "PUBLISHED",
+            "note": "2017-10-19 10:56:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-19T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35870484,
+                "review_text": "No value for patient\u2019s time. She is always late for more than 1 hour. Extremely arrogant and disrespectful approach. Even staff has bad behaviour saying that we have been advised not call doctor again and again. We have informed her and she will come. I wouldn\u2019t recommend ",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-17 06:32:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            },
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            },
+            {
+                "id": 29399,
+                "text": "Pregnancy Tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 642000,
+            "status": "PUBLISHED",
+            "note": "2017-08-05 11:04:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 1134112,
+            "practice_name": "Zen Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-05T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35240515,
+                "review_text": "Overall Excellent Experience. She performed best for her patient's. Agreed that she is quit less talkative but keep transparency in her advise.",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-03 18:38:54",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kirti  Palshetkar"
+        },
+        "entity_id": 345051,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 296578,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 668274,
+            "practice_name": "Joy Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-27T05:24:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 20260562,
+                "review_text": "It is a worse than government hospital, the staff is worse. You have to wait for hours to wait despite taking appointment do not ever visit the hospital. No issues to doctor.. meet her in any other hospital for consultancy.",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-25 09:31:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Puneet Singh"
+        },
+        "entity_id": 345050,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 156949,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 314734,
+            "practice_id": 711747,
+            "practice_name": "Dr. Gore Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-01T06:52:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 10458249,
+                "review_text": "She is gentle,  caring.,  very patient and extremely confident.  Explains your illness which is very boosting. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-01 06:52:41",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sujata  Chandra"
+        },
+        "entity_id": 220603,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

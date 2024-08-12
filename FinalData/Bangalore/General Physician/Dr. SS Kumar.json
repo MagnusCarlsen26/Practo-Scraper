@@ -1,0 +1,3440 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 326620,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-02T12:14:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22376025,
+                "review_text": "The Dr. S S Kumar was extremely patient in hearing out my observations and give his diagnosis after a detailed examination.\r\nHe did not suggest any unnecessary tests (which I was in fact expecting him to suggest). Of course only time will tell if that is indeed the best approach.\r\nNice calm environment (for waiting), but the space is limited, so plan accordingly.\r\nAlso note that despite booking an appointment, you might have to wait a while (which I guess is expected anywhere).\r\nOverall a good experience.\r\nThank you.",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-02 07:19:51",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 573930,
+            "status": "PUBLISHED",
+            "note": "2017-05-30 13:01:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-30T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34554573,
+                "review_text": "Consulted doctor S.S.Kumar for my mother who is almost 70 years. He is Very  attentive and patient and listen to patient keenly\nSystematic approach...tries to know complete history of patient before prescribing medicines.this approach Helps elderly patients a lot more.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-28 14:34:31",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Badrinath"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 533788,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-21T09:51:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34128949,
+                "review_text": "He's a very good doctor. He asked me to get some tests done - thyroid, liver function, ultra sound. He explained to me what the reports and the numbers meant like a teacher would to a student. So i actually understood what my reports meant. \n\nAlso he didn't ask me to take medicines needlessly. He is a doctor who actually cares and puts thought into what he says. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-21 05:13:10",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SWATHI"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1395439,
+            "status": "PUBLISHED",
+            "note": "2020-03-11 09:24:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 1055989,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-11T10:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41097556,
+                "review_text": "He is a role model for many upcoming doctors. \nKnows how to communicate well with his patients , explain the cause and also the mode of treatment. \n\nThe best part is the time he spends on each patient to listen to them and examine them thoroughly makes it comfortable for the patient to feel at ease.\n\nVery rarely you find once such Doctor with such kindness.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-10 02:39:31",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "B R Vasuki"
+        },
+        "entity_id": 522045,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1051,
+                "text": "Vertigo"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 410146,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-25T11:36:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 27543797,
+                "review_text": "********* ******* One of the rare breed of doctors who instantly put you in ease, explain what's happening with you and what needs to be done in order to get better.\nMy practical experience has been that for the same issue, another doctor had prescribed much higher doses of medicine + asked to undergo MRI, Echo etc. which was unnecessary.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 15291
+                    }
+                ],
+                "reviewed_on": "2016-11-19 16:34:49",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shweta"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1036,
+                "text": "Fatigue"
+            },
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 326792,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-02T11:31:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22385188,
+                "review_text": "I was new to bangalore and struggling to get good doctors and finally I got Dr. S S kumar.. Thanks to Practo.  He has very good patience to listen to patients and spends very good amount of time with them. And prescribes medicine only if necessary. Very satisfactory answers. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-02 11:19:59",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandesh I C"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            },
+            {
+                "id": 1042,
+                "text": "Muscle Spasm"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 307100,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-12T10:07:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 20997416,
+                "review_text": "I went with my elderly auntie who is 82 to get a general health check up. What he said was absolutely to the point and absolutely clear to us. Dr Kumar is  a very senior doctor with huge experience. His attitude is surely very positive which instills confidence in you . And the lady who sits in the reception is also very nice. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-08 13:16:41",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Milani Majumder"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 185412,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-02-08T05:38:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 12359955,
+                "review_text": "Dr. Kumar is a very patient and caring doctor. We've been visiting him for many years and he has been treating my mother-in-law. He does not prescribe unnecessary medications and tries to work within the patient's requirements and family situation. He is very good with older patients.",
+                "review_alterations": [],
+                "reviewed_on": "2016-02-08 05:35:25",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sueshetty"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 59657,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S. S. Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-08-17T11:09:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 4883680,
+                "review_text": "Since last 14 years he is our family physician. For any medical we use to visit him. Even he never discourage us for telephone consultation. One beauty of his consultation that he never prescribe that can produce any side effects. We are very much dependent on him. I think he is the one of the best physcian in Bangalore.",
+                "review_alterations": [],
+                "reviewed_on": "2015-08-16 10:04:47",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "KAKALI SARKAR "
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 677497,
+            "status": "PUBLISHED",
+            "note": "2017-09-16 07:40:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-16T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35601237,
+                "review_text": "Doctor never made a eye contact, he was professional though. However for an check up 10 min he charged 500 Rs which was ridiculously high. Felt it was very high.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-12 16:42:20",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "PRASHANTH"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 326620,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-02T12:14:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22376025,
+                "review_text": "The Dr. S S Kumar was extremely patient in hearing out my observations and give his diagnosis after a detailed examination.\r\nHe did not suggest any unnecessary tests (which I was in fact expecting him to suggest). Of course only time will tell if that is indeed the best approach.\r\nNice calm environment (for waiting), but the space is limited, so plan accordingly.\r\nAlso note that despite booking an appointment, you might have to wait a while (which I guess is expected anywhere).\r\nOverall a good experience.\r\nThank you.",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-02 07:19:51",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 573930,
+            "status": "PUBLISHED",
+            "note": "2017-05-30 13:01:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-30T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34554573,
+                "review_text": "Consulted doctor S.S.Kumar for my mother who is almost 70 years. He is Very  attentive and patient and listen to patient keenly\nSystematic approach...tries to know complete history of patient before prescribing medicines.this approach Helps elderly patients a lot more.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-28 14:34:31",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Badrinath"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 533788,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-21T09:51:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34128949,
+                "review_text": "He's a very good doctor. He asked me to get some tests done - thyroid, liver function, ultra sound. He explained to me what the reports and the numbers meant like a teacher would to a student. So i actually understood what my reports meant. \n\nAlso he didn't ask me to take medicines needlessly. He is a doctor who actually cares and puts thought into what he says. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-21 05:13:10",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SWATHI"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1395439,
+            "status": "PUBLISHED",
+            "note": "2020-03-11 09:24:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 1055989,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-11T10:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41097556,
+                "review_text": "He is a role model for many upcoming doctors. \nKnows how to communicate well with his patients , explain the cause and also the mode of treatment. \n\nThe best part is the time he spends on each patient to listen to them and examine them thoroughly makes it comfortable for the patient to feel at ease.\n\nVery rarely you find once such Doctor with such kindness.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-10 02:39:31",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "B R Vasuki"
+        },
+        "entity_id": 522045,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1051,
+                "text": "Vertigo"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 410146,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-25T11:36:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 27543797,
+                "review_text": "********* ******* One of the rare breed of doctors who instantly put you in ease, explain what's happening with you and what needs to be done in order to get better.\nMy practical experience has been that for the same issue, another doctor had prescribed much higher doses of medicine + asked to undergo MRI, Echo etc. which was unnecessary.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 15291
+                    }
+                ],
+                "reviewed_on": "2016-11-19 16:34:49",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shweta"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1036,
+                "text": "Fatigue"
+            },
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 326792,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-02T11:31:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22385188,
+                "review_text": "I was new to bangalore and struggling to get good doctors and finally I got Dr. S S kumar.. Thanks to Practo.  He has very good patience to listen to patients and spends very good amount of time with them. And prescribes medicine only if necessary. Very satisfactory answers. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-02 11:19:59",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandesh I C"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            },
+            {
+                "id": 1042,
+                "text": "Muscle Spasm"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 307100,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-12T10:07:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 20997416,
+                "review_text": "I went with my elderly auntie who is 82 to get a general health check up. What he said was absolutely to the point and absolutely clear to us. Dr Kumar is  a very senior doctor with huge experience. His attitude is surely very positive which instills confidence in you . And the lady who sits in the reception is also very nice. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-08 13:16:41",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Milani Majumder"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 185412,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-02-08T05:38:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 12359955,
+                "review_text": "Dr. Kumar is a very patient and caring doctor. We've been visiting him for many years and he has been treating my mother-in-law. He does not prescribe unnecessary medications and tries to work within the patient's requirements and family situation. He is very good with older patients.",
+                "review_alterations": [],
+                "reviewed_on": "2016-02-08 05:35:25",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sueshetty"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 59657,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S. S. Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-08-17T11:09:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 4883680,
+                "review_text": "Since last 14 years he is our family physician. For any medical we use to visit him. Even he never discourage us for telephone consultation. One beauty of his consultation that he never prescribe that can produce any side effects. We are very much dependent on him. I think he is the one of the best physcian in Bangalore.",
+                "review_alterations": [],
+                "reviewed_on": "2015-08-16 10:04:47",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "KAKALI SARKAR "
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 677497,
+            "status": "PUBLISHED",
+            "note": "2017-09-16 07:40:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-16T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35601237,
+                "review_text": "Doctor never made a eye contact, he was professional though. However for an check up 10 min he charged 500 Rs which was ridiculously high. Felt it was very high.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-12 16:42:20",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "PRASHANTH"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1036580,
+            "status": "PUBLISHED",
+            "note": "2018-12-09 05:38:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-09T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38722214,
+                "review_text": "listens each issue with patience. ******* ********** looking at him explain the situation, we get confidence of getting cured. He's an amazing doctor. ",
+                "review_alterations": [
+                    {
+                        "start_index": 33,
+                        "end_index": 51,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 143332
+                    }
+                ],
+                "reviewed_on": "2018-12-07 23:39:03",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neha Dharmani"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186431,
+                "text": "Respiratory tract infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 965892,
+            "status": "PUBLISHED",
+            "note": "2018-09-06 04:51:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-06T05:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38215314,
+                "review_text": "I went to this Dpctor for my own treatment.\nDoctor is very friendly and explained my condition gently. he spends sufficient time for the explanation.",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-04 15:11:51",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sisir roy"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 724805,
+            "status": "PUBLISHED",
+            "note": "2017-11-15 05:39:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-15T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36069374,
+                "review_text": "He is senior most daughter and well behavihour with each person.  He explain very well for the treatment. I am satify with the treatment. He talks very friendly also.",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-12 10:53:55",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SINDHU"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 717294,
+            "status": "PUBLISHED",
+            "note": "2017-11-07 06:31:55",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-07T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35999089,
+                "review_text": "Listening to the medical issue and diagnosis with involvement and considering the matter in detail, patience and compassion, treating the profession as noble. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-03 09:18:27",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shreyas(hemalatha)"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 590992,
+            "status": "PUBLISHED",
+            "note": "2017-06-14 13:20:57",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-14T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34719571,
+                "review_text": "Very good doctor and patient in hearing the concerns. He doesn't recommend many medicines and has very good diagnosis.  ",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-13 11:33:57",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Puneet Mishra"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 564575,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-20T06:18:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34458110,
+                "review_text": "He listens attentively and understands deeply. very unpretentious and soft spoken.,he is someone from the classical mould.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-20 05:21:44",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jacob"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186434,
+                "text": "Diabetes complications"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 552027,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-10T07:07:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34321226,
+                "review_text": "Very polite. Hear problems. Understand our difficulty. Does not proscribe unwanted medicine and tests",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-08 06:29:01",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manasvi Rengarajan"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1516353,
+            "status": "PUBLISHED",
+            "note": "2020-09-10 06:10:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 1055989,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-10T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41723860,
+                "review_text": "Amazing doctor! He patiently hears the issues and gets to the root of the problem... This is the second time I am visiting Dr Kumar and the experience has been great... Thanks doc...",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-09 04:59:48",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shravan"
+        },
+        "entity_id": 522045,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1174399,
+            "status": "PUBLISHED",
+            "note": "2019-06-12 10:46:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 1055989,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-12T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39621488,
+                "review_text": "Good doctor. i strongly recommend, he is ************* *** experienced, won't prescribe unnecessary medicine and tests",
+                "review_alterations": [
+                    {
+                        "start_index": 40,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 182983
+                    }
+                ],
+                "reviewed_on": "2019-06-10 16:10:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Reshma suresh"
+        },
+        "entity_id": 522045,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 988815,
+            "status": "PUBLISHED",
+            "note": "2018-10-04 06:45:14",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-04T07:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38381776,
+                "review_text": "Dr.S S Kumar is very cool. He doesn't give a lot of medicines but still understands the problem and give proper guidance. Anyone can go to him *** *** ****** *********.\nAlso your time is valued.",
+                "review_alterations": [
+                    {
+                        "start_index": 142,
+                        "end_index": 166,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 132909
+                    }
+                ],
+                "reviewed_on": "2018-10-02 04:18:12",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SMIJA"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 919893,
+            "status": "PUBLISHED",
+            "note": "2018-07-12 12:16:21",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-12T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37844273,
+                "review_text": "I prefer this doctor for general treatment. He is very friendly and observations are in detailed.....",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-11 06:07:29",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "krishna chaitanya "
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 895058,
+            "status": "PUBLISHED",
+            "note": "2018-06-10 08:10:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-10T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37634052,
+                "review_text": "He spent lot of time patiently hearing and explaining the diagnosis and treatment.no wait time at all",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-09 04:43:53",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MOHAN RAO A"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 790557,
+            "status": "PUBLISHED",
+            "note": "2018-02-13 12:52:15",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-13T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36707121,
+                "review_text": "He was very casual and did not show the usual stiffness that is associated with Physcians. Explained things nicely.",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-08 03:36:35",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aathmika M"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 595845,
+            "status": "PUBLISHED",
+            "note": "2017-06-20 08:00:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-20T09:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34770791,
+                "review_text": "Dr Kumar is very friendly and does understand  thorough causes of your health issues. He provides very small medications, and cures our health problems with minimalistic medications, which I personally feel is great advantage. He also helps you with your questions and explains his point of view graciously. It is always advisable to have an appointment to visit him, as he urges us to have appointments and his clinic runs full on all the evenings.",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-18 05:14:24",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 566357,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-22T10:55:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34476489,
+                "review_text": "Being first time patient have not had much experience but all the same he carefully listened to my prolems ,analysed the same and advised me that whatever treatment I am presently undergoing in Air Force Hospital is on the right lines. He asked me to continue the same treatment. He prescribed me medicine for dizziness as well.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-21 12:04:42",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1695949,
+            "status": "PUBLISHED",
+            "note": "2021-04-11 09:59:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 1055989,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-11T10:01:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42691694,
+                "review_text": "The Doctor is excellent and amazing. He makes a note of all the symptoms and parameters from our existing reports carefully and keenly without rushing up. He will analyze the issue very carefully one by one and provide a proper answer. He prescribes the tests only which are most essential for the current problem. He doesn't prescribe them unnecessarily. I have never seen such a patient-doctor who is very economical. Big Salute to such doctors.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-10 09:58:08",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 522045,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 877393,
+            "status": "PUBLISHED",
+            "note": "2018-05-20 06:06:37",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 1055989,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-20T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37487193,
+                "review_text": "The doctor is excellent, very friendly and fantastic diagnosis. *** ********* ** ********** **** **** ********* *** relieved me from pain. He has a very calm and comforting way of dealing with patients\n\nHowever, the problem is with Apollo. They asked me to pay 150 rupees extra for registration fee. But I was already their customer and they should have my UHID. They could not retrieve it because the servers were down. And for this reason I ended up paying 150 rupees extra. ",
+                "review_alterations": [
+                    {
+                        "start_index": 63,
+                        "end_index": 114,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 108140
+                    }
+                ],
+                "reviewed_on": "2018-05-18 07:44:17",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 522045,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 401,
+                "text": "Chikungunya"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 709962,
+            "status": "PUBLISHED",
+            "note": "2017-10-27 12:00:41",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-27T13:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35930089,
+                "review_text": "Extremely  competent Doc, soft spoken, serious *** ***** ******* ********** Takes time to examine.  Belongs to the old school.",
+                "review_alterations": [
+                    {
+                        "start_index": 47,
+                        "end_index": 75,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 72387
+                    }
+                ],
+                "reviewed_on": "2017-10-25 14:35:49",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanjay Siddarth"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            },
+            {
+                "id": 319,
+                "text": "Diarrhoea"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 648160,
+            "status": "PUBLISHED",
+            "note": "2017-08-12 13:01:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-12T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35307504,
+                "review_text": "Have been visiting the doctor for years.. though we stay quite far from hus clinic we opt to go all the wy to his clinic because of the confidence he shows and puts the patient at ease.",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-10 15:53:29",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vikas Kothari"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 628190,
+            "status": "PUBLISHED",
+            "note": "2017-07-22 10:22:16",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-22T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35096220,
+                "review_text": "Good Doctor.. happy with the way he approaches a patient. Listened to all that we got to say. Treats the cause",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-20 06:31:19",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rakesh Palleri"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 461323,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-01T13:04:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30796566,
+                "review_text": "Very good doctor. Has a lot of patience to listen to each and every concern. Does a thorough checkup too and also asks couple of questions for clarifications ",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-31 02:36:54",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shyama Prasad Mohanty"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 423617,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-12-14T12:54:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 28442196,
+                "review_text": "Experience with doctor was Excellent. He diagnosed the disease very well. He looks very caring to me also.",
+                "review_alterations": [],
+                "reviewed_on": "2016-12-09 13:43:25",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jinraj V Pushpangathan"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 291116,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-20T11:04:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 19883982,
+                "review_text": "Dr. SS Kumar is our family consultant for many years, his passion and care for patience has not come down a bit. \nHe is a wonderful doctor with charm. I get cured from my sickness the moment I visit him. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-18 14:24:49",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Natarajamani"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 772496,
+            "status": "PUBLISHED",
+            "note": "2018-01-26 09:52:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-26T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36534270,
+                "review_text": "He has been our family doctor since the past 20 years and have had no issues whatsoever with Dr Kumar. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-16 05:17:38",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abinash"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 158995,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-05T03:01:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 10595079,
+                "review_text": "Very positive.\r\nVery relaxed and thorough eff ective\r\nMany years of treatmen for various illnesses refers to\r\nReliabl e doctors for consultation",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-05 03:01:12",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "PREMA NEELA KANTAN"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 103836,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-10-18T13:54:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 7202151,
+                "review_text": "Doctor means patience. He listens patiently and records every observations and his diagnosis is always accurate",
+                "review_alterations": [],
+                "reviewed_on": "2015-10-18 13:54:27",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "saroja"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192342,
+                "text": "Viral Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 691914,
+            "status": "PUBLISHED",
+            "note": "2017-10-04 10:56:35",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-04T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35747883,
+                "review_text": "Very nice Dr who took time to check body *** ******** ******** *********. He didn't jump on to providing anti biotics and I am recovering well post decongestion he gave.",
+                "review_alterations": [
+                    {
+                        "start_index": 41,
+                        "end_index": 71,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 68627
+                    }
+                ],
+                "reviewed_on": "2017-10-01 05:30:38",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 532605,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-20T08:52:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34116325,
+                "review_text": "We are very happy about the treatement.it is our fortunate  to have such a good doctor. We met real \"Vidyo narayano harihi\" thanks sir.....\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-20 05:14:09",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1986376,
+            "status": "PUBLISHED",
+            "note": "2022-05-07 07:42:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-07T08:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44353462,
+                "review_text": "Such a kind doctor. Very happy with the treatment. Very patient kind doctor. Definitely will recommend the doctor to everyone. Very happy ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-05 15:53:37",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1672681,
+            "status": "PUBLISHED",
+            "note": "2021-03-14 13:35:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 1055989,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-14T14:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42562626,
+                "review_text": "Experience is very very  good.He is a our family Doctor and taking care of our health issues since long.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-13 13:27:35",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 522045,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1151824,
+            "status": "PUBLISHED",
+            "note": "2019-05-12 13:18:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 1055989,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-12T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39479528,
+                "review_text": "**** **** ****** **** great experience. Helpful doctor. I suggest others to visit him, for general medicine. Worth for your money.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 20,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 175266
+                    }
+                ],
+                "reviewed_on": "2019-05-11 13:16:56",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 522045,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1063905,
+            "status": "PUBLISHED",
+            "note": "2019-01-17 12:01:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-17T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38905959,
+                "review_text": "I m suggesing this doctor for all your Medical treatment needs, he is very good and most experience  doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-16 08:20:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1029937,
+            "status": "PUBLISHED",
+            "note": "2018-11-30 05:49:48",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-30T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38673888,
+                "review_text": "Does investigation systematically *** ********* ***** ********* .explains patient all issues related to treatment",
+                "review_alterations": [
+                    {
+                        "start_index": 33,
+                        "end_index": 62,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 141879
+                    }
+                ],
+                "reviewed_on": "2018-11-29 04:29:08",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186442,
+                "text": "Wellness checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1018896,
+            "status": "PUBLISHED",
+            "note": "2018-11-15 05:20:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-15T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38595391,
+                "review_text": "Very good Behavior, he is our family doctor, we're are consulting doctor if any health problems persists. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-14 03:44:19",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101998,
+                "text": "Numbness and tingling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 981071,
+            "status": "PUBLISHED",
+            "note": "2018-09-25 04:56:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-25T05:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38326286,
+                "review_text": "We like the way we are cared excellent he remembers us give nice solution to our problem s. We will recommend to our friends",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-22 14:05:54",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 959347,
+            "status": "PUBLISHED",
+            "note": "2018-08-29 10:01:43",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-29T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38168013,
+                "review_text": "Very understanding and explained the changes in medication requirements. Thorough checkup and advised on lifestyle changes to be made. \n",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-28 06:21:14",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 838919,
+            "status": "PUBLISHED",
+            "note": "2018-04-05 05:49:53",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-05T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37152175,
+                "review_text": "Very very  nice excercise ..The medical guidence given by the doctor is great ,simple and friendly.The concern and attention showen by the doctor is great .",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-04 03:46:03",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 795700,
+            "status": "PUBLISHED",
+            "note": "2018-02-15 12:50:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-15T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36756425,
+                "review_text": "Dr. Kumar is one of the rarest doctor with load of patience , care and spends ample of time with patient which you rarely find now a days . His medicine advise is accurate and perfect . ",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-14 04:51:02",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 762707,
+            "status": "PUBLISHED",
+            "note": "2018-01-11 06:53:53",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-11T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36437840,
+                "review_text": "Had a nice experience with the doctor. He explained the problem well *** **** **** ********* Felt much better after that.",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 92,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 85052
+                    }
+                ],
+                "reviewed_on": "2018-01-03 05:38:00",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 734829,
+            "status": "PUBLISHED",
+            "note": "2017-11-26 12:04:44",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-26T13:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36164589,
+                "review_text": "Happy to meet,very much satisfied.\nHe will listen to the patient problem,and give solutions with simple medicine. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-25 07:57:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 114,
+                "text": "Coughing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 163593,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-11T09:48:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 10948184,
+                "review_text": "Everything was great except that I couldn't get a follow-up appointment (after I had got my test results) for another 2 days. I feel they should keep open slots for quick follow-up.",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-11 09:48:55",
+                "channel": "mobile",
+                "source": "FabricDroid",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 22649,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S. S. Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-04-17T08:37:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 1605592,
+                "review_text": "Excellent. The Doctor has been very caring & Courteous and the treatment very effective. ",
+                "review_alterations": [],
+                "reviewed_on": "2015-04-17 08:37:54",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SARASWATHAN"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 730213,
+            "status": "PUBLISHED",
+            "note": "2017-11-22 05:21:04",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-22T06:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36120986,
+                "review_text": "Very good doctor.  Does treatment with utmost care. Very helpful and approachable. My experience was very good.",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-19 13:22:41",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 420139,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-12-08T08:11:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 28223280,
+                "review_text": "Very good. He explained the possible situations very clearly. I would definitely recommend him to my friends and family.",
+                "review_alterations": [],
+                "reviewed_on": "2016-12-04 07:03:06",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 407820,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-24T06:17:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 27412249,
+                "review_text": "** ** *** ** **** ****** ** ********** One the most experienced  doctor. Unnecessary  he does not write any test. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 38,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 14859
+                    }
+                ],
+                "reviewed_on": "2016-11-16 13:45:48",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 299742,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-29T07:48:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 20471140,
+                "review_text": "The experience with Doctor is very nice.Doctor patiently listens to the patient\"s problem.He doesn't prescribe unnecessary medicines.Doctor is very good.",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-29 07:45:21",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 255814,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-05-04T05:52:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 17415738,
+                "review_text": "He is one of the most best  doctor in banglore. I had been for last 4years..and feeling better day by day because of him only..I am very much thank full to him .\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-05-03 22:39:17",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 248229,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-04-25T05:37:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 16960131,
+                "review_text": "It was good , got the checkup done and was having a good check. Doctor advise was good and it was always pleasure",
+                "review_alterations": [],
+                "reviewed_on": "2016-04-25 05:33:15",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 80310,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S S Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-09-22T06:17:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 6147102,
+                "review_text": "He is a very Nice doctor and we are his clients for the past 10years and he will not give heavy dosage of medicines but he will give only what ever is required and for his advise no second opinion is required.",
+                "review_alterations": [],
+                "reviewed_on": "2015-09-20 11:18:03",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 29530,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 311447,
+            "practice_id": 721489,
+            "practice_name": "Dr. S. S. Kumar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-05-19T03:20:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 2192552,
+                "review_text": "Dr S S Kumar having rich experience and he is having lot of patience to listen my problems/issues. He has given me very good advise after thoroughly going through my Lab reports.",
+                "review_alterations": [],
+                "reviewed_on": "2015-05-19 03:20:23",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 232123,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

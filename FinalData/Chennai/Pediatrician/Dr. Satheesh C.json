@@ -1,0 +1,340 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1017227,
+            "status": "PUBLISHED",
+            "note": "2018-11-13 07:12:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619121,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-13T08:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38583055,
+                "review_text": "** ** *** **** ********* *********** People from other countries come and see him to cure the kids illness.. very friendly, **** ******* *** ***** *** ****** *** *********** **********  he took care of me and now my baby.. to be more precise he saved my life.. and many more children's lives.. I will call him a living God .. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 35,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 139212
+                    },
+                    {
+                        "start_index": 124,
+                        "end_index": 183,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 139213
+                    }
+                ],
+                "reviewed_on": "2018-11-11 13:51:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Divya Parthasarathy"
+        },
+        "entity_id": 600027,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 2131,
+                "text": "Childhood Infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1501158,
+            "status": "PUBLISHED",
+            "note": "2020-08-26 04:47:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619121,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-26T05:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41645476,
+                "review_text": "**** **** ********* * **** **  ********** *** ******** *** giving medicines Well satisfied long live\n\n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 57,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 287454
+                    }
+                ],
+                "reviewed_on": "2020-08-24 15:25:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sasi Bharathi.Y"
+        },
+        "entity_id": 600027,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 973436,
+            "status": "PUBLISHED",
+            "note": "2018-09-15 12:03:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619121,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-15T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38268833,
+                "review_text": "Excellent doctor. His experience speaks.**** ****** *** ***** ********** ** ********i would recommend to all ",
+                "review_alterations": [
+                    {
+                        "start_index": 40,
+                        "end_index": 83,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 129616
+                    }
+                ],
+                "reviewed_on": "2018-09-13 07:24:49",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prasanna"
+        },
+        "entity_id": 600027,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 818274,
+            "status": "PUBLISHED",
+            "note": "2018-03-14 04:46:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619121,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-14T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36965475,
+                "review_text": "Very good doctor who has the patience to sit and listen to all that u have to say. **** **** ********* *** ********* *****",
+                "review_alterations": [
+                    {
+                        "start_index": 82,
+                        "end_index": 121,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 96394
+                    }
+                ],
+                "reviewed_on": "2018-03-12 05:19:16",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ADVAITH"
+        },
+        "entity_id": 600027,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1409972,
+            "status": "PUBLISHED",
+            "note": "2020-04-02 05:05:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619121,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-02T06:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41186919,
+                "review_text": "****** ******** ** *** ** *** ****** ********** ** ********  He is so good in listening our problems and give us satisfying treatment.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 59,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 260263
+                    }
+                ],
+                "reviewed_on": "2020-03-31 19:46:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600027,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1205681,
+            "status": "PUBLISHED",
+            "note": "2019-07-24 10:58:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619121,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-24T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39820877,
+                "review_text": "Thank you so much doctor for your good care and concern.\nHe was the doctor of mine and now my daughter.\n** ** *** ****** **** ********* *******",
+                "review_alterations": [
+                    {
+                        "start_index": 104,
+                        "end_index": 142,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 194071
+                    }
+                ],
+                "reviewed_on": "2019-07-22 05:05:33",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600027,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

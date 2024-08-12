@@ -1,0 +1,287 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1863035,
+            "status": "PUBLISHED",
+            "note": "2021-10-30 05:39:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 946658,
+            "practice_id": 1347019,
+            "practice_name": "Kodi Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-30T06:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325693,
+                "reply_status": "PUBLISHED",
+                "reply_text": "My pleasure \ud83d\udc4d",
+                "replied_at": "2021-11-08T08:08:29+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 10981191,
+                "modified_by_id": 10981191,
+                "replier_name": "Dr. Pratheeba",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/946658/dr-pratheeba-60d56d1fb9376.jpeg"
+            },
+            "survey_response": {
+                "id": 43643103,
+                "review_text": "Dr.Pratheebha was excellent, ************** sensitive, informative. really took his time to explain my baby health condition with me as well as with treatment options. Value for the money. Highly recommended.",
+                "review_alterations": [
+                    {
+                        "start_index": 28,
+                        "end_index": 42,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 381310
+                    }
+                ],
+                "reviewed_on": "2021-10-29 03:49:37",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hema Patient"
+        },
+        "entity_id": 778933,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1848878,
+            "status": "PUBLISHED",
+            "note": "2021-10-10 08:03:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 946658,
+            "practice_id": 1347019,
+            "practice_name": "Kodi Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-09T08:20:23+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 320667,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. My pleasure.",
+                "replied_at": "2021-10-09T08:20:23+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 10981191,
+                "modified_by_id": 10981191,
+                "replier_name": "Dr. Pratheeba",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/946658/dr-pratheeba-60d56d1fb9376.jpeg"
+            },
+            "survey_response": {
+                "id": 43555619,
+                "review_text": "**** **************Kind doctor\nExplains well about the disease\nReasonable fee\nClarifies all doubts\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 377910
+                    }
+                ],
+                "reviewed_on": "2021-10-09 08:01:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aisha "
+        },
+        "entity_id": 778933,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193418,
+                "text": "stomach and intestinal infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1868167,
+            "status": "PUBLISHED",
+            "note": "2021-11-09 07:13:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 946658,
+            "practice_id": 1347019,
+            "practice_name": "Kodi Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-09T08:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43675947,
+                "review_text": "Very nice approach **** ******** iam very happy thank you  hospital near my place iam very happy my babys also happy",
+                "review_alterations": [
+                    {
+                        "start_index": 19,
+                        "end_index": 31,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 382472
+                    }
+                ],
+                "reviewed_on": "2021-11-07 09:09:37",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 778933,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1848999,
+            "status": "PUBLISHED",
+            "note": "2021-10-10 10:36:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 946658,
+            "practice_id": 1347019,
+            "practice_name": "Kodi Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-09T11:52:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 320718,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much \ud83d\ude00",
+                "replied_at": "2021-10-09T11:52:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 10981191,
+                "modified_by_id": 10981191,
+                "replier_name": "Dr. Pratheeba",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/946658/dr-pratheeba-60d56d1fb9376.jpeg"
+            },
+            "survey_response": {
+                "id": 43556444,
+                "review_text": "She has been my kids pediatrician since their birth! She is a very soft natured person which makes the kids to adapt to medical procedure easily! She reassures the parents confidence and makes us not to worry about our kids. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-09 10:33:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 778933,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1848879,
+            "status": "PUBLISHED",
+            "note": "2021-10-10 08:03:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 946658,
+            "practice_id": 1347019,
+            "practice_name": "Kodi Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-09T08:20:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 320668,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you my pleasure.",
+                "replied_at": "2021-10-09T08:20:41+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 10981191,
+                "modified_by_id": 10981191,
+                "replier_name": "Dr. Pratheeba",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/946658/dr-pratheeba-60d56d1fb9376.jpeg"
+            },
+            "survey_response": {
+                "id": 43555622,
+                "review_text": "Very kind doctor.        \n Explained the illness well.     \nReasonable fee.     \nWill recommend again.    ",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-09 08:02:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 778933,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

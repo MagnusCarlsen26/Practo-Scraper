@@ -1,0 +1,233 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 204,
+                "text": "ACL Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 261353,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 346949,
+            "practice_id": 1154495,
+            "practice_name": "MaxCure Hospitals (DUP)",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-05-11T05:23:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 17791835,
+                "review_text": "Dr. Sunil Apsingi is a very patient friendly doctor. He treated me well and gave excellent support during and after the surgery, which was completed successfully. He also diagnosed the problem very efficiently and accurately. His focus is patient centric and he gives confidence to the patient. Overall a wonderful experience with Dr Sunil Apsingi. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-05-10 19:44:44",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sriram Madhav Kommu"
+        },
+        "entity_id": 256842,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 604,
+                "text": "Shoulder Dislocation Repair"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1080966,
+            "status": "PUBLISHED",
+            "note": "2019-02-08 09:59:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 346949,
+            "practice_id": 1154495,
+            "practice_name": "Maxcure Hospitals Hitech City",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-08T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39020516,
+                "review_text": "Doctor is very nice. He explains patient about the problem and then provides prescription. Doctor recommends tests only if required. Went for shoulder bone dislocation for my dad. I recommend this doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-07 09:15:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shanthan"
+        },
+        "entity_id": 256842,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1905684,
+            "status": "PUBLISHED",
+            "note": "2022-01-05 06:30:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 346949,
+            "practice_id": 1154495,
+            "practice_name": "Medicover Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-05T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43898156,
+                "review_text": "I went today. He will not treat well, just he will ask problem and suggests medicine s. The way of communicating is not upto the mark with patients. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-03 19:34:56",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Mallikarjuna"
+        },
+        "entity_id": 256842,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1933158,
+            "status": "PUBLISHED",
+            "note": "2022-02-15 05:58:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 346949,
+            "practice_id": 1154495,
+            "practice_name": "Medicover Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-15T06:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44058384,
+                "review_text": "I went for my sister for pain and swelling in feet when she walks more.\n\nHe was not listening properly.\n\nWe consulted thrice with this doctor but he didn\u2019t responded well always use to say nothing is there.\nIf nothing is there then why swelling and pain occurs when she walks.\nIn this way we wasted around 1 year.",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-12 15:49:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 256842,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 875,
+                "text": "Hip Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2278304,
+            "status": "PUBLISHED",
+            "note": "2023-10-17 12:27:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 346949,
+            "practice_id": 1154495,
+            "practice_name": "Medicover Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-17T13:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46073544,
+                "review_text": "\nDiagnosed well related to my issue but i Felt like the doctor is not user friendly. The waiting time was too high. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-16 12:19:43",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 256842,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

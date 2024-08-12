@@ -1,0 +1,67 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 173242,
+                "text": "General  Dentistry"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1686064,
+            "status": "PUBLISHED",
+            "note": "2021-03-30 09:30:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 871035,
+            "practice_id": 1246617,
+            "practice_name": "SmileAlign Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-30T10:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42636497,
+                "review_text": "Dr. Sowkya's professional approach and endurance to explain the issue and follow up to be admired the best. The vital part of the treatment involves making the patient aware of the procedures and how it will be taken forward with accurate reasoning and care for detailing which was handled splendidly by Dr. Sowkya.  Really would appreciate the way patients are treated at Smilealign dental clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-29 05:23:13",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Girish c"
+        },
+        "entity_id": 724148,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

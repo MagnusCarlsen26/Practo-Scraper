@@ -1,0 +1,284 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 31,
+                "text": "Ovarian Cyst Removal"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 633098,
+            "status": "PUBLISHED",
+            "note": "2017-07-26 13:12:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 498496,
+            "practice_id": 706234,
+            "practice_name": "Billroth Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-26T14:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35147775,
+                "review_text": "********* ********** Not money minded. Prescribes only which is needed.\nI undergone Lap.surgery for removing right ovarian cyst  now I am well and healthy no issues.\nThank you ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 58633
+                    }
+                ],
+                "reviewed_on": "2017-07-25 13:10:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lavanya"
+        },
+        "entity_id": 442463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 754671,
+            "status": "PUBLISHED",
+            "note": "2017-12-28 05:23:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 498496,
+            "practice_id": 706234,
+            "practice_name": "Billroth Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-28T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36360240,
+                "review_text": "She is very friendly *** *** **** ************* So many complications came during my pregnancy but Mam handled everything \ud83d\ude0d.",
+                "review_alterations": [
+                    {
+                        "start_index": 20,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 83196
+                    }
+                ],
+                "reviewed_on": "2017-12-21 15:18:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shweta"
+        },
+        "entity_id": 442463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1535,
+                "text": "Breast Examination"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2423709,
+            "status": "PUBLISHED",
+            "note": "2024-08-04 05:58:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 498496,
+            "practice_id": 706234,
+            "practice_name": "Billroth Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-04T06:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46903837,
+                "review_text": "There was no communication about the problem. She wasn\u2019t exactly willing to listen to the problem. It was just hurried.",
+                "review_alterations": [],
+                "reviewed_on": "2024-08-02 13:14:45",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 442463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2233205,
+            "status": "PUBLISHED",
+            "note": "2023-07-15 10:23:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 498496,
+            "practice_id": 706234,
+            "practice_name": "Billroth Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-15T11:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45787440,
+                "review_text": "As a CGHS beneficiary I took my 85 year old mother to this doctor at Billroth  She suggested for mammography\nOnce the result came,  the doctor refused to treat on CGHS rates.  *** *** ** ***** *** ************ ** *** *********** **** **** *** **** ********** ******** ******* **** ***** *** *** **** ******\nAfter this incident I stopped seeing Smt.Lakshmi Devarajan.  ****** *** *** ** * **** *******  *** *** ******** *** ******** ******* *** ******* ** ** ********.\nI suggest CGHS beneficiaries not to go to BILLROTH hospital and especially not to consult Dr.Lakshmi Devarajan.\n*** ****** * *******  ********* ****** **** * ****** *********  *** ***** ***** ** **** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 176,
+                        "end_index": 305,
+                        "reason": "NON_COMPLIANT",
+                        "id": 463017
+                    },
+                    {
+                        "start_index": 368,
+                        "end_index": 465,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 463018
+                    },
+                    {
+                        "start_index": 580,
+                        "end_index": 677,
+                        "reason": "NON_COMPLIANT",
+                        "id": 463019
+                    }
+                ],
+                "reviewed_on": "2023-07-13 07:55:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "b s rajanikanth"
+        },
+        "entity_id": 442463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 765277,
+            "status": "PUBLISHED",
+            "note": "2018-01-16 09:02:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 498496,
+            "practice_id": 706234,
+            "practice_name": "Billroth Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-16T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36463029,
+                "review_text": "She is good decision maker when patient in critical. \nShe is caring about the patient.\n\n\n \n\n\n\n\n\n\n\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-06 08:43:20",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jayaraman S"
+        },
+        "entity_id": 442463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

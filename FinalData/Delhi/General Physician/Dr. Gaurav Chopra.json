@@ -1,0 +1,208 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1401409,
+            "status": "PUBLISHED",
+            "note": "2020-03-18 07:35:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 681243,
+            "practice_id": 1255754,
+            "practice_name": "Shivesh Nursing Home And  Maternity Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-18T08:01:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41135226,
+                "review_text": "Good Experienced Doctor. personally recommend to all . his clinic are hygiene and clean and staff supportive. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-16 07:30:39",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 674597,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2047841,
+            "status": "PUBLISHED",
+            "note": "2022-08-16 11:01:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 681243,
+            "practice_id": 1255754,
+            "practice_name": "Shivesh Nursing Home And  Maternity Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-16T12:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44710642,
+                "review_text": "The Dr. Is very rude with the patients.\nDr. Need to polite towards the patients.\nI refused to buy the medicine . Dr. Said it's not my problem I'm not here to answer.\nActually i hv the medicine .Tabhi i don't purchased.\nHe asked 1000 for consultation. *** *** ********* ********** ***** ** **** ***",
+                "review_alterations": [
+                    {
+                        "start_index": 251,
+                        "end_index": 296,
+                        "reason": "NON_COMPLIANT",
+                        "id": 421699
+                    }
+                ],
+                "reviewed_on": "2022-08-13 19:40:08",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 674597,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1624522,
+            "status": "PUBLISHED",
+            "note": "2021-01-19 11:23:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 681243,
+            "practice_id": 1255754,
+            "practice_name": "Shivesh Nursing Home And  Maternity Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-19T12:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42299426,
+                "review_text": "i went there after appointment but he didn't meet. he sent me to another doctor. same way second time also. i waited a lot and again he didn't meet. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-18 11:06:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 674597,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1365836,
+            "status": "PUBLISHED",
+            "note": "2020-02-12 06:39:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 681243,
+            "practice_id": 1255754,
+            "practice_name": "Shivesh Nursing Home And  Maternity Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-12T07:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40908490,
+                "review_text": "Went for mom hand bone fractured they called doctor gulshan bajaj, he had done plaster on it *** **** ******* ****** **** *** came out by itself in 8 days they charged big amount for that, i would not recommend Shivesh to anyone",
+                "review_alterations": [
+                    {
+                        "start_index": 93,
+                        "end_index": 124,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 246702
+                    }
+                ],
+                "reviewed_on": "2020-02-10 12:20:28",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 674597,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

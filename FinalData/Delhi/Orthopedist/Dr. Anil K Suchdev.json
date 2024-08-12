@@ -1,0 +1,138 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3922,
+                "text": "Arthroscopic Shoulder Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1099796,
+            "status": "PUBLISHED",
+            "note": "2019-03-06 11:50:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 283718,
+            "practice_id": 699467,
+            "practice_name": "Dr. Suchdev's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-06T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39148100,
+                "review_text": "Cost of doctor is very high it was written rs 700 he takes 900 also rest was ok no issues with doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-05 07:59:42",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 182084,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1946714,
+            "status": "PUBLISHED",
+            "note": "2022-03-06 11:10:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 283718,
+            "practice_id": 699467,
+            "practice_name": "Dr. Suchdev's Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-06T12:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44131861,
+                "review_text": "When a patient goes to a doctor, the least he or she expects is for the doctor to be polite, patient and humble.\nThis doctor does not even know how to be courteous/ humble to seniors. \n\nA BIG THUMBS DOWN.\n\nIf I had an option, I would recommend the Medical fraternity to cancel his practise so it is a lesson for everyone.\n\nWe look upon doctors for their professionalism. His behaviour however is extremely upsetting.\n\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-05 08:41:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 182084,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 841281,
+            "status": "PUBLISHED",
+            "note": "2018-04-10 07:07:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 283718,
+            "practice_id": 699467,
+            "practice_name": "Dr. Suchdev's Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-10T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37172156,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-07 14:38:38",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 182084,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

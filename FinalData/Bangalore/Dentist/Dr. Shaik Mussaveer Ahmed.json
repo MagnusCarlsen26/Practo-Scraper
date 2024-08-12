@@ -1,0 +1,230 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2166870,
+            "status": "PUBLISHED",
+            "note": "2023-03-15 05:38:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581579,
+            "practice_id": 1136296,
+            "practice_name": "Dental Xpert",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-15T06:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45392341,
+                "review_text": "*** ******** ** *** **** ****** *** *** **** ***** *********  I have had my RTC done from him. It\u2019s amazing how he understands and manages his patients and executes painless treatments all the time. Got my wisdom tooth extraction today and as expected very smoothly executed his procedure. I would highly recommend this doctor for all your dental needs. ** ** ** ****** ** *** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 59,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 448470
+                    },
+                    {
+                        "start_index": 353,
+                        "end_index": 382,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 448471
+                    }
+                ],
+                "reviewed_on": "2023-03-13 15:44:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Syed Ameen Razvi"
+        },
+        "entity_id": 564784,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1490567,
+            "status": "PUBLISHED",
+            "note": "2020-08-13 06:04:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581579,
+            "practice_id": 1136296,
+            "practice_name": "Dental Xpert",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-13T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41592059,
+                "review_text": "Most painless root canal one can ever find... \nHow style and experience of work makes him special..\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-11 16:16:16",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Muneera bhat"
+        },
+        "entity_id": 564784,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1431664,
+            "status": "PUBLISHED",
+            "note": "2020-05-26 08:03:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581579,
+            "practice_id": 1136296,
+            "practice_name": "Dental Xpert",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-26T09:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41294962,
+                "review_text": "I\u2019m very much satisfied with his treatment. I will recommend  People who is really scared of tooth extraction and any other problem please visit him once you will be very confident. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-25 04:44:14",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sunil kumar "
+        },
+        "entity_id": 564784,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1048768,
+            "status": "PUBLISHED",
+            "note": "2018-12-27 10:59:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581579,
+            "practice_id": 1136296,
+            "practice_name": "Dental Xpert",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-27T11:00:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38804820,
+                "review_text": "#Awesome*********************#friendlyenvironment#painlesstreatment#shortage of wordscan'texpress...",
+                "review_alterations": [
+                    {
+                        "start_index": 8,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 146147
+                    }
+                ],
+                "reviewed_on": "2018-12-25 14:37:42",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nahida"
+        },
+        "entity_id": 564784,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

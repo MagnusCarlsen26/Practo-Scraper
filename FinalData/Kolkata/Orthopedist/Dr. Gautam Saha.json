@@ -1,0 +1,96 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2126175,
+            "status": "PUBLISHED",
+            "note": "2022-12-31 05:52:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1036405,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-31T06:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45159092,
+                "review_text": "I had met the doctor at woodlands hospital  and he is fantastic . His medicines worked **** ***** and he recommended certain exercises . They r really working . Very very practical doctor . Too good ",
+                "review_alterations": [
+                    {
+                        "start_index": 87,
+                        "end_index": 96,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 438053
+                    }
+                ],
+                "reviewed_on": "2022-12-30 03:57:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sanjay kumar daga"
+        },
+        "entity_id": 846142,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2172955,
+            "status": "PUBLISHED",
+            "note": "2023-03-25 07:48:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1036405,
+            "practice_id": 1033173,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-25T08:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45427120,
+                "review_text": "I visited the doctor with pain in my right foot(also inflammation) on 23/3/23. I told him about my high uric acid history but he totally ignored. He suggested to go for x ray & after x ray he found nothing adverse in x ray and told that the pain is due to the shoes which i am wearing & needs modification. He refused to answer any questions that i asked. ***** * ******* ******* ****** * ** ********** ** **** *********** ** **** **** * ***** ****** *** ********* ** **** *** ******* ******** *** * * ** ******* **** ***** The visit was total wastage of time & money. I would not recommend this doctor ",
+                "review_alterations": [
+                    {
+                        "start_index": 356,
+                        "end_index": 523,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449941
+                    }
+                ],
+                "reviewed_on": "2023-03-24 03:06:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kanishka Ghosh"
+        },
+        "entity_id": 846142,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

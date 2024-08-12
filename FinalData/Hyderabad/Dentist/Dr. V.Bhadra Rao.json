@@ -1,0 +1,70 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1301715,
+            "status": "PUBLISHED",
+            "note": "2019-11-29 09:22:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495662,
+            "practice_id": 1001606,
+            "practice_name": "Dr Smiles Dental Clinic Ramkote",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-29T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40441925,
+                "review_text": "am coming since 25 years and we are seniors of your clinic .**** ********* ** **** **** *** approaching is very nice ******** ********* **** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 60,
+                        "end_index": 90,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 224853
+                    },
+                    {
+                        "start_index": 117,
+                        "end_index": 144,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 224854
+                    }
+                ],
+                "reviewed_on": "2019-11-28 06:38:26",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ms. L.Padmavathi"
+        },
+        "entity_id": 438900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

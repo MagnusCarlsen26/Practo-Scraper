@@ -1,0 +1,204 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1765009,
+            "status": "PUBLISHED",
+            "note": "2021-07-03 06:01:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 233567,
+            "practice_id": 1186256,
+            "practice_name": "R.G'S Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-03T06:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43065205,
+                "review_text": "Dr. Anuradha is very **** *** helpful, \nI have been undergoing treatment for some days, \nI wish I could get a better result compare previous dr",
+                "review_alterations": [
+                    {
+                        "start_index": 21,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 355965
+                    }
+                ],
+                "reviewed_on": "2021-07-01 16:30:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "rajeshri pawar"
+        },
+        "entity_id": 629606,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1710140,
+            "status": "PUBLISHED",
+            "note": "2021-04-29 08:06:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 233567,
+            "practice_id": 1186256,
+            "practice_name": "R.G'S Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-28T13:20:06+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 283540,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Hi shanthi. Thanks for review, we really appreciate. Your feedback really help us to serve better.",
+                "replied_at": "2021-04-28T13:20:06+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2495677,
+                "modified_by_id": 2495677,
+                "replier_name": "Dr. Anuradha Narayanan",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/233567/dr-anuradha-5b163dad917b9.jpg"
+            },
+            "survey_response": {
+                "id": 42772377,
+                "review_text": "She was all ears to all my concerns...made me really comfortable and at ease by listening to all my querries. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-28 08:04:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Santhi "
+        },
+        "entity_id": 629606,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 5365,
+                "text": "Vaginal Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1869252,
+            "status": "PUBLISHED",
+            "note": "2021-11-10 06:27:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 233567,
+            "practice_id": 1186256,
+            "practice_name": "R.G'S Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-09T12:18:56+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325981,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Sorry for your inconvenience . I don\u2019t know why you felt like not had a consultation with your assigned doctor. You were constantly correctly by dr Anuradha , hope you will be fine soon. Thanks for bringing this issue to us. We will check the address on Practo and correct it as soon as possible.",
+                "replied_at": "2021-11-09T12:18:56+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2495677,
+                "modified_by_id": 2495677,
+                "replier_name": "Dr. Anuradha Narayanan",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/233567/dr-anuradha-5b163dad917b9.jpg"
+            },
+            "survey_response": {
+                "id": 43682992,
+                "review_text": "Firstly, I was told that I would get Dr. Anuradha and the doctor I got was not her. The address was incorrect and it took me 10 mins to find the clinic. Lastly, the staff had no clarity on appointments or how was it booked",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-09 06:24:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Anika Goyal"
+        },
+        "entity_id": 629606,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1706232,
+            "status": "PUBLISHED",
+            "note": "2021-04-24 07:34:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 233567,
+            "practice_id": 1186256,
+            "practice_name": "R.G'S Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-23T09:55:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 282558,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.",
+                "replied_at": "2021-04-23T09:55:53+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2495677,
+                "modified_by_id": 2495677,
+                "replier_name": "Dr. Anuradha Narayanan",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/233567/dr-anuradha-5b163dad917b9.jpg"
+            },
+            "survey_response": {
+                "id": 42748796,
+                "review_text": "She's amazing with her knowledge and patient handling .\nOperation executed very well .\nMy mom happy and well.\n\n\nThanks Dr. Anuradha .",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-23 07:25:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 629606,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

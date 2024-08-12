@@ -1,0 +1,168 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1318558,
+            "status": "PUBLISHED",
+            "note": "2019-12-20 12:28:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 420812,
+            "practice_id": 1122372,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-20T13:00:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40564579,
+                "review_text": "I have only gone there for an ultrasound scan. She is a good doctor. The consultation was actually an impressive one but the only problem was that I had to wait for 3 hours to consult the doctor because the queue was quite long. I will recommend the doctor but the schedule has to be taken care of in a well-organized manner.",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-19 12:25:24",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 553109,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 120953,
+                "text": "Pregnancy Scan"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1531417,
+            "status": "PUBLISHED",
+            "note": "2020-09-25 13:20:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 420812,
+            "practice_id": 1123562,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-25T14:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41802486,
+                "review_text": "First of All they have wasted our previous time and even they did't bother to inform us that the doctor is on leave. Why should this Practo confirmed our appointment. My wife is pregnant we have to waited there for more than 1 hour and then they again keep waited us for 30 minuted more and finally they said they are not expertise in this scan and the doctor Amita is on leave so they given us appointment again on Monday. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-24 13:15:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "SHAHLA KHAN"
+        },
+        "entity_id": 552953,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1943006,
+            "status": "PUBLISHED",
+            "note": "2022-03-01 07:46:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 420812,
+            "practice_id": 1122372,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-01T08:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44111497,
+                "review_text": "* ****** *** ******* **** ******** *** ******* She is always rude with her patients and doesn't like to answer the questions. ******** ****** ** *** ****** *** **** * *** ****** * **** * **** ******** * ******** ******* This is the SECOND TIME we are facing this behaviour with her. Being a woman, it's so unpleasant.\n\nNot sure if she is the same for her own regular patients. I visited her for a scan and since I am not her regular patient, she was so rude, *** *** ******* *** **** ********* verge to send us out soon. **** **** ** ***** ** ********* ****** ** ***** ** **** * ***** **** ** ******* *** ******** ** ***** *********. I had a thought to opt Apollo for the delivery, now looking at this I AM SURE, I WON'T RECOMMEND APOLLO FOR ANYTHING.\n\n** *** *** *** ********** ** ******** ******** *** **** ** *** **** *** * ****, please be open with us. You cannot discriminate like this, we pay for your service *** **** *** **** *** *** ***** ******* *** *** ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 46,
+                        "reason": "NON_COMPLIANT",
+                        "id": 398799
+                    },
+                    {
+                        "start_index": 126,
+                        "end_index": 218,
+                        "reason": "NON_COMPLIANT",
+                        "id": 398800
+                    },
+                    {
+                        "start_index": 458,
+                        "end_index": 493,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 398801
+                    },
+                    {
+                        "start_index": 520,
+                        "end_index": 631,
+                        "reason": "NON_COMPLIANT",
+                        "id": 398802
+                    },
+                    {
+                        "start_index": 753,
+                        "end_index": 830,
+                        "reason": "NON_COMPLIANT",
+                        "id": 398803
+                    },
+                    {
+                        "start_index": 916,
+                        "end_index": 962,
+                        "reason": "NON_COMPLIANT",
+                        "id": 398804
+                    }
+                ],
+                "reviewed_on": "2022-02-28 05:38:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 553109,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

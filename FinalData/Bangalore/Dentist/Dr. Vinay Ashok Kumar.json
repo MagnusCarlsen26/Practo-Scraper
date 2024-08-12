@@ -1,0 +1,1140 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1589393,
+            "status": "PUBLISHED",
+            "note": "2020-12-06 04:55:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-06T05:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42111606,
+                "review_text": "Very friendly and experienced Doctor. The explanation of my health issue was very professional, all in all, I was very happy and satisfied with my consultation.",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-04 14:25:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suraj"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1589072,
+            "status": "PUBLISHED",
+            "note": "2020-12-05 08:32:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-05T09:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42109952,
+                "review_text": "*** ** *** **** ******* * **** ***** ** *******explained all the procedure before hand only with so much clarity....less waiting time.....n top class treatment....i recommend him to all my friends.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 312012
+                    }
+                ],
+                "reviewed_on": "2020-12-04 08:24:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Devender Kumar"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1557671,
+            "status": "PUBLISHED",
+            "note": "2020-10-24 12:59:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-24T13:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41941398,
+                "review_text": "One of the coolest doctor with tonnes of patience and he carries the cute smile till the end.one good thing about Vinay is he makes you  feel comfortable with your negetives and gives very good examples to overcome.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-23 12:57:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "P. venkatesh"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1230288,
+            "status": "PUBLISHED",
+            "note": "2019-08-24 12:28:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-24T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39977145,
+                "review_text": "Dr. Vinay explained to me about the procedure and did a great job with Dental filling. I usually am scared of Dentist, but he made feel so relaxed n comfortable. I will visit Dr. Vinay for future procedures as well. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-23 12:20:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Praveen Phadke"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 95,
+                "text": "Endo Surgery Or Apicoectomy"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193609,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 12:56:56",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39746117,
+                "review_text": "Dr Vinay has a promising future. Very calm, composed and a great set of hands. Extremely happy with my first ever visit to the dentist. Highly recommended!",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-06 12:52:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashok"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193375,
+                "text": "Cosmetic Recountouring of Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1121105,
+            "status": "PUBLISHED",
+            "note": "2019-04-02 10:54:53",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-02T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39284673,
+                "review_text": "Dr. Vinay, experience was very good.\nMy issue was fixed so quickly, dynamic dentist i have ever seen. Helps and clears in detail of the problem.\nAlso suggested tips to keep healthy teeths in future.",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-01 08:07:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanjay BJ"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1112870,
+            "status": "PUBLISHED",
+            "note": "2019-03-22 12:01:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-22T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39231822,
+                "review_text": "Great service offered by Dr Vinay with professional advice and expert care. Completely satisfied with my treatment. Highly recommended!",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-21 11:58:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sakshi Gupta"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 89,
+                "text": "Conservative Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1233219,
+            "status": "PUBLISHED",
+            "note": "2019-08-28 11:19:03",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-28T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39995745,
+                "review_text": "Overall a very satisfying friendly experience with Dr. vinay , who explains each and every step of the process beforehand which makes the process more enjoyable. Would recommend the clinic for all your dental problems\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-27 10:19:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193608,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 13:13:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39746112,
+                "review_text": "Explained about problem and what precautions need to take regularly. ********* *** ***** And explanation also good.",
+                "review_alterations": [
+                    {
+                        "start_index": 68,
+                        "end_index": 87,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189679
+                    }
+                ],
+                "reviewed_on": "2019-07-06 12:52:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1114532,
+            "status": "PUBLISHED",
+            "note": "2019-03-26 06:15:00",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-26T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39242756,
+                "review_text": "******* ********* \ndoctor is so friendly. ..........\nexplain each step .. value for the money .. ..\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 163676
+                    }
+                ],
+                "reviewed_on": "2019-03-23 15:24:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1589393,
+            "status": "PUBLISHED",
+            "note": "2020-12-06 04:55:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-06T05:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42111606,
+                "review_text": "Very friendly and experienced Doctor. The explanation of my health issue was very professional, all in all, I was very happy and satisfied with my consultation.",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-04 14:25:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suraj"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1589072,
+            "status": "PUBLISHED",
+            "note": "2020-12-05 08:32:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-05T09:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42109952,
+                "review_text": "*** ** *** **** ******* * **** ***** ** *******explained all the procedure before hand only with so much clarity....less waiting time.....n top class treatment....i recommend him to all my friends.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 312012
+                    }
+                ],
+                "reviewed_on": "2020-12-04 08:24:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Devender Kumar"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1557671,
+            "status": "PUBLISHED",
+            "note": "2020-10-24 12:59:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-24T13:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41941398,
+                "review_text": "One of the coolest doctor with tonnes of patience and he carries the cute smile till the end.one good thing about Vinay is he makes you  feel comfortable with your negetives and gives very good examples to overcome.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-23 12:57:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "P. venkatesh"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1230288,
+            "status": "PUBLISHED",
+            "note": "2019-08-24 12:28:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-24T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39977145,
+                "review_text": "Dr. Vinay explained to me about the procedure and did a great job with Dental filling. I usually am scared of Dentist, but he made feel so relaxed n comfortable. I will visit Dr. Vinay for future procedures as well. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-23 12:20:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Praveen Phadke"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 95,
+                "text": "Endo Surgery Or Apicoectomy"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193609,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 12:56:56",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39746117,
+                "review_text": "Dr Vinay has a promising future. Very calm, composed and a great set of hands. Extremely happy with my first ever visit to the dentist. Highly recommended!",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-06 12:52:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashok"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193375,
+                "text": "Cosmetic Recountouring of Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1121105,
+            "status": "PUBLISHED",
+            "note": "2019-04-02 10:54:53",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-02T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39284673,
+                "review_text": "Dr. Vinay, experience was very good.\nMy issue was fixed so quickly, dynamic dentist i have ever seen. Helps and clears in detail of the problem.\nAlso suggested tips to keep healthy teeths in future.",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-01 08:07:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanjay BJ"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1112870,
+            "status": "PUBLISHED",
+            "note": "2019-03-22 12:01:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-22T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39231822,
+                "review_text": "Great service offered by Dr Vinay with professional advice and expert care. Completely satisfied with my treatment. Highly recommended!",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-21 11:58:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sakshi Gupta"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 89,
+                "text": "Conservative Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1233219,
+            "status": "PUBLISHED",
+            "note": "2019-08-28 11:19:03",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-28T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39995745,
+                "review_text": "Overall a very satisfying friendly experience with Dr. vinay , who explains each and every step of the process beforehand which makes the process more enjoyable. Would recommend the clinic for all your dental problems\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-27 10:19:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193608,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 13:13:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39746112,
+                "review_text": "Explained about problem and what precautions need to take regularly. ********* *** ***** And explanation also good.",
+                "review_alterations": [
+                    {
+                        "start_index": 68,
+                        "end_index": 87,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189679
+                    }
+                ],
+                "reviewed_on": "2019-07-06 12:52:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1114532,
+            "status": "PUBLISHED",
+            "note": "2019-03-26 06:15:00",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 723739,
+            "practice_id": 1241425,
+            "practice_name": "Ellan Multispeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-26T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39242756,
+                "review_text": "******* ********* \ndoctor is so friendly. ..........\nexplain each step .. value for the money .. ..\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 163676
+                    }
+                ],
+                "reviewed_on": "2019-03-23 15:24:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669804,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1758962,
+            "status": "PUBLISHED",
+            "note": "2021-06-26 06:17:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 496006,
+            "practice_id": 1006874,
+            "practice_name": "Apollo First Med Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-26T07:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43032139,
+                "review_text": "He always listen the words of patient with patience.\nDiagonaze the patient in depth *** ******* **** ***********Friendly approach.\n**** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 84,
+                        "end_index": 111,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 354470
+                    },
+                    {
+                        "start_index": 131,
+                        "end_index": 145,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 354471
+                    }
+                ],
+                "reviewed_on": "2021-06-25 03:05:12",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bharanikumar"
+        },
+        "entity_id": 439309,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 791937,
+            "status": "PUBLISHED",
+            "note": "2018-02-14 09:49:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 496006,
+            "practice_id": 1006874,
+            "practice_name": "Apollo First Med Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-14T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36721351,
+                "review_text": "Good thing to have pre appointment , wiating time avoided and rating helpful in choosing the special list prasda",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-09 12:29:33",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vinanya P"
+        },
+        "entity_id": 439309,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 72,
+                "text": "Knee Dislocation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1384766,
+            "status": "PUBLISHED",
+            "note": "2020-02-29 13:36:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 496006,
+            "practice_id": 1006874,
+            "practice_name": "Apollo First Med Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-29T14:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41032655,
+                "review_text": "very nice doctor I like it.the doctor was very friendly nd doin treatment very nice I m very happy to share the feedbacks ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-28 13:34:15",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 439309,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

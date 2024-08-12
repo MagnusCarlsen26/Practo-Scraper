@@ -1,0 +1,2210 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1204855,
+            "status": "PUBLISHED",
+            "note": "2019-07-23 11:32:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-23T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39815793,
+                "review_text": "Doctor friendly and examined the problem I was experiencing and gave some medication. So feeling better then before. Need to wait and see results after completion of medicine.  I recommend Dr.  Santhosh doctor for any nerve related issue.  But the Test inside hospital is expensive. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-20 15:55:22",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shreedevi K"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1143,
+                "text": "Headache Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1174970,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 05:57:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39625081,
+                "review_text": "I had severe one sided headache from almost 2 months. Consulted Dr Santhosh for headache treatment.Now my condition has improved a lot.Excellent, Satisfied with the way he explained the doubts *** ********* *** **** *********** I strongly recommend him\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 193,
+                        "end_index": 226,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183225
+                    }
+                ],
+                "reviewed_on": "2019-06-11 12:19:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gayathri"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1472053,
+            "status": "PUBLISHED",
+            "note": "2020-07-21 05:16:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-21T06:04:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41499335,
+                "review_text": "Disrespect towards elderly. He addressed my mother with a singular tone not even giving respect to her age. He used a harsh tone in asking my mother some things which she couldn't understand at once due to her age induced slight hearing disability. **** *** ********** ******** ****** *** ****** ********* *** * ***** **** ********* **** ****** ********* ** ******** *** ****** ** *********** ** **** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 249,
+                        "end_index": 405,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278400
+                    }
+                ],
+                "reviewed_on": "2020-07-19 04:20:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "C N Harish"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186435,
+                "text": "Numbness in fingers and toes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 885805,
+            "status": "PUBLISHED",
+            "note": "2018-05-30 09:50:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-30T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37556466,
+                "review_text": "Dr should understand that the patient cannot be treated by assuming. \nI visited him for getting treatment for numbness in hands n legs ,Coming to the treatment after meeting him numbness in my hands and legs became more.\n\nI would never recommend.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-28 17:31:47",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Lakshmi Srikanth reddy "
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2121,
+                "text": "Neurological Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 747366,
+            "status": "PUBLISHED",
+            "note": "2017-12-14 12:51:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-14T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36288277,
+                "review_text": "Good doctor. Low consultation fees compared to any other neurologist in bangalore. Fully satisfied with him\n\nMy chronic head ache improved. Will definitely recommend him to others. Clinic ideally situated. Just find it in google maps\nI am fully satisfied with him and is been following up with him",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-12 04:51:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naveen"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 43,
+                "text": "Headache"
+            },
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 697638,
+            "status": "PUBLISHED",
+            "note": "2017-10-11 10:52:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-11T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35802661,
+                "review_text": "Very bad experience with this doctor. He prescribed different tablets for each symptons. ******** ****** ** ******** *** *** ***** ****** ****** ******* **** *** ********* Couldn't get relief even after 2 consultations, so have to change doctor. Would definitely not recommend.",
+                "review_alterations": [
+                    {
+                        "start_index": 88,
+                        "end_index": 170,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 69762
+                    }
+                ],
+                "reviewed_on": "2017-10-08 10:09:58",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Vinod"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1950,
+                "text": "Nerve and Muscle Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1572151,
+            "status": "PUBLISHED",
+            "note": "2020-11-12 06:23:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-12T07:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42020256,
+                "review_text": "Doctor diagnosed the problem very well and was guided in the right direction. An apt test was prescribed and medicines do not include any anti-biotics.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-11 05:06:07",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pradeep Iyer"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1143,
+                "text": "Headache Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1374613,
+            "status": "PUBLISHED",
+            "note": "2020-02-21 07:04:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-21T08:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40973393,
+                "review_text": "Diagnosing the issue in very few minutes and friendly nature and give the proper treatment \n\n\n\n\n\n\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-19 13:11:31",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hari Mahesh"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 43,
+                "text": "Headache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1329420,
+            "status": "PUBLISHED",
+            "note": "2020-01-03 10:47:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-03T11:03:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40638478,
+                "review_text": "Good experience and response if doctor is also good main thing is there is no waiting to meet the doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-02 04:24:26",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashok P"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101989,
+                "text": "Neuropsychological diagnosis"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1284760,
+            "status": "PUBLISHED",
+            "note": "2019-11-08 06:50:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-08T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40330196,
+                "review_text": "Will provide more info after 2 weeks .Today only we consulted doctor and within one day will not be able to provide the feedback",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-06 13:03:45",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neethu balakrishnan"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1204855,
+            "status": "PUBLISHED",
+            "note": "2019-07-23 11:32:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-23T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39815793,
+                "review_text": "Doctor friendly and examined the problem I was experiencing and gave some medication. So feeling better then before. Need to wait and see results after completion of medicine.  I recommend Dr.  Santhosh doctor for any nerve related issue.  But the Test inside hospital is expensive. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-20 15:55:22",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shreedevi K"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1143,
+                "text": "Headache Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1174970,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 05:57:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39625081,
+                "review_text": "I had severe one sided headache from almost 2 months. Consulted Dr Santhosh for headache treatment.Now my condition has improved a lot.Excellent, Satisfied with the way he explained the doubts *** ********* *** **** *********** I strongly recommend him\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 193,
+                        "end_index": 226,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183225
+                    }
+                ],
+                "reviewed_on": "2019-06-11 12:19:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gayathri"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1472053,
+            "status": "PUBLISHED",
+            "note": "2020-07-21 05:16:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-21T06:04:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41499335,
+                "review_text": "Disrespect towards elderly. He addressed my mother with a singular tone not even giving respect to her age. He used a harsh tone in asking my mother some things which she couldn't understand at once due to her age induced slight hearing disability. **** *** ********** ******** ****** *** ****** ********* *** * ***** **** ********* **** ****** ********* ** ******** *** ****** ** *********** ** **** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 249,
+                        "end_index": 405,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278400
+                    }
+                ],
+                "reviewed_on": "2020-07-19 04:20:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "C N Harish"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186435,
+                "text": "Numbness in fingers and toes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 885805,
+            "status": "PUBLISHED",
+            "note": "2018-05-30 09:50:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-30T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37556466,
+                "review_text": "Dr should understand that the patient cannot be treated by assuming. \nI visited him for getting treatment for numbness in hands n legs ,Coming to the treatment after meeting him numbness in my hands and legs became more.\n\nI would never recommend.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-28 17:31:47",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Lakshmi Srikanth reddy "
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2121,
+                "text": "Neurological Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 747366,
+            "status": "PUBLISHED",
+            "note": "2017-12-14 12:51:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-14T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36288277,
+                "review_text": "Good doctor. Low consultation fees compared to any other neurologist in bangalore. Fully satisfied with him\n\nMy chronic head ache improved. Will definitely recommend him to others. Clinic ideally situated. Just find it in google maps\nI am fully satisfied with him and is been following up with him",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-12 04:51:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naveen"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 43,
+                "text": "Headache"
+            },
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 697638,
+            "status": "PUBLISHED",
+            "note": "2017-10-11 10:52:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-11T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35802661,
+                "review_text": "Very bad experience with this doctor. He prescribed different tablets for each symptons. ******** ****** ** ******** *** *** ***** ****** ****** ******* **** *** ********* Couldn't get relief even after 2 consultations, so have to change doctor. Would definitely not recommend.",
+                "review_alterations": [
+                    {
+                        "start_index": 88,
+                        "end_index": 170,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 69762
+                    }
+                ],
+                "reviewed_on": "2017-10-08 10:09:58",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Vinod"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1950,
+                "text": "Nerve and Muscle Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1572151,
+            "status": "PUBLISHED",
+            "note": "2020-11-12 06:23:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-12T07:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42020256,
+                "review_text": "Doctor diagnosed the problem very well and was guided in the right direction. An apt test was prescribed and medicines do not include any anti-biotics.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-11 05:06:07",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pradeep Iyer"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1143,
+                "text": "Headache Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1374613,
+            "status": "PUBLISHED",
+            "note": "2020-02-21 07:04:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-21T08:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40973393,
+                "review_text": "Diagnosing the issue in very few minutes and friendly nature and give the proper treatment \n\n\n\n\n\n\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-19 13:11:31",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hari Mahesh"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 43,
+                "text": "Headache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1329420,
+            "status": "PUBLISHED",
+            "note": "2020-01-03 10:47:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-03T11:03:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40638478,
+                "review_text": "Good experience and response if doctor is also good main thing is there is no waiting to meet the doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-02 04:24:26",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashok P"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101989,
+                "text": "Neuropsychological diagnosis"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1284760,
+            "status": "PUBLISHED",
+            "note": "2019-11-08 06:50:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-08T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40330196,
+                "review_text": "Will provide more info after 2 weeks .Today only we consulted doctor and within one day will not be able to provide the feedback",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-06 13:03:45",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neethu balakrishnan"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 43,
+                "text": "Headache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1270646,
+            "status": "PUBLISHED",
+            "note": "2019-10-17 06:32:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-17T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40238113,
+                "review_text": "kosys hospital EEG test cost was expensive compare to others. Dr.Santosh treatment was fair enough and after undergoing 15 days of treatment its has been cured..thanks to doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-16 01:40:38",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sampriti Das"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162546,
+                "text": "Migraine Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1015475,
+            "status": "PUBLISHED",
+            "note": "2018-11-11 05:29:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-11T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38571295,
+                "review_text": "I booked the appointment on 08-11-18, I have to wait for more then 1 hour but at the last I get to know that doctor is on leave.disappointed with the pectro and hospital service ",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-09 04:45:50",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Vipendra Tripathi"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1143,
+                "text": "Headache Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 947966,
+            "status": "PUBLISHED",
+            "note": "2018-08-15 10:02:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-15T11:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38075728,
+                "review_text": "Waited so long time for to meet doctor, I took one hour. There is no proper scheduled appointment. Otherwise* ********* *** good\n",
+                "review_alterations": [
+                    {
+                        "start_index": 108,
+                        "end_index": 122,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 123677
+                    }
+                ],
+                "reviewed_on": "2018-08-14 10:01:51",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Allahbakash G"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1950,
+                "text": "Nerve and Muscle Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1195285,
+            "status": "PUBLISHED",
+            "note": "2019-07-10 05:44:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-10T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39756580,
+                "review_text": "The first test I was asked to do was a video EEG to find any weak nerves. That comes with a cost of 2500 rs in Koshys hospital which is totally unexpected for a minor muscle pain. \nAs expected there was nothing wrong in the results and it was an unwanted test really.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-08 18:02:35",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1950,
+                "text": "Nerve and Muscle Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1159366,
+            "status": "PUBLISHED",
+            "note": "2019-05-23 05:10:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-23T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39526389,
+                "review_text": "Very bad experience..we waited for one hour..d receptionist don't even know when d doctor will arrive.. doctor advised for nerve conduction study single limb but d technician and billing ppl asked me to pay for both limbs...when I enquired dey are very arrogant..very bad koshy hospital..dey won't respond to customer\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-21 13:56:52",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2121,
+                "text": "Neurological Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 909911,
+            "status": "PUBLISHED",
+            "note": "2018-06-29 06:43:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-29T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37756615,
+                "review_text": "I have been to many doctors but the way in which Dr Santosh elaborates patients problem is excellent.He makes the patient relate his problem with the symptoms.I went with my elder brother and was fully satisfied with his explanation and suggestions regarding our problem.",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-28 06:40:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 745568,
+            "status": "PUBLISHED",
+            "note": "2017-12-13 05:21:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-13T06:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36270847,
+                "review_text": "I was having a long-standing headache for 15 days and had consulted with Dr. Santhosh Kumar, Neurologist at Koshys Hospital. Thanks to him, my headache is not there now. A good doctor who had the patience to listen to you and *** *** **** ***** ** treat you properly.",
+                "review_alterations": [
+                    {
+                        "start_index": 226,
+                        "end_index": 246,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 81017
+                    }
+                ],
+                "reviewed_on": "2017-12-09 11:30:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 797,
+                "text": "Tremors"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 748972,
+            "status": "PUBLISHED",
+            "note": "2017-12-19 08:56:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-19T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36304444,
+                "review_text": "Good doctor. Patiently listens to you *** **** ****** ********* *\nMy tremors have disappeared  with his treatment, He even gives patient information booklets and explain to you your diseases in our own language ",
+                "review_alterations": [
+                    {
+                        "start_index": 37,
+                        "end_index": 64,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 81916
+                    }
+                ],
+                "reviewed_on": "2017-12-14 04:56:26",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "beerappa"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1143,
+                "text": "Headache Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1608394,
+            "status": "PUBLISHED",
+            "note": "2020-12-30 05:59:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-30T06:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42212416,
+                "review_text": "I don't recommend this doctor... He didn't even saw the patient n asked us to pay the fees... Please don't go wast of money.. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-28 18:38:27",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1042,
+                "text": "Muscle Spasm"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1987767,
+            "status": "PUBLISHED",
+            "note": "2022-05-10 06:27:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-10T07:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44361227,
+                "review_text": "We went with ****** sprain as pain was severe. Immediately advised NCV . Even xray was not done. 3500rs wasted *** * ****** ******* ** ********* *** *** **** **** ** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 12,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 408744
+                    },
+                    {
+                        "start_index": 110,
+                        "end_index": 130,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 408742
+                    },
+                    {
+                        "start_index": 131,
+                        "end_index": 170,
+                        "reason": "NON_COMPLIANT",
+                        "id": 408743
+                    }
+                ],
+                "reviewed_on": "2022-05-07 15:17:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 43,
+                "text": "Headache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1735027,
+            "status": "PUBLISHED",
+            "note": "2021-05-29 07:21:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 853078,
+            "practice_name": "Sagar Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-29T08:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42901358,
+                "review_text": "Very good experience each time I visit the doctor. I had consulted him a few years back and treatment was very well suited. Even this time, within 1 day I feel much better with the medicines which he prescribed.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-28 07:18:32",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 587246,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2121,
+                "text": "Neurological Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1388563,
+            "status": "PUBLISHED",
+            "note": "2020-03-04 11:37:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-04T12:01:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41055953,
+                "review_text": "He is not completely leasoning to the problem and not allow me to complete the problem description... Simply asked me go for Nerve conductvity test costs 1500 and consultation fee 500...** ** *** *** ***** **** ** **** *** ** *** **** ********* ",
+                "review_alterations": [
+                    {
+                        "start_index": 186,
+                        "end_index": 243,
+                        "reason": "NON_COMPLIANT",
+                        "id": 253633
+                    }
+                ],
+                "reviewed_on": "2020-03-03 10:46:02",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1047196,
+            "status": "PUBLISHED",
+            "note": "2018-12-25 09:57:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-25T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38794222,
+                "review_text": "We asked the doctor what was the issue and he gave us a huge medical term which we failed to understand...he should explain us the reason in understandable language\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-23 04:31:50",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2121,
+                "text": "Neurological Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 956722,
+            "status": "PUBLISHED",
+            "note": "2018-08-26 05:50:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-26T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38147235,
+                "review_text": "He is charging 700/- as consultant fee.. even though he is not telling proper reason of the health problem. **** *** ***** ** ******* ******** *** ** ** ********** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 108,
+                        "end_index": 172,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 125760
+                    }
+                ],
+                "reviewed_on": "2018-08-24 14:38:02",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 43,
+                "text": "Headache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 876060,
+            "status": "PUBLISHED",
+            "note": "2018-05-18 05:06:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-18T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37476552,
+                "review_text": "He was not explaining about the issue. It was just one check done on eyes and straight away went to write medicines. He told it was not serious.if he would have explained in detail why this issue is coming, that would have been better ",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-16 15:30:04",
+                "channel": "web-gmf",
+                "source": "GMF",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 747425,
+            "status": "PUBLISHED",
+            "note": "2017-12-15 05:10:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 853078,
+            "practice_name": "Sagar Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-15T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36289148,
+                "review_text": "He is very polite  spoke with a patient a** **** ********* **  *** ****** He is also very experienced doctor",
+                "review_alterations": [
+                    {
+                        "start_index": 41,
+                        "end_index": 73,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 81438
+                    }
+                ],
+                "reviewed_on": "2017-12-12 06:15:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 587246,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2121,
+                "text": "Neurological Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 988402,
+            "status": "PUBLISHED",
+            "note": "2018-10-04 06:17:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 1151082,
+            "practice_name": "Gayathri clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-04T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38378781,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-01 12:58:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Raghavendra H R"
+        },
+        "entity_id": 589417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 671594,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-07T08:31:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35544065,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 166,
+                        "end_index": 178,
+                        "reason": "ABUSIVE",
+                        "id": 64989
+                    }
+                ],
+                "reviewed_on": "2017-09-06 12:46:57",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1950,
+                "text": "Nerve and Muscle Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 918828,
+            "status": "PUBLISHED",
+            "note": "2018-07-11 07:09:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-11T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37835929,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 49,
+                        "end_index": 170,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 116859
+                    }
+                ],
+                "reviewed_on": "2018-07-10 03:19:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2121,
+                "text": "Neurological Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 898805,
+            "status": "PUBLISHED",
+            "note": "2018-06-15 07:02:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 603447,
+            "practice_id": 927402,
+            "practice_name": "Koshys Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-15T08:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37664882,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-13 17:03:51",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 606611,
+            "status": "PUBLISHED",
+            "note": "2017-06-30 09:01:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 567463,
+            "practice_id": 1137957,
+            "practice_name": "Srishti Ortho Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-30T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 37083,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks. Shall reply early in future. ",
+                "replied_at": "2017-07-16T04:48:12+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1239373,
+                "modified_by_id": 1239373,
+                "replier_name": "Dr. Manjunatha Halappa",
+                "replier_logo": "https://images1-fabric.practo.com/manjunatha-halappa-1485889392-5890df70eeec0.jpg"
+            },
+            "survey_response": {
+                "id": 34872681,
+                "review_text": "He listens all the concerns of the patient very calmly and diagnoses properly. Explains thoroughly about the causes and treatments",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-28 05:29:14",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "pralhad Bandi"
+        },
+        "entity_id": 567742,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 579298,
+            "status": "PUBLISHED",
+            "note": "2017-06-03 11:10:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 567463,
+            "practice_id": 1137957,
+            "practice_name": "Srishti Ortho Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-03T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 37082,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks. Please respond in future as well. I am specially looking forward for areas of improvements from my side. ",
+                "replied_at": "2017-07-16T04:46:28+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1239373,
+                "modified_by_id": 1239373,
+                "replier_name": "Dr. Manjunatha Halappa",
+                "replier_logo": "https://images1-fabric.practo.com/manjunatha-halappa-1485889392-5890df70eeec0.jpg"
+            },
+            "survey_response": {
+                "id": 34603245,
+                "review_text": "Doctor meticulously examined the problem without making assumptions. At the same time, did not readily recommended for exhaustive scans after understanding severity of situation. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-02 10:59:24",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhavana"
+        },
+        "entity_id": 567742,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            },
+            {
+                "id": 71,
+                "text": "Joint Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1146317,
+            "status": "PUBLISHED",
+            "note": "2019-05-05 11:09:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 567463,
+            "practice_id": 1137957,
+            "practice_name": "Srishti Ortho Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-05T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39445380,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 173518
+                    }
+                ],
+                "reviewed_on": "2019-05-04 10:34:22",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Aayush Karnani"
+        },
+        "entity_id": 567742,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 753,
+                "text": "Musculoskeletal Infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 906111,
+            "status": "PUBLISHED",
+            "note": "2018-06-24 06:53:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 567463,
+            "practice_id": 1137957,
+            "practice_name": "Srishti Ortho Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-24T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37724948,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-23 04:28:50",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 567742,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1116817,
+            "status": "PUBLISHED",
+            "note": "2019-03-28 05:59:38",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 567463,
+            "practice_id": 1137957,
+            "practice_name": "Srishti Ortho Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-28T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39257133,
+                "review_text": "Good consultant friendly conversation reads a lot about you and your body very attentive polite listening \n",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-26 16:04:32",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suresh Kumar"
+        },
+        "entity_id": 567742,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 884101,
+            "status": "PUBLISHED",
+            "note": "2018-05-29 06:55:23",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 567463,
+            "practice_id": 1137957,
+            "practice_name": "Srishti Ortho Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-29T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37542820,
+                "review_text": "Listens carefully what we say, unnecessarily don't comment on pain. Very professional and good doctor",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-26 13:06:19",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gulappa R"
+        },
+        "entity_id": 567742,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2310796,
+            "status": "PUBLISHED",
+            "note": "2023-12-21 04:31:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 890404,
+            "practice_id": 1318602,
+            "practice_name": "Eben Dental Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-21T05:02:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46257091,
+                "review_text": "Doctor was very friendly and explained the root cause of the problem which was helpful for us to take action immediately ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-19 12:29:12",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Keerthana"
+        },
+        "entity_id": 748366,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2297144,
+            "status": "PUBLISHED",
+            "note": "2023-11-26 04:51:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 890404,
+            "practice_id": 1318602,
+            "practice_name": "Eben Dental Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-26T05:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46179952,
+                "review_text": "I visited Dr Mirnalini for my Root canal treatment.The procedure was performed  without any hassles. I am highly satisfied and currently i am taking treatment for my alignment problems. The clinic is very hygienic too. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-24 12:30:52",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "WILFRED"
+        },
+        "entity_id": 748366,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2297251,
+            "status": "PUBLISHED",
+            "note": "2023-11-26 05:08:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 890404,
+            "practice_id": 1318602,
+            "practice_name": "Eben Dental Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-26T06:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46180446,
+                "review_text": "I had a great experience at Eben dental studio. Dr.Angeline mirnalini & team made me feel very comfortable during the entire Implant placement  process.I'm happy  to say she is my doctor because of her patience,her timely decisions that made me more relaxed.I was very anxious during implant treatment but I was able to continue my day to day activities as usual the very next day.I highly recomend Dr Angeline  for all kind of dental  treatment .Thankyou so much doctor!",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-24 14:27:28",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 748366,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

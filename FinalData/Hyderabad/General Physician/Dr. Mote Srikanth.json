@@ -1,0 +1,912 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122270,
+            "status": "PUBLISHED",
+            "note": "2022-12-23 12:06:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-23T13:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45136180,
+                "review_text": "Dr. Srikanth Mote was very humble dealing with patients and cooperative.\n\nDiscussed in detail about the disease with the patients and Treament.\n\nI will recommend Dr for all diseases and chronic diseases like Diabetes, Cardiovascular diseases and Gastric disorders.",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-22 11:28:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohammed Rafeeq"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2145022,
+            "status": "PUBLISHED",
+            "note": "2023-02-04 08:06:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-04T09:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45266566,
+                "review_text": "I am happy to consult this doctor\nAs his freindly attitude ,better explanation of the disease and treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-03 07:38:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tarun buchi"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2145012,
+            "status": "PUBLISHED",
+            "note": "2023-02-04 08:05:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-04T09:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45266522,
+                "review_text": "**** **** ******* treatment satisfactory,and clear explanation about the disease.i am happy with the doctor ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 442510
+                    }
+                ],
+                "reviewed_on": "2023-02-03 07:32:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Acharya"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1811687,
+            "status": "PUBLISHED",
+            "note": "2021-08-26 12:14:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1259199,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-26T13:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43328639,
+                "review_text": "I my self went to this doctor , not much comments on doctor but hospital charged me 600 for consultation and they are saying some silly reson for this when practo shows 350 as consultation doctor timing was different , he is not available in the practo mentioned time . hospital plp will not attend the call and Apolo call center has no idea on what going on in this local hospital",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-25 12:08:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "satish kumar"
+        },
+        "entity_id": 749426,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1694047,
+            "status": "PUBLISHED",
+            "note": "2021-04-09 09:35:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1259199,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-09T10:01:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 283453,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Can u tell which hospital",
+                "replied_at": "2021-04-28T07:54:01+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6934252,
+                "modified_by_id": 6934252,
+                "replier_name": "Dr. Mote Srikanth",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/783362/dr-mote-srikanth-62e80da62c899.jpeg"
+            },
+            "survey_response": {
+                "id": 42681258,
+                "review_text": "My mother had been to hospital and met the doctor for general consultation. ********* *** *** **** **** ** ******* I am kind of dissatisfied. Doctor was not friendly. I am 30 percent fine with consultation. Medicine was prescribed by doctor. There was some waiting time in the hospital when we went, it was for 20-30 minutes.",
+                "review_alterations": [
+                    {
+                        "start_index": 76,
+                        "end_index": 113,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 338115
+                    }
+                ],
+                "reviewed_on": "2021-04-08 04:31:34",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Santhosh"
+        },
+        "entity_id": 749426,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122340,
+            "status": "PUBLISHED",
+            "note": "2022-12-24 05:49:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-24T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45136559,
+                "review_text": "Dear doctor...very good supported means treat ment...is well. Givn to the sajation fr pasent.... Iam not told... He is alway very very good and any help doctor's \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\udc90\ud83d\udc90\ud83e\udd1d\ud83e\udd1d",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-22 13:27:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yellesh boddupally"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122272,
+            "status": "PUBLISHED",
+            "note": "2022-12-23 12:07:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-23T13:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45136188,
+                "review_text": "Well experienced doctor. **** ********* *** given for typhoid and got cured with in no time. I refer doctor srikanth for the best treatment. ",
+                "review_alterations": [
+                    {
+                        "start_index": 24,
+                        "end_index": 43,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 437179
+                    }
+                ],
+                "reviewed_on": "2022-12-22 11:33:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gayatri Vadada"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2123018,
+            "status": "PUBLISHED",
+            "note": "2022-12-25 05:12:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-25T06:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45140412,
+                "review_text": "Really a very great experience and doctor treated well and suggested best ways for physical well being. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-23 16:50:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122520,
+            "status": "PUBLISHED",
+            "note": "2022-12-24 06:23:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-24T07:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45137477,
+                "review_text": "Srikanth sir is very nice,talented doctor and friendly.\nI would suggest this doctor to everyone.....",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-22 17:01:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122504,
+            "status": "PUBLISHED",
+            "note": "2022-12-24 06:36:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-24T07:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45137391,
+                "review_text": "Srikanth sir is very well experienced doctor. I had visited him many times. He diagnosis the patients correctly and prescribes correct medicine.",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-22 16:30:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122270,
+            "status": "PUBLISHED",
+            "note": "2022-12-23 12:06:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-23T13:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45136180,
+                "review_text": "Dr. Srikanth Mote was very humble dealing with patients and cooperative.\n\nDiscussed in detail about the disease with the patients and Treament.\n\nI will recommend Dr for all diseases and chronic diseases like Diabetes, Cardiovascular diseases and Gastric disorders.",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-22 11:28:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohammed Rafeeq"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2145022,
+            "status": "PUBLISHED",
+            "note": "2023-02-04 08:06:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-04T09:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45266566,
+                "review_text": "I am happy to consult this doctor\nAs his freindly attitude ,better explanation of the disease and treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-03 07:38:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tarun buchi"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2145012,
+            "status": "PUBLISHED",
+            "note": "2023-02-04 08:05:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-04T09:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45266522,
+                "review_text": "**** **** ******* treatment satisfactory,and clear explanation about the disease.i am happy with the doctor ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 442510
+                    }
+                ],
+                "reviewed_on": "2023-02-03 07:32:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Acharya"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1811687,
+            "status": "PUBLISHED",
+            "note": "2021-08-26 12:14:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1259199,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-26T13:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43328639,
+                "review_text": "I my self went to this doctor , not much comments on doctor but hospital charged me 600 for consultation and they are saying some silly reson for this when practo shows 350 as consultation doctor timing was different , he is not available in the practo mentioned time . hospital plp will not attend the call and Apolo call center has no idea on what going on in this local hospital",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-25 12:08:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "satish kumar"
+        },
+        "entity_id": 749426,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1694047,
+            "status": "PUBLISHED",
+            "note": "2021-04-09 09:35:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1259199,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-09T10:01:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 283453,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Can u tell which hospital",
+                "replied_at": "2021-04-28T07:54:01+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6934252,
+                "modified_by_id": 6934252,
+                "replier_name": "Dr. Mote Srikanth",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/783362/dr-mote-srikanth-62e80da62c899.jpeg"
+            },
+            "survey_response": {
+                "id": 42681258,
+                "review_text": "My mother had been to hospital and met the doctor for general consultation. ********* *** *** **** **** ** ******* I am kind of dissatisfied. Doctor was not friendly. I am 30 percent fine with consultation. Medicine was prescribed by doctor. There was some waiting time in the hospital when we went, it was for 20-30 minutes.",
+                "review_alterations": [
+                    {
+                        "start_index": 76,
+                        "end_index": 113,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 338115
+                    }
+                ],
+                "reviewed_on": "2021-04-08 04:31:34",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Santhosh"
+        },
+        "entity_id": 749426,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122340,
+            "status": "PUBLISHED",
+            "note": "2022-12-24 05:49:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-24T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45136559,
+                "review_text": "Dear doctor...very good supported means treat ment...is well. Givn to the sajation fr pasent.... Iam not told... He is alway very very good and any help doctor's \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\udc90\ud83d\udc90\ud83e\udd1d\ud83e\udd1d",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-22 13:27:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yellesh boddupally"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122272,
+            "status": "PUBLISHED",
+            "note": "2022-12-23 12:07:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-23T13:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45136188,
+                "review_text": "Well experienced doctor. **** ********* *** given for typhoid and got cured with in no time. I refer doctor srikanth for the best treatment. ",
+                "review_alterations": [
+                    {
+                        "start_index": 24,
+                        "end_index": 43,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 437179
+                    }
+                ],
+                "reviewed_on": "2022-12-22 11:33:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gayatri Vadada"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2123018,
+            "status": "PUBLISHED",
+            "note": "2022-12-25 05:12:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-25T06:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45140412,
+                "review_text": "Really a very great experience and doctor treated well and suggested best ways for physical well being. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-23 16:50:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122520,
+            "status": "PUBLISHED",
+            "note": "2022-12-24 06:23:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-24T07:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45137477,
+                "review_text": "Srikanth sir is very nice,talented doctor and friendly.\nI would suggest this doctor to everyone.....",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-22 17:01:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2122504,
+            "status": "PUBLISHED",
+            "note": "2022-12-24 06:36:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 783362,
+            "practice_id": 1354007,
+            "practice_name": "RBM Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-24T07:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45137391,
+                "review_text": "Srikanth sir is very well experienced doctor. I had visited him many times. He diagnosis the patients correctly and prescribes correct medicine.",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-22 16:30:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 791234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

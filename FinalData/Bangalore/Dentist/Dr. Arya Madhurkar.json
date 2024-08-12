@@ -1,0 +1,145 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2414551,
+            "status": "PUBLISHED",
+            "note": "2024-07-17 06:09:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 989905,
+            "practice_id": 1383651,
+            "practice_name": "Toothfluencer Dental",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-17T07:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46851781,
+                "review_text": "I visited Toothfluencer Dental Clinic for Root canal treatment and orthodontic treatment .Dr Arya was very friendly and explained all my treatment plans .I strongly recommend Dr Arya for anyone who has dental issues. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-15 14:28:48",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ajit"
+        },
+        "entity_id": 818948,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1986122,
+            "status": "PUBLISHED",
+            "note": "2022-05-06 11:30:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 989905,
+            "practice_id": 1379378,
+            "practice_name": "Minimally Invasive Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-06T12:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44352102,
+                "review_text": "I got my root canal treatment .in and out with ease, checked on my problem, done x-ray and diagnosed , friendly faces, great nurse staff *** *** **** *** ** **** ********* ******. Thank you so much doctor. \ud83d\ude4f",
+                "review_alterations": [
+                    {
+                        "start_index": 137,
+                        "end_index": 177,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 408306
+                    }
+                ],
+                "reviewed_on": "2022-05-05 11:22:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mahalakshmi"
+        },
+        "entity_id": 814854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2264095,
+            "status": "PUBLISHED",
+            "note": "2023-09-21 09:39:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 989905,
+            "practice_id": 1383651,
+            "practice_name": "Toothfluencer Dental",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-21T10:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45990631,
+                "review_text": "Very unprofessional, she will charge 3 times in the name of specialist and get it done thru junior . \nI booked  appointment, reconfirmed twice but again when I reached  at 10.30 no doctor was available, after half an hour same junior dr calls me for treatment which I refused. ******* **** **** ** ***** *** *** ***** ******** ** ****\nI wanted to see endodentist that\u2019s why I had booked this thru practo.\nBut disappointed. \nI will never recommend  for anyone ",
+                "review_alterations": [
+                    {
+                        "start_index": 277,
+                        "end_index": 333,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 468904
+                    }
+                ],
+                "reviewed_on": "2023-09-20 06:05:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 818948,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

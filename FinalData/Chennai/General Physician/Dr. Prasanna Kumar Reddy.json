@@ -1,0 +1,256 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1376746,
+            "status": "PUBLISHED",
+            "note": "2020-02-22 09:55:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495685,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-22T10:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40986137,
+                "review_text": "He is one of the liveliest and ever smiling person I have ever met in my entire life  and despite being so reputed and senior experienced sophisticated doctor .he always tends speak to a patient with so much optimism and down to earth nature ..which  make patient's half of problem goes away in fraction of seconds .thank you very much sir for blessing my soulmate with your sacred hands.\nMuch love and respect from Mr j b pun (jabalpur )\nI strongly recommend patient with fragile health to do have an appointment with him .\nbelieve me he won't let you down .\u263a",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-21 09:51:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "J b pun"
+        },
+        "entity_id": 438925,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 664378,
+            "status": "PUBLISHED",
+            "note": "2017-08-30 11:59:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495685,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-30T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35471414,
+                "review_text": "*** ** *** *** ** *** ** **** ** **** ** ** ***** ***** SIR operated GB stone of my mother named SMT. SUKLA ROY on 22.08.2015 which is 14 yrs old case. its not possible at West Bengal. Many doctors refuse this case at west bengal but it's finally success due to expert hand of Dr. P.K.Reddy SIR. Thank You SIR and again Thank You So Much.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 55,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 63700
+                    }
+                ],
+                "reviewed_on": "2017-08-29 08:19:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 438925,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1317,
+                "text": "Colostomy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 737357,
+            "status": "PUBLISHED",
+            "note": "2017-12-01 07:37:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495685,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-01T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36188462,
+                "review_text": "Very nice * **** ********* ******** ** **** *** i just want to visit you sir give me appointment air as soon as possible ",
+                "review_alterations": [
+                    {
+                        "start_index": 10,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 78994
+                    }
+                ],
+                "reviewed_on": "2017-11-28 14:16:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 438925,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 233,
+                "text": "Gastrointestinal Endoscopic Mucosal Resection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1859848,
+            "status": "PUBLISHED",
+            "note": "2021-10-26 06:28:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495685,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-26T07:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43623800,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-24 13:08:33",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raj"
+        },
+        "entity_id": 438925,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1691840,
+            "status": "PUBLISHED",
+            "note": "2021-04-06 13:22:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495685,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-06T14:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42669366,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-05 13:16:10",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 438925,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

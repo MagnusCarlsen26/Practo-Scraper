@@ -1,0 +1,2962 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193103,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 07:21:39",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic & Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39742924,
+                "review_text": "I've got * **** **** medication on my health problem faced since long time.\n\nDr.Dhrumil has got * **** **** ********* * experience, he traced the root cause of my Asthama very quickly & his medicine has helped me come out of the issue.\n\nWould recommend this Doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 9,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189486
+                    },
+                    {
+                        "start_index": 95,
+                        "end_index": 118,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189487
+                    }
+                ],
+                "reviewed_on": "2019-07-05 17:45:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Darshan Parekh"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1908303,
+            "status": "PUBLISHED",
+            "note": "2022-01-08 09:27:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-08T10:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43914115,
+                "review_text": "I got infected with covid 19 and had throat irritation along with fever nd cough. I took treatment with Dr. Dhrumil sir and took the medicines prescribed to me. I recovered within a weeks time. I had visited his clinic in the past for my wife\u2019s treatment. We both trust him and the doctor is highly recommended \ud83d\ude0a",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-07 09:15:21",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajkumar Verma"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1558774,
+            "status": "PUBLISHED",
+            "note": "2020-10-27 07:22:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-27T08:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41947564,
+                "review_text": "Dr. Dhrumil monitored my 90 year old Grand Father with COVID virtually. He kept a close watch on his reports and regular readings and kept adjusting his medications regularly. He also kept giving the family reassurances in order to manage panic and stress for us care givers. Thanks to him, I now have 90 year old COVID recovered Dadu who\u2019s feeling absolutely fine.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-24 17:01:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Turjo Banerjee"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1415248,
+            "status": "PUBLISHED",
+            "note": "2020-04-18 07:57:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-18T08:02:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41214956,
+                "review_text": "I have been consulting Dr Dhrumil since 2 years and he is an ethical as well as a friendly doctor who is always willing to listen to my problems and deal with it. He is a very analytical, cooperative and a trustworthy doctor. I would like always like to consult him in future whenever in need. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-04-17 07:46:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Khushi "
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1415247,
+            "status": "PUBLISHED",
+            "note": "2020-04-18 07:56:35",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-18T08:02:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41214951,
+                "review_text": "Dr. Dhrumil was very considerate when helping us during the Lockdown. He made sure the patient was ok and weather she was recovering or not. He was availability at any point of the day over a call. He also made sure we get the best of medicines and the recovery was speedy.\nA Big thank you to Dr.Dhrumil.",
+                "review_alterations": [],
+                "reviewed_on": "2020-04-17 07:45:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Antariksh Panchal"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1192959,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 05:30:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic & Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39742028,
+                "review_text": " Dr Dhrumil is very polite person with highly qualified ********* *** experience, doctor gave us all details and specifications of treatment with nice counseling\nEffective communication and time \nWorth to visit \nHope to see more such younger and dyanmaic doctors in society *** **** ****** ** ****** *",
+                "review_alterations": [
+                    {
+                        "start_index": 56,
+                        "end_index": 68,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189425
+                    },
+                    {
+                        "start_index": 274,
+                        "end_index": 300,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189426
+                    }
+                ],
+                "reviewed_on": "2019-07-05 14:17:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "VIPUL SAWANT"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846367,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:49:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540357,
+                "review_text": "I had a general health check up with Dr. Dhrumil. He is a friendly *** **** ******* He seems to be very experienced",
+                "review_alterations": [
+                    {
+                        "start_index": 67,
+                        "end_index": 82,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 377361
+                    }
+                ],
+                "reviewed_on": "2021-10-06 05:49:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Simranjeet"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846365,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:47:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540347,
+                "review_text": "I was facing high cholesterol problem from a long time and then I decided to go for check up. I found Dr. Dhrumil to be very experienced and he suggested some easy ways by which I can keep my Chlorestrol level under control.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-06 05:48:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dev Kumar"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846364,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:47:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540341,
+                "review_text": "I had a great experience here. **** ******* **** *** ********* ********** I would definitely recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 31,
+                        "end_index": 72,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 377353
+                    }
+                ],
+                "reviewed_on": "2021-10-06 05:47:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naresh Bhai"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193427,
+                "text": "backpain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846363,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:47:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540330,
+                "review_text": "I used to have a severe back pain but with the medication and some Excerises suggested by Dr dhrumil panchal.. I am back to normal. A big Thanks to him!!",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-06 05:46:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ankit Maurya"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193103,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 07:21:39",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic & Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39742924,
+                "review_text": "I've got * **** **** medication on my health problem faced since long time.\n\nDr.Dhrumil has got * **** **** ********* * experience, he traced the root cause of my Asthama very quickly & his medicine has helped me come out of the issue.\n\nWould recommend this Doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 9,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189486
+                    },
+                    {
+                        "start_index": 95,
+                        "end_index": 118,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189487
+                    }
+                ],
+                "reviewed_on": "2019-07-05 17:45:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Darshan Parekh"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1908303,
+            "status": "PUBLISHED",
+            "note": "2022-01-08 09:27:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-08T10:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43914115,
+                "review_text": "I got infected with covid 19 and had throat irritation along with fever nd cough. I took treatment with Dr. Dhrumil sir and took the medicines prescribed to me. I recovered within a weeks time. I had visited his clinic in the past for my wife\u2019s treatment. We both trust him and the doctor is highly recommended \ud83d\ude0a",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-07 09:15:21",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajkumar Verma"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1558774,
+            "status": "PUBLISHED",
+            "note": "2020-10-27 07:22:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-27T08:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41947564,
+                "review_text": "Dr. Dhrumil monitored my 90 year old Grand Father with COVID virtually. He kept a close watch on his reports and regular readings and kept adjusting his medications regularly. He also kept giving the family reassurances in order to manage panic and stress for us care givers. Thanks to him, I now have 90 year old COVID recovered Dadu who\u2019s feeling absolutely fine.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-24 17:01:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Turjo Banerjee"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1415248,
+            "status": "PUBLISHED",
+            "note": "2020-04-18 07:57:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-18T08:02:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41214956,
+                "review_text": "I have been consulting Dr Dhrumil since 2 years and he is an ethical as well as a friendly doctor who is always willing to listen to my problems and deal with it. He is a very analytical, cooperative and a trustworthy doctor. I would like always like to consult him in future whenever in need. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-04-17 07:46:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Khushi "
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1415247,
+            "status": "PUBLISHED",
+            "note": "2020-04-18 07:56:35",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-18T08:02:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41214951,
+                "review_text": "Dr. Dhrumil was very considerate when helping us during the Lockdown. He made sure the patient was ok and weather she was recovering or not. He was availability at any point of the day over a call. He also made sure we get the best of medicines and the recovery was speedy.\nA Big thank you to Dr.Dhrumil.",
+                "review_alterations": [],
+                "reviewed_on": "2020-04-17 07:45:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Antariksh Panchal"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1192959,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 05:30:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic & Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39742028,
+                "review_text": " Dr Dhrumil is very polite person with highly qualified ********* *** experience, doctor gave us all details and specifications of treatment with nice counseling\nEffective communication and time \nWorth to visit \nHope to see more such younger and dyanmaic doctors in society *** **** ****** ** ****** *",
+                "review_alterations": [
+                    {
+                        "start_index": 56,
+                        "end_index": 68,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189425
+                    },
+                    {
+                        "start_index": 274,
+                        "end_index": 300,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 189426
+                    }
+                ],
+                "reviewed_on": "2019-07-05 14:17:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "VIPUL SAWANT"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846367,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:49:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540357,
+                "review_text": "I had a general health check up with Dr. Dhrumil. He is a friendly *** **** ******* He seems to be very experienced",
+                "review_alterations": [
+                    {
+                        "start_index": 67,
+                        "end_index": 82,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 377361
+                    }
+                ],
+                "reviewed_on": "2021-10-06 05:49:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Simranjeet"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846365,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:47:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540347,
+                "review_text": "I was facing high cholesterol problem from a long time and then I decided to go for check up. I found Dr. Dhrumil to be very experienced and he suggested some easy ways by which I can keep my Chlorestrol level under control.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-06 05:48:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dev Kumar"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846364,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:47:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540341,
+                "review_text": "I had a great experience here. **** ******* **** *** ********* ********** I would definitely recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 31,
+                        "end_index": 72,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 377353
+                    }
+                ],
+                "reviewed_on": "2021-10-06 05:47:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naresh Bhai"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193427,
+                "text": "backpain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846363,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:47:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540330,
+                "review_text": "I used to have a severe back pain but with the medication and some Excerises suggested by Dr dhrumil panchal.. I am back to normal. A big Thanks to him!!",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-06 05:46:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ankit Maurya"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 102005,
+                "text": "Obsessive Compulsive Disorder (OCD) Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846362,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:47:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540324,
+                "review_text": "I love the way Dr. Panchal understood every detail of my case and proceeded accordingly. Nice and unique way to provide better and effective treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-06 05:45:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gupta Ji"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846360,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:47:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540316,
+                "review_text": "The treatment with Dr dhrumil is values money. Quite effective medication, ******* ** ****** *** *** I have recommend him to my family members and cousins as well",
+                "review_alterations": [
+                    {
+                        "start_index": 75,
+                        "end_index": 100,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 377352
+                    }
+                ],
+                "reviewed_on": "2021-10-06 05:44:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sharma general store"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846359,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:41:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540311,
+                "review_text": "My brother recommended me to visit Dr dhrumil for Diabetes treatment. His medication I guess suited me and now my sugar is totally under control",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-06 05:43:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ananya Mishra"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186440,
+                "text": "kidney and gall bladder stones"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846357,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:41:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43540303,
+                "review_text": "My sister had stones in kidney so we visited Dr dhrumil. He examined my sister and cured her kidney stones just with some medication.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-06 05:43:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Murali Chauhan"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846113,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:21:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43538811,
+                "review_text": "I love the hygiene maintained at the clinic which is so necessary at this point of time. Proper sanitization is done before and after every patient's visit.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-05 16:09:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ritik singh"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1810709,
+            "status": "PUBLISHED",
+            "note": "2021-08-25 11:08:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-25T12:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43323225,
+                "review_text": "Right diagnosis, was examined  in detail and Questions  were asked and treatment  given .\n\nAlso Dr Answer s on watts up,  which is very satisfying and you feel swcur3\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-24 11:04:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rupa Shah"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1415355,
+            "status": "PUBLISHED",
+            "note": "2020-04-18 12:44:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-18T13:00:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41215474,
+                "review_text": "In simple words. the most trustable friendly ,**** ******* ********** ****** ******** ********* Doctor...\nI would recommend all the review readers to visit him for all your treatment.",
+                "review_alterations": [
+                    {
+                        "start_index": 46,
+                        "end_index": 94,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 262211
+                    }
+                ],
+                "reviewed_on": "2020-04-17 12:42:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chirag Panchal"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1415268,
+            "status": "PUBLISHED",
+            "note": "2020-04-18 08:56:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-18T09:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41215050,
+                "review_text": "Extremely Satisfied with the treatment and explaination of the health issue. The doctor is very friendly and would always recommend the doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2020-04-17 08:31:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jatin Panchal"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 338,
+                "text": "Malaria"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1285019,
+            "status": "PUBLISHED",
+            "note": "2019-11-08 07:55:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-08T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40332028,
+                "review_text": "Dr Dhurmil is a very patient doctor. He was very prompt in responding to the queries and helped treat me very quickly.\n\n*** ********** *** ********* *** **** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 120,
+                        "end_index": 166,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 219395
+                    }
+                ],
+                "reviewed_on": "2019-11-06 16:52:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shital Thakkar"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1207827,
+            "status": "PUBLISHED",
+            "note": "2019-07-26 07:50:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-26T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39834047,
+                "review_text": "******** ********* *** ******** After the initial consultation, he followed up multiple times to understand what our course of action was.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 30,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 194808
+                    }
+                ],
+                "reviewed_on": "2019-07-24 13:21:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Disha Parekh"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1201647,
+            "status": "PUBLISHED",
+            "note": "2019-07-18 06:39:31",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-18T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39795632,
+                "review_text": "Very good doctor with great experience..!! Great professionalism..!! Blood collection was also on time..!!",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-16 18:10:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dimple"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1201584,
+            "status": "PUBLISHED",
+            "note": "2019-07-18 06:08:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-18T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39795291,
+                "review_text": "** ** ********** * **** **** ******* *** ********* ** ********* *** so is his effort to make patient understand the real problem, which in turn helps patient to take better care of themselves.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 66,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 192303
+                    }
+                ],
+                "reviewed_on": "2019-07-16 16:10:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhavesh Panchal"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1201542,
+            "status": "PUBLISHED",
+            "note": "2019-07-18 05:50:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-18T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39795057,
+                "review_text": "Dr was very reliable, required test were only conducted, though Dr was young but treated very professionally & treated as Dr having very long experience in the field",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-16 15:25:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hemant"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1201514,
+            "status": "PUBLISHED",
+            "note": "2019-07-18 05:30:50",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-18T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39794913,
+                "review_text": "He is a very polite, gave us all the details of the treatment, he is highly trained and professional and he always available ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-16 14:54:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1201466,
+            "status": "PUBLISHED",
+            "note": "2019-07-18 05:19:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-18T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39794584,
+                "review_text": "Very professional and understanding to all your health needs,Just wanted to say thanks for being friendly and getting me back to be seen very quickly",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-16 14:05:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aniket Shewale"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1200762,
+            "status": "PUBLISHED",
+            "note": "2019-07-18 05:46:17",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-18T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39790286,
+                "review_text": "Doctor Panchal was kind enough to explain in detail the reason behind my cough and gave me medicines accordingly. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-15 17:18:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nivish Shah"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1200733,
+            "status": "PUBLISHED",
+            "note": "2019-07-17 13:28:38",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-17T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39790111,
+                "review_text": "******** ********** ** *** ******* **** ****** **** ********* visited twice to the clinic and got recovered both the times. Thanks Dr. Dhrumil for your service ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 61,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 192251
+                    }
+                ],
+                "reviewed_on": "2019-07-15 16:34:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jugal Panchal"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1379621,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 06:41:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T07:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41003254,
+                "review_text": "I took an appointment for 5pm. when I went there I was told doc is only coming at 6:30pm and that too a different doc. on asking why they accepted the appointment timing, I was told that they were going to call me at 5 pm to tell me about the change. so it was a misuse  of time, energy and when you are sick, it bites even more as one tired and low on energy. practo should also coordinate better on these fronts.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-24 06:12:04",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1046,
+                "text": "Swelling Of Legs"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1201583,
+            "status": "PUBLISHED",
+            "note": "2019-07-18 06:08:11",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-18T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39795286,
+                "review_text": "He will give genuine suggestions,proper guidance,He is a great human being. Gives minimum medicines, no unnecessary tests and very positive attitude towards patient. He believes in healing the body through minimal medicine and natural recovery. Rare to find such a doctor in today's world.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-16 16:09:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101903,
+                "text": "Medications"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1201450,
+            "status": "PUBLISHED",
+            "note": "2019-07-18 04:48:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-18T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39794500,
+                "review_text": "I have never came across any doctor as friendly and as knowledgeable like Dr Dhrumil. He listens you properly and explains you everything in detail rather than just prescribing any medicines and never asks for unnecessary follow ups. \nFelt quite comfortable in interacting with the Dr.\nA perfect family doctor.\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-16 13:59:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1195630,
+            "status": "PUBLISHED",
+            "note": "2019-07-10 09:14:06",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-10T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39758745,
+                "review_text": "I want to express my sincere appreciation for effective treatment, quick recovery and constant follow-ups by the doctor. The best part about the doctor is that he's literally available 24*7. \nI would blindly trust his skills & would highly recommend him for any health concerns.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-09 08:05:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1193649,
+            "status": "PUBLISHED",
+            "note": "2019-07-07 13:31:11",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic & Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-07T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39746389,
+                "review_text": "Dr. Dhrumil explains in detail about the symptoms, the illness and the medicines he is prescribing, which is very rare. The thing I liked the most apart from the above is that his data bank and software. He has a track record of all the visits you have had with him which includes the reasons for visits and also the meds prescribed by him, so it becomes very easy to understand the patient's medical history.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-06 13:21:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101903,
+                "text": "Medications"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1900658,
+            "status": "PUBLISHED",
+            "note": "2021-12-29 05:39:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-29T06:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43866595,
+                "review_text": "Amazing treatment.He was very nice and prompt. Amazing treatment, I have gotten results immediately ",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-27 00:32:39",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Basu Patel"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1200744,
+            "status": "PUBLISHED",
+            "note": "2019-07-17 06:33:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-17T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39790178,
+                "review_text": "My visit was good at the clinic. The doctor as well as the staff was very kind and helpful.           ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-15 16:53:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dev Mittal"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2140014,
+            "status": "PUBLISHED",
+            "note": "2023-01-26 09:44:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-26T10:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45238477,
+                "review_text": "Good experience with the doctor. Listed patiently and explained everything well. Also, did not overmedicate. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-25 09:43:19",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2084741,
+            "status": "PUBLISHED",
+            "note": "2022-10-15 04:43:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-15T05:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44925223,
+                "review_text": "Haven\u2019t had the appointment yet. Will have the visit and then update accordingly. Hopefully it will go good. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-13 13:16:28",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2072339,
+            "status": "PUBLISHED",
+            "note": "2022-09-22 06:12:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-22T07:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44854501,
+                "review_text": "Doctor Excellent behaviour and humbleness makes a  patient feel comfortable n confident, I will recommend to my family and friends ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-21 05:02:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1549164,
+            "status": "PUBLISHED",
+            "note": "2020-10-15 06:09:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-15T07:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41897117,
+                "review_text": "Visited the doctor first time \nI had fever and cough \u2018doctor advised me tests and I came out to be COVID positive \nHe gave treatment and helped me through out the quarantine period\nAnd now m fit n fine \nI do recommend the doctor to everyone ",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-13 19:51:10",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846115,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 06:22:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T07:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43538819,
+                "review_text": "Dr panchal is quite experienced. I have been visiting him since last year for regular health checkups. He is very professional.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-05 16:11:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            },
+            {
+                "id": 101901,
+                "text": "Medical Advisor"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1810393,
+            "status": "PUBLISHED",
+            "note": "2021-08-25 06:29:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679418,
+            "practice_id": 1221513,
+            "practice_name": "Dr Dhrumil's Clinic and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-25T07:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43321430,
+                "review_text": "I am feeling so well after his treatment. Doctor behavior is soon friendly and he will tell me many things about health Thank alot sir.",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-24 04:58:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 649460,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

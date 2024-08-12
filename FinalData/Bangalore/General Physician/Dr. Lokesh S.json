@@ -1,0 +1,376 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192254,
+                "text": "Metabolic Illness"
+            },
+            {
+                "id": 192254,
+                "text": "Metabolic Illness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2395577,
+            "status": "PUBLISHED",
+            "note": "2024-06-08 12:02:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295308,
+            "practice_id": 1396067,
+            "practice_name": "Gokarna Gastro and Multi-Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-08T13:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46742983,
+                "review_text": "I had treatment for fatigue, acidity , bodyache,  took  CBC, TSH , GR tests received normal , Lokesh sir is humanistic,  he listens issues clearly,  prescribed some medicines just after 1 month  I recovered           he is  an expert , calm listener ,  honest , nice humanistic doctor.                                          ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-07 09:24:23",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 831033,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2094649,
+            "status": "PUBLISHED",
+            "note": "2022-11-03 10:35:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295308,
+            "practice_id": 1396067,
+            "practice_name": "Gokarna Gastro and Multi-Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-03T11:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 383210,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u vivek rai...",
+                "replied_at": "2022-11-03T14:01:36+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2162269,
+                "modified_by_id": 2162269,
+                "replier_name": "Dr. Lokesh S",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/295308/dr-s-lokesh-62ea7d37a765a.jpg"
+            },
+            "survey_response": {
+                "id": 44981266,
+                "review_text": "I had a consultation with Dr Lokesh, I'm really impressed. The way he is listening to the patient and explaining the issue is amazing. One can feel very comfortable while talking to him.\nAnd very importantly, his medicine works  I'm perfectly fine now.\nThanks Dr Lokesh.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-02 09:44:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vivek Rai"
+        },
+        "entity_id": 831033,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2044018,
+            "status": "PUBLISHED",
+            "note": "2022-08-08 15:16:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295308,
+            "practice_id": 1396067,
+            "practice_name": "Gokarna Gastro and Multi-Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-08T16:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 370647,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks neeraj..",
+                "replied_at": "2022-08-10T02:15:36+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2162269,
+                "modified_by_id": 2162269,
+                "replier_name": "Dr. Lokesh S",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/295308/dr-s-lokesh-62ea7d37a765a.jpg"
+            },
+            "survey_response": {
+                "id": 44686763,
+                "review_text": "** ****** * ** *** ** *** **** ******* * **** **** **** He is very polite in nature and listens to you very calmly. He gives sufficient time to his patients *** ***** ********** *** *********** ********* ** *** ********* *** ** ********* ** **** ********* *** cures within couple of days even before completion of full doses. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 54,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 421029
+                    },
+                    {
+                        "start_index": 156,
+                        "end_index": 258,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 421030
+                    }
+                ],
+                "reviewed_on": "2022-08-06 17:47:40",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "neeraj singh"
+        },
+        "entity_id": 831033,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4180,
+                "text": "managing acute medical conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2133182,
+            "status": "PUBLISHED",
+            "note": "2023-01-14 06:25:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295308,
+            "practice_id": 1396067,
+            "practice_name": "Gokarna Gastro and Multi-Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-14T07:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 394382,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks saurabh....",
+                "replied_at": "2023-01-20T13:43:06+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2162269,
+                "modified_by_id": 2162269,
+                "replier_name": "Dr. Lokesh S",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/295308/dr-s-lokesh-62ea7d37a765a.jpg"
+            },
+            "survey_response": {
+                "id": 45199464,
+                "review_text": "Highly recommend.. Very polite and listens to your problems correctly.. Best part is thaf he recommends good practices along with medicines for better healings",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-12 15:05:11",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saurabh Keserwani"
+        },
+        "entity_id": 831033,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2072281,
+            "status": "PUBLISHED",
+            "note": "2022-09-22 06:26:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295308,
+            "practice_id": 1396067,
+            "practice_name": "Gokarna Gastro and Multi-Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-21T17:55:26+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 377490,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u  Mr bharadwaj..",
+                "replied_at": "2022-09-21T17:55:26+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2162269,
+                "modified_by_id": 2162269,
+                "replier_name": "Dr. Lokesh S",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/295308/dr-s-lokesh-62ea7d37a765a.jpg"
+            },
+            "survey_response": {
+                "id": 44854211,
+                "review_text": "****** *** ***** listened patiently suggested honestly and didnt complicate with medicines. We went for shoulder pain thinking its because of gastric or heart burn but diagnosed that its a mere pain.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426907
+                    }
+                ],
+                "reviewed_on": "2022-09-21 03:50:15",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bharadwaj B S"
+        },
+        "entity_id": 831033,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2069446,
+            "status": "PUBLISHED",
+            "note": "2022-09-17 15:29:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295308,
+            "practice_id": 1396067,
+            "practice_name": "Gokarna Gastro and Multi-Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-17T16:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 377491,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you ...",
+                "replied_at": "2022-09-21T17:56:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2162269,
+                "modified_by_id": 2162269,
+                "replier_name": "Dr. Lokesh S",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/295308/dr-s-lokesh-62ea7d37a765a.jpg"
+            },
+            "survey_response": {
+                "id": 44837581,
+                "review_text": "Doctor is very friendly,polite and understand the issue and provide appropriate treatment. Highly recommended.\nThank you ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-16 14:09:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shruthi N"
+        },
+        "entity_id": 831033,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2050875,
+            "status": "PUBLISHED",
+            "note": "2022-08-20 06:56:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295308,
+            "practice_id": 1396067,
+            "practice_name": "Gokarna Gastro and Multi-Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-20T07:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 371979,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u..sachin",
+                "replied_at": "2022-08-20T08:47:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2162269,
+                "modified_by_id": 2162269,
+                "replier_name": "Dr. Lokesh S",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/295308/dr-s-lokesh-62ea7d37a765a.jpg"
+            },
+            "survey_response": {
+                "id": 44728654,
+                "review_text": "Doctor Lokesh was easily approachable and answered  all my questions with patience and treatment was good...my experience  has a patient with the doctor was excellent...Highly recommended..Thank you",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-19 03:46:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sachin N"
+        },
+        "entity_id": 831033,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

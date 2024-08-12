@@ -1,0 +1,1190 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2027390,
+            "status": "PUBLISHED",
+            "note": "2022-07-12 07:03:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-12T08:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44587058,
+                "review_text": "I have been treated by Dr. Kanika Gupta when I had a complain of polyps in uterus.  She has performed total hysterectomy surgery which I would term as HIGHLY SUCCESSFUL - thanks to my doctor's advice of undergoing latest robotic surgery. She counselled me with the benefits and explained that even though it is marginally expensive, the blood loss during the surgery and pain after it is very less. Now I am happy that I chose to undergo robotic surgery as I had spent only couple of days in the hospital and started my normal life soon after.",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-10 10:14:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nandita Bhargava"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2212847,
+            "status": "PUBLISHED",
+            "note": "2023-06-10 12:16:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-10T13:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45669085,
+                "review_text": "** ****** ******* ** **** * *** *** **. When I first met her I was full of anxiety and fear. Her polite behaviour and confidence made me to trust her for robotic surgery. My surgery was successful and on the very next morning I was able to use washroom myself and started walking in the hospital itself. I again would like to thank her for suggesting me robotics surgery which has fantastic and superb results. I would personally recommend robotic surgery to the needy patients done by Dr Kanika.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 37,
+                        "reason": "NON_COMPLIANT",
+                        "id": 458978
+                    }
+                ],
+                "reviewed_on": "2023-06-09 05:24:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Seema Kumar"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4018,
+                "text": "Vaginal Hysterectomy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2364790,
+            "status": "PUBLISHED",
+            "note": "2024-04-05 07:03:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-05T08:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46566151,
+                "review_text": "My mom undergone uterus hysterectomy by Robotic assisted Laparoscopic Surgery by Dr. Kanika Gupta. *** *** *** **** *** ****** ************** **** *** ******** ****** *** ********* **** *** ******* *** **** ****** ** ** **** **** ***** *** *** ********* ** *** My mom initially had pain in lower abdomen and urine was irregular. When we went for checkup on the third day post operation her supporting doctor Dr. Sanjeev was very casual and said those are post operation pain. Later we went to AIG Hyderabad *** ***** **** ********** * ****** ***** *** *********** ** *** ******* She had presented my mom with unbearable pain *** ********* ******* *** *** *** ********* ** **** ** ***** **** **** **** Till day she is suffering.",
+                "review_alterations": [
+                    {
+                        "start_index": 99,
+                        "end_index": 159,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482966
+                    },
+                    {
+                        "start_index": 160,
+                        "end_index": 223,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482967
+                    },
+                    {
+                        "start_index": 224,
+                        "end_index": 260,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482968
+                    },
+                    {
+                        "start_index": 507,
+                        "end_index": 578,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482969
+                    },
+                    {
+                        "start_index": 625,
+                        "end_index": 645,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482970
+                    },
+                    {
+                        "start_index": 647,
+                        "end_index": 699,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482971
+                    }
+                ],
+                "reviewed_on": "2024-04-03 19:37:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Mrs Kakan Saha"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2186443,
+            "status": "PUBLISHED",
+            "note": "2023-04-21 06:55:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-21T07:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45510017,
+                "review_text": "Dr Kanika did hysterectomy procedure on my grand mother. My grandma was fine but we are surprised to note that after surgery, the doctor  thinks her responsibility is over.  One  two minutes visit she pays to the patient that too only formal.  *** ******** ****** * ***** *** **** ***** **** **** *** ** *** ** **********  I felt as  a layman * ** **** **** ****** ***** **** *** ****.\n\nOn 12April my grand ma had surgery. On 13th her oxygen level was  first told by nurse as 77. When we asked ..so low,she took it again and said it is 87. My mother who was with me said.. call the doctor.  The nurse say the other nurse accompanying her and said post surgery it happens. We tried to intervene and she said.. doctor will visit.  This is the response. ** ******* *** ******* ****** *** ** **** ****** ********** *** ******** **********  She is on ventilator. To our suprise the ICU is just a room where no proper log is maintained. ******* *** ****** *** **** ****** ** no check from higher ups, no coordination,  **** ******* *****\n\nIts our observation that in ICUs of other hospitals no body is allowed to go with shoes.  They sre provided special footwear.  Here we are going in ICU with our footwear which we keep outside in our house.\n\nDont go to this doctor ** *** **** **** ***** *****  ********** ***** *******   * ** ****** ** *** *** ****** ********* ** **** *******   No one should visit this doctor.  ** **** ******* *** ****** **** **** ** **** they are changing their own observations every day.  \n\nFor having certain  general awareness on what is going around in the ICU,  only oberservation is enough* *** *********** *** *** ** ** ** * ********** ******** *******  **** ****** *** ****** ******* **** ********* **** ** ***** ****** ******* ** ******* ",
+                "review_alterations": [
+                    {
+                        "start_index": 244,
+                        "end_index": 320,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453310
+                    },
+                    {
+                        "start_index": 343,
+                        "end_index": 383,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453311
+                    },
+                    {
+                        "start_index": 750,
+                        "end_index": 833,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 453312
+                    },
+                    {
+                        "start_index": 931,
+                        "end_index": 967,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 453313
+                    },
+                    {
+                        "start_index": 1011,
+                        "end_index": 1030,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453314
+                    },
+                    {
+                        "start_index": 1262,
+                        "end_index": 1375,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453315
+                    },
+                    {
+                        "start_index": 1410,
+                        "end_index": 1455,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 453316
+                    },
+                    {
+                        "start_index": 1615,
+                        "end_index": 1765,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453317
+                    }
+                ],
+                "reviewed_on": "2023-04-19 10:38:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Akanksha"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1760772,
+            "status": "PUBLISHED",
+            "note": "2021-06-29 07:41:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-29T08:01:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43042142,
+                "review_text": "*** ** * *** ******* My mom operated on 23rd January 2021, 1 stage of cervix cancer. Post surgery biopsy report is very good. Bad things I never recommend to anyone, she never console pateint, she doesn\u2019t have patience, she never replied to msg/ or phone for any help, only care abt her fees., arrogant, no words. By all following protocols we obey her, trying to tell d symptoms. ***** ******* * ******** *** ****** **** ** ** ** *** ******* *** ***** on 21 June 2021 we go for second pet scan by our own, showed d reports to another **** ********* different team same Max hospital.. we got my mom is now on last stage\u2026 when we reached her.. the first question asked why u go to different doctor\u2026 besides of concern about my mom. ******* ******** * **** ****** *** *** ***** ******* ** **** *** ** *** * * **** ****** **** *** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 355001
+                    },
+                    {
+                        "start_index": 381,
+                        "end_index": 452,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 355002
+                    },
+                    {
+                        "start_index": 535,
+                        "end_index": 548,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 355003
+                    },
+                    {
+                        "start_index": 731,
+                        "end_index": 834,
+                        "reason": "NON_COMPLIANT",
+                        "id": 355004
+                    }
+                ],
+                "reviewed_on": "2021-06-26 16:55:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Prashi"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2001261,
+            "status": "PUBLISHED",
+            "note": "2022-05-31 07:24:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-31T08:01:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44437070,
+                "review_text": "My wife operated on 4th may 2022 by Dr Kanika who is highly experienced and skilled in her Domain. She operated using the latest Robotics technology and there is zero complications and have super fast recovery. I am highly impressed with Dr behaviour and specially availability on mobile to guide patient from time to time.\nWe highly recommended experience Dr Kanika Gupta.",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-29 12:01:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ARPIT RUSTAGI"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1919093,
+            "status": "PUBLISHED",
+            "note": "2022-01-25 09:49:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-25T10:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43980005,
+                "review_text": "I was treated by Dr. Kanika Gupta and am very happy to share that it was a pleasent experience. She operated upon me using the latest robotic tecnology and I had zero complications and super fast recovery. Not only she is good as a doctor but also a wonderful human being. All my questions and queries were answered patiently and satisfactorily. I highly recommend Dr. Kanika Gupta. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-23 08:39:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ritu Kumar"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 244,
+                "text": "Cancer Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2203462,
+            "status": "PUBLISHED",
+            "note": "2023-05-24 06:54:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-24T07:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45613031,
+                "review_text": "My 67 years old mother diagnosed CA Ovary POST NACTWITH SUSPECTED CA BREAST @ advance stage in January 2023. With sum references I approached Dr. Kanika Gupta in Max hospital Vaishali. Under her guidance & supervision, Chemotherapy & other treatments for 3 & half months completed than she adviced us CYTOREDUCTIVE SERGERY WITH HIPEC+LEFT BREAST CONSERVATION SERGERY .\nThe successful sergery done on 09/05/2023. Within 9 days my mother discharged from hospital. Now she is recovering good. Thanks to Dr. Kanika Gupta & her team \n\nDr. Kanika Gupta is highly talented, professional, knowledgeable, supportive , soft spoken & friendly.\n\nWe highly recommend her with 5 \u2728\u2b50\u2b50\u2b50\u2b50\u2b50 Rating...",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-23 04:15:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 244,
+                "text": "Cancer Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2105665,
+            "status": "PUBLISHED",
+            "note": "2022-11-23 06:11:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-23T07:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45042288,
+                "review_text": "I'd like take an opportunity to share my warm regards and a big Thanks to Dr. Kanika Gupta Oncology Dept (Gynae & Robotic Surgery) for providing us the best guidance and immense support during my Mother's Stage -1 Uterus Cancer treatment.\nHer opinion helped us a lot to take the right decision at the right time to opt and get the hysterectomy (one of the most complex surgeries) done via Robotics facilities situated in Max PatparGanj Hospita, Delhi.\nAfter consulting with Dr. Kanika, we got to know about the major benefits of Robotics surgeries that caused minimum blood loss during this procedure and helped my mother get speedy recovery.\nI can not thank enough Dr. Kanika for everything and  I highly recommend and encourage everyone who is going through these tough times to opt for Robotics procedures for the best results and hustle-free experience.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-21 18:15:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1517470,
+            "status": "PUBLISHED",
+            "note": "2020-09-11 07:21:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 678414,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-11T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41729723,
+                "review_text": "She literally shouted at my mother who is the patient. My mother has pain in her breast since last 10years and no doctor is able to tackle that. So she was really tensed about this and when she told her problems history to the doctor. Doctor shouted and said \"mujhe headache ho jaega ab itna bologi to\", * *** **** ****** * ******* ******* ***** **** ********* ** ****** ***** ********* *** * *** ****** Please never visit to a doctor who is not willing to listen u. Don't ruin ur money. With this doctor",
+                "review_alterations": [
+                    {
+                        "start_index": 304,
+                        "end_index": 403,
+                        "reason": "NON_COMPLIANT",
+                        "id": 292185
+                    }
+                ],
+                "reviewed_on": "2020-09-10 07:05:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 624945,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2027390,
+            "status": "PUBLISHED",
+            "note": "2022-07-12 07:03:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-12T08:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44587058,
+                "review_text": "I have been treated by Dr. Kanika Gupta when I had a complain of polyps in uterus.  She has performed total hysterectomy surgery which I would term as HIGHLY SUCCESSFUL - thanks to my doctor's advice of undergoing latest robotic surgery. She counselled me with the benefits and explained that even though it is marginally expensive, the blood loss during the surgery and pain after it is very less. Now I am happy that I chose to undergo robotic surgery as I had spent only couple of days in the hospital and started my normal life soon after.",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-10 10:14:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nandita Bhargava"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2212847,
+            "status": "PUBLISHED",
+            "note": "2023-06-10 12:16:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-10T13:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45669085,
+                "review_text": "** ****** ******* ** **** * *** *** **. When I first met her I was full of anxiety and fear. Her polite behaviour and confidence made me to trust her for robotic surgery. My surgery was successful and on the very next morning I was able to use washroom myself and started walking in the hospital itself. I again would like to thank her for suggesting me robotics surgery which has fantastic and superb results. I would personally recommend robotic surgery to the needy patients done by Dr Kanika.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 37,
+                        "reason": "NON_COMPLIANT",
+                        "id": 458978
+                    }
+                ],
+                "reviewed_on": "2023-06-09 05:24:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Seema Kumar"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4018,
+                "text": "Vaginal Hysterectomy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2364790,
+            "status": "PUBLISHED",
+            "note": "2024-04-05 07:03:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-05T08:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46566151,
+                "review_text": "My mom undergone uterus hysterectomy by Robotic assisted Laparoscopic Surgery by Dr. Kanika Gupta. *** *** *** **** *** ****** ************** **** *** ******** ****** *** ********* **** *** ******* *** **** ****** ** ** **** **** ***** *** *** ********* ** *** My mom initially had pain in lower abdomen and urine was irregular. When we went for checkup on the third day post operation her supporting doctor Dr. Sanjeev was very casual and said those are post operation pain. Later we went to AIG Hyderabad *** ***** **** ********** * ****** ***** *** *********** ** *** ******* She had presented my mom with unbearable pain *** ********* ******* *** *** *** ********* ** **** ** ***** **** **** **** Till day she is suffering.",
+                "review_alterations": [
+                    {
+                        "start_index": 99,
+                        "end_index": 159,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482966
+                    },
+                    {
+                        "start_index": 160,
+                        "end_index": 223,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482967
+                    },
+                    {
+                        "start_index": 224,
+                        "end_index": 260,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482968
+                    },
+                    {
+                        "start_index": 507,
+                        "end_index": 578,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482969
+                    },
+                    {
+                        "start_index": 625,
+                        "end_index": 645,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482970
+                    },
+                    {
+                        "start_index": 647,
+                        "end_index": 699,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482971
+                    }
+                ],
+                "reviewed_on": "2024-04-03 19:37:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Mrs Kakan Saha"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2186443,
+            "status": "PUBLISHED",
+            "note": "2023-04-21 06:55:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-21T07:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45510017,
+                "review_text": "Dr Kanika did hysterectomy procedure on my grand mother. My grandma was fine but we are surprised to note that after surgery, the doctor  thinks her responsibility is over.  One  two minutes visit she pays to the patient that too only formal.  *** ******** ****** * ***** *** **** ***** **** **** *** ** *** ** **********  I felt as  a layman * ** **** **** ****** ***** **** *** ****.\n\nOn 12April my grand ma had surgery. On 13th her oxygen level was  first told by nurse as 77. When we asked ..so low,she took it again and said it is 87. My mother who was with me said.. call the doctor.  The nurse say the other nurse accompanying her and said post surgery it happens. We tried to intervene and she said.. doctor will visit.  This is the response. ** ******* *** ******* ****** *** ** **** ****** ********** *** ******** **********  She is on ventilator. To our suprise the ICU is just a room where no proper log is maintained. ******* *** ****** *** **** ****** ** no check from higher ups, no coordination,  **** ******* *****\n\nIts our observation that in ICUs of other hospitals no body is allowed to go with shoes.  They sre provided special footwear.  Here we are going in ICU with our footwear which we keep outside in our house.\n\nDont go to this doctor ** *** **** **** ***** *****  ********** ***** *******   * ** ****** ** *** *** ****** ********* ** **** *******   No one should visit this doctor.  ** **** ******* *** ****** **** **** ** **** they are changing their own observations every day.  \n\nFor having certain  general awareness on what is going around in the ICU,  only oberservation is enough* *** *********** *** *** ** ** ** * ********** ******** *******  **** ****** *** ****** ******* **** ********* **** ** ***** ****** ******* ** ******* ",
+                "review_alterations": [
+                    {
+                        "start_index": 244,
+                        "end_index": 320,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453310
+                    },
+                    {
+                        "start_index": 343,
+                        "end_index": 383,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453311
+                    },
+                    {
+                        "start_index": 750,
+                        "end_index": 833,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 453312
+                    },
+                    {
+                        "start_index": 931,
+                        "end_index": 967,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 453313
+                    },
+                    {
+                        "start_index": 1011,
+                        "end_index": 1030,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453314
+                    },
+                    {
+                        "start_index": 1262,
+                        "end_index": 1375,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453315
+                    },
+                    {
+                        "start_index": 1410,
+                        "end_index": 1455,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 453316
+                    },
+                    {
+                        "start_index": 1615,
+                        "end_index": 1765,
+                        "reason": "NON_COMPLIANT",
+                        "id": 453317
+                    }
+                ],
+                "reviewed_on": "2023-04-19 10:38:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Akanksha"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1760772,
+            "status": "PUBLISHED",
+            "note": "2021-06-29 07:41:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-29T08:01:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43042142,
+                "review_text": "*** ** * *** ******* My mom operated on 23rd January 2021, 1 stage of cervix cancer. Post surgery biopsy report is very good. Bad things I never recommend to anyone, she never console pateint, she doesn\u2019t have patience, she never replied to msg/ or phone for any help, only care abt her fees., arrogant, no words. By all following protocols we obey her, trying to tell d symptoms. ***** ******* * ******** *** ****** **** ** ** ** *** ******* *** ***** on 21 June 2021 we go for second pet scan by our own, showed d reports to another **** ********* different team same Max hospital.. we got my mom is now on last stage\u2026 when we reached her.. the first question asked why u go to different doctor\u2026 besides of concern about my mom. ******* ******** * **** ****** *** *** ***** ******* ** **** *** ** *** * * **** ****** **** *** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 355001
+                    },
+                    {
+                        "start_index": 381,
+                        "end_index": 452,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 355002
+                    },
+                    {
+                        "start_index": 535,
+                        "end_index": 548,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 355003
+                    },
+                    {
+                        "start_index": 731,
+                        "end_index": 834,
+                        "reason": "NON_COMPLIANT",
+                        "id": 355004
+                    }
+                ],
+                "reviewed_on": "2021-06-26 16:55:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Prashi"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2001261,
+            "status": "PUBLISHED",
+            "note": "2022-05-31 07:24:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-31T08:01:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44437070,
+                "review_text": "My wife operated on 4th may 2022 by Dr Kanika who is highly experienced and skilled in her Domain. She operated using the latest Robotics technology and there is zero complications and have super fast recovery. I am highly impressed with Dr behaviour and specially availability on mobile to guide patient from time to time.\nWe highly recommended experience Dr Kanika Gupta.",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-29 12:01:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ARPIT RUSTAGI"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1919093,
+            "status": "PUBLISHED",
+            "note": "2022-01-25 09:49:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-25T10:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43980005,
+                "review_text": "I was treated by Dr. Kanika Gupta and am very happy to share that it was a pleasent experience. She operated upon me using the latest robotic tecnology and I had zero complications and super fast recovery. Not only she is good as a doctor but also a wonderful human being. All my questions and queries were answered patiently and satisfactorily. I highly recommend Dr. Kanika Gupta. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-23 08:39:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ritu Kumar"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 244,
+                "text": "Cancer Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2203462,
+            "status": "PUBLISHED",
+            "note": "2023-05-24 06:54:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-24T07:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45613031,
+                "review_text": "My 67 years old mother diagnosed CA Ovary POST NACTWITH SUSPECTED CA BREAST @ advance stage in January 2023. With sum references I approached Dr. Kanika Gupta in Max hospital Vaishali. Under her guidance & supervision, Chemotherapy & other treatments for 3 & half months completed than she adviced us CYTOREDUCTIVE SERGERY WITH HIPEC+LEFT BREAST CONSERVATION SERGERY .\nThe successful sergery done on 09/05/2023. Within 9 days my mother discharged from hospital. Now she is recovering good. Thanks to Dr. Kanika Gupta & her team \n\nDr. Kanika Gupta is highly talented, professional, knowledgeable, supportive , soft spoken & friendly.\n\nWe highly recommend her with 5 \u2728\u2b50\u2b50\u2b50\u2b50\u2b50 Rating...",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-23 04:15:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 244,
+                "text": "Cancer Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2105665,
+            "status": "PUBLISHED",
+            "note": "2022-11-23 06:11:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-23T07:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45042288,
+                "review_text": "I'd like take an opportunity to share my warm regards and a big Thanks to Dr. Kanika Gupta Oncology Dept (Gynae & Robotic Surgery) for providing us the best guidance and immense support during my Mother's Stage -1 Uterus Cancer treatment.\nHer opinion helped us a lot to take the right decision at the right time to opt and get the hysterectomy (one of the most complex surgeries) done via Robotics facilities situated in Max PatparGanj Hospita, Delhi.\nAfter consulting with Dr. Kanika, we got to know about the major benefits of Robotics surgeries that caused minimum blood loss during this procedure and helped my mother get speedy recovery.\nI can not thank enough Dr. Kanika for everything and  I highly recommend and encourage everyone who is going through these tough times to opt for Robotics procedures for the best results and hustle-free experience.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-21 18:15:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 624943,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1517470,
+            "status": "PUBLISHED",
+            "note": "2020-09-11 07:21:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484140,
+            "practice_id": 678414,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-11T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41729723,
+                "review_text": "She literally shouted at my mother who is the patient. My mother has pain in her breast since last 10years and no doctor is able to tackle that. So she was really tensed about this and when she told her problems history to the doctor. Doctor shouted and said \"mujhe headache ho jaega ab itna bologi to\", * *** **** ****** * ******* ******* ***** **** ********* ** ****** ***** ********* *** * *** ****** Please never visit to a doctor who is not willing to listen u. Don't ruin ur money. With this doctor",
+                "review_alterations": [
+                    {
+                        "start_index": 304,
+                        "end_index": 403,
+                        "reason": "NON_COMPLIANT",
+                        "id": 292185
+                    }
+                ],
+                "reviewed_on": "2020-09-10 07:05:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 624945,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

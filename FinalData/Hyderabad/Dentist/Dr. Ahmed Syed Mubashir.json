@@ -1,0 +1,82 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1560599,
+            "status": "PUBLISHED",
+            "note": "2020-10-29 04:37:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604334,
+            "practice_id": 1280514,
+            "practice_name": "Ahmed Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-29T05:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41958093,
+                "review_text": "I had taken my mother to Dr. Mubashir after failed implants by two other dentists which kept coming off on their own. We finally got the right suggestion and treatment by Dr. Mubashir who did a very detailed job with a lot of patience. Extremely professional. He cleared all our queries and guided us the right way. Thoroughly content with the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-27 14:25:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Swathi datla"
+        },
+        "entity_id": 710324,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1556335,
+            "status": "PUBLISHED",
+            "note": "2020-10-23 06:29:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 604334,
+            "practice_id": 1280514,
+            "practice_name": "Ahmed Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-23T07:01:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41934424,
+                "review_text": "The doctor gives a detailed treatment plan and explains the various options available and their pros and cons. Would recommend the place to my friends and family for good quality work. Easy access to the location makes the trip hassle free.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-22 03:27:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 710324,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

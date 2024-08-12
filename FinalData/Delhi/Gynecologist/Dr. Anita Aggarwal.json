@@ -1,0 +1,107 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            },
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1326553,
+            "status": "PUBLISHED",
+            "note": "2019-12-31 13:04:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262687,
+            "practice_id": 671945,
+            "practice_name": "Pushpanjali Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-31T14:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40618872,
+                "review_text": "\nIt was precious pregnancy so i had numerous questions at every stage.\nChoosing to go with Dr. Anita Aggarwal was one of the best decisions I took during my pregnancy. She is Polite and friendly, Dr. Anita Aggarwal attended to all my queries and doubts throughout my pregnancy just as a mother would do. She really cared and concerned about me (literally too much even though my case had got complicated from 6th month due to diabetes , high liver infection, high bile acid etc. )  From the smallest to the biggest of my problems, her compassion and love has always taken half my problem away.  I had decided that she will be my doctor for life.\nWhen I visited you first I was relaxed that I am in  safe  hands.\nI would highly recommend her to all would-be-mothers.\n\nThanks ma\u2019am for everything and my BUNDLE OF JOY \ud83d\ude0a.",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-28 20:41:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shalu sharma"
+        },
+        "entity_id": 154740,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1115449,
+            "status": "PUBLISHED",
+            "note": "2019-03-26 13:04:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262687,
+            "practice_id": 671945,
+            "practice_name": "Pushpanjali Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-26T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39248396,
+                "review_text": "She is very friendly doctor I visited her along with my daughter in law . She is pregnant . Doctor listened our queries and cleared our doubts and explained everything related to diet  & exercises . \nShe also suggested some simple and healthy recipes for my daughter in law \ud83d\ude0al recommend her .",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-25 07:27:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mamta Gaur"
+        },
+        "entity_id": 154740,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

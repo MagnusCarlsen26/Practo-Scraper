@@ -1,0 +1,107 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            },
+            {
+                "id": 186433,
+                "text": " Dysentery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2362151,
+            "status": "PUBLISHED",
+            "note": "2024-03-28 08:02:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1095411,
+            "practice_id": 1444075,
+            "practice_name": "Neelam Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-28T09:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46551676,
+                "review_text": "The doctor is very calm and understands the patient\u2019s condition well. Prescribed the medicines which helped in speedy recovery.",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-27 05:13:40",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 886901,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2357138,
+            "status": "PUBLISHED",
+            "note": "2024-03-17 04:53:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1095411,
+            "practice_id": 1444075,
+            "practice_name": "Neelam Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-17T05:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46523224,
+                "review_text": "The dr is very polite he took the history properly and listen seriously he told how and when to take the medicine and what precautions are to take I recommend other people to visit him",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-15 15:06:14",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 886901,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

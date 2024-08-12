@@ -1,0 +1,217 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1321581,
+            "status": "PUBLISHED",
+            "note": "2019-12-25 11:44:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 164727,
+            "practice_id": 648944,
+            "practice_name": "Wesmile Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-25T12:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40584762,
+                "review_text": "My experience was excellent . The staff is friendly, always smiling. The entire team was professional, thorough, respectful and considerate. The facilities were in great conditions and created a  relaxing atmosphere. Highly recommended!!\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-23 05:44:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shraddha"
+        },
+        "entity_id": 67017,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 137,
+                "text": "Tooth Coloured Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1294715,
+            "status": "PUBLISHED",
+            "note": "2019-11-20 11:13:26",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 164727,
+            "practice_id": 648944,
+            "practice_name": "Dental Design Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-20T04:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 174822,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your feedback.",
+                "replied_at": "2019-11-20T04:00:25+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 647,
+                "modified_by_id": 647,
+                "replier_name": "Dr. Meghna Dang",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/164727/dr-meghna-dang-5dfc9db0c8451.JPG"
+            },
+            "survey_response": {
+                "id": 40395223,
+                "review_text": "Doctor goes in a very preventive manner with her treatment. She has all the new materials and latest equipment to execute it. Very satisfactory experience. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-19 08:06:00",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandhya"
+        },
+        "entity_id": 67017,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1297838,
+            "status": "PUBLISHED",
+            "note": "2019-11-24 07:18:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 164727,
+            "practice_id": 724060,
+            "practice_name": "Wesmile Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-24T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40415477,
+                "review_text": "Very nice . Would like to recommend this doctor to all those who are looking for Dental treatment  .",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-23 06:54:13",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anita "
+        },
+        "entity_id": 236560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 99,
+                "text": "Dental Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1297035,
+            "status": "PUBLISHED",
+            "note": "2019-11-23 06:25:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 164727,
+            "practice_id": 724060,
+            "practice_name": "Wesmile Studio",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-23T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40410301,
+                "review_text": "Extremely good services and the staff is well trained and very professional. Would highly recommend. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-22 05:36:40",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aryanil"
+        },
+        "entity_id": 236560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

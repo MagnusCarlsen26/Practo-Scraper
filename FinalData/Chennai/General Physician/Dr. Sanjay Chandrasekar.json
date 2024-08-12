@@ -1,0 +1,49 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1702282,
+            "status": "PUBLISHED",
+            "note": "2021-04-20 06:29:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495042,
+            "practice_id": 1005781,
+            "practice_name": "Apollo Speciality Cancer Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-20T07:01:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42726652,
+                "review_text": "My father had visited the hospital and it was health problem. ****** *** ***** I can surely recommend doctor to others. My dad is undergoing treatment now also. Doctor was cooperative and patient. Medical tests were done. There was some waiting time in the hospital when we went, it was for 30-60 minutes.",
+                "review_alterations": [
+                    {
+                        "start_index": 62,
+                        "end_index": 78,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 340246
+                    }
+                ],
+                "reviewed_on": "2021-04-18 04:30:08",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 438166,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

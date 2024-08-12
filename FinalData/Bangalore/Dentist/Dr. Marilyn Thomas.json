@@ -1,0 +1,1712 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2303809,
+            "status": "PUBLISHED",
+            "note": "2023-12-08 05:40:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-08T06:01:32+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 434380,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind feedback!",
+                "replied_at": "2023-12-23T03:39:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 46217483,
+                "review_text": "********* ******.  Visited clinic for slightly complicated issues with my tooth.  \nDr Marilyn was patient enough to listen to all the issues, suggested best possible remedies and explained the treatment in detail. \nDoctor is friendly, caring and very much dedicated to work. I could reach doctor even on Sunday and the dedication that was shown was highly admirable..   \nI am going through the treatment at present and hope to get well soon.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 474622
+                    }
+                ],
+                "reviewed_on": "2023-12-06 18:42:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "AK Preeth"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1724725,
+            "status": "PUBLISHED",
+            "note": "2021-05-17 09:47:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-17T10:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42848806,
+                "review_text": "Dr Marilyn patiently listens and recommends treatments. She doesn't force it on us. I assumed the something bad would happen and expected my tooth to be removed or a root canal, only to be recommended a cleaning session. Even thru the cleaning session, she was updating what she was doing and what to expect. Very reasonable rates and a very good experience. Definitely recommend her for any dental treatment. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-16 09:44:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "F V Philip"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2301053,
+            "status": "PUBLISHED",
+            "note": "2023-12-03 06:18:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-03T07:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46201787,
+                "review_text": "Very professional and sweet doctor. She is very patient to check in detail and explains the issue well to you. She suggests the best and least treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-01 14:47:13",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Malavika Rajkumar"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2156948,
+            "status": "PUBLISHED",
+            "note": "2023-02-24 16:42:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-24T17:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45335205,
+                "review_text": "It was an excellent service rendered. The most likely part is that Doctor is available 7 days in a week at any time ",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-23 15:08:22",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "maria simran"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            },
+            {
+                "id": 473,
+                "text": "Dental Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2129026,
+            "status": "PUBLISHED",
+            "note": "2023-01-06 05:53:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-05T08:24:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 392137,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for the kind feedback",
+                "replied_at": "2023-01-05T08:24:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 45175802,
+                "review_text": "Very good ambience of the clinic and well maintained.\nDoctor is very friendly and explains the details clearly.\nVery professional and friendly behaviour.\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-04 15:26:02",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SASI KUMAR M"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2052785,
+            "status": "PUBLISHED",
+            "note": "2022-08-23 07:36:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-22T09:07:14+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 372307,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the kind words",
+                "replied_at": "2022-08-22T09:07:14+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 44740040,
+                "review_text": "This doctor listen to you pain than any other dental doctors i have met.\nSo RTC was not that pain full.",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-21 16:45:38",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Srivatsa Rao"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1970288,
+            "status": "PUBLISHED",
+            "note": "2022-04-12 07:15:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-12T08:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44263005,
+                "review_text": "I had a very good experience. Doctor was very friendly. Overall I am very much satisfied with the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-11 03:45:20",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "STANLEY JOSEPH"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 173242,
+                "text": "General  Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1924534,
+            "status": "PUBLISHED",
+            "note": "2022-02-02 04:57:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-01T08:05:13+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 340136,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the encouraging Feedback",
+                "replied_at": "2022-02-01T08:05:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 44012020,
+                "review_text": "Surely recommend this doctor!\nProvided better steps for dental care with detailed explaination . Clarified all my doubts as well\n\nOverall satisfied ! Big cheers!!",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-31 14:34:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Murthy PN"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1864490,
+            "status": "PUBLISHED",
+            "note": "2021-11-02 07:33:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-01T08:04:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 324630,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the kind words of support!",
+                "replied_at": "2021-11-01T08:04:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 43652301,
+                "review_text": "Highly recommend this dental clinic. I got my deep cleaning and dental filling done. Excellent job done by Dr Marilyn.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-31 05:53:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanjeev"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1826602,
+            "status": "PUBLISHED",
+            "note": "2021-09-14 09:19:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-14T08:49:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 314996,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Hi Mr Rakesh\nThank you for the encouraging feedback!",
+                "replied_at": "2021-09-14T08:49:55+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 43418267,
+                "review_text": "Been searching for a good dentist since a while. Found a great dentist. Consulted doctor for my daughter Jahnvi's gum pain. She put my child at comfort, explained the issue, addressed her queries and suggested next steps. Thank you very much. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-12 08:54:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rakesh"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2303809,
+            "status": "PUBLISHED",
+            "note": "2023-12-08 05:40:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-08T06:01:32+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 434380,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind feedback!",
+                "replied_at": "2023-12-23T03:39:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 46217483,
+                "review_text": "********* ******.  Visited clinic for slightly complicated issues with my tooth.  \nDr Marilyn was patient enough to listen to all the issues, suggested best possible remedies and explained the treatment in detail. \nDoctor is friendly, caring and very much dedicated to work. I could reach doctor even on Sunday and the dedication that was shown was highly admirable..   \nI am going through the treatment at present and hope to get well soon.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 474622
+                    }
+                ],
+                "reviewed_on": "2023-12-06 18:42:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "AK Preeth"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1724725,
+            "status": "PUBLISHED",
+            "note": "2021-05-17 09:47:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-17T10:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42848806,
+                "review_text": "Dr Marilyn patiently listens and recommends treatments. She doesn't force it on us. I assumed the something bad would happen and expected my tooth to be removed or a root canal, only to be recommended a cleaning session. Even thru the cleaning session, she was updating what she was doing and what to expect. Very reasonable rates and a very good experience. Definitely recommend her for any dental treatment. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-16 09:44:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "F V Philip"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2301053,
+            "status": "PUBLISHED",
+            "note": "2023-12-03 06:18:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-03T07:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46201787,
+                "review_text": "Very professional and sweet doctor. She is very patient to check in detail and explains the issue well to you. She suggests the best and least treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-01 14:47:13",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Malavika Rajkumar"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2156948,
+            "status": "PUBLISHED",
+            "note": "2023-02-24 16:42:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-24T17:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45335205,
+                "review_text": "It was an excellent service rendered. The most likely part is that Doctor is available 7 days in a week at any time ",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-23 15:08:22",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "maria simran"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            },
+            {
+                "id": 473,
+                "text": "Dental Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2129026,
+            "status": "PUBLISHED",
+            "note": "2023-01-06 05:53:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-05T08:24:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 392137,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for the kind feedback",
+                "replied_at": "2023-01-05T08:24:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 45175802,
+                "review_text": "Very good ambience of the clinic and well maintained.\nDoctor is very friendly and explains the details clearly.\nVery professional and friendly behaviour.\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-04 15:26:02",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SASI KUMAR M"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2052785,
+            "status": "PUBLISHED",
+            "note": "2022-08-23 07:36:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-22T09:07:14+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 372307,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the kind words",
+                "replied_at": "2022-08-22T09:07:14+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 44740040,
+                "review_text": "This doctor listen to you pain than any other dental doctors i have met.\nSo RTC was not that pain full.",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-21 16:45:38",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Srivatsa Rao"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1970288,
+            "status": "PUBLISHED",
+            "note": "2022-04-12 07:15:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-12T08:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44263005,
+                "review_text": "I had a very good experience. Doctor was very friendly. Overall I am very much satisfied with the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-11 03:45:20",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "STANLEY JOSEPH"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 173242,
+                "text": "General  Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1924534,
+            "status": "PUBLISHED",
+            "note": "2022-02-02 04:57:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-01T08:05:13+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 340136,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the encouraging Feedback",
+                "replied_at": "2022-02-01T08:05:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 44012020,
+                "review_text": "Surely recommend this doctor!\nProvided better steps for dental care with detailed explaination . Clarified all my doubts as well\n\nOverall satisfied ! Big cheers!!",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-31 14:34:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Murthy PN"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1864490,
+            "status": "PUBLISHED",
+            "note": "2021-11-02 07:33:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-01T08:04:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 324630,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the kind words of support!",
+                "replied_at": "2021-11-01T08:04:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 43652301,
+                "review_text": "Highly recommend this dental clinic. I got my deep cleaning and dental filling done. Excellent job done by Dr Marilyn.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-31 05:53:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanjeev"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1826602,
+            "status": "PUBLISHED",
+            "note": "2021-09-14 09:19:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-14T08:49:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 314996,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Hi Mr Rakesh\nThank you for the encouraging feedback!",
+                "replied_at": "2021-09-14T08:49:55+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 43418267,
+                "review_text": "Been searching for a good dentist since a while. Found a great dentist. Consulted doctor for my daughter Jahnvi's gum pain. She put my child at comfort, explained the issue, addressed her queries and suggested next steps. Thank you very much. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-12 08:54:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rakesh"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1807708,
+            "status": "PUBLISHED",
+            "note": "2021-08-21 06:39:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-20T07:11:24+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 309495,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words of encouragement",
+                "replied_at": "2021-08-20T07:11:24+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 43305091,
+                "review_text": "Very satisfied with consultation with Doctor. She explained us the whole procedure and was very friendly. My father\u2019s toothache is now gone after root canal. Will definitely recommend. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-20 04:14:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Meera"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1784931,
+            "status": "PUBLISHED",
+            "note": "2021-07-25 07:30:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-24T13:24:21+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 303651,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks a lot for your lovely feedback",
+                "replied_at": "2021-07-24T13:24:21+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 43174801,
+                "review_text": "I booked an appointment for reattaching my crown. Dr Marilyn Thomas did an wonderful job. She is very polite, professional and had some great advices for me to maintain my crown. The clinic was very clean and state of the art.",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-24 05:43:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ayan Das"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1725081,
+            "status": "PUBLISHED",
+            "note": "2021-05-18 06:06:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-18T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 287593,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the feedback",
+                "replied_at": "2021-05-19T08:07:07+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 42850669,
+                "review_text": "Good clinical treatment, friendly behaviour , reasonable treatment charges and clean clinic environment. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-17 04:09:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anish kumar A K"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1724859,
+            "status": "PUBLISHED",
+            "note": "2021-05-18 06:10:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-18T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42849507,
+                "review_text": "A Good Dental specialist.. I had a great comfort for my dental treatment .. I really appreciate her skills.. I also recommend a good dental specialist in Bengaluru.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-16 13:22:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Plato Palathingal "
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1704567,
+            "status": "PUBLISHED",
+            "note": "2021-04-22 06:41:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-21T06:56:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 282110,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your feedback!",
+                "replied_at": "2021-04-21T06:56:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 42739278,
+                "review_text": "Amazing experience. Treatment was flawless and painless for the most part. The doctor is very kind, friendly and professional which made me feel relaxed on the dental chair. I would recommend this clinic 100%.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-21 06:34:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ankita"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1678169,
+            "status": "PUBLISHED",
+            "note": "2021-03-21 04:28:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-21T05:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42592477,
+                "review_text": "Extremely happy.\n\nDoctor takes out time to explain the procedure and is very gentle during the procedure to minimise discomfort. \n\nStrongly recommend the clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-19 14:09:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jaydip Dhar"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1675422,
+            "status": "PUBLISHED",
+            "note": "2021-03-18 05:54:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-18T06:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42578029,
+                "review_text": "it was nice to meet and get input from such a kind and professional experience doc, i appreciate such kinda doc spend their time in our life though  we purposefully go through Hiccups situations",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-16 15:06:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ramesh"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1622642,
+            "status": "PUBLISHED",
+            "note": "2021-01-17 06:13:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-17T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42288939,
+                "review_text": "Dr Marilyn is very patient and puts us completely at ease. The procedure was done smoothly  and with minimal discomfort. Very happy with the results as well.",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-15 16:12:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sera"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 99,
+                "text": "Dental Cavities"
+            },
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1816976,
+            "status": "PUBLISHED",
+            "note": "2021-09-02 06:15:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-01T08:06:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 312117,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for the kind words!",
+                "replied_at": "2021-09-01T08:06:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9469515,
+                "modified_by_id": 9469515,
+                "replier_name": "Dr. Marilyn Thomas",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/900186/dr-marilyn-thomas-612cc98f57b61.jpg"
+            },
+            "survey_response": {
+                "id": 43359146,
+                "review_text": "I highly recommend the Dr Marilyn Thomas.Doctor is very friendly and listens to the problem of patient and camly explain the problem in detail and gives patients more confidence.Easily available for any queries related to the tooth problem.The doctor is extremely proficient, experienced, and friendly I would 100% recommendation on the her treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-31 14:55:06",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 268,
+                "text": "Dental X-Ray"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2190542,
+            "status": "PUBLISHED",
+            "note": "2023-04-29 07:07:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900186,
+            "practice_id": 1316313,
+            "practice_name": "Toothfully Yours Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-29T08:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45535467,
+                "review_text": "She's very friendly , soft spoken,  and  explain things  .  I'm coming  fir for the first time.  It's really a good experience. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-28 04:53:07",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 745293,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1621474,
+            "status": "PUBLISHED",
+            "note": "2021-01-16 06:22:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 17311,
+            "practice_id": 735296,
+            "practice_name": "First Health Multispeciality Cinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-16T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42282701,
+                "review_text": "In early 2012, I broke my ACL while playing football& consulted Dr Jithendra for reconstruction . My knee was highly unstable then, very difficult to walk.\n\nGot my ACL reconstructed by him , followed by 10 days of Physiotherapy & 2 more follow up consultation. Got back to sports in about 8 months and now it is 8 years over, still active with games-surgically fixed knee is stable. \n\nI highly recommend him for joint related issues. He is transparent on what he can and which is beyond his specialized skill sets.\n\n\n ",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-14 06:39:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prince"
+        },
+        "entity_id": 251797,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 167354,
+                "text": "Sciatica Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 728890,
+            "status": "PUBLISHED",
+            "note": "2017-11-20 10:52:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 17311,
+            "practice_id": 735296,
+            "practice_name": "First Health Multispeciality Cinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-20T11:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36108307,
+                "review_text": "He is very good doctor. Dr.Brunda channappa, my gynaecologist recommended him. He clear all our doubts *** **** ********** I would surely recommend this doctor for any of your Ortho related issues.",
+                "review_alterations": [
+                    {
+                        "start_index": 103,
+                        "end_index": 121,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 76860
+                    }
+                ],
+                "reviewed_on": "2017-11-17 16:06:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Madhura kashyap"
+        },
+        "entity_id": 251797,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1116399,
+            "status": "PUBLISHED",
+            "note": "2019-03-27 09:39:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 17311,
+            "practice_id": 735296,
+            "practice_name": "First Health Multispeciality Cinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-27T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39254329,
+                "review_text": "Doctor is very **** *** friendly. He diagnose the problem and accordingly prescribed the medicines. Even he explains clearly the reasons for the tablets he is giving.\nI recommend this doctor and he is better than any doctor in RR Nagar",
+                "review_alterations": [
+                    {
+                        "start_index": 15,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 164117
+                    }
+                ],
+                "reviewed_on": "2019-03-26 07:24:30",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Charan Thayappa"
+        },
+        "entity_id": 251797,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1174006,
+            "status": "PUBLISHED",
+            "note": "2019-06-12 07:18:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 17311,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-12T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39619183,
+                "review_text": "Doctor has very good patience to listen each and every problem of a patient.... Doctor is very friendly.... He spent more than half an hour to see the patient.... Liked the way he diagnosed the cause of pain.... I truely  recommend Dr Jitendra for any orthopedic related issues. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-10 08:45:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1695722,
+            "status": "PUBLISHED",
+            "note": "2021-04-11 06:12:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 758410,
+            "practice_id": 1052964,
+            "practice_name": "Dr. Mehta's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-11T07:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42690339,
+                "review_text": "Excellent Pediatrician. she is very attentive to details, speaks in a friendly manner. Safe place to go during covid times.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-10 06:08:08",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 690909,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2131,
+                "text": "Childhood Infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1384347,
+            "status": "PUBLISHED",
+            "note": "2020-02-29 11:11:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 758410,
+            "practice_id": 1052964,
+            "practice_name": "Dr. Mehta's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-29T12:03:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41030228,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 43,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 252368
+                    }
+                ],
+                "reviewed_on": "2020-02-28 06:37:25",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 690909,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

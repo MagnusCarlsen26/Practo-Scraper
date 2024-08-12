@@ -1,0 +1,382 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2417910,
+            "status": "PUBLISHED",
+            "note": "2024-07-23 10:07:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 326838,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-23T11:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46870858,
+                "review_text": "\n\nDr. Ishwar Bohra is brilliant doctor. My cousin brother was patient of Grade IV osteoarthritis, unable to walk 50 meter, stand for 5 minutes and legs were bent. Dr Bohra and team suggested for Knee replacement. Surgery was successful. And my cousin brother knee is now at right place.\nDr. Bohra is brilliant doctor and the best & thanks to doctor & All team",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-22 09:28:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1895520,
+            "status": "PUBLISHED",
+            "note": "2021-12-19 12:11:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 326838,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-19T13:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43835555,
+                "review_text": "*** ****** ***** ** *** **** ****** ** **** **** ******* He justify his name \"\u0908\u0936\u094d\u0935\u0930\". He is very down to earth and listens to the patient very carefully and understands the problem and advice the best possible treatment. My mother got her total knee replaced by him and he not only gave *** *** **** treatment but also motivated her to overcome the fear of surgery.\n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 56,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 388330
+                    },
+                    {
+                        "start_index": 287,
+                        "end_index": 298,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 388331
+                    }
+                ],
+                "reviewed_on": "2021-12-18 12:05:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Navneet Bhardwaj"
+        },
+        "entity_id": 101816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2326443,
+            "status": "PUBLISHED",
+            "note": "2024-01-18 11:25:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 326838,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-18T12:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46346680,
+                "review_text": "Dr. Not even seen any past report simply ask what is problem  and sir is so busy at hospital being a director",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-17 11:21:36",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sahil Madan"
+        },
+        "entity_id": 101816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2005977,
+            "status": "PUBLISHED",
+            "note": "2022-06-07 09:47:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 326838,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-07T10:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44464636,
+                "review_text": "He is a doctor who is ****** in a hurry, ****** *** *********** ***** *** services from the hospital and doesn't satisfactorily answer questions.\n\nDisappointed and do not recommend.",
+                "review_alterations": [
+                    {
+                        "start_index": 21,
+                        "end_index": 27,
+                        "reason": "NON_COMPLIANT",
+                        "id": 412990
+                    },
+                    {
+                        "start_index": 41,
+                        "end_index": 73,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 412989
+                    }
+                ],
+                "reviewed_on": "2022-06-06 09:37:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1027505,
+            "status": "PUBLISHED",
+            "note": "2018-11-28 04:15:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 326838,
+            "practice_id": 690643,
+            "practice_name": "Apex Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-28T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38656632,
+                "review_text": "Very polite and humble. Satisfied with his treatment. He saved my dad's life. He is very efficient and soft spoken.",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-25 17:35:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manisha"
+        },
+        "entity_id": 187102,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 358897,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 326838,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-16T10:59:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24502177,
+                "review_text": "top nature and top care of patient  which patient exepect him .i went him once but their advise was wonderfull and their treatment was best.in this hospital other dr. are time pass and didnot like cooperate with general opd patient. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-12 11:42:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1374362,
+            "status": "PUBLISHED",
+            "note": "2020-02-20 12:52:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 326838,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-20T13:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40971605,
+                "review_text": "Excellent  attention from doctor and well explained treatment .Hospital staff was also supportive and helpful ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-19 08:51:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2353,
+                "text": "Knee care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1231124,
+            "status": "PUBLISHED",
+            "note": "2019-08-27 04:57:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 326838,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-27T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39982576,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 53,
+                        "reason": "NON_COMPLIANT",
+                        "id": 202114
+                    }
+                ],
+                "reviewed_on": "2019-08-24 13:09:55",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sumit Mishra"
+        },
+        "entity_id": 101816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

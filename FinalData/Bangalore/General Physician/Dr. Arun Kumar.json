@@ -1,0 +1,1721 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1224040,
+            "status": "PUBLISHED",
+            "note": "2019-08-18 04:42:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-18T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39936981,
+                "review_text": "We are visiting Dr Arun from past 1 year, he is friendly *** ******** ** ********** he doesn't prescribe tests or medicines unnecessarily until unless there is necessary. He Explains and gives confidence regarding health issues to the patient * *** ** ***  **** ********* * **** ***** ",
+                "review_alterations": [
+                    {
+                        "start_index": 57,
+                        "end_index": 82,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 199937
+                    },
+                    {
+                        "start_index": 243,
+                        "end_index": 283,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 199938
+                    }
+                ],
+                "reviewed_on": "2019-08-15 07:14:20",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nandini l"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            },
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1134747,
+            "status": "PUBLISHED",
+            "note": "2019-04-21 06:41:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-21T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39372247,
+                "review_text": "what a dynamic doctor he is . I am quite impressed with the way he deals with the patient . very humble and listen to your  problem with patience and gives resolution . I went to many doctors but did not get resolution , once i met him he not only diagnosed the problem but provided a better resolution . \ud83d\udc4d",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-19 06:01:29",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandeep Raj"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2274563,
+            "status": "PUBLISHED",
+            "note": "2023-10-11 05:50:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1425412,
+            "practice_name": "Altor Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-11T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46052086,
+                "review_text": "He was amazing, very calm, explained the problem well and told me the options we can explore and how to cure it. Really helped lessen my worries",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-09 14:34:16",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumit Chatterjee"
+        },
+        "entity_id": 864213,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186428,
+                "text": "Typhoid fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2265445,
+            "status": "PUBLISHED",
+            "note": "2023-09-24 07:17:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1425412,
+            "practice_name": "Altor Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-24T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45999367,
+                "review_text": "The Doctor was very ************* *** friendly. I was very pleased in the way he explained me the issue and gave the medications. Thank you so much Arun Sir!",
+                "review_alterations": [
+                    {
+                        "start_index": 20,
+                        "end_index": 36,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 469145
+                    }
+                ],
+                "reviewed_on": "2023-09-23 06:23:54",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "UMESH TIWARI"
+        },
+        "entity_id": 864213,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2348184,
+            "status": "PUBLISHED",
+            "note": "2024-03-01 09:39:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1425412,
+            "practice_name": "Altor Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-01T10:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46472300,
+                "review_text": "As per Prato I booked the slot at 10am and before  did that, I tried to reach them on phone, nobody had attended the call. Booked the slot at 10am.I reached there around 9:30 and the receptionist said the doctor would come only by 10:30 am, she mentioned that\u2019s the time they gave to Practo. I had to wait for around 1.5 hours. The doctor came around 11am. The doctor didn\u2019t even check with a stethoscope, he prescribed the medicines *** *** *** **** ** ****** ** ********** ***** *** ******** While he was attending a bunch of people came and sat in front of him, it should be first come first serve.\nIt wasn\u2019t a good experience and not recommending to anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 433,
+                        "end_index": 493,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480160
+                    }
+                ],
+                "reviewed_on": "2024-02-28 02:45:40",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 864213,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186384,
+                "text": "Fasting blood sugar"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1440004,
+            "status": "PUBLISHED",
+            "note": "2020-06-09 06:32:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-09T07:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41337666,
+                "review_text": "Im a diabetic patient since 10 years \nI showed many doctors for the same sugar levels not cpmi g down less than 300 \nDoctirs ad given only 2 medicines and sugras came to 150 in a month and my weakness tiredness as reduced ",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-07 06:08:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Krithi"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 182601,
+                "text": "Sugar Level Check"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1439357,
+            "status": "PUBLISHED",
+            "note": "2020-06-09 05:42:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-09T06:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41334304,
+                "review_text": "Very happy with the doctor \nMy sugar level was 500 and I was on insulin I was very much discomfort to take insulin and he converted to tablets and sugars came to 200 in 15 days \nThanks to Dr arun",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-06 08:00:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1429779,
+            "status": "PUBLISHED",
+            "note": "2020-05-22 09:41:13",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-22T10:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41285159,
+                "review_text": "my mother was consulting dr arun for 2 yesrs ** **** ********* *********** ***** *** he will predcribe ******* medicines \nIf i see him only my half problem will solve \nVery good physician",
+                "review_alterations": [
+                    {
+                        "start_index": 44,
+                        "end_index": 83,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 266703
+                    },
+                    {
+                        "start_index": 103,
+                        "end_index": 109,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 266704
+                    }
+                ],
+                "reviewed_on": "2020-05-21 09:40:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pillamma"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1429455,
+            "status": "PUBLISHED",
+            "note": "2020-05-22 08:05:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-22T09:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41283519,
+                "review_text": "Had been to Dr Arun for diabetes care \nI was taking insulin for 5 years \nAnd he made me insulin free Ty so much sir I'm very happy now with out insulin",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-20 15:34:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Indrajit"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1695,
+                "text": "Well Woman Healthcheck"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1428065,
+            "status": "PUBLISHED",
+            "note": "2020-05-19 11:16:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-19T12:01:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41276803,
+                "review_text": "Felt happy now doing very good \nNo symptoms at all recovered very well\nExplianed very well and examined completly",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-18 11:15:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhavya"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1224040,
+            "status": "PUBLISHED",
+            "note": "2019-08-18 04:42:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-18T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39936981,
+                "review_text": "We are visiting Dr Arun from past 1 year, he is friendly *** ******** ** ********** he doesn't prescribe tests or medicines unnecessarily until unless there is necessary. He Explains and gives confidence regarding health issues to the patient * *** ** ***  **** ********* * **** ***** ",
+                "review_alterations": [
+                    {
+                        "start_index": 57,
+                        "end_index": 82,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 199937
+                    },
+                    {
+                        "start_index": 243,
+                        "end_index": 283,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 199938
+                    }
+                ],
+                "reviewed_on": "2019-08-15 07:14:20",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nandini l"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            },
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1134747,
+            "status": "PUBLISHED",
+            "note": "2019-04-21 06:41:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-21T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39372247,
+                "review_text": "what a dynamic doctor he is . I am quite impressed with the way he deals with the patient . very humble and listen to your  problem with patience and gives resolution . I went to many doctors but did not get resolution , once i met him he not only diagnosed the problem but provided a better resolution . \ud83d\udc4d",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-19 06:01:29",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandeep Raj"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2274563,
+            "status": "PUBLISHED",
+            "note": "2023-10-11 05:50:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1425412,
+            "practice_name": "Altor Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-11T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46052086,
+                "review_text": "He was amazing, very calm, explained the problem well and told me the options we can explore and how to cure it. Really helped lessen my worries",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-09 14:34:16",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumit Chatterjee"
+        },
+        "entity_id": 864213,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186428,
+                "text": "Typhoid fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2265445,
+            "status": "PUBLISHED",
+            "note": "2023-09-24 07:17:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1425412,
+            "practice_name": "Altor Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-24T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45999367,
+                "review_text": "The Doctor was very ************* *** friendly. I was very pleased in the way he explained me the issue and gave the medications. Thank you so much Arun Sir!",
+                "review_alterations": [
+                    {
+                        "start_index": 20,
+                        "end_index": 36,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 469145
+                    }
+                ],
+                "reviewed_on": "2023-09-23 06:23:54",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "UMESH TIWARI"
+        },
+        "entity_id": 864213,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2348184,
+            "status": "PUBLISHED",
+            "note": "2024-03-01 09:39:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1425412,
+            "practice_name": "Altor Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-01T10:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46472300,
+                "review_text": "As per Prato I booked the slot at 10am and before  did that, I tried to reach them on phone, nobody had attended the call. Booked the slot at 10am.I reached there around 9:30 and the receptionist said the doctor would come only by 10:30 am, she mentioned that\u2019s the time they gave to Practo. I had to wait for around 1.5 hours. The doctor came around 11am. The doctor didn\u2019t even check with a stethoscope, he prescribed the medicines *** *** *** **** ** ****** ** ********** ***** *** ******** While he was attending a bunch of people came and sat in front of him, it should be first come first serve.\nIt wasn\u2019t a good experience and not recommending to anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 433,
+                        "end_index": 493,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480160
+                    }
+                ],
+                "reviewed_on": "2024-02-28 02:45:40",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 864213,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186384,
+                "text": "Fasting blood sugar"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1440004,
+            "status": "PUBLISHED",
+            "note": "2020-06-09 06:32:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-09T07:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41337666,
+                "review_text": "Im a diabetic patient since 10 years \nI showed many doctors for the same sugar levels not cpmi g down less than 300 \nDoctirs ad given only 2 medicines and sugras came to 150 in a month and my weakness tiredness as reduced ",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-07 06:08:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Krithi"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 182601,
+                "text": "Sugar Level Check"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1439357,
+            "status": "PUBLISHED",
+            "note": "2020-06-09 05:42:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-09T06:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41334304,
+                "review_text": "Very happy with the doctor \nMy sugar level was 500 and I was on insulin I was very much discomfort to take insulin and he converted to tablets and sugars came to 200 in 15 days \nThanks to Dr arun",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-06 08:00:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1429779,
+            "status": "PUBLISHED",
+            "note": "2020-05-22 09:41:13",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-22T10:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41285159,
+                "review_text": "my mother was consulting dr arun for 2 yesrs ** **** ********* *********** ***** *** he will predcribe ******* medicines \nIf i see him only my half problem will solve \nVery good physician",
+                "review_alterations": [
+                    {
+                        "start_index": 44,
+                        "end_index": 83,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 266703
+                    },
+                    {
+                        "start_index": 103,
+                        "end_index": 109,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 266704
+                    }
+                ],
+                "reviewed_on": "2020-05-21 09:40:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pillamma"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1429455,
+            "status": "PUBLISHED",
+            "note": "2020-05-22 08:05:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-22T09:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41283519,
+                "review_text": "Had been to Dr Arun for diabetes care \nI was taking insulin for 5 years \nAnd he made me insulin free Ty so much sir I'm very happy now with out insulin",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-20 15:34:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Indrajit"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1695,
+                "text": "Well Woman Healthcheck"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1428065,
+            "status": "PUBLISHED",
+            "note": "2020-05-19 11:16:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-19T12:01:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41276803,
+                "review_text": "Felt happy now doing very good \nNo symptoms at all recovered very well\nExplianed very well and examined completly",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-18 11:15:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhavya"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1426169,
+            "status": "PUBLISHED",
+            "note": "2020-05-16 05:42:42",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-16T06:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41267714,
+                "review_text": "**** **** ******\nI liked his friendly ness. \nThe way he explains health issue\nAnd tablets and all he he describe everything",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 265626
+                    }
+                ],
+                "reviewed_on": "2020-05-14 15:31:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naidu"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 155,
+                "text": "Low Blood Pressure"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1424099,
+            "status": "PUBLISHED",
+            "note": "2020-05-12 06:23:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-12T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41257628,
+                "review_text": "liked the way he deals with the patientvery friendly nature down to earth treats and checks the patient in detail",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-10 06:56:22",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rakesh Kumar"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1422860,
+            "status": "PUBLISHED",
+            "note": "2020-05-09 05:13:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-09T06:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41251686,
+                "review_text": "I am very happy with the way doctor deals with us \nEven in Corona season he will explain and examine the patient completely kudos to dr arun",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-07 13:38:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Munilaksmamma"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1422749,
+            "status": "PUBLISHED",
+            "note": "2020-05-08 09:48:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-08T10:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41251145,
+                "review_text": "My mother was suffering from fever and we had been to many doctors they were not ready to check and examine he examined my mother and checked everything evn in this busy covid season ,special thanks to Dr arun ",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-07 09:04:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanka"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1422169,
+            "status": "PUBLISHED",
+            "note": "2020-05-07 06:31:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-07T07:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41248243,
+                "review_text": "Very good physician and consulted for my mother \nHe listen to u very well and examined completely even in corona season \nThank you so much sir",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-06 06:07:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Das"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1507078,
+            "status": "PUBLISHED",
+            "note": "2020-09-01 09:39:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals - Powered by Medisync",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-01T10:01:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41675678,
+                "review_text": "He daignosed me for covid 19 and took good care of me in axis hospitals. He is young iland enthusiastic, deligent and sincere, friendly and straightforward at times.  covid 19 is probably not a major disease, but there is a lot of unknown and stigma . If you are in the hands of Arun sir, you would b good hands.Thanks Arun sir.  Have a tremendous career. -Rajeswara Rao M",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-30 13:34:38",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1373301,
+            "status": "PUBLISHED",
+            "note": "2020-02-19 12:48:32",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-19T13:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40963769,
+                "review_text": "The doctor didn't heard and checked *** ***** ******** *** prescribed the medicine.He didn't even explained the cause of the problem.Visited the same doctor twice *** *** ******** **** ***** *** ********* ****** ****** so finally consulted different doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 35,
+                        "end_index": 57,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 249313
+                    },
+                    {
+                        "start_index": 163,
+                        "end_index": 218,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 249314
+                    }
+                ],
+                "reviewed_on": "2020-02-18 08:49:08",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1423437,
+            "status": "PUBLISHED",
+            "note": "2020-05-10 05:00:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-10T05:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41254397,
+                "review_text": "Consulted for thyroid problem felt very happy \nIm free from tyroid  now thank you so much sir.       ",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-08 15:14:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arathi"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 945095,
+            "status": "PUBLISHED",
+            "note": "2018-08-12 09:47:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-12T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38052201,
+                "review_text": "I had been for loose motions treatment... He treated me with out antibiotics n i am improved in a day... Thank u so much.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-10 17:44:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 944222,
+            "status": "PUBLISHED",
+            "note": "2018-08-11 06:25:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 620724,
+            "practice_id": 1159397,
+            "practice_name": "Aaxis Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-10T08:05:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 99361,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for the reply hope u r doing good",
+                "replied_at": "2018-08-10T08:05:54+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2970491,
+                "modified_by_id": 2970491,
+                "replier_name": "Dr. Arun Kumar",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/620724/dr-arun-kumar-59cb9cc50d256.jpg"
+            },
+            "survey_response": {
+                "id": 38044673,
+                "review_text": "Explained  details about the illness and treatment modalities  . Course of the treatment medicines n diet.. improved in a day...",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-09 18:44:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 602854,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

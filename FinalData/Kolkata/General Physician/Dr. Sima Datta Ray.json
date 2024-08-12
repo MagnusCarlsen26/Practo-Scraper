@@ -1,0 +1,112 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1550,
+                "text": "Diabetes Renal Failure"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1686023,
+            "status": "PUBLISHED",
+            "note": "2021-03-30 08:37:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 911580,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-30T09:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42636168,
+                "review_text": "What I like the most about the hospital is that the doctors are responsible and attentive towards providing patient-centric facilities. The hospital offers advanced medical facilities at affordable prices. The TPA department is cooperative and supported a lot during my father\u2019s hospitalization. Overall, it was a satisfactory experience!",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-29 02:54:47",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Soumen Sinha"
+        },
+        "entity_id": 754417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1550,
+                "text": "Diabetes Renal Failure"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1685150,
+            "status": "PUBLISHED",
+            "note": "2021-03-28 13:13:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 911580,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-28T14:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42631269,
+                "review_text": "After receiving world-classes services, I want to say the emergency & trauma care center of AMRI Hospital is matchless. Last week, my neighbor met with an accident, and we took him to the Mukundapur center. The staff members were really attentive and supportive to us; they worked quite well, prioritizing the patient\u2019s timely treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-27 13:10:51",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Adrija acharjee"
+        },
+        "entity_id": 754417,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

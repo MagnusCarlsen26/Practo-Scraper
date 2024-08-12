@@ -1,0 +1,2246 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 515025,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-04T11:23:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33825793,
+                "review_text": "** ** *** **** ****** *** works close to heart.. doesnot prescribe medicine un neccessarily and gives right suggestions to us.\n\nhe has become our family doctor now and treats us very well.\nfor my mother he said, its due to age and doesnot take medicine as it doesnot help. he did the right thing by suggesting some natural pain management rather than prescribing pain killers.. \n\nwe need these kind of doctors .\n\nVaidyo Naarayano Harihi.. \n\nGirish K R",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 24,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 36607
+                    }
+                ],
+                "reviewed_on": "2017-04-04 09:53:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Girish K R"
+        },
+        "entity_id": 364450,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 658877,
+            "status": "PUBLISHED",
+            "note": "2017-08-25 09:14:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "MBJ Ortho and ENT Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-25T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35419612,
+                "review_text": "A patient doctor who listens well. Has a very well-mannered way of speaking with his patients and made me feel that I have come to the right place to treat my back pain. Would definitely recommend him!\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-22 17:46:19",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Stanley Ambrose"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2388816,
+            "status": "PUBLISHED",
+            "note": "2024-05-24 13:06:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospitals Old Airport Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-24T14:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46704334,
+                "review_text": "**** ****** ** ********* Me, my brother and my mom went to him individually for different problems and experienced the same issues.\n\nWe all had different kinds of general pain for a few days, me on my neck, my brother in his arm and my mother in her heel.\n\n** ** ** ********** **** ******* You get the feeling that he just wants to get it done with and rush to conclusion as quickly as possible. ** **** ****** *** ****\n\nHe did not even get up to look at any of our pain points and just looked at us and assumed whatever conclusions.\n\nNo explanation for the pain, no proper treatment for it, just random suggestions to X-Ray or MRIs or just painkillers. Nothing else.\n\n********** ** *** ** ** **** ******* **** *  ********* ** **** *** ***** *** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 487025
+                    },
+                    {
+                        "start_index": 257,
+                        "end_index": 288,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 487026
+                    },
+                    {
+                        "start_index": 395,
+                        "end_index": 418,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 487027
+                    },
+                    {
+                        "start_index": 669,
+                        "end_index": 754,
+                        "reason": "NON_COMPLIANT",
+                        "id": 487028
+                    }
+                ],
+                "reviewed_on": "2024-05-23 12:40:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Adithya Jain"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 929,
+                "text": "Meniscus Injury"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2070310,
+            "status": "PUBLISHED",
+            "note": "2022-09-20 06:33:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-20T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44842784,
+                "review_text": "I had one of the unfavourable experiences at Manipal hospital where I got operated for meniscus by Dr.Mallinath G ( orthopaedic department ). He lacks the basic courtesy a patient needs before/after surgery. *** ****** **** ** *** *** **** **** **** ********** ** ********** ****** After checking with him, I got admitted on Friday for surgery on Saturday. To our surprise, he never come to visit post surgery on Saturday and then was on leave on Sunday ( day of discharge). He sent some junior doctor, *** ****** ******* ** **** My point here if he wasn\u2019t going to be available on Sunday ( weekly off) , I could have just simply postponed my surgery.\nAfter we visited him post surgery, He didn\u2019t give advice post surgery on timing, intensity and frequency of physio. ******* ** **** I started professional physio late. I had lost more muscle mass by then. Operation happened end March but I\u2019m still not fully recovered **** ****** ******* ** **** ********** * *** ****** ** ********** **** * ***** ********* *** ******** Every day I regret getting operated from Dr. Mallinath and Manipal hospital.\nOn the contrary, the nurses were exceptional. 5 / 5 to them.\nPlease be very careful in choosing your doctor. Hopefully this posts will help someone.",
+                "review_alterations": [
+                    {
+                        "start_index": 207,
+                        "end_index": 280,
+                        "reason": "NON_COMPLIANT",
+                        "id": 426500
+                    },
+                    {
+                        "start_index": 503,
+                        "end_index": 529,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426501
+                    },
+                    {
+                        "start_index": 768,
+                        "end_index": 783,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426502
+                    },
+                    {
+                        "start_index": 920,
+                        "end_index": 973,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426503
+                    },
+                    {
+                        "start_index": 974,
+                        "end_index": 1021,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426506
+                    }
+                ],
+                "reviewed_on": "2022-09-17 19:00:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Soni Rastogi"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 220794,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 728755,
+            "practice_name": "Apollo hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-03-23T11:03:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 14825829,
+                "review_text": "Visited this doctor at his BTM clinic for getting my Knee checked as I have been having Knee pain for a month or so.He checked it properly and suggested an MRI scan. After I got the MRI report called him to visit and as he was in Apollo that day called me thr. He didint even look at my scans properly, glanced at the report and without a thought suggested Orthoscopy i.e. Surgery which he indicated would cost around 1.3 Lacs. To my surprise the same doctor was a very different doctor that day and I somehow wasn't convinced. For 2nd opinion I went to another Orthopedist and he suggested thr is no need of any surgery. He's put me on Physiotherapy and I am much better now.\r\n\r\nSuch doctors treat patients as customers or rather Victims. I am sure he get's a hefty cut on the surgeries at Apollo and I hear they have targets for each doctors for such surgeries. Strange that once a noble profession,  has now become more of a  business for such hospitals n docs.So friends always take 2nd opinion before going for any SURGERY.",
+                "review_alterations": [],
+                "reviewed_on": "2016-03-22 06:20:56",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "GIRISH NAGPAL"
+        },
+        "entity_id": 364450,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1112,
+                "text": "Joint and Muscle Problems"
+            },
+            {
+                "id": 1146,
+                "text": "Sports Injury"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2126891,
+            "status": "PUBLISHED",
+            "note": "2023-01-01 08:37:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-01T09:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45163223,
+                "review_text": "I visited Dr. Mallinath on 31st Dec 2022 because my heel soft tissue was paining. I have a flat foot and I had an idea that the pain was because of playing sports.\n\nThe doc looked at my foot and said that the pain is because of flat foot (and that's it!!) - no treatment, no remedy, no way to reduce the pain. I enquired if there is some way I can reduce the pain / if I should visit a physiotherapist - he said that I can go to a physiotherapist if I want - in a completely disinterested manner.\n\nHe suggested that I  go for an X-ray *** **** ********** *** * ** **** ***** ** ** **** **** ***** ** *** ********\nI'd really not recommend to visit this doc as he does not add value at all - the consultation is absolutely time and money down the drain. **** ******** * ******* * ****** ***********",
+                "review_alterations": [
+                    {
+                        "start_index": 534,
+                        "end_index": 611,
+                        "reason": "NON_COMPLIANT",
+                        "id": 438205
+                    },
+                    {
+                        "start_index": 752,
+                        "end_index": 795,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 438206
+                    }
+                ],
+                "reviewed_on": "2022-12-31 08:13:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shubhang Agrawal"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1998655,
+            "status": "PUBLISHED",
+            "note": "2022-05-27 07:24:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-27T08:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44422359,
+                "review_text": "I had been suffering from toe pain for the last few days. Today morning my toe was swollen. The doctor was abrupt and brusque in his manner and was in a hurry to shirk me off. He did not even physically inspect the swollen toe. An xray revealed that there was no injury to bone. The doctor did not even have the patience to explain what the probable cause of the pain and swelling was. All he said was \"Non-veg nahi khana hai, Non-veg khaane ke wajah se ye sab hota hai\". We visited him seeing that he had an MS from ******* ******* *** ** ******* *** **** *** *** *** ***** *** *** *************** but don't be mislead. ** ** ***** **** * **********",
+                "review_alterations": [
+                    {
+                        "start_index": 516,
+                        "end_index": 598,
+                        "reason": "NON_COMPLIANT",
+                        "id": 411485
+                    },
+                    {
+                        "start_index": 621,
+                        "end_index": 649,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 411486
+                    }
+                ],
+                "reviewed_on": "2022-05-25 09:06:04",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rakasree Dasgupta "
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1983158,
+            "status": "PUBLISHED",
+            "note": "2022-05-02 17:21:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-02T18:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44335087,
+                "review_text": "Doctor did not explain the need for surgery and pros/ cons of surgery vs conservative management with knee brace and complete bed rest of 2 months. He was in a hurry and just gave options. We chose conservative management as my mother was weak. In the follow up visit after 2 weeks he asked my mother to start walking though she complained about pain and requested another x-ray to check. the follow up visit was done in less than a minute. It contradicted with his initial advise of bed rest.As monor surgery was not done, mother had to undergo a very complicated surgery with another doctor. *** **** *** ****** ** ***** ******** *** *** ****** *** ********* *** ** *** *** ** ******* **** *** ********* ********* ******** *** ****** *****She has to again be on bed rest for long time. Suffering, loss of time and money. Avoid the doctor at any cost.Avoid at any cost. ",
+                "review_alterations": [
+                    {
+                        "start_index": 594,
+                        "end_index": 740,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 407693
+                    }
+                ],
+                "reviewed_on": "2022-04-30 13:09:32",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shamil"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 837,
+                "text": "Elbow Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2170534,
+            "status": "PUBLISHED",
+            "note": "2023-03-21 06:18:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospitals Old Airport Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-21T07:00:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45413361,
+                "review_text": "** ******** ******** *** ******* **** ******** ***** *** Within a minute of entering his chamber he told me to get x-ray done which costed 800 rupees. I was telling him that the pain is in arm and he was telling that pain is in thr ball and socket joint in right shoulder. He asked me to get physiotherapy where there were no doctors present. Nursing assistants were doing physiotherapy. ******* ** ** * *** ******* I don't recommend him ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 55,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449360
+                    },
+                    {
+                        "start_index": 388,
+                        "end_index": 414,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449361
+                    }
+                ],
+                "reviewed_on": "2023-03-20 03:21:02",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Harshit Agnihotri"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 9972,
+                "text": "Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1224356,
+            "status": "PUBLISHED",
+            "note": "2019-08-18 05:54:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "MBJ Clinics and Diagnostics",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-18T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39938841,
+                "review_text": "Very poor experience.. i went for my wife's back pain.. he hardly want to discussed/ diagnosed the problem , within few seconds he has given his opinion. Prescribe some pain killer that's all.. *** **** ***** *** ******* pls don't visit him.. not atall recommended.* **** ******* ****** *** ** **** ** *** ******** **** ********* ** **** ***** ***** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 194,
+                        "end_index": 219,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 199991
+                    },
+                    {
+                        "start_index": 265,
+                        "end_index": 359,
+                        "reason": "NON_COMPLIANT",
+                        "id": 199992
+                    }
+                ],
+                "reviewed_on": "2019-08-15 16:27:56",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rahat"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 515025,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-04T11:23:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33825793,
+                "review_text": "** ** *** **** ****** *** works close to heart.. doesnot prescribe medicine un neccessarily and gives right suggestions to us.\n\nhe has become our family doctor now and treats us very well.\nfor my mother he said, its due to age and doesnot take medicine as it doesnot help. he did the right thing by suggesting some natural pain management rather than prescribing pain killers.. \n\nwe need these kind of doctors .\n\nVaidyo Naarayano Harihi.. \n\nGirish K R",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 24,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 36607
+                    }
+                ],
+                "reviewed_on": "2017-04-04 09:53:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Girish K R"
+        },
+        "entity_id": 364450,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 658877,
+            "status": "PUBLISHED",
+            "note": "2017-08-25 09:14:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "MBJ Ortho and ENT Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-25T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35419612,
+                "review_text": "A patient doctor who listens well. Has a very well-mannered way of speaking with his patients and made me feel that I have come to the right place to treat my back pain. Would definitely recommend him!\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-22 17:46:19",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Stanley Ambrose"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2388816,
+            "status": "PUBLISHED",
+            "note": "2024-05-24 13:06:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospitals Old Airport Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-24T14:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46704334,
+                "review_text": "**** ****** ** ********* Me, my brother and my mom went to him individually for different problems and experienced the same issues.\n\nWe all had different kinds of general pain for a few days, me on my neck, my brother in his arm and my mother in her heel.\n\n** ** ** ********** **** ******* You get the feeling that he just wants to get it done with and rush to conclusion as quickly as possible. ** **** ****** *** ****\n\nHe did not even get up to look at any of our pain points and just looked at us and assumed whatever conclusions.\n\nNo explanation for the pain, no proper treatment for it, just random suggestions to X-Ray or MRIs or just painkillers. Nothing else.\n\n********** ** *** ** ** **** ******* **** *  ********* ** **** *** ***** *** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 487025
+                    },
+                    {
+                        "start_index": 257,
+                        "end_index": 288,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 487026
+                    },
+                    {
+                        "start_index": 395,
+                        "end_index": 418,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 487027
+                    },
+                    {
+                        "start_index": 669,
+                        "end_index": 754,
+                        "reason": "NON_COMPLIANT",
+                        "id": 487028
+                    }
+                ],
+                "reviewed_on": "2024-05-23 12:40:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Adithya Jain"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 929,
+                "text": "Meniscus Injury"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2070310,
+            "status": "PUBLISHED",
+            "note": "2022-09-20 06:33:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-20T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44842784,
+                "review_text": "I had one of the unfavourable experiences at Manipal hospital where I got operated for meniscus by Dr.Mallinath G ( orthopaedic department ). He lacks the basic courtesy a patient needs before/after surgery. *** ****** **** ** *** *** **** **** **** ********** ** ********** ****** After checking with him, I got admitted on Friday for surgery on Saturday. To our surprise, he never come to visit post surgery on Saturday and then was on leave on Sunday ( day of discharge). He sent some junior doctor, *** ****** ******* ** **** My point here if he wasn\u2019t going to be available on Sunday ( weekly off) , I could have just simply postponed my surgery.\nAfter we visited him post surgery, He didn\u2019t give advice post surgery on timing, intensity and frequency of physio. ******* ** **** I started professional physio late. I had lost more muscle mass by then. Operation happened end March but I\u2019m still not fully recovered **** ****** ******* ** **** ********** * *** ****** ** ********** **** * ***** ********* *** ******** Every day I regret getting operated from Dr. Mallinath and Manipal hospital.\nOn the contrary, the nurses were exceptional. 5 / 5 to them.\nPlease be very careful in choosing your doctor. Hopefully this posts will help someone.",
+                "review_alterations": [
+                    {
+                        "start_index": 207,
+                        "end_index": 280,
+                        "reason": "NON_COMPLIANT",
+                        "id": 426500
+                    },
+                    {
+                        "start_index": 503,
+                        "end_index": 529,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426501
+                    },
+                    {
+                        "start_index": 768,
+                        "end_index": 783,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426502
+                    },
+                    {
+                        "start_index": 920,
+                        "end_index": 973,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426503
+                    },
+                    {
+                        "start_index": 974,
+                        "end_index": 1021,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426506
+                    }
+                ],
+                "reviewed_on": "2022-09-17 19:00:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Soni Rastogi"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 220794,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 728755,
+            "practice_name": "Apollo hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-03-23T11:03:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 14825829,
+                "review_text": "Visited this doctor at his BTM clinic for getting my Knee checked as I have been having Knee pain for a month or so.He checked it properly and suggested an MRI scan. After I got the MRI report called him to visit and as he was in Apollo that day called me thr. He didint even look at my scans properly, glanced at the report and without a thought suggested Orthoscopy i.e. Surgery which he indicated would cost around 1.3 Lacs. To my surprise the same doctor was a very different doctor that day and I somehow wasn't convinced. For 2nd opinion I went to another Orthopedist and he suggested thr is no need of any surgery. He's put me on Physiotherapy and I am much better now.\r\n\r\nSuch doctors treat patients as customers or rather Victims. I am sure he get's a hefty cut on the surgeries at Apollo and I hear they have targets for each doctors for such surgeries. Strange that once a noble profession,  has now become more of a  business for such hospitals n docs.So friends always take 2nd opinion before going for any SURGERY.",
+                "review_alterations": [],
+                "reviewed_on": "2016-03-22 06:20:56",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "GIRISH NAGPAL"
+        },
+        "entity_id": 364450,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1112,
+                "text": "Joint and Muscle Problems"
+            },
+            {
+                "id": 1146,
+                "text": "Sports Injury"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2126891,
+            "status": "PUBLISHED",
+            "note": "2023-01-01 08:37:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-01T09:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45163223,
+                "review_text": "I visited Dr. Mallinath on 31st Dec 2022 because my heel soft tissue was paining. I have a flat foot and I had an idea that the pain was because of playing sports.\n\nThe doc looked at my foot and said that the pain is because of flat foot (and that's it!!) - no treatment, no remedy, no way to reduce the pain. I enquired if there is some way I can reduce the pain / if I should visit a physiotherapist - he said that I can go to a physiotherapist if I want - in a completely disinterested manner.\n\nHe suggested that I  go for an X-ray *** **** ********** *** * ** **** ***** ** ** **** **** ***** ** *** ********\nI'd really not recommend to visit this doc as he does not add value at all - the consultation is absolutely time and money down the drain. **** ******** * ******* * ****** ***********",
+                "review_alterations": [
+                    {
+                        "start_index": 534,
+                        "end_index": 611,
+                        "reason": "NON_COMPLIANT",
+                        "id": 438205
+                    },
+                    {
+                        "start_index": 752,
+                        "end_index": 795,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 438206
+                    }
+                ],
+                "reviewed_on": "2022-12-31 08:13:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shubhang Agrawal"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1998655,
+            "status": "PUBLISHED",
+            "note": "2022-05-27 07:24:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-27T08:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44422359,
+                "review_text": "I had been suffering from toe pain for the last few days. Today morning my toe was swollen. The doctor was abrupt and brusque in his manner and was in a hurry to shirk me off. He did not even physically inspect the swollen toe. An xray revealed that there was no injury to bone. The doctor did not even have the patience to explain what the probable cause of the pain and swelling was. All he said was \"Non-veg nahi khana hai, Non-veg khaane ke wajah se ye sab hota hai\". We visited him seeing that he had an MS from ******* ******* *** ** ******* *** **** *** *** *** ***** *** *** *************** but don't be mislead. ** ** ***** **** * **********",
+                "review_alterations": [
+                    {
+                        "start_index": 516,
+                        "end_index": 598,
+                        "reason": "NON_COMPLIANT",
+                        "id": 411485
+                    },
+                    {
+                        "start_index": 621,
+                        "end_index": 649,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 411486
+                    }
+                ],
+                "reviewed_on": "2022-05-25 09:06:04",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rakasree Dasgupta "
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1983158,
+            "status": "PUBLISHED",
+            "note": "2022-05-02 17:21:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-02T18:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44335087,
+                "review_text": "Doctor did not explain the need for surgery and pros/ cons of surgery vs conservative management with knee brace and complete bed rest of 2 months. He was in a hurry and just gave options. We chose conservative management as my mother was weak. In the follow up visit after 2 weeks he asked my mother to start walking though she complained about pain and requested another x-ray to check. the follow up visit was done in less than a minute. It contradicted with his initial advise of bed rest.As monor surgery was not done, mother had to undergo a very complicated surgery with another doctor. *** **** *** ****** ** ***** ******** *** *** ****** *** ********* *** ** *** *** ** ******* **** *** ********* ********* ******** *** ****** *****She has to again be on bed rest for long time. Suffering, loss of time and money. Avoid the doctor at any cost.Avoid at any cost. ",
+                "review_alterations": [
+                    {
+                        "start_index": 594,
+                        "end_index": 740,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 407693
+                    }
+                ],
+                "reviewed_on": "2022-04-30 13:09:32",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shamil"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 837,
+                "text": "Elbow Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2170534,
+            "status": "PUBLISHED",
+            "note": "2023-03-21 06:18:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospitals Old Airport Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-21T07:00:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45413361,
+                "review_text": "** ******** ******** *** ******* **** ******** ***** *** Within a minute of entering his chamber he told me to get x-ray done which costed 800 rupees. I was telling him that the pain is in arm and he was telling that pain is in thr ball and socket joint in right shoulder. He asked me to get physiotherapy where there were no doctors present. Nursing assistants were doing physiotherapy. ******* ** ** * *** ******* I don't recommend him ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 55,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449360
+                    },
+                    {
+                        "start_index": 388,
+                        "end_index": 414,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449361
+                    }
+                ],
+                "reviewed_on": "2023-03-20 03:21:02",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Harshit Agnihotri"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 9972,
+                "text": "Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1224356,
+            "status": "PUBLISHED",
+            "note": "2019-08-18 05:54:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "MBJ Clinics and Diagnostics",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-18T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39938841,
+                "review_text": "Very poor experience.. i went for my wife's back pain.. he hardly want to discussed/ diagnosed the problem , within few seconds he has given his opinion. Prescribe some pain killer that's all.. *** **** ***** *** ******* pls don't visit him.. not atall recommended.* **** ******* ****** *** ** **** ** *** ******** **** ********* ** **** ***** ***** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 194,
+                        "end_index": 219,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 199991
+                    },
+                    {
+                        "start_index": 265,
+                        "end_index": 359,
+                        "reason": "NON_COMPLIANT",
+                        "id": 199992
+                    }
+                ],
+                "reviewed_on": "2019-08-15 16:27:56",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rahat"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 66,
+                "text": "Bone Fracture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 179744,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "MBJ Clinics and Diagnostics",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-02-01T10:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 11996354,
+                "review_text": "Should take extra care when putting the cast on the fractured area. Badly bandaged cast by the doctor caused lot of problems to the patient. Doc did not take any extra effort in understanding the complaints made by the patient. Was very blunt and negligent in our interaction.",
+                "review_alterations": [],
+                "reviewed_on": "2016-02-01 09:49:08",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Darshith Karthikeyan"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1112,
+                "text": "Joint and Muscle Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1291114,
+            "status": "PUBLISHED",
+            "note": "2019-11-16 06:00:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-16T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40372057,
+                "review_text": "Doctor arrived in less than 5 mins since we sat down in the patient room. Once he arrived, he introduced himself and very hurriedly, without even closing the door, started to ask me questions and discuss how I had hurt my ankle. ** *** * ***** ***** *** ** **** I\u2019m not even sure how it happened (just woke up that morning with a painful ankle) and when I told him that he said he can\u2019t help me if I don\u2019t tell him how it happened! Later on went to advise I have \u2018flat feet\u2019 condition. When I asked him to explain he asked me to \u2018Google\u2019 it when I go home. He prescribed medicine and literally completed the consultation in less than 2 minutes. Absolutely disrespectful to the ********** *** the patient. Do not recommend this doctor one bit. Sorry not sorry ",
+                "review_alterations": [
+                    {
+                        "start_index": 229,
+                        "end_index": 260,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 221442
+                    },
+                    {
+                        "start_index": 677,
+                        "end_index": 690,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 221443
+                    }
+                ],
+                "reviewed_on": "2019-11-14 18:28:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 619016,
+            "status": "PUBLISHED",
+            "note": "2017-07-12 11:54:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "MBJ Clinics and Diagnostics",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-12T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35003287,
+                "review_text": "The doctor was not very keen on listening. He didn't consider my problem to be very grave and was brushing it aside. Although it was quite serious for me and I was consulting him for this reason. \nHis advice too was not based on my requirements but very generic. \nI feel he didn't realise how important his words were *** ****** ***** ********* I didn't gain anything from consulting him. It was a waste of my time,effort and money.\nDisheartening. ",
+                "review_alterations": [
+                    {
+                        "start_index": 318,
+                        "end_index": 343,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 56318
+                    }
+                ],
+                "reviewed_on": "2017-07-10 21:25:18",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Aniruddha Sharma"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 804042,
+            "status": "PUBLISHED",
+            "note": "2018-02-24 11:39:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "MBJ Ortho and ENT Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-24T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36831806,
+                "review_text": "A pessimistic doctor. Never comes on time if you have taken an appointment after 9pm. I have consulted him for  knee pain. He was not having patience to listen to the problem what I had. He just told me that the knee pain is not curable. I took a second opinion and now I am in a recovery stage.",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-23 10:41:37",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "anoop"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1390456,
+            "status": "PUBLISHED",
+            "note": "2020-03-06 06:58:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-06T07:01:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41066888,
+                "review_text": "The doctor diagnosed me correctly and quickly and recommended the correct treatment in a matter of minutes. Would recommend to everyone!",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-05 04:20:13",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Siddharth Panchanathan"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 956995,
+            "status": "PUBLISHED",
+            "note": "2018-08-26 07:40:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "MBJ Ortho and ENT Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-26T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38149438,
+                "review_text": "It was initial meeting and he was of great help.. he is polite and friendly I went for my sister's spinal cord disorder. Hello helpful in pacifying us.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-25 04:42:53",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sowmya Rao"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1143144,
+            "status": "PUBLISHED",
+            "note": "2019-05-01 10:09:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-01T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39425311,
+                "review_text": "Doctor declared in 10seconds that my daughter will continue to break her feet throughout her life as she is flat-footed and has knock knees. He spoke to us for a total of 20seconds. he said we can 'maybe get some shoes' to fix the 'problem'. i am shocked **** * ****** ***** ** ** ******* ** ** *** ***** ***** ** ***** ** * ** **** **** ******* *** * ****** ****** **** ",
+                "review_alterations": [
+                    {
+                        "start_index": 254,
+                        "end_index": 369,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 172426
+                    }
+                ],
+                "reviewed_on": "2019-04-30 06:56:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 332860,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "Dr. Mallinath's Bone & Joint Clinic and Dr. Sushma ENT Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-10T04:49:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22766942,
+                "review_text": "Very good doctor he was on time and diagnosis very accurately and gives perfect medicine... Very caring  and down to earth person.. I strongly recommend him, if anyone is suffering with relating any kind of bone issue please consult him  once.. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-09 15:53:16",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "kiran.0985"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 401650,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "Dr. Mallinath's Bone & Joint Clinic",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-15T05:38:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 27012807,
+                "review_text": "He hardly interacted with me, may be he was well aware of my back pain but he should have patience to listen to the patients and let them also know what the issue is before prescribing.",
+                "review_alterations": [],
+                "reviewed_on": "2016-11-07 03:32:15",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shivani "
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1194,
+                "text": "Knee Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 153512,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "MBJ Clinics and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-12-26T07:19:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 10195781,
+                "review_text": "Very good. Fully satisfied.  Well qualified doctor and gives minimum medication.        Will definitely recommend to friends and relatives                                  ",
+                "review_alterations": [],
+                "reviewed_on": "2015-12-26 07:19:26",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajeswari"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 85940,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "Cope Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-09-28T12:24:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 6470490,
+                "review_text": "Doctor was calm, and knew what the problem was. He suggested few ways of improving the issue, rather than medication and tests.. ",
+                "review_alterations": [],
+                "reviewed_on": "2015-09-27 17:29:38",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chethan Kumar"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 66,
+                "text": "Bone Fracture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2199277,
+            "status": "PUBLISHED",
+            "note": "2023-05-17 04:47:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospitals Old Airport Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-17T05:00:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45587998,
+                "review_text": "horrible experience. waited 3 hours for a 1 minute conversation and wasn't given the space to ask queries or doubts",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-15 10:19:06",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186426,
+                "text": "Sprain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 656584,
+            "status": "PUBLISHED",
+            "note": "2017-08-24 05:12:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "MBJ Ortho and ENT Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-24T06:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35395345,
+                "review_text": "He was very polite.Properly examined the sprain and gave the medication.It helped me recover quickly",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-20 07:19:49",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kritika"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 445021,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "Dr. Mallinath's Bone & Joint Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-09T09:37:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 29834847,
+                "review_text": "Honest and patient enough towards whatever queries I had...\nHe understood problem from scans itself.",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-09 07:13:42",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Trivid Singh"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3912,
+                "text": "Back Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 363161,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "Dr. Mallinath's Bone & Joint Clinic and Dr. Sushma's ENT Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-17T10:25:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24778800,
+                "review_text": "Great experience..well spoken..listened completely to the patient..not money minded according to my experience..",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-17 10:17:13",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 137319,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "MBJ Clinics and Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-12-01T06:48:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 9042224,
+                "review_text": "Dr was very patient , did a thorough examination , took X-ray etc and explained the problem and solution very clearly .... One of the best doctors we have visited so far ...,",
+                "review_alterations": [],
+                "reviewed_on": "2015-12-01 06:48:22",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 83291,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 849221,
+            "practice_name": "Dr. Mallinath's Bone & Joint Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-09-24T10:45:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 6329485,
+                "review_text": "Nice person, convinced the patient in very good manner about the past treatment and next todo's.  Simple and straight forward suggestions.  ",
+                "review_alterations": [],
+                "reviewed_on": "2015-09-24 08:50:35",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 361010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 71273,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "Cope Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-09-07T14:18:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 5635317,
+                "review_text": "It was very good and he treated well... I have been to this doctor earlier and his way of treatment is excellent one of the best Orthopedist in Bengaluru... ",
+                "review_alterations": [],
+                "reviewed_on": "2015-09-07 12:52:15",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 17456,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 733357,
+            "practice_name": "Cope Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-03-24T09:16:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 1216911,
+                "review_text": "A thorough professional who explains the patient in detail and gives minimum medicines/tests and win patients confidence",
+                "review_alterations": [],
+                "reviewed_on": "2015-03-24 09:16:31",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 249586,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 982471,
+            "status": "PUBLISHED",
+            "note": "2018-09-26 06:24:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 41805,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-26T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38336499,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-24 12:36:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Deepankar Arora"
+        },
+        "entity_id": 581951,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

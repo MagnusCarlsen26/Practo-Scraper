@@ -1,0 +1,98 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2425452,
+            "status": "PUBLISHED",
+            "note": "2024-08-07 11:25:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 887363,
+            "practice_id": 1310804,
+            "practice_name": "Care & Cure Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-07T12:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46913963,
+                "review_text": "*** ** *** **** *******  She treats  children very well i m happy that i met a good doctor for my girl thank u doctor ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 492752
+                    }
+                ],
+                "reviewed_on": "2024-08-06 08:07:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 830483,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            },
+            {
+                "id": 185523,
+                "text": "Child nutrition Guidance"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2412703,
+            "status": "PUBLISHED",
+            "note": "2024-07-13 06:42:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 887363,
+            "practice_id": 1310804,
+            "practice_name": "Care & Cure Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-13T07:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46840921,
+                "review_text": "Highly recommended doctor.She takes time to diagnose the issue with a lot of patience taking into account all the information that leads to an accurate diagnosis.Blessed to have her around when my daughter needed her the most. Thanks a lot Ma'am!!",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-11 16:06:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nipun"
+        },
+        "entity_id": 830483,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

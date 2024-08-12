@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2152872,
+            "status": "PUBLISHED",
+            "note": "2023-02-17 16:08:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 564753,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-17T17:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45311861,
+                "review_text": "Dr. Raghavendra Reddy is a great doctor. He takes time with patient to help them with their health issues and very humble to speak. I have observed the same during my every visit.  It is rare to find Doctor that combine such personal touches and care for patient with outstanding quality of medical care. I pray one should not require visiting Dr but if needed, I highly recommend becoming his patient. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-16 15:26:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rishab Tiwary"
+        },
+        "entity_id": 807632,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

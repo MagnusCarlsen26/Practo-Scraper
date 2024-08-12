@@ -1,0 +1,60 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3758,
+                "text": "Scaling / Polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1332747,
+            "status": "PUBLISHED",
+            "note": "2020-01-08 09:38:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1151828,
+            "practice_id": 1043396,
+            "practice_name": "Apollo Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-08T10:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40661731,
+                "review_text": "Visited here for teeth cleaning. I am happy with the explanation of the issue. She is very friendly and polite.",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-05 10:55:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "soubhagya nayak"
+        },
+        "entity_id": 590672,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

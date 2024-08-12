@@ -1,0 +1,368 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1289025,
+            "status": "PUBLISHED",
+            "note": "2019-11-13 07:16:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 293426,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-13T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40358390,
+                "review_text": "*** ******** ****** ** **** *** ************** She is very polite and caring. Her medicines *** ******** ********* has provided me an utmost satisfaction until now. It's been almost a year consulting her. There will be 15 minutes of waiting period. I am happy with the overall experience. Will surely recommend the doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 45,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220728
+                    },
+                    {
+                        "start_index": 92,
+                        "end_index": 113,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220729
+                    }
+                ],
+                "reviewed_on": "2019-11-12 07:14:14",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Deepika"
+        },
+        "entity_id": 194310,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 319,
+                "text": "Diarrhoea"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 271821,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 293426,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-05-24T10:24:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 18523187,
+                "review_text": "Very good doctor. She patiently analyses and prescribes. She doesn't prescribe medicines unnecessarily. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-05-24 10:19:27",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sowmya Kidambi"
+        },
+        "entity_id": 194310,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 343184,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 293426,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-24T07:09:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 23461366,
+                "review_text": "I would never recommend this Dr to anyone. When i went to consult her she was very rude and gave a curt reply that \"this is not my area goto another Dr.\" She could have been at least pleasant when talking to a patient, not that we are consulting free of charge!",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-24 03:21:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sharan"
+        },
+        "entity_id": 194310,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1274902,
+            "status": "PUBLISHED",
+            "note": "2019-10-23 09:13:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 293426,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-23T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40266138,
+                "review_text": "Took my mom recently, it was just few min, we were explanation from our issue and she said take these for 10 days and then we will see and no other, she didnt explain whats what and not sure if any other issue.. wouldn't have been hard to explain and being freindly",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-22 02:55:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 194310,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1254692,
+            "status": "PUBLISHED",
+            "note": "2019-09-25 07:25:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 293426,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-25T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40133624,
+                "review_text": "I know Dr. Sheetal for the past 13 years. She treated my 82 year old till her end. Now I am her patient. *** ** *** ** *** **** ******* *** *** **** * Her competency is amazing. Her patience,  pleasant nature, humane approach, and ability to give sufficient time for each patient is superlative. If you are sick go to Dr. Sheetal. You will come back rejuvenated.",
+                "review_alterations": [
+                    {
+                        "start_index": 105,
+                        "end_index": 150,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 210038
+                    }
+                ],
+                "reviewed_on": "2019-09-23 15:34:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 194310,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2200115,
+            "status": "PUBLISHED",
+            "note": "2023-05-18 06:03:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 293426,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-18T07:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45592726,
+                "review_text": "She is good experience *** ************ doctor, very polite and no greedyness and line of treatment is good. I recommend to everyone ",
+                "review_alterations": [
+                    {
+                        "start_index": 23,
+                        "end_index": 38,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 456191
+                    }
+                ],
+                "reviewed_on": "2023-05-16 16:57:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 194310,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1396459,
+            "status": "PUBLISHED",
+            "note": "2020-03-12 09:33:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 293426,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-12T10:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41104258,
+                "review_text": "She is always too good in giving treatments to elderly people , very friendly and kind doctor. She is giving treatment to my mother for more then 15 years now. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-11 08:22:50",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 194310,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

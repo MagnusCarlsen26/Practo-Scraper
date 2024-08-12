@@ -1,0 +1,105 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1394028,
+            "status": "PUBLISHED",
+            "note": "2020-03-11 06:19:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771699,
+            "practice_id": 710829,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-11T07:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41088261,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 53,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 255620
+                    }
+                ],
+                "reviewed_on": "2020-03-08 06:19:35",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693763,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1452056,
+            "status": "PUBLISHED",
+            "note": "2020-06-25 04:31:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771699,
+            "practice_id": 710829,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-25T05:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41398565,
+                "review_text": "she and her team in apollo clinic messedup our confirmed appointment and the elder patient have to drive back without availing the appointment after driving to apollo clinic. It is unfair that they were trying to coverup by bluffing that Dr is in another case and wanted to come in the evening.",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-23 17:04:47",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693763,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

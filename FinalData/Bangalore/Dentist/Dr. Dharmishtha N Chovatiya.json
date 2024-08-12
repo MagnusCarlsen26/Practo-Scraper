@@ -1,0 +1,1238 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2332121,
+            "status": "PUBLISHED",
+            "note": "2024-01-30 06:58:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-30T07:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46378807,
+                "review_text": "Amazing service.. great job ky teeth have not felt this good in ages highly recommend this doctor and her assistant. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-28 17:35:27",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gerald"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 139,
+                "text": "Wedding Smile Planner"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1097473,
+            "status": "PUBLISHED",
+            "note": "2019-03-03 09:27:54",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "Smile Cube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-03T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 132185,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, Grishmashree.  We really appreciate you taking the time out to share your experience with us. A doctor and patient relationship is completely based on trust. Thank you for trusting us. We value this relationship and wish you a great married life ahead. Keep smiling :)",
+                "replied_at": "2019-03-03T14:17:05+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2375547,
+                "modified_by_id": 2375547,
+                "replier_name": "Dr. Dharmishtha N Chovatiya",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/703741/dr-dharmishtha-n-chovatiya-5c5b163ed1ad3.png"
+            },
+            "survey_response": {
+                "id": 39132978,
+                "review_text": "I could smile and laugh very confidently. \nI was happy that I could be myself on my big day without any hindrance. She did detailed examine to rule out any other dental issues. Thanks for the doctor and her team. When I check back my wedding album I just can't believe the person with that laugh is me. All credit goes to doctor. You made my day very special \n",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-02 07:59:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Greeshma "
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1080043,
+            "status": "PUBLISHED",
+            "note": "2019-02-07 06:34:41",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "Smile Cube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-07T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39014209,
+                "review_text": "My mother was under severe toothache when we visited Dharmishtha's clinic. My mother was immediately attended by Dharmishtha . She diagnosed very efficiently which comforted my mother. I would highly recommend Dharmishtha's Smile Dental clinic for her friendliness , ********* *** ********** ** ******* **** ****** ********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 266,
+                        "end_index": 324,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 153354
+                    }
+                ],
+                "reviewed_on": "2019-02-06 06:31:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bagavathi S Adithya"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1104759,
+            "status": "PUBLISHED",
+            "note": "2019-03-13 06:39:40",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-13T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39180189,
+                "review_text": "She is excellent in her job and maximum care while the patient, she also takes extreme care of elderly person and fully satisfied with the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-11 12:40:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Harsha"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 108,
+                "text": "TMJ Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1100777,
+            "status": "PUBLISHED",
+            "note": "2019-03-07 10:10:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-07T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39154220,
+                "review_text": "Dr Dharmishtha turned out to be a perfect solution to my TMJ problem. She is very patient and put lots of attention towards details most important hears you out. Would definately recommend her to friends and family.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-06 10:02:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akanksha Priya"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1097324,
+            "status": "PUBLISHED",
+            "note": "2019-03-03 07:29:16",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "Smile Cube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-03T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39132020,
+                "review_text": "I had a really good experience throughout the treatment procedure.The docter and helping staff were very friendly and caring.Even the clinic environment was very soothing.The complete procedure was more than satisfactory !!",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-02 06:04:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sonali Shubham"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1175093,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 06:12:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39625880,
+                "review_text": "It was amazing meeting with Dr. Dharmishtha.  I went for my daughter's cavity problem.  My daughter is nearly three and very stubborn but doctor handled her very nicely, friendly, and carefully.  She didn't cry single time during the treatment and responding to doctor very nice. \nI am highly recommend Dr. Dharmishtha for you and your family's dental problems. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-11 14:20:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1175668,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 09:53:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39629434,
+                "review_text": "********* **********Doctor was very friendly and explain  procedure in details. \nI highly recommend Dr. dharmishtha. \nDo visit. \n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183437
+                    }
+                ],
+                "reviewed_on": "2019-06-12 08:40:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 886,
+                "text": "Tooth Decay"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1175023,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 05:51:21",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39625419,
+                "review_text": "We were very much and convinced and pleased with the doctors treatment and also she was very Co operative and she dealt the issue for my son with patience. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-11 13:25:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 83,
+                "text": "Misaligned Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1175011,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 05:47:51",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39625342,
+                "review_text": "*** ** * **** ****** *** friendly too, she understands the problem well  and suggests necessary precautions before and  after treatment and she does follow-up too.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 24,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183220
+                    }
+                ],
+                "reviewed_on": "2019-06-11 13:16:53",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2332121,
+            "status": "PUBLISHED",
+            "note": "2024-01-30 06:58:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-30T07:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46378807,
+                "review_text": "Amazing service.. great job ky teeth have not felt this good in ages highly recommend this doctor and her assistant. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-28 17:35:27",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gerald"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 139,
+                "text": "Wedding Smile Planner"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1097473,
+            "status": "PUBLISHED",
+            "note": "2019-03-03 09:27:54",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "Smile Cube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-03T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 132185,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, Grishmashree.  We really appreciate you taking the time out to share your experience with us. A doctor and patient relationship is completely based on trust. Thank you for trusting us. We value this relationship and wish you a great married life ahead. Keep smiling :)",
+                "replied_at": "2019-03-03T14:17:05+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2375547,
+                "modified_by_id": 2375547,
+                "replier_name": "Dr. Dharmishtha N Chovatiya",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/703741/dr-dharmishtha-n-chovatiya-5c5b163ed1ad3.png"
+            },
+            "survey_response": {
+                "id": 39132978,
+                "review_text": "I could smile and laugh very confidently. \nI was happy that I could be myself on my big day without any hindrance. She did detailed examine to rule out any other dental issues. Thanks for the doctor and her team. When I check back my wedding album I just can't believe the person with that laugh is me. All credit goes to doctor. You made my day very special \n",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-02 07:59:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Greeshma "
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1080043,
+            "status": "PUBLISHED",
+            "note": "2019-02-07 06:34:41",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "Smile Cube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-07T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39014209,
+                "review_text": "My mother was under severe toothache when we visited Dharmishtha's clinic. My mother was immediately attended by Dharmishtha . She diagnosed very efficiently which comforted my mother. I would highly recommend Dharmishtha's Smile Dental clinic for her friendliness , ********* *** ********** ** ******* **** ****** ********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 266,
+                        "end_index": 324,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 153354
+                    }
+                ],
+                "reviewed_on": "2019-02-06 06:31:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bagavathi S Adithya"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1104759,
+            "status": "PUBLISHED",
+            "note": "2019-03-13 06:39:40",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-13T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39180189,
+                "review_text": "She is excellent in her job and maximum care while the patient, she also takes extreme care of elderly person and fully satisfied with the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-11 12:40:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Harsha"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 108,
+                "text": "TMJ Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1100777,
+            "status": "PUBLISHED",
+            "note": "2019-03-07 10:10:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-07T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39154220,
+                "review_text": "Dr Dharmishtha turned out to be a perfect solution to my TMJ problem. She is very patient and put lots of attention towards details most important hears you out. Would definately recommend her to friends and family.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-06 10:02:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akanksha Priya"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1097324,
+            "status": "PUBLISHED",
+            "note": "2019-03-03 07:29:16",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "Smile Cube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-03T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39132020,
+                "review_text": "I had a really good experience throughout the treatment procedure.The docter and helping staff were very friendly and caring.Even the clinic environment was very soothing.The complete procedure was more than satisfactory !!",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-02 06:04:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sonali Shubham"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1175093,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 06:12:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39625880,
+                "review_text": "It was amazing meeting with Dr. Dharmishtha.  I went for my daughter's cavity problem.  My daughter is nearly three and very stubborn but doctor handled her very nicely, friendly, and carefully.  She didn't cry single time during the treatment and responding to doctor very nice. \nI am highly recommend Dr. Dharmishtha for you and your family's dental problems. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-11 14:20:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1175668,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 09:53:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39629434,
+                "review_text": "********* **********Doctor was very friendly and explain  procedure in details. \nI highly recommend Dr. dharmishtha. \nDo visit. \n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183437
+                    }
+                ],
+                "reviewed_on": "2019-06-12 08:40:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 886,
+                "text": "Tooth Decay"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1175023,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 05:51:21",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39625419,
+                "review_text": "We were very much and convinced and pleased with the doctors treatment and also she was very Co operative and she dealt the issue for my son with patience. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-11 13:25:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 83,
+                "text": "Misaligned Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1175011,
+            "status": "PUBLISHED",
+            "note": "2019-06-13 05:47:51",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 703741,
+            "practice_id": 1234979,
+            "practice_name": "SmileCube Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39625342,
+                "review_text": "*** ** * **** ****** *** friendly too, she understands the problem well  and suggests necessary precautions before and  after treatment and she does follow-up too.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 24,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183220
+                    }
+                ],
+                "reviewed_on": "2019-06-11 13:16:53",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658342,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

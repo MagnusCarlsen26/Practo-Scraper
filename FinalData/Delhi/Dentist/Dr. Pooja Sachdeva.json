@@ -1,0 +1,46 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2187314,
+            "status": "PUBLISHED",
+            "note": "2023-04-22 07:24:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 610700,
+            "practice_id": 1155765,
+            "practice_name": "M R Dental & Surgical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-22T08:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45515294,
+                "review_text": "Good experience  and doctor was good while explaining\n\nGood Atmosphere and no waiting for your appointment ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-21 06:39:52",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 595400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

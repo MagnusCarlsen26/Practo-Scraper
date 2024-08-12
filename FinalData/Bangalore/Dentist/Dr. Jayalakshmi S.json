@@ -1,0 +1,227 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2381725,
+            "status": "PUBLISHED",
+            "note": "2024-05-10 11:03:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 960607,
+            "practice_id": 1378516,
+            "practice_name": "Shrinidhi Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-10T12:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46663632,
+                "review_text": "Gud clinic and friendly doctor,2 nd time experience in this clinic,suitable for all kids and adults ",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-09 07:17:16",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 822551,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2251304,
+            "status": "PUBLISHED",
+            "note": "2023-08-22 06:29:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 960607,
+            "practice_id": 1378516,
+            "practice_name": "Shrinidhi Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-22T07:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45904765,
+                "review_text": "Pretty friendly experience , and a satisfying treatment \n,friendly staff  and quick treatment \nVery happy ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-20 05:51:34",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vishnu Prasad"
+        },
+        "entity_id": 822551,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2419962,
+            "status": "PUBLISHED",
+            "note": "2024-07-27 09:40:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 960607,
+            "practice_id": 1378516,
+            "practice_name": "Shrinidhi Dental Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-27T10:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46882460,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 14,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 491927
+                    },
+                    {
+                        "start_index": 97,
+                        "end_index": 139,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 491928
+                    }
+                ],
+                "reviewed_on": "2024-07-26 07:24:31",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 822551,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2034046,
+            "status": "PUBLISHED",
+            "note": "2022-07-22 04:25:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 960607,
+            "practice_id": 1378516,
+            "practice_name": "Shrinidhi Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-22T05:00:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 369107,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you sir",
+                "replied_at": "2022-07-28T07:39:56+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11237696,
+                "modified_by_id": 11237696,
+                "replier_name": "Dr. Jayalakshmi S",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/960607/dr-jayalakshmi-s-62875f7d81b79.jpg"
+            },
+            "survey_response": {
+                "id": 44624791,
+                "review_text": "Service is very quick and doctor is very good in understanding the problem and no unwanted delay in treatment. I got the RCT and crown fitting, liked the skill of doctor in every aspect of the process. thanks again",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-20 13:06:07",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prashant"
+        },
+        "entity_id": 822551,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

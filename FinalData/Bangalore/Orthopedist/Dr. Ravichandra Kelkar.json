@@ -1,0 +1,138 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1851574,
+            "status": "PUBLISHED",
+            "note": "2021-10-14 06:54:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 265351,
+            "practice_id": 637575,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-14T07:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43572714,
+                "review_text": "****** ** ***** ******* ****** *** ******** ****************** *** ***************** *** ***** *** ** ******** *** ******* **** **** *** ******* ******* ** *I went to consult for knee enjury (meniscus tear).first day he told me ,get the MRI ,if there is small tear we can take the help of plaster or anything else without any surgery .I went there with MRI , it had clearly written in report that tear is small and there is no other complications.he saw the report and in the first look he said surgery is the only option .i was shocked. then he asked for insurance .I have insurance but I said I don't have. after that he was saying if you are working, 99% of chance that you will have insurance ask to HR team. after that i asked the surgery cost *** **** ********* ****** * ******Another thing consultation charge was 800 rupees, next day they charged 300 for follow up charge. ****** ** *** ****** ** **** ************ ** **** **** ******* ******* **** ** *** **** *** ****** ** ** *** *********** ******* ** **** *** ********* *** ** *** ****** * ******* ********** *************** ****** ********* * ******* **** * *** *** *** ****** ********* ****** **** ******* ** *** ********** ******* ******* ****** ** **** *** **** ****** ** **** * ** **** ** ****** *** *** ******* ******* ***** ******* ***** ***** ******* **** **** ***** ****** ***** **** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 156,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378658
+                    },
+                    {
+                        "start_index": 749,
+                        "end_index": 782,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378659
+                    },
+                    {
+                        "start_index": 881,
+                        "end_index": 1010,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378660
+                    },
+                    {
+                        "start_index": 1011,
+                        "end_index": 1048,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378661
+                    },
+                    {
+                        "start_index": 1049,
+                        "end_index": 1359,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 378662
+                    }
+                ],
+                "reviewed_on": "2021-10-12 19:26:02",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 96352,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1211980,
+            "status": "PUBLISHED",
+            "note": "2019-07-31 11:47:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 265351,
+            "practice_id": 637575,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-31T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39860382,
+                "review_text": "Doctor is in too much hurry and not interested in listening to all symptoms*** ****** *** ********* ******* ************* **** **** ********* Too much expensive for such a small time spent with patient. Fees is charged for consultation and also when you visit to show reports that were prescribed in the consultation.",
+                "review_alterations": [
+                    {
+                        "start_index": 75,
+                        "end_index": 140,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 196099
+                    }
+                ],
+                "reviewed_on": "2019-07-29 23:35:16",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 96352,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

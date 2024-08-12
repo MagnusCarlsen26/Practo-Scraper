@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2277155,
+            "status": "PUBLISHED",
+            "note": "2023-10-15 07:49:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1010594,
+            "practice_id": 1299140,
+            "practice_name": "Esha Ivf Fertility Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-15T08:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46066865,
+                "review_text": "Dr Chandini Chinta  is very nice & friendly person, the way she explained abt the treatment made our journey easy and comfortable. A big thank you to Dr Chandini for treating and guiding us in this beautiful journey of pregnancy.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-14 07:35:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "B jyothi "
+        },
+        "entity_id": 828900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1520416,
+            "status": "PUBLISHED",
+            "note": "2020-09-15 12:03:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 596092,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-15T13:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41745221,
+                "review_text": "Excellent doctor, easy to approach, caring, very friendly. She diagnosed the diseases quickly, correctly and treats well. My wife K Anitha was suffering from heavy fever and headache almost every year in a particular month. She is the only Doctor stopped that fever by giving some vaccine. Also she treated my wife from viral menangities recently. *** ** *** *** **** ****** ** **** **** **** ********* ******* *** **** ** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 348,
+                        "end_index": 428,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 293182
+                    }
+                ],
+                "reviewed_on": "2020-09-13 05:23:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "K S Govindarajan"
+        },
+        "entity_id": 688422,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1018782,
+            "status": "PUBLISHED",
+            "note": "2018-11-15 05:07:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 596092,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-15T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38594656,
+                "review_text": "I have visited this doctor and consulted her multiple Times. first time I visited when I get health check up done for my father and took her advice regarding controlling high cholesterol level.Recently I had consultant her when I was down with viral fever and I was not very sure whether it is Dengue. *** ********** ********* **** **** ********* *** I was feeling better within 2 days.only one small advice to the doctor she should keep a very smiling face.",
+                "review_alterations": [
+                    {
+                        "start_index": 302,
+                        "end_index": 349,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 139511
+                    }
+                ],
+                "reviewed_on": "2018-11-13 16:18:37",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abinash Das"
+        },
+        "entity_id": 582205,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Proctoscopy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1033077,
+            "status": "PUBLISHED",
+            "note": "2018-12-05 09:59:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 596092,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-05T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38697487,
+                "review_text": "My brother we Admitted with cold and fever. Which had 3-4 days before. Doctor said may be dengue then ran the test report is negative. Gave normal iv fluids saline and dextrose. After 4 hrs doing fine. When i asked what is the status needs to perform one more time dengue test. Again negative. After 4 hrs of admission doing fine with no issues. After 2 nd report negative she said one more time it has to be done and then ll discharge. Overall paid approx 37k bill for a normal fever.\nWhat kind of diagnosis and treatment this is!\n\nOverall not recommended to this doctor and this hospital for normal fever\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-03 11:56:27",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 582205,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1975798,
+            "status": "PUBLISHED",
+            "note": "2022-04-20 10:48:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 596092,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-20T11:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44293796,
+                "review_text": "Not satisfied with her suggestions given for my problem .  Disappointed today. Doctor fees s also very high. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-19 10:39:47",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "PREMALATHA  VINOTH"
+        },
+        "entity_id": 688422,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1247637,
+            "status": "PUBLISHED",
+            "note": "2019-09-17 07:28:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 596092,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-17T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40088028,
+                "review_text": "Extremely courteous, friendly. She listens to our problems and offers perfect remedy . Fully satisfied with her",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-15 02:02:38",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suganthi"
+        },
+        "entity_id": 688422,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 442,
+                "text": "Dizziness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1292847,
+            "status": "PUBLISHED",
+            "note": "2019-11-19 07:20:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 596092,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-19T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40383224,
+                "review_text": "Visited Apollo hospital with intermittent fever and dizziness and got admitted and given Saline + antibiotic.  they reported platelet count is low. Next day blood test result on platelet was further low than previous reading.\nSince dizziness was complained during admission, they suggested MRI and now the total bill of 55K for 2 day (low grade intermittent fever + low platelet count). Still the platelet count issue was not improved.\n\nNot satisfied with their treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-16 17:18:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 688422,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1119294,
+            "status": "PUBLISHED",
+            "note": "2019-03-31 05:55:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 596092,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-31T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39273125,
+                "review_text": "Went with normal fever with no symptom whatsoever of flu. ******* ******** ********* ** *** ******* prescribed H1N1 test. Scared my parent by stating story of a patient not agreed for this test and died in a week. So had to go for the test which costed around 4500 and result was ** *********  Negative. Completely lost trust in the way the H1N1 test was kind of imposed on us. ",
+                "review_alterations": [
+                    {
+                        "start_index": 58,
+                        "end_index": 98,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 165087
+                    },
+                    {
+                        "start_index": 279,
+                        "end_index": 291,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 165089
+                    }
+                ],
+                "reviewed_on": "2019-03-29 16:17:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 582205,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

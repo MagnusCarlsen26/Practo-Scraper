@@ -1,0 +1,117 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 996,
+                "text": "Female Sexual Problems"
+            },
+            {
+                "id": 192699,
+                "text": "Urinary Tract Infection (Uti)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1802326,
+            "status": "PUBLISHED",
+            "note": "2021-08-14 09:26:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 911765,
+            "practice_id": 1323627,
+            "practice_name": "Indira IVF Hospital Private Limited",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-14T10:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43273835,
+                "review_text": "Doctor was friendly and patient, able to understand my problem. Thanks doc for your support. Happy to consult you for future  issues",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-13 08:43:24",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "David"
+        },
+        "entity_id": 754531,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2309589,
+            "status": "PUBLISHED",
+            "note": "2023-12-19 07:38:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 911765,
+            "practice_id": 1323627,
+            "practice_name": "Indira IVF Hospital Private Limited",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-19T08:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46250145,
+                "review_text": "Swathi mam was very friendly with the patient and I am very satisfied with her treatment \u2764\ufe0f\u2764\ufe0f\nI'll suggest her name for others for best treatment ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-17 05:25:59",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 754531,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

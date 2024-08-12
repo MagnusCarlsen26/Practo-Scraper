@@ -1,0 +1,329 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1725002,
+            "status": "PUBLISHED",
+            "note": "2021-05-18 06:17:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 502989,
+            "practice_id": 1006874,
+            "practice_name": "Apollo First Med Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-18T07:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42850211,
+                "review_text": "Dr. HariPrasath is a lifesaver. He saved our entire family during this COVID pandemic as everyone in our family was affected by COV 19. \n\nDoctor was kind enough to prepone the consultation understanding the situation and helped throughout.\n\nEveryone in our family is in debt and we cannot thank enough for the support and timely assistance.\n\nThank you from the bottom of our hearts.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-16 16:47:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naresh kumar"
+        },
+        "entity_id": 536712,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 109945,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 502989,
+            "practice_id": 892914,
+            "practice_name": "Nalam Medical and Diabetes Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-10-26T13:04:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 7618077,
+                "review_text": "Excellent.  Doctor is very patient and comforting. Patient will feel 50 % healed just talking to him. The balance 50% healing he does with minimal medicines. He has not prescribed antibiotics or tests unless essential. He is well informed too and spends time with each patient.",
+                "review_alterations": [],
+                "reviewed_on": "2015-10-26 13:04:48",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ABISHAI"
+        },
+        "entity_id": 383085,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2130210,
+            "status": "PUBLISHED",
+            "note": "2023-01-08 05:06:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 502989,
+            "practice_id": 892914,
+            "practice_name": "Nalam Medical And Diabetes Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-08T06:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45182311,
+                "review_text": " Staffs Are very Friendly and Caring. Dr. Hariprasath is very gentle and caring. One of the cleanest clinic I've ever\nSeen. \nOverall 10/10",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-06 15:23:21",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rini"
+        },
+        "entity_id": 383085,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1894166,
+            "status": "PUBLISHED",
+            "note": "2021-12-17 11:19:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 502989,
+            "practice_id": 1006874,
+            "practice_name": "Apollo First Med Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-17T12:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43827733,
+                "review_text": "not recommending,no patience to hear patience history,better to avoid,\nlots of one word answer .\n\n\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-16 11:07:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "MR.VINODH.M"
+        },
+        "entity_id": 536712,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2254290,
+            "status": "PUBLISHED",
+            "note": "2023-08-29 07:18:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 502989,
+            "practice_id": 947298,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-29T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45925469,
+                "review_text": "*** ** *** **** *** ********* ** **** ****** he will let us to explain our doubts and provide us better caring and consultation , proper diagnosis, rite medication period most important thing is  never make us to become panic irrespective whatever may be the situation is.. very humble in nature..  we can see God's living in human form.. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 44,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 466549
+                    }
+                ],
+                "reviewed_on": "2023-08-28 06:05:26",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 448284,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2061227,
+            "status": "PUBLISHED",
+            "note": "2022-09-06 06:19:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 502989,
+            "practice_id": 892914,
+            "practice_name": "Nalam Medical And Diabetes Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-06T07:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44789470,
+                "review_text": "This is the first time I am getting consultation and felt the confidence and comfortable feel. He gave me a 10 days task and hope it will help me for the speedy recovery \n",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-03 15:47:03",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 383085,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193361,
+                "text": "Diabetic Neuropathy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1500622,
+            "status": "PUBLISHED",
+            "note": "2020-08-25 10:17:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 502989,
+            "practice_id": 892914,
+            "practice_name": "Nalam Medical And Diabetes Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-25T11:01:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41642593,
+                "review_text": "Doctor listens to our issue clearly & responded with even the basics for a diabetic.\nHe explained other complications & scenarios if a diabetic is not in control.\nHe is always recommended..",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-24 04:31:46",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 383085,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

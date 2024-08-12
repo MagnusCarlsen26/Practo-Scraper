@@ -1,0 +1,60 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1096220,
+            "status": "PUBLISHED",
+            "note": "2019-03-02 07:00:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 2931,
+            "practice_id": 652721,
+            "practice_name": "Noble Dental Care & Implant Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-02T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39124384,
+                "review_text": "Dr Aditi is highly professional, honest and handles her patients with utmost care. I visited her when I faced severe tooth ache.She advised for a deep cleaning treatment post which I had no signs of any pain. Before consulting Dr. Aditi.. I consulted another dentist Who instantly recommended Root canal treatment for the same!!! I would highly recommend Dr Aditi Sachdev for all kind of dental treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-28 18:36:02",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ridhi Bawa"
+        },
+        "entity_id": 2102,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

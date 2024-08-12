@@ -1,0 +1,234 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3431,
+                "text": "Dental Examinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1587998,
+            "status": "PUBLISHED",
+            "note": "2020-12-04 05:45:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295284,
+            "practice_id": 664051,
+            "practice_name": "Om Sai Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-04T06:01:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42104518,
+                "review_text": "Good check though, should be more proactive based on the patient condition. Suggestions should be provided.",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-03 04:34:13",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Divakar"
+        },
+        "entity_id": 196565,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 89,
+                "text": "Conservative Dentistry"
+            },
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 359898,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295284,
+            "practice_id": 664051,
+            "practice_name": "Om Sai Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-17T05:42:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24561694,
+                "review_text": "Very good and patient at treatment. Post treatment is very impressive. Very nicely explained about the problem and treated very well. Excellent in confidence building.",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-13 14:18:54",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "N.vijaya lakshmi"
+        },
+        "entity_id": 196565,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 89,
+                "text": "Conservative Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 345662,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295284,
+            "practice_id": 664051,
+            "practice_name": "Om Sai Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-26T14:09:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 23635749,
+                "review_text": "Doctor was very courteous and explained the problem clearly. Provided effective treatment which included root canal treatment. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-26 14:08:21",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vijayabalaji"
+        },
+        "entity_id": 196565,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1248,
+                "text": "Crowns and Bridges Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 354196,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295284,
+            "practice_id": 664051,
+            "practice_name": "Om Sai Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-16T06:30:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24189064,
+                "review_text": "Felt it was done in the way,as per my comfort and at each sitting there was clear conversation and understanding wrt to that days sitting objective\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-06 14:40:05",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chandra shekar"
+        },
+        "entity_id": 196565,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 336093,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 295284,
+            "practice_id": 664051,
+            "practice_name": "Om Sai Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-14T06:54:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22987147,
+                "review_text": "Overall experience was good.The clinic staff followed very well making the process comfortable.Doctor is very friendly and interactive which makes feel comfortable.",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-13 13:51:39",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chandra Dheeraj"
+        },
+        "entity_id": 196565,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

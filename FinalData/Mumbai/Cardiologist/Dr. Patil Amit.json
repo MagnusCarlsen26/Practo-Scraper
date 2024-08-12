@@ -1,0 +1,328 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093741,
+            "status": "PUBLISHED",
+            "note": "2022-11-03 06:30:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 776602,
+            "practice_id": 1275770,
+            "practice_name": "SRV-C Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-03T07:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44976178,
+                "review_text": "I had an excellent experience with Dr. Amit Patil. Friendly and very approachable doctor. Did my Angiography and also Angioplasty on last week of October 2022. While doing the procedure he was continously letting me know what he is doing and not to worry at all. This was making me relax. \n\nThank you Dr. Amit. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-31 17:27:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harish"
+        },
+        "entity_id": 735444,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1886662,
+            "status": "PUBLISHED",
+            "note": "2021-12-06 17:44:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 776602,
+            "practice_id": 678500,
+            "practice_name": "K.J. Somaiya Hospital ",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-06T18:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43785521,
+                "review_text": "Doctor Amit patil has been treating my mothers heart treatment like angiography and angioplasty he is well experienced n polite and excellent in his work field and I  strongly recommend people suffering from any heart disorders please consult him with hasseitaition. Thank you sir!",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-04 12:44:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tausif Qureshi"
+        },
+        "entity_id": 735449,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 53,
+                "text": "Coronary Angioplasty / Bypass Surgery"
+            },
+            {
+                "id": 6284,
+                "text": "Cardiac Diseases"
+            },
+            {
+                "id": 291,
+                "text": "Cardiac Rehabilitation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1886565,
+            "status": "PUBLISHED",
+            "note": "2021-12-05 10:40:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 776602,
+            "practice_id": 678500,
+            "practice_name": "K.J. Somaiya Hospital ",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-05T11:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43784976,
+                "review_text": "Dr. Amit Patil is incredible. Not only he has taken great care of my mother in law (Mis. Kausar Jahan Altaf Qureshi) health, but also he is polite to speak with at every appointment. \nHe explained everything to me and my family in a very clear manner about my mother in law cardiac issues. *** ********* ********** curiosity, investigative mind and ability to connect, you know where you stand immediately and what next steps look like. It\u2019s rare to find a doctor that combines such personal touches and care for a patient as a person with outstanding quality of medical care. I highly recommend.\n\nRegards,\nMunaf Fulari.\n(Son in law Miss. Kausar Jahan Qureshi)",
+                "review_alterations": [
+                    {
+                        "start_index": 290,
+                        "end_index": 313,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 386431
+                    }
+                ],
+                "reviewed_on": "2021-12-04 10:38:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 735449,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1410,
+                "text": "Electrocardiography (ECG)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1880030,
+            "status": "PUBLISHED",
+            "note": "2021-11-25 09:58:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 776602,
+            "practice_id": 1299903,
+            "practice_name": "Sky Diagnostics",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-25T10:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43748692,
+                "review_text": "No solution provided by the doctor. Doctor did not examine the patient at all. Just gave pain killer. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-24 07:24:06",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 727386,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1496521,
+            "status": "PUBLISHED",
+            "note": "2020-08-20 06:22:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 776602,
+            "practice_id": 1235891,
+            "practice_name": "Wockhardt Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-20T07:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41622181,
+                "review_text": "I had excellent experience with Dr Amit Patil recently when he willingly came over to examine my 92 year old father at his residence as he was unable to walk.  During these Corona virus times this in itself is a great service. Dr Patil responded immediately and spent good amount of time to understand patient's situation. He was readily available for follow up conversation. He called my father Uncle and treated him respectfully. He is a diligent and compassionate cardiologist...I would recommend him without hesitation.",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-19 04:50:03",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 696435,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1571644,
+            "status": "PUBLISHED",
+            "note": "2020-11-11 10:36:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 776602,
+            "practice_id": 932500,
+            "practice_name": "Galaxy Superspeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-11T11:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42017611,
+                "review_text": "I have consulted cardiologist Amit Patil,and he listened my concerns carefully and prescribed medicines .Amit Patil is an amiable  medical professional worth to consult...",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-10 10:35:06",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 735448,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4975,
+                "text": "Cardiovascular Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1524897,
+            "status": "PUBLISHED",
+            "note": "2020-09-19 04:35:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 776602,
+            "practice_id": 1299903,
+            "practice_name": "Sky Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-19T05:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41768443,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-17 15:03:50",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 727386,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

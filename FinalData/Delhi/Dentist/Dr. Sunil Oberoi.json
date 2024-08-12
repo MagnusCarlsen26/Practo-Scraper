@@ -1,0 +1,1738 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2349237,
+            "status": "PUBLISHED",
+            "note": "2024-03-02 06:31:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-02T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46478096,
+                "review_text": "*** ***** ****** ** *** **** ****** ********  I speak after being associated with him and his wife, Dr. Priya Oberoi, since a decade or more. \nTheir ********* ** ***** work, dedication to their profession, friendly communication with patients, and best dental experience all go a long way in making them NO:1 dentists..!!\nI wish them all the best \ud83d\udc4d God Bless",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 44,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480284
+                    },
+                    {
+                        "start_index": 148,
+                        "end_index": 166,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480285
+                    }
+                ],
+                "reviewed_on": "2024-02-29 15:01:01",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Suman Jolly"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2193487,
+            "status": "PUBLISHED",
+            "note": "2023-05-06 05:24:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-06T06:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 409098,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Aamir ...always wish to serve with best services.  ",
+                "replied_at": "2023-05-13T16:07:50+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1361,
+                "modified_by_id": 1361,
+                "replier_name": "Dr. Sunil Oberoi",
+                "replier_logo": "https://images1-fabric.practo.com/53c64b78ac720194daf15457f2603d05966d5d6bd346d.jpg"
+            },
+            "survey_response": {
+                "id": 45553929,
+                "review_text": "It was great experience with Dr. Sunil Oberoi. He understood my concern and treated me with full transparency and care.\n\nI would highly recommend Dr. Sunil Oberoi for your dental treatment. He explained me the problem I was facing.  I am satisfied with my dental treatment. :)",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-04 13:24:35",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aamir Akhtar"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093637,
+            "status": "PUBLISHED",
+            "note": "2022-11-03 06:09:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-03T07:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44975602,
+                "review_text": "Doctor Sunil Oberoi, Dental Surgen was coordial and helpful. He worked patiently without trouble. He always listens the patient during the process.  He always  use sterilized tools. He is very careful during the surgery for implant. I strongly recommend him for all devoted work\n\n.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-31 14:59:03",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "RC Sharma"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2008321,
+            "status": "PUBLISHED",
+            "note": "2022-06-11 05:36:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-11T06:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44478006,
+                "review_text": "I had dental issues for long and after careful consideration had my dental implants from stunning dentistry. \nAll appointments were presheduled and on time. Doctor Sunil were through professionals and the team took care of the complete process smoothly. I am very satisfied with Dr. SUNIL and Ms Priyanka Oberai. Will definitely recommend stunning dentistry to anyone having severe dental issues.\nHigley recommend this best dental clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-10 03:56:34",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr Wasim"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            },
+            {
+                "id": 499,
+                "text": "Ceramic Braces Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2001065,
+            "status": "PUBLISHED",
+            "note": "2022-05-31 07:10:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-31T08:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44435866,
+                "review_text": "Dr. Sunil was quick to identify and explain the issues in detail. He ensured that the entire procedure was done in a single sitting upon my request. His patience in dealing with patients (with a wide range of issues) is very commendable.\nHe constantly took feedback from me during the procedure to address all my concerns in the best possible way.",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-29 05:09:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Teja"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1990833,
+            "status": "PUBLISHED",
+            "note": "2022-05-14 04:52:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-14T05:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44378063,
+                "review_text": "Dr Sunil is a charismatic person. He is my family dentist from last 16 years. He does his job with perfection and make sure his patients are happy and satisfied. He also make sure patient always must have beautiful smile when he leave the clinic. Thanks ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-12 13:40:14",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gaurav Chabbra"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1966840,
+            "status": "PUBLISHED",
+            "note": "2022-04-07 05:57:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-07T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44243603,
+                "review_text": "I had an amazing experience at Smiles Dental Care clinic . The atmosphere won me over, and the staff made me feel extremely comfortable. Dr. Sunil Oberoi took great care of me during my RCT & Crown visit. They were phenomenal.\nI have found my new dentist & I highly recommend \ud83d\ude42",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-05 14:57:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Puneet Gupta"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 120,
+                "text": "Post and Core"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2304214,
+            "status": "PUBLISHED",
+            "note": "2023-12-09 05:26:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-09T06:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46219907,
+                "review_text": "A very good experience with Dr a helpful  in every problem of mine tooth and whole jaw and very smartly work done by them with latest materials they have",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-07 13:42:39",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dipesh Madan"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2059294,
+            "status": "PUBLISHED",
+            "note": "2022-09-02 08:01:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-02T09:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44777765,
+                "review_text": "Professional and highly experienced.well qualified team of doctors.healthy clinic environment.highly recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-31 14:46:46",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Renu Sehgal"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 120,
+                "text": "Post and Core"
+            },
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1982588,
+            "status": "PUBLISHED",
+            "note": "2022-05-01 05:55:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-01T06:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44331734,
+                "review_text": "Both the doctors are amazing & very experienced. I like the way they treated my teeth from making me comfortable to treating my teeth everything they done was very professional.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-29 15:12:29",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya Khanna"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2349237,
+            "status": "PUBLISHED",
+            "note": "2024-03-02 06:31:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-02T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46478096,
+                "review_text": "*** ***** ****** ** *** **** ****** ********  I speak after being associated with him and his wife, Dr. Priya Oberoi, since a decade or more. \nTheir ********* ** ***** work, dedication to their profession, friendly communication with patients, and best dental experience all go a long way in making them NO:1 dentists..!!\nI wish them all the best \ud83d\udc4d God Bless",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 44,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480284
+                    },
+                    {
+                        "start_index": 148,
+                        "end_index": 166,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 480285
+                    }
+                ],
+                "reviewed_on": "2024-02-29 15:01:01",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Suman Jolly"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2193487,
+            "status": "PUBLISHED",
+            "note": "2023-05-06 05:24:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-06T06:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 409098,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Aamir ...always wish to serve with best services.  ",
+                "replied_at": "2023-05-13T16:07:50+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1361,
+                "modified_by_id": 1361,
+                "replier_name": "Dr. Sunil Oberoi",
+                "replier_logo": "https://images1-fabric.practo.com/53c64b78ac720194daf15457f2603d05966d5d6bd346d.jpg"
+            },
+            "survey_response": {
+                "id": 45553929,
+                "review_text": "It was great experience with Dr. Sunil Oberoi. He understood my concern and treated me with full transparency and care.\n\nI would highly recommend Dr. Sunil Oberoi for your dental treatment. He explained me the problem I was facing.  I am satisfied with my dental treatment. :)",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-04 13:24:35",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aamir Akhtar"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093637,
+            "status": "PUBLISHED",
+            "note": "2022-11-03 06:09:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-03T07:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44975602,
+                "review_text": "Doctor Sunil Oberoi, Dental Surgen was coordial and helpful. He worked patiently without trouble. He always listens the patient during the process.  He always  use sterilized tools. He is very careful during the surgery for implant. I strongly recommend him for all devoted work\n\n.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-31 14:59:03",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "RC Sharma"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2008321,
+            "status": "PUBLISHED",
+            "note": "2022-06-11 05:36:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-11T06:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44478006,
+                "review_text": "I had dental issues for long and after careful consideration had my dental implants from stunning dentistry. \nAll appointments were presheduled and on time. Doctor Sunil were through professionals and the team took care of the complete process smoothly. I am very satisfied with Dr. SUNIL and Ms Priyanka Oberai. Will definitely recommend stunning dentistry to anyone having severe dental issues.\nHigley recommend this best dental clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-10 03:56:34",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr Wasim"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            },
+            {
+                "id": 499,
+                "text": "Ceramic Braces Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2001065,
+            "status": "PUBLISHED",
+            "note": "2022-05-31 07:10:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-31T08:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44435866,
+                "review_text": "Dr. Sunil was quick to identify and explain the issues in detail. He ensured that the entire procedure was done in a single sitting upon my request. His patience in dealing with patients (with a wide range of issues) is very commendable.\nHe constantly took feedback from me during the procedure to address all my concerns in the best possible way.",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-29 05:09:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Teja"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1990833,
+            "status": "PUBLISHED",
+            "note": "2022-05-14 04:52:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-14T05:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44378063,
+                "review_text": "Dr Sunil is a charismatic person. He is my family dentist from last 16 years. He does his job with perfection and make sure his patients are happy and satisfied. He also make sure patient always must have beautiful smile when he leave the clinic. Thanks ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-12 13:40:14",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gaurav Chabbra"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1966840,
+            "status": "PUBLISHED",
+            "note": "2022-04-07 05:57:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-07T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44243603,
+                "review_text": "I had an amazing experience at Smiles Dental Care clinic . The atmosphere won me over, and the staff made me feel extremely comfortable. Dr. Sunil Oberoi took great care of me during my RCT & Crown visit. They were phenomenal.\nI have found my new dentist & I highly recommend \ud83d\ude42",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-05 14:57:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Puneet Gupta"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 120,
+                "text": "Post and Core"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2304214,
+            "status": "PUBLISHED",
+            "note": "2023-12-09 05:26:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-09T06:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46219907,
+                "review_text": "A very good experience with Dr a helpful  in every problem of mine tooth and whole jaw and very smartly work done by them with latest materials they have",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-07 13:42:39",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dipesh Madan"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2059294,
+            "status": "PUBLISHED",
+            "note": "2022-09-02 08:01:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-02T09:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44777765,
+                "review_text": "Professional and highly experienced.well qualified team of doctors.healthy clinic environment.highly recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-31 14:46:46",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs Renu Sehgal"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 120,
+                "text": "Post and Core"
+            },
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1982588,
+            "status": "PUBLISHED",
+            "note": "2022-05-01 05:55:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-01T06:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44331734,
+                "review_text": "Both the doctors are amazing & very experienced. I like the way they treated my teeth from making me comfortable to treating my teeth everything they done was very professional.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-29 15:12:29",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya Khanna"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1980739,
+            "status": "PUBLISHED",
+            "note": "2022-04-28 07:39:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-27T12:04:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 355092,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Sir Thank you for your words\nRegards",
+                "replied_at": "2022-04-27T12:04:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1361,
+                "modified_by_id": 1361,
+                "replier_name": "Dr. Sunil Oberoi",
+                "replier_logo": "https://images1-fabric.practo.com/53c64b78ac720194daf15457f2603d05966d5d6bd346d.jpg"
+            },
+            "survey_response": {
+                "id": 44321970,
+                "review_text": "To me, Dr. Sunil Oberoi and Dr. Priya Oberoi are the best super specialist Dentists in Delhi. God Bless.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-27 06:17:56",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr Zoravar"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1939557,
+            "status": "PUBLISHED",
+            "note": "2022-02-24 04:52:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-24T05:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44092782,
+                "review_text": "Dr. Sunil Oberoi is a very experienced doctor and has a very firm but soft hands. Does the treatment with intensive care and explains the procedure extremely well. I recommend Dr. Oberoi very strongly ",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-22 14:00:26",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumit Sud"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 888789,
+            "status": "PUBLISHED",
+            "note": "2018-06-02 06:20:27",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-02T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37581496,
+                "review_text": "I have been taking Dental treatment from last more than 15 years.I found Dr Sunil a very competent Doctor and his work treatment is excellent.He is very friendly and make you very comfortable.He knows his job very well and explains you the each process of treatment.He is always available on his mobile for and advice.",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-01 04:05:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 572861,
+            "status": "PUBLISHED",
+            "note": "2017-05-30 05:43:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-30T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34545666,
+                "review_text": "Cheap products used with low quality, all the caps post root canal chipped off within 6 months though it was said that it was one of the best qualities in market, *********** ********** *** **** ***** ** *** ********",
+                "review_alterations": [
+                    {
+                        "start_index": 162,
+                        "end_index": 215,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 48563
+                    }
+                ],
+                "reviewed_on": "2017-05-27 13:41:05",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Ankit Sinha"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2279027,
+            "status": "PUBLISHED",
+            "note": "2023-10-19 05:46:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-19T06:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46077537,
+                "review_text": "Comfortable experience. All issues were addressed with detailed explanation and step by step. Friendly nature made the experience better.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-17 15:39:20",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2211982,
+            "status": "PUBLISHED",
+            "note": "2023-06-09 10:31:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-09T11:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45664280,
+                "review_text": "Doctor friendliness and explanation of the issue  was good.\nGot a good understanding of the issue and further treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-07 14:16:44",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2121719,
+            "status": "PUBLISHED",
+            "note": "2022-12-22 10:48:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-22T11:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45132902,
+                "review_text": "I felt so relax when i came back home after meet to Doctor Oberoi.\nHe Explained Very nicely \ud83d\ude0a n he treated like excellent \ud83d\udc4d\ud83c\udffb.\nI will definitely recommend him to others ",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-21 10:39:07",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 85,
+                "text": "Fractured Tooth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2053292,
+            "status": "PUBLISHED",
+            "note": "2022-08-24 04:57:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-24T05:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44743231,
+                "review_text": "Amazing experience with the doctor so much satisfied wonderful advance techniques they used and very friendly in nature.",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-22 14:21:13",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1993917,
+            "status": "PUBLISHED",
+            "note": "2022-05-19 05:32:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-19T06:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44395856,
+                "review_text": "I visited for my implantation Lovely experience, Very impressive services. They are Very supportive\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-17 14:06:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            },
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 3758,
+                "text": "Scaling / Polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1993877,
+            "status": "PUBLISHED",
+            "note": "2022-05-19 04:55:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 6898,
+            "practice_id": 668102,
+            "practice_name": "Smiles Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-19T05:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44395684,
+                "review_text": "Service with a smile \u2026 that is what I got at clinic of doctor Sunil Oberoi and his treatment gave me a beautiful smile \u2026 he is very gentle and perfect in his work\u2026 my sincere thanks to him for the services provided by him",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-17 13:41:32",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1952063,
+            "status": "PUBLISHED",
+            "note": "2022-03-15 08:27:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 974704,
+            "practice_id": 1368953,
+            "practice_name": "Dr Kamala Family Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-15T09:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44161582,
+                "review_text": "I have got my orthodontic treatment from Dr. Kamala bai. *** ** **** ************* *** friendly. She explained all the treatment plans before she started off. I\u2019m seeing a change in the alignment of my teeth and I\u2019m very excited for the end result. \nThe doctor made sure that I was comfortable throughout my treatment.\nThe clinic is following all the sterilisation protocol.\nHighly recommend Dr. Kamala bai .\nHappy smiling!!!",
+                "review_alterations": [
+                    {
+                        "start_index": 57,
+                        "end_index": 85,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 400734
+                    }
+                ],
+                "reviewed_on": "2022-03-13 06:20:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Deepthi "
+        },
+        "entity_id": 807109,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1928711,
+            "status": "PUBLISHED",
+            "note": "2022-02-08 06:24:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 974704,
+            "practice_id": 1368953,
+            "practice_name": "Dr Kamala Family Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-08T07:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44035004,
+                "review_text": "I got my teeth scaling and cavity filling done by Dr. Kamala. She handled the job very professionally. Well -maintained, hygienic ambience and equipment, well trained staff.",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-06 19:30:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ben Chintada"
+        },
+        "entity_id": 807109,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2068774,
+            "status": "PUBLISHED",
+            "note": "2022-09-17 04:55:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 974704,
+            "practice_id": 1368953,
+            "practice_name": "Dr Kamala Family Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-17T05:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44833740,
+                "review_text": "\"Highly recommended\"....! I'm done with my root canal treatment,fillings and 2 caps. Treatment was painless and done with utmost care .Dr Kamala was very friendly and also suggests best treatment option for any kind of dental issues.Thank you",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-15 14:33:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 807109,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

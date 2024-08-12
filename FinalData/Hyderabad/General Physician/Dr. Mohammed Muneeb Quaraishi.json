@@ -1,0 +1,356 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1269348,
+            "status": "PUBLISHED",
+            "note": "2019-10-15 11:16:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450258,
+            "practice_id": 1135550,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-15T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40229307,
+                "review_text": "Very good listener, didn't see a doctor like this in these days here in Hyderabad.he listened my situation clearly and treated really like a family member and he also cares his patients very good* * **** *******\n",
+                "review_alterations": [
+                    {
+                        "start_index": 195,
+                        "end_index": 210,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 214397
+                    }
+                ],
+                "reviewed_on": "2019-10-14 09:53:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "pradeep"
+        },
+        "entity_id": 563635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1162277,
+            "status": "PUBLISHED",
+            "note": "2019-05-26 12:03:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450258,
+            "practice_id": 1135550,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-26T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39544839,
+                "review_text": "Doctor has patiently listened to our problems and prescribed very limited medicines.\nHe has explained us the problem in detail. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-25 11:59:21",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ananya Mukherjee"
+        },
+        "entity_id": 563635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1153545,
+            "status": "PUBLISHED",
+            "note": "2019-05-15 06:52:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450258,
+            "practice_id": 1135550,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-15T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39490065,
+                "review_text": "Doc was very professional and very much concern about patient n their health, advice which are required nvr suggest to do any extra expenses.",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-14 05:51:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shabnoor"
+        },
+        "entity_id": 563635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1211158,
+            "status": "PUBLISHED",
+            "note": "2019-07-31 06:36:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450258,
+            "practice_id": 1135550,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-31T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39855024,
+                "review_text": "I went for few set of tests as part of yearly checkup and I was not satisfied with the treatment. general physician checkup is part of it and if is ask any questions regarding my lower back pain, the answer is Google and find it. and the same answer I got for a question regarding specialists who can handle it. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-28 13:53:46",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 563635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 286,
+                "text": "Food Poisoning"
+            },
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1149722,
+            "status": "PUBLISHED",
+            "note": "2019-05-10 06:50:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450258,
+            "practice_id": 1135550,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-10T07:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39466131,
+                "review_text": "I visited for severe stomach pain, he just examine and told that's good posining he never tell to get test first he is very clear about his understanding and his experience I really recommend him ",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-09 04:38:52",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ASIFA"
+        },
+        "entity_id": 563635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1278469,
+            "status": "PUBLISHED",
+            "note": "2019-10-30 06:41:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450258,
+            "practice_id": 929915,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-30T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40289154,
+                "review_text": "we are visiting the doctor from last one year, he became your family physician. He explains the problem and discuss on the course of action. Never prescribes unnecessary tests or medicine. He goes an extra mile by advising good lifestyle habits, cannot find a such a humble doctor these days. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-28 06:19:57",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 688117,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

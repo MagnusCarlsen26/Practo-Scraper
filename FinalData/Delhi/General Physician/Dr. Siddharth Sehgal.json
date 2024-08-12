@@ -1,0 +1,1530 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2411683,
+            "status": "PUBLISHED",
+            "note": "2024-07-11 06:15:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-11T07:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46835006,
+                "review_text": "I would highly recommend the doctor for his friendliness and for listening to my problems patiently.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-09 15:29:52",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jigyasha Vineet"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 319,
+                "text": "Diarrhoea"
+            },
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2412199,
+            "status": "PUBLISHED",
+            "note": "2024-07-12 07:50:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-12T08:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46838024,
+                "review_text": "Dr. Siddharth Sehgal is a very knowledgeable person, he found the root cause of my problems instantly and patiently explained each and everything. Definitely recommended to everyone. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-10 15:02:00",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 295,
+                "text": "Pneumonia"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1719624,
+            "status": "PUBLISHED",
+            "note": "2021-05-11 07:58:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-11T08:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42822937,
+                "review_text": "I consulted Dr. Sehgal for my brother whose covid report has been negative thrice and he was not recovering. Dr. Sehgal immediately understood the problem and guided us with the right medicine and treatment. We were quite tensed as his situation was critical but at the same time we wanted to avoid hospitalization. Dr. Sehgal gave him the best treatment and he recovered well. He has now treated over 10  family members of mine who were covid positive and all of them have recovered. His judgement skills and giving the right treatment helped all of my family members. I would highly recommend Dr. Sehgal ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-10 07:57:57",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanka Arora"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1716045,
+            "status": "PUBLISHED",
+            "note": "2021-05-07 05:57:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 731316,
+            "practice_name": "Access Healthcare Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-07T06:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42804080,
+                "review_text": "********* ****** *** an amazing human beingCame across Dr. Sehgal's profile while looking for emergency help for a friend's mother on practo. Given the dire Covid situation in Delhi as its almost impossible to get timely help in these times, Dr Sehgal proved to be a blessing. Her oxygen was going upto 84 on lower side, when Dr Sehgal took her on. He not only helped with prescription, guidance and meds, but also kept a close watch on the patient remotely. While aunty is recovering well, he is currently helping my cousins family deal with Covid. Through all this, he was available at all hours for help. An amazing human being and a doctor. Thank you so much, Dr Sehgal!",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 343587
+                    }
+                ],
+                "reviewed_on": "2021-05-05 15:11:19",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhawana"
+        },
+        "entity_id": 718227,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1538707,
+            "status": "PUBLISHED",
+            "note": "2020-10-04 07:21:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 731316,
+            "practice_name": "Access Healthcare Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-04T08:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41841418,
+                "review_text": "Dear Dr Siddhartha , Greetings of the Day , This is to express my deepest regards and thanks to you for ensuring to give us a personalised approach medication and advise when we were detected with covid . I must say your best medication , timely advise and personalised care during this home quarantine period helped us to recover fast  . By Gods Grace and blessings our reports have come Negative now and we owe you every bit . The way you took personal care makes a patient feel confident the moment you speak and discuss at length , you give good time to your patients which is very important, Am recommending Dr Siddhartha very strongly to everyone who wants a personalised approach and fast recovery , God Bless you Sir \n\nRegards Prem Bhadauria",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-02 14:17:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prem Bhadauria"
+        },
+        "entity_id": 718227,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1578423,
+            "status": "PUBLISHED",
+            "note": "2020-11-22 05:37:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Satya-Mg-Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-22T06:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42054595,
+                "review_text": "I was beyond impressed with my exp. with Dr. Siddharth Sehgal . It was my first contact with him and was amazed to find how caring, sincere & kind he was n how fast he was at getting back to me ! I have been very religious to follow what he outlined, and i've had great results so far.My health is very clearly improved n energy is better. He provided the absolute care & best advice & treatment for the issue.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-20 17:01:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anamika bhasin"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2034925,
+            "status": "PUBLISHED",
+            "note": "2022-07-23 06:34:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-23T07:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44629544,
+                "review_text": "I had a consultation with Dr. Sehgal in the Apollo Clinic Guwahati. He is a very kind and calm doctor. I had fever and cough post covid infection.\n\nDoctor diagnosed and explained the issues very nicely and I would highly recommend him for other patients\n\nThanks",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-21 15:25:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raj Babu Das"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1999875,
+            "status": "PUBLISHED",
+            "note": "2022-05-28 08:07:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-28T09:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44429090,
+                "review_text": "Siddharth Sir had been kind enough to direct me to the clinic. Came down with severe pain and discomfort, he was very warm in recieving me and explained about the root causes, investigations, councelling and treatment plan. Would definitely recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-27 07:59:22",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pranitha"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1661107,
+            "status": "PUBLISHED",
+            "note": "2021-03-03 04:28:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-03T05:01:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42499790,
+                "review_text": "Dear Dr.siddharth sir.\n\nI have visited his clinic.He is very helpful in listening all the concerns and problem that i have last month and prescribe **** **** medicines which suit me well and all my problems have been solved with the medicines,also these medicines are reasonable in price.Thank you sir.Highly recommended to all.",
+                "review_alterations": [
+                    {
+                        "start_index": 148,
+                        "end_index": 157,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 330141
+                    }
+                ],
+                "reviewed_on": "2021-03-01 14:22:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ravi shrivastava"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1656349,
+            "status": "PUBLISHED",
+            "note": "2021-02-26 06:23:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-26T07:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42473631,
+                "review_text": "Dr. Sehgal, very amazing doctor. The patience to listen to our concern and then addressing it. He gave us a lot of suggestion as my wife is pregnant He was very particular about how we should take care of the upcoming baby, what diet should we follow what not. I must say without any reservation **** ** ******* ******* ********* **** **** Highly recommended! thank u doctor ",
+                "review_alterations": [
+                    {
+                        "start_index": 296,
+                        "end_index": 338,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 329091
+                    }
+                ],
+                "reviewed_on": "2021-02-24 13:56:27",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aditya Sinha"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2411683,
+            "status": "PUBLISHED",
+            "note": "2024-07-11 06:15:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-11T07:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46835006,
+                "review_text": "I would highly recommend the doctor for his friendliness and for listening to my problems patiently.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-09 15:29:52",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jigyasha Vineet"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 319,
+                "text": "Diarrhoea"
+            },
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2412199,
+            "status": "PUBLISHED",
+            "note": "2024-07-12 07:50:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-12T08:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46838024,
+                "review_text": "Dr. Siddharth Sehgal is a very knowledgeable person, he found the root cause of my problems instantly and patiently explained each and everything. Definitely recommended to everyone. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-10 15:02:00",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 295,
+                "text": "Pneumonia"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1719624,
+            "status": "PUBLISHED",
+            "note": "2021-05-11 07:58:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-11T08:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42822937,
+                "review_text": "I consulted Dr. Sehgal for my brother whose covid report has been negative thrice and he was not recovering. Dr. Sehgal immediately understood the problem and guided us with the right medicine and treatment. We were quite tensed as his situation was critical but at the same time we wanted to avoid hospitalization. Dr. Sehgal gave him the best treatment and he recovered well. He has now treated over 10  family members of mine who were covid positive and all of them have recovered. His judgement skills and giving the right treatment helped all of my family members. I would highly recommend Dr. Sehgal ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-10 07:57:57",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanka Arora"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1716045,
+            "status": "PUBLISHED",
+            "note": "2021-05-07 05:57:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 731316,
+            "practice_name": "Access Healthcare Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-07T06:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42804080,
+                "review_text": "********* ****** *** an amazing human beingCame across Dr. Sehgal's profile while looking for emergency help for a friend's mother on practo. Given the dire Covid situation in Delhi as its almost impossible to get timely help in these times, Dr Sehgal proved to be a blessing. Her oxygen was going upto 84 on lower side, when Dr Sehgal took her on. He not only helped with prescription, guidance and meds, but also kept a close watch on the patient remotely. While aunty is recovering well, he is currently helping my cousins family deal with Covid. Through all this, he was available at all hours for help. An amazing human being and a doctor. Thank you so much, Dr Sehgal!",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 343587
+                    }
+                ],
+                "reviewed_on": "2021-05-05 15:11:19",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhawana"
+        },
+        "entity_id": 718227,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1538707,
+            "status": "PUBLISHED",
+            "note": "2020-10-04 07:21:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 731316,
+            "practice_name": "Access Healthcare Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-04T08:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41841418,
+                "review_text": "Dear Dr Siddhartha , Greetings of the Day , This is to express my deepest regards and thanks to you for ensuring to give us a personalised approach medication and advise when we were detected with covid . I must say your best medication , timely advise and personalised care during this home quarantine period helped us to recover fast  . By Gods Grace and blessings our reports have come Negative now and we owe you every bit . The way you took personal care makes a patient feel confident the moment you speak and discuss at length , you give good time to your patients which is very important, Am recommending Dr Siddhartha very strongly to everyone who wants a personalised approach and fast recovery , God Bless you Sir \n\nRegards Prem Bhadauria",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-02 14:17:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prem Bhadauria"
+        },
+        "entity_id": 718227,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1578423,
+            "status": "PUBLISHED",
+            "note": "2020-11-22 05:37:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Satya-Mg-Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-22T06:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42054595,
+                "review_text": "I was beyond impressed with my exp. with Dr. Siddharth Sehgal . It was my first contact with him and was amazed to find how caring, sincere & kind he was n how fast he was at getting back to me ! I have been very religious to follow what he outlined, and i've had great results so far.My health is very clearly improved n energy is better. He provided the absolute care & best advice & treatment for the issue.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-20 17:01:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anamika bhasin"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2034925,
+            "status": "PUBLISHED",
+            "note": "2022-07-23 06:34:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-23T07:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44629544,
+                "review_text": "I had a consultation with Dr. Sehgal in the Apollo Clinic Guwahati. He is a very kind and calm doctor. I had fever and cough post covid infection.\n\nDoctor diagnosed and explained the issues very nicely and I would highly recommend him for other patients\n\nThanks",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-21 15:25:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raj Babu Das"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1999875,
+            "status": "PUBLISHED",
+            "note": "2022-05-28 08:07:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-28T09:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44429090,
+                "review_text": "Siddharth Sir had been kind enough to direct me to the clinic. Came down with severe pain and discomfort, he was very warm in recieving me and explained about the root causes, investigations, councelling and treatment plan. Would definitely recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-27 07:59:22",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pranitha"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1661107,
+            "status": "PUBLISHED",
+            "note": "2021-03-03 04:28:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-03T05:01:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42499790,
+                "review_text": "Dear Dr.siddharth sir.\n\nI have visited his clinic.He is very helpful in listening all the concerns and problem that i have last month and prescribe **** **** medicines which suit me well and all my problems have been solved with the medicines,also these medicines are reasonable in price.Thank you sir.Highly recommended to all.",
+                "review_alterations": [
+                    {
+                        "start_index": 148,
+                        "end_index": 157,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 330141
+                    }
+                ],
+                "reviewed_on": "2021-03-01 14:22:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ravi shrivastava"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1656349,
+            "status": "PUBLISHED",
+            "note": "2021-02-26 06:23:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-26T07:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42473631,
+                "review_text": "Dr. Sehgal, very amazing doctor. The patience to listen to our concern and then addressing it. He gave us a lot of suggestion as my wife is pregnant He was very particular about how we should take care of the upcoming baby, what diet should we follow what not. I must say without any reservation **** ** ******* ******* ********* **** **** Highly recommended! thank u doctor ",
+                "review_alterations": [
+                    {
+                        "start_index": 296,
+                        "end_index": 338,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 329091
+                    }
+                ],
+                "reviewed_on": "2021-02-24 13:56:27",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aditya Sinha"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1538738,
+            "status": "PUBLISHED",
+            "note": "2020-10-04 07:37:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 731316,
+            "practice_name": "Access Healthcare Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-04T08:01:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41841558,
+                "review_text": "Dear Dr Siddhartha ,  Conveying  my deepest regards and thanks to you for ensuring to give us a personalised approach medication and advise when we were detected with covid . I must say your timely advise and personalised care all the time during this home quarantine period has helped us a lot in recovery . God bless you always Sir \n\nRegards\nShreya Singh",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-02 14:34:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shreya Singh"
+        },
+        "entity_id": 718227,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1977994,
+            "status": "PUBLISHED",
+            "note": "2022-04-24 04:59:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-24T05:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44305864,
+                "review_text": "Doctor encouraged me to tell all the symptoms and explained me very patiently the root cause and reasons for it. Prescribed me generic medicine which is commendable",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-22 15:24:56",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anand Reddy"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186442,
+                "text": "Wellness checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1967520,
+            "status": "PUBLISHED",
+            "note": "2022-04-08 04:27:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-08T05:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44247404,
+                "review_text": "*** ** *** **** ********* *Discussed freely on all the problems .Felt like meeting a family dr.Would definately recommend to pay a visit \ud83d\udc4d",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 26,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 404014
+                    }
+                ],
+                "reviewed_on": "2022-04-06 13:54:22",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "varun"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 155,
+                "text": "Low Blood Pressure"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1966201,
+            "status": "PUBLISHED",
+            "note": "2022-04-06 04:39:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-06T05:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44240048,
+                "review_text": "I visited him for fever.  He is very very approachable & friendly.  He would explain everything with details giving a lot of time. I had a very good experience with the doctor and definitely recommend him to others. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-04 17:03:18",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bonopriya Paul"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1911467,
+            "status": "PUBLISHED",
+            "note": "2022-01-13 06:55:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-13T07:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43934808,
+                "review_text": "he is a very nice doctor..he gives time and patiently listens to your health issues ...i definetly recommend him",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-12 05:39:55",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "misha rawal"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101901,
+                "text": "Medical Advisor"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1910042,
+            "status": "PUBLISHED",
+            "note": "2022-01-11 09:53:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-11T10:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43925755,
+                "review_text": "** ** *** **** *** * **** **** ***** Gives time to the patient. Hear you out. Explains you thoroughly. Five stars for him\u2747\ufe0f\u2747\ufe0f\u2747\ufe0f\u2747\ufe0f\u2747\ufe0f",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 35,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 391510
+                    }
+                ],
+                "reviewed_on": "2022-01-10 05:32:51",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "CHINKITA"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1718889,
+            "status": "PUBLISHED",
+            "note": "2021-05-11 04:46:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-11T05:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42818949,
+                "review_text": "He is a friendly doctor, gives relevant advice and most importantly helps you to stay calm and avoid panic. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-09 05:21:13",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ANKIT ANKUR"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1715091,
+            "status": "PUBLISHED",
+            "note": "2021-05-06 04:46:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-06T05:01:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42799218,
+                "review_text": "I would really want to recommend Dr. Sehgal to everyone looking for an expert. He is extremely patient and has all ears. His positive spirit will treat half of your problems. Thanks a ton for your time today. My heartfelt gratitude!!",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-04 14:34:47",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "RITU CHADHA"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2008133,
+            "status": "PUBLISHED",
+            "note": "2022-06-10 16:14:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-10T17:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44476881,
+                "review_text": "It was one of the best experiences visiting a doctor in the recent past. Dr. Sehgal patiently listend to my problems. He enquired about my medical history general health conditions and advised accordingly. I am satisfied and would highly recommend him. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-09 14:27:01",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1713697,
+            "status": "PUBLISHED",
+            "note": "2021-05-05 04:34:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 851765,
+            "practice_id": 1290579,
+            "practice_name": "Medical Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-05T05:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42791867,
+                "review_text": "Doctor Siddharth has consulted me in detail and explained everything each in detail on what happened and happening with me. He has suggested me way forward to my expectations and will follow accordingly. \nWonderful doctor and best consultation had on Practo so far . \nHighly recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-03 06:26:50",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 730267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

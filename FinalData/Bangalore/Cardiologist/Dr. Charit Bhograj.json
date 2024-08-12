@@ -1,0 +1,469 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1409344,
+            "status": "PUBLISHED",
+            "note": "2020-03-31 08:43:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Vikram Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-31T09:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41183389,
+                "review_text": "I went to meet the doctor and it was for my father. The health issue was Cardiac treatment* ********* *** *** ****** *** ***** I waited for three hours to consult the doctor. He prescribed medicines and due in April month. I am satisfied with the treatment and I can recommend the doctor to my family or friends.",
+                "review_alterations": [
+                    {
+                        "start_index": 90,
+                        "end_index": 125,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 260078
+                    }
+                ],
+                "reviewed_on": "2020-03-30 08:20:34",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kanchan Nichani"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1371773,
+            "status": "PUBLISHED",
+            "note": "2020-02-19 10:00:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Vikram Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-19T11:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40952415,
+                "review_text": "Doctor was very experienced, good and very friendly with us. I went for chest pain treatment and I was satisfied with doctor treatment. I would like to recommend this doctor to others. When it comes to improvement, the doctor availability was only 1 hour so they have to increase the availability of doctor consultation because it helps more patients. I would like to give a rating of 8.5/10 to the hospital other 1.5 I will not give because they have to need to improve food facilities. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-16 18:04:32",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shruthi Das"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1214,
+                "text": "Hypertension Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2077767,
+            "status": "PUBLISHED",
+            "note": "2022-10-01 08:30:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Manipal Hospital, Millers Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-01T09:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44885024,
+                "review_text": "Very friendly,gives you lot of confidence. Has a positive approach diagnosis very well makes you feel comfortable ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-30 08:10:18",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "D S Rajshekar"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1595815,
+            "status": "PUBLISHED",
+            "note": "2020-12-15 05:42:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Vikram Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-15T06:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42145580,
+                "review_text": "** ****** ** *** ** *** **** ************* ** *********. We had consulted with him in Dec 20 and he very patiently explained the condition. We were relieved once we got his opinion. Would highly recommend. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 54,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 313879
+                    }
+                ],
+                "reviewed_on": "2020-12-12 14:07:20",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sarita"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1454111,
+            "status": "PUBLISHED",
+            "note": "2020-06-27 10:49:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Vikram Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-27T11:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41408550,
+                "review_text": "I was able to meet the doctor. I took my mother for consultation. *** ****** *** ************** his behaviour was good with the patients and gave my mother good medical advice. I would recommend this doctor to my family and friends.",
+                "review_alterations": [
+                    {
+                        "start_index": 65,
+                        "end_index": 95,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 273269
+                    }
+                ],
+                "reviewed_on": "2020-06-26 10:29:23",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SUCHARITA BOSE"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176383,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:40:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Vikram Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39633817,
+                "review_text": "I regularly take my fatherinlaw to meet Dr. Charit. We are very hapoy with his able guidance and attention to detail which is much needed in reassuring my 84 year old fatherinlaw. We have been associated with him for the past 6 years. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-13 07:06:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Malvika Bhaskaran"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1460397,
+            "status": "PUBLISHED",
+            "note": "2020-07-05 13:27:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Vikram Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-05T14:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41440413,
+                "review_text": "We had met the doctor and it was for health problem angioplasty for my father. ****** *** ********** ******** *** ********** ** *** ******.  I am satisfied with the treatment given.   I have already recommended doctor to my family or friends . There was no waiting time when I went. Only one or two members. He had undergone open heart surgery. He is fine now.",
+                "review_alterations": [
+                    {
+                        "start_index": 79,
+                        "end_index": 137,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 274959
+                    }
+                ],
+                "reviewed_on": "2020-07-04 13:26:05",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1409343,
+            "status": "PUBLISHED",
+            "note": "2020-03-31 08:43:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Vikram Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-31T09:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41183387,
+                "review_text": "I have been to the hospital to meet the doctor and it was for heart issue met cardiologist. ** *** * **** **** ********** there was no waiting time when we visited. We had already taken reports and visited and he checked. He explained everything well. I m satisfied with treatment. I have recommended the doctor and hospital to other people and also satisfied.",
+                "review_alterations": [
+                    {
+                        "start_index": 92,
+                        "end_index": 121,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 260077
+                    }
+                ],
+                "reviewed_on": "2020-03-30 08:19:29",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1333872,
+            "status": "PUBLISHED",
+            "note": "2020-01-08 10:27:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Vikram Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-08T11:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40670073,
+                "review_text": "The consultation experience was interesting. I'm satisfied with the doctor's treatment. There was a normal waiting time. When it comes to improvement, the canteen is not up to the mark as the canteen food is not tasty. I would like to recommend this doctor to others and the doctor was very specific, very friendly and took more care.",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-06 18:01:20",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2096154,
+            "status": "PUBLISHED",
+            "note": "2022-11-06 06:52:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 260971,
+            "practice_id": 634957,
+            "practice_name": "Manipal Hospital, Millers Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-06T07:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44989345,
+                "review_text": "Hi, I got to know Dr. Charith through my grandmother who went through a stent procedure. Which was done by dr. Charith. The same to my dad. The best doctor. Would definitely recommend to my family members and friends.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-04 20:25:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 152662,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

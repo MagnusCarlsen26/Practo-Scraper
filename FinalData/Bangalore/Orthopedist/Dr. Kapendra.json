@@ -1,0 +1,1497 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 66,
+                "text": "Bone Fracture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1871529,
+            "status": "PUBLISHED",
+            "note": "2021-11-13 06:42:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-13T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43696388,
+                "review_text": "I recommend the doctorHappy with: Doctor friendliness, Explanation of the health issue, Treatment satisfaction.I really appreciate and thank Dr. Kapendra Mouli for treating us in a very friendly and professional way.He takes care of all patients personally.I was changing the balcony bulb and fell down, got a left hand\u00a0fracture(two bones cut off). Then immediately reached RxDx hospital and met Dr. Kapendra mouli.I was so scared because my hand was completely bent. No one was there with me to support me. Dr gave me confidence(Removed fear from me) and took it personally.He checked my hand and suggested surgery. He fixed two rods for two bones. After operation Dressing, Stitches removal all things the doctor does himself.I really like him to take care of everything personally :) .\u00a0Within 3 month i able to do all my work as usually. Thank you very much doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-12 06:41:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Obulesu"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1789192,
+            "status": "PUBLISHED",
+            "note": "2021-07-30 06:45:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-30T07:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43199172,
+                "review_text": "I had consulted the doctor and it was for back pain related. Consultation went well. I can definitely recommend the doctor to my family and friends. There was no waiting time when we went. Doctor was friendly. Tablets were prescribed by the doctor. It was later found that it was kidney stone issues. Staff were very cooperative. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-29 05:24:45",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rita Rani"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2414265,
+            "status": "PUBLISHED",
+            "note": "2024-07-16 07:42:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-16T08:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46850116,
+                "review_text": "** ******* **** *** ********** He wasted our time and money . He asked to do x-ray for normal sprain and then said I am not able to detect anything in x-ray go for MRI , it was sunday and no one is available for MRI, doctor didn\u2019t even gave any  pain relief  gel as well . I never recommend anyone to go for this doctor \n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 29,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 491043
+                    }
+                ],
+                "reviewed_on": "2024-07-15 06:30:49",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 851,
+                "text": "Bone Trauma"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2410924,
+            "status": "PUBLISHED",
+            "note": "2024-07-09 10:04:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-09T11:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46830754,
+                "review_text": "Doctor hardly took 5 minutes to explain the issue and for treatment. Had to do a follow up visit as issue had not cured in a week\u2019s time. He asked to avoid any sport or travelling long distances. When asked for a doctor\u2019s letter for working from home as travel is not recommended doctor was very sarcastic and reluctantly agreed to write a note in the prescription itself. \nOverall not a satisfactory experience",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-08 09:06:28",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1566456,
+            "status": "PUBLISHED",
+            "note": "2020-11-05 04:59:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-05T05:06:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41989858,
+                "review_text": "*** ** *** **** ************** *** *** ********* ****** **** * **** **** ******* ** *** ******* ** ******* ****** **** *** *** ********My brother had a cut and swelling on his ankle and he was referred to Kapendra to check if there were any ortho issues. **** *** **** *** ** *** *** ******** ***** **d put a plaster. After 2 days the leg swelled up and he was so so non committal and he said \u201cif you want I can open the plaster\u201d\n\nWhat kind of unprofessional behaviour is this? ** **** ***** * ****** ********* ** *** ******** *********** *** I would strongly recommend no one to take Kapendra\u2019s consultancy.\n\n*** *** ** ***** ** **** ********* *** *** ****** **** ********** *** ****** ** * ***** ****** **** ***** ** * ********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 134,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 305733
+                    },
+                    {
+                        "start_index": 255,
+                        "end_index": 300,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 305734
+                    },
+                    {
+                        "start_index": 478,
+                        "end_index": 541,
+                        "reason": "NON_COMPLIANT",
+                        "id": 305735
+                    },
+                    {
+                        "start_index": 610,
+                        "end_index": 728,
+                        "reason": "NON_COMPLIANT",
+                        "id": 305736
+                    }
+                ],
+                "reviewed_on": "2020-11-03 17:20:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Aniruddha Bose"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1226555,
+            "status": "PUBLISHED",
+            "note": "2019-08-22 06:17:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-22T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39952590,
+                "review_text": "He checked my ankle and asked me to do Xray first. it took an hour to get my xray report and meet him again. He then asked me to do an MRI scan with complimentary ct scan. He referred me to an MRI test center. I got a better deal with 3150/- and did my scan. He saw the report and asked for a ct scan. I could not provide it because there was a delay in receiving a ct scan report. He asked me to meet again. Actually, he was not happy because I did my scan somewhere else. I dont what **** report this doctor wants to tell my problem end of the day. If an MRI is not enough then what is enough? ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-18 16:15:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sanjib"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2363961,
+            "status": "PUBLISHED",
+            "note": "2024-04-03 06:35:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-03T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46561763,
+                "review_text": "He hardly looks at the patients. He doesn\u2019t care if you are under any discomfort. ****** ** ** **** *** **** **** ** ** ***** * ****** ******* ****  If you have any issue, he will provide you generic medicine *** ** **** ***** *** ** **** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 81,
+                        "end_index": 146,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482857
+                    },
+                    {
+                        "start_index": 209,
+                        "end_index": 244,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482858
+                    }
+                ],
+                "reviewed_on": "2024-04-01 15:22:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1787458,
+            "status": "PUBLISHED",
+            "note": "2021-07-28 07:00:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-28T08:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43189573,
+                "review_text": "I had met the doctor and it was for right knee pain related. ****** *** **** ** ********** *** I am satisfied with the explanation given. I would like to recommend the doctor to many people. There was waiting time when we went. It was for 15 minutes. MRI scan was done. Tablets were prescribed by the doctor. Physiotherapy was suggested. I am recovered now. Staff were very cooperative. ",
+                "review_alterations": [
+                    {
+                        "start_index": 61,
+                        "end_index": 93,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 361820
+                    }
+                ],
+                "reviewed_on": "2021-07-27 06:43:26",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sucharita Samanta"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1772535,
+            "status": "PUBLISHED",
+            "note": "2021-07-11 06:52:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-11T07:01:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43106514,
+                "review_text": "I had visited the hospital and it was shoulder pain related. ****** *** **** ** ********** *** I can definitely recommend the doctor to my family and friends. There was more waiting time in the hospital. It was for 30- 45 minutes. Medicines was prescribed by doctor during\u00a0consultation.\u00a0Scanning was done. Physiotherapy was suggested. Doctor was friendly. Hospitality was good. ",
+                "review_alterations": [
+                    {
+                        "start_index": 61,
+                        "end_index": 94,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 357950
+                    }
+                ],
+                "reviewed_on": "2021-07-10 06:49:54",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manasa Hegde"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1741210,
+            "status": "PUBLISHED",
+            "note": "2021-06-05 07:42:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-05T08:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42934233,
+                "review_text": "I booked the appointment for my wife actually she fell down on while she was pregnant so we searched for the doctor with no reference we went to him he was very good at his work very polite gave very less power required medications for my wife everything went normal she is feeling much better now I would really want to recommend the doctor to others in future",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-04 07:36:58",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Subbu"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 66,
+                "text": "Bone Fracture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1871529,
+            "status": "PUBLISHED",
+            "note": "2021-11-13 06:42:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-13T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43696388,
+                "review_text": "I recommend the doctorHappy with: Doctor friendliness, Explanation of the health issue, Treatment satisfaction.I really appreciate and thank Dr. Kapendra Mouli for treating us in a very friendly and professional way.He takes care of all patients personally.I was changing the balcony bulb and fell down, got a left hand\u00a0fracture(two bones cut off). Then immediately reached RxDx hospital and met Dr. Kapendra mouli.I was so scared because my hand was completely bent. No one was there with me to support me. Dr gave me confidence(Removed fear from me) and took it personally.He checked my hand and suggested surgery. He fixed two rods for two bones. After operation Dressing, Stitches removal all things the doctor does himself.I really like him to take care of everything personally :) .\u00a0Within 3 month i able to do all my work as usually. Thank you very much doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-12 06:41:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Obulesu"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1789192,
+            "status": "PUBLISHED",
+            "note": "2021-07-30 06:45:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-30T07:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43199172,
+                "review_text": "I had consulted the doctor and it was for back pain related. Consultation went well. I can definitely recommend the doctor to my family and friends. There was no waiting time when we went. Doctor was friendly. Tablets were prescribed by the doctor. It was later found that it was kidney stone issues. Staff were very cooperative. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-29 05:24:45",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rita Rani"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2414265,
+            "status": "PUBLISHED",
+            "note": "2024-07-16 07:42:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-16T08:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46850116,
+                "review_text": "** ******* **** *** ********** He wasted our time and money . He asked to do x-ray for normal sprain and then said I am not able to detect anything in x-ray go for MRI , it was sunday and no one is available for MRI, doctor didn\u2019t even gave any  pain relief  gel as well . I never recommend anyone to go for this doctor \n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 29,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 491043
+                    }
+                ],
+                "reviewed_on": "2024-07-15 06:30:49",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 851,
+                "text": "Bone Trauma"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2410924,
+            "status": "PUBLISHED",
+            "note": "2024-07-09 10:04:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-09T11:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46830754,
+                "review_text": "Doctor hardly took 5 minutes to explain the issue and for treatment. Had to do a follow up visit as issue had not cured in a week\u2019s time. He asked to avoid any sport or travelling long distances. When asked for a doctor\u2019s letter for working from home as travel is not recommended doctor was very sarcastic and reluctantly agreed to write a note in the prescription itself. \nOverall not a satisfactory experience",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-08 09:06:28",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1566456,
+            "status": "PUBLISHED",
+            "note": "2020-11-05 04:59:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-05T05:06:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41989858,
+                "review_text": "*** ** *** **** ************** *** *** ********* ****** **** * **** **** ******* ** *** ******* ** ******* ****** **** *** *** ********My brother had a cut and swelling on his ankle and he was referred to Kapendra to check if there were any ortho issues. **** *** **** *** ** *** *** ******** ***** **d put a plaster. After 2 days the leg swelled up and he was so so non committal and he said \u201cif you want I can open the plaster\u201d\n\nWhat kind of unprofessional behaviour is this? ** **** ***** * ****** ********* ** *** ******** *********** *** I would strongly recommend no one to take Kapendra\u2019s consultancy.\n\n*** *** ** ***** ** **** ********* *** *** ****** **** ********** *** ****** ** * ***** ****** **** ***** ** * ********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 134,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 305733
+                    },
+                    {
+                        "start_index": 255,
+                        "end_index": 300,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 305734
+                    },
+                    {
+                        "start_index": 478,
+                        "end_index": 541,
+                        "reason": "NON_COMPLIANT",
+                        "id": 305735
+                    },
+                    {
+                        "start_index": 610,
+                        "end_index": 728,
+                        "reason": "NON_COMPLIANT",
+                        "id": 305736
+                    }
+                ],
+                "reviewed_on": "2020-11-03 17:20:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Aniruddha Bose"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1226555,
+            "status": "PUBLISHED",
+            "note": "2019-08-22 06:17:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-22T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39952590,
+                "review_text": "He checked my ankle and asked me to do Xray first. it took an hour to get my xray report and meet him again. He then asked me to do an MRI scan with complimentary ct scan. He referred me to an MRI test center. I got a better deal with 3150/- and did my scan. He saw the report and asked for a ct scan. I could not provide it because there was a delay in receiving a ct scan report. He asked me to meet again. Actually, he was not happy because I did my scan somewhere else. I dont what **** report this doctor wants to tell my problem end of the day. If an MRI is not enough then what is enough? ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-18 16:15:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sanjib"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2363961,
+            "status": "PUBLISHED",
+            "note": "2024-04-03 06:35:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-03T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46561763,
+                "review_text": "He hardly looks at the patients. He doesn\u2019t care if you are under any discomfort. ****** ** ** **** *** **** **** ** ** ***** * ****** ******* ****  If you have any issue, he will provide you generic medicine *** ** **** ***** *** ** **** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 81,
+                        "end_index": 146,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482857
+                    },
+                    {
+                        "start_index": 209,
+                        "end_index": 244,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482858
+                    }
+                ],
+                "reviewed_on": "2024-04-01 15:22:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1787458,
+            "status": "PUBLISHED",
+            "note": "2021-07-28 07:00:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-28T08:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43189573,
+                "review_text": "I had met the doctor and it was for right knee pain related. ****** *** **** ** ********** *** I am satisfied with the explanation given. I would like to recommend the doctor to many people. There was waiting time when we went. It was for 15 minutes. MRI scan was done. Tablets were prescribed by the doctor. Physiotherapy was suggested. I am recovered now. Staff were very cooperative. ",
+                "review_alterations": [
+                    {
+                        "start_index": 61,
+                        "end_index": 93,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 361820
+                    }
+                ],
+                "reviewed_on": "2021-07-27 06:43:26",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sucharita Samanta"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1772535,
+            "status": "PUBLISHED",
+            "note": "2021-07-11 06:52:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-11T07:01:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43106514,
+                "review_text": "I had visited the hospital and it was shoulder pain related. ****** *** **** ** ********** *** I can definitely recommend the doctor to my family and friends. There was more waiting time in the hospital. It was for 30- 45 minutes. Medicines was prescribed by doctor during\u00a0consultation.\u00a0Scanning was done. Physiotherapy was suggested. Doctor was friendly. Hospitality was good. ",
+                "review_alterations": [
+                    {
+                        "start_index": 61,
+                        "end_index": 94,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 357950
+                    }
+                ],
+                "reviewed_on": "2021-07-10 06:49:54",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manasa Hegde"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1741210,
+            "status": "PUBLISHED",
+            "note": "2021-06-05 07:42:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-05T08:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42934233,
+                "review_text": "I booked the appointment for my wife actually she fell down on while she was pregnant so we searched for the doctor with no reference we went to him he was very good at his work very polite gave very less power required medications for my wife everything went normal she is feeling much better now I would really want to recommend the doctor to others in future",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-04 07:36:58",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Subbu"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1741198,
+            "status": "PUBLISHED",
+            "note": "2021-06-05 07:33:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-05T08:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42934180,
+                "review_text": "I booked the appointment for myself as I had fractured my finger so wen to the doctor he was very good 7 polite after the check-up me he asked me to visit another doctor all the treatment everything was very good I am satisfied\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-04 07:30:17",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Happy Pawar"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1738266,
+            "status": "PUBLISHED",
+            "note": "2021-06-02 06:48:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-02T07:01:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42919034,
+                "review_text": "My little son had met the doctor and it was for fracture issues. Consultation was fine by the doctor. I would like to recommend the doctor to other people. I am satisfied with the explanation given by the doctor. Only plaster was done. X-ray was done. There was no waiting time in the hospital when we went. We met doctor at gap of 10 days.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-01 04:32:15",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kirti Hablani Maheshwari"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1737716,
+            "status": "PUBLISHED",
+            "note": "2021-06-01 11:58:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-01T12:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42916157,
+                "review_text": "I had met the doctor and it was for muscle pain. ********* *** **** ** ******* I would like to recommend the doctor to other people.\u00a0Medicine and cream was prescribed by doctor during\u00a0consultation.\u00a0\u00a0There was some waiting time in the hospital. It was for 15-20 minutes. I had severe back pain. I had sleeping posture issues. ",
+                "review_alterations": [
+                    {
+                        "start_index": 49,
+                        "end_index": 78,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 348734
+                    }
+                ],
+                "reviewed_on": "2021-05-31 11:54:04",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sneha Aravind"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1703682,
+            "status": "PUBLISHED",
+            "note": "2021-04-21 05:57:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-21T06:01:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42734537,
+                "review_text": "My wife had consulted the doctor as she had pain in her finger. Consultation was fine with the doctor, he was on point and clarified all our doubts. I can definitely recommend doctor to my family or friends. There was no waiting time in the hospital when we went.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-20 05:56:56",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Surendra Nadh Velaga"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1702264,
+            "status": "PUBLISHED",
+            "note": "2021-04-20 05:49:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-20T06:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42726588,
+                "review_text": "I had consulted the doctor and it was for health concern. I would like to recommend this doctor to my family and friends.  Treatment was fine by doctor. Medicine was prescribed by doctor. Medical tests were done. There was not much waiting time in the hospital.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-18 04:21:28",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rupinder Kaur"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1343249,
+            "status": "PUBLISHED",
+            "note": "2020-01-18 06:44:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-18T07:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40737834,
+                "review_text": "Doctor does not even make proper eye contact with us. He was more interested in looking at his computer screen. \nDid not give any explanation of the problem. \nBut what really annoyed us was his arrogance and sheer indifference towards us. He was even being snide and sarcastic towards us. ***** **** ** ********* ** ******** **** * ********** ******** *** * ******* ******* \nWe are NEVER EVER going back to him. ",
+                "review_alterations": [
+                    {
+                        "start_index": 288,
+                        "end_index": 372,
+                        "reason": "NON_COMPLIANT",
+                        "id": 238196
+                    }
+                ],
+                "reviewed_on": "2020-01-17 04:52:21",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sujit Maslekar"
+        },
+        "entity_id": 590379,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1146,
+                "text": "Sports Injury"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1753732,
+            "status": "PUBLISHED",
+            "note": "2021-06-20 05:45:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-20T06:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43002883,
+                "review_text": "i visited on a friday to consult on a minor ankle injury during a game.He mentioned he needed MRI to be done. i got the mri done nearby and got the films and visited the doc again on saturday.he dismissed saying we need the report amd not the films. NO diagnosis/No i terim solutions suggested till then.** ****** **** ** ***** **** ** *** ** ***** **** *** *** ****** On monday when i revisited to show the \"report\" from the radiologist, he just said: \"nothing to worry. take this pain killer and rest adequately\"..overall quite an hassle with almost no diagnosis* ** ** *** ***** ***** *** **** *** ******* ***** *** ***** ***** * ***** ****** *** **** ** ***** ****** looking for alternate consultation options now.. ",
+                "review_alterations": [
+                    {
+                        "start_index": 304,
+                        "end_index": 367,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 353018
+                    },
+                    {
+                        "start_index": 564,
+                        "end_index": 670,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 353019
+                    }
+                ],
+                "reviewed_on": "2021-06-18 16:29:07",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 183094,
+                "text": "Upper Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2097089,
+            "status": "PUBLISHED",
+            "note": "2022-11-08 06:46:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-08T07:01:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44994841,
+                "review_text": "Doctor seen the patient and told for XRAY which was in room just adjacent to his consultation room. Meanwhile in 10 minutes he left the hospital as well. Hospital people are asking to come another day as the doctor was having appointments at another hospital. So, he left an 66 year old aged lady with pain and asking again to come.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-06 14:50:16",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101965,
+                "text": "Neck Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2059952,
+            "status": "PUBLISHED",
+            "note": "2022-09-03 06:43:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-03T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44781799,
+                "review_text": "He didn\u2019t want to hear me. He Didn\u2019t provide the cause for the pain or required treatment. Wait time 40 minutes ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-01 18:55:54",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1702662,
+            "status": "PUBLISHED",
+            "note": "2021-04-20 07:03:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598291,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-20T08:01:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42728748,
+                "review_text": "Doctor is very cooperative and staff are supportive. Though the xray charges are high and not sure they add additional amount which might have been not required. \n",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-18 14:26:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752377,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

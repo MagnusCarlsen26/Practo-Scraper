@@ -1,0 +1,182 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1186661,
+            "status": "PUBLISHED",
+            "note": "2019-06-28 09:22:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 545634,
+            "practice_id": 707970,
+            "practice_name": "Fortis La Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-28T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39700265,
+                "review_text": "This is an update after my second appointment. Must recommend dr Amita Wadhwa. She sits at la femme and other places too. She seemed to be god sent for me for my non pregnancy issue. Never seen any gynaecologist giving so much time and being so patient. She knows her job so well and get into minutest of details. So polite and accessible too.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-27 08:53:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510512,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1300161,
+            "status": "PUBLISHED",
+            "note": "2019-11-27 10:13:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 545634,
+            "practice_id": 707970,
+            "practice_name": "Fortis La Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-27T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40431349,
+                "review_text": "Dr Amita was so humble and easily approachable. She was talking to me like i was her daughter and understood my problem and helped me out. I am to visit her again this week. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-26 09:33:45",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510512,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1035703,
+            "status": "PUBLISHED",
+            "note": "2018-12-08 04:42:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 545634,
+            "practice_id": 707970,
+            "practice_name": "Fortis La Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-08T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38716237,
+                "review_text": "Simply Excellent... Very patient.. no unnecessary tests or medical examination she prescribe.. highly recommend",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-06 14:49:27",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510512,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

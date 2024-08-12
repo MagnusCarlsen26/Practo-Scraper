@@ -1,0 +1,87 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2280022,
+            "status": "PUBLISHED",
+            "note": "2023-10-20 12:01:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1073494,
+            "practice_id": 1255364,
+            "practice_name": "National Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-20T13:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46083144,
+                "review_text": "\n\nSix months post-treatment, my oral health has significantly improved, and I'm thankful for Dr. Chandni's expertise.\n\nI wanted to express my utmost gratitude for the exceptional care during my LANAP treatment. Your dedication to-words work and the well-being of your patients is truly remarkable. From the moment I walked into you made me to felt at ease and confident in line of treatment .\n\nYour detailed explanation of the LANAP procedure and the compassionate manner in which you addressed my concerns were greatly appreciated. The treatment itself went smoothly, and I can already feel the positive impact ..\n\nYour professionalism, patience, and the personalized care I received made a significant difference in my overall experience. I am thankful for your commitment to excellence in dentistry. \n\nI highly recommend Dr. Chandni for exceptional LANAP treatment and care",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-19 11:19:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "HANUMA"
+        },
+        "entity_id": 870723,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 111,
+                "text": "Laser Gum Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2255040,
+            "status": "PUBLISHED",
+            "note": "2023-08-31 07:51:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1073494,
+            "practice_id": 1255364,
+            "practice_name": "National Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-31T08:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45930662,
+                "review_text": "I met Dr. Chandini Garu at National Dental Care in Madinaguda, where I underwent a routine examination and two sessions of Laser Curettage procedure. I am truly pleased to have crossed paths with such a skilled and compassionate doctor. Her professionalism is evident as she took the time to meticulously elucidate each phase of the procedure. I extend my gratitude to Dr. Chandini Garu for the exceptional care and treatment I received.\n\nRegards\nKishore Kalagotla",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-30 05:51:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kishore Kalagotla"
+        },
+        "entity_id": 870723,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

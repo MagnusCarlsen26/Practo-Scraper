@@ -1,0 +1,58 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 869832,
+            "status": "PUBLISHED",
+            "note": "2018-05-10 09:17:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 3634,
+            "practice_id": 648948,
+            "practice_name": "Dr Sonali's Shushrusha Dental Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-10T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37423692,
+                "review_text": "QUITE PROFESSIONAL DENTIST, NICELY EXPLAINED THE PROBLEM AND HELPFUL TOO. BEEN MORE THAN 3 YEARS BUT THE WORK DONE ON MY TEETH ARE SATISFACTORY. FINALLY VFM",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-09 07:50:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SUDHIR SETH"
+        },
+        "entity_id": 2541,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

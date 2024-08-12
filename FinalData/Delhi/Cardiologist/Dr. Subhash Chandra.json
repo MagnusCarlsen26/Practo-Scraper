@@ -1,0 +1,244 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2307655,
+            "status": "PUBLISHED",
+            "note": "2023-12-15 06:27:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484288,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-15T07:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46239493,
+                "review_text": "I am under treatment of Dr. Subhash Chandra since 2004 when he was in Narinder Mohan Hospital. His service with smile is beyond comparison.  Whenever I visit for any consultation or treatment, he advises me like family members I don't believe any other Doctor.\n I have  also recommended his name to friends in  case of any problem.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-13 17:47:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "N K Rathore"
+        },
+        "entity_id": 635613,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 53,
+                "text": "Coronary Angioplasty / Bypass Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1782364,
+            "status": "PUBLISHED",
+            "note": "2021-07-23 07:23:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484288,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-23T08:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43160675,
+                "review_text": "Excellent experience , even on Sunday being holiday I was treated by him directly .\nI recommend to use his experience by person needing cardiology issue ",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-21 07:11:08",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 635613,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1209884,
+            "status": "PUBLISHED",
+            "note": "2019-07-30 07:32:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484288,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-30T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39846413,
+                "review_text": "BLK Hospital Facilities are good *** *** ******* *** *** ** **** ******* *** ******* **** ********* My mother was treated without reasons by Dr Subhash chandra (Cardiology) and though at the operation theatre her veins were punctured *** ********* *** *** *** ** *** ************* **** *** ******** ** ****** ****** ***** *** ***** ********** We had to pay all expenses of procedure. After four days when my mother had continuity of fever we went to him with new blood reports, he shood us away **** ***** \"while we are standing he said, yeh fever hai apko, yeh mera department nahi hai, consult doctor in medicine\". *** ****** ** ***** ******* ********** Dr Subhash chandra asked me if I want to make a reasonable billing then I need to buy catheter which are used for procedure from outside chemist. I said fine as it may save me money. I got a call from his assitant sanjeev who refered me to a medical supplier called Nilesh. Nilesh quote was one lakh and after small negotiation he gave to me for 48000. He refused bill and said that he will deliver catheters to doctor directly. Now when the procedure was not done I asked to refund, the medical supplier told me that 12000 plust shall be refunded and he did. The whole episode is true and recorded. ***** **** ** ******* *** * ***** ** *** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 32,
+                        "end_index": 98,
+                        "reason": "NON_COMPLIANT",
+                        "id": 195519
+                    },
+                    {
+                        "start_index": 234,
+                        "end_index": 341,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 195520
+                    },
+                    {
+                        "start_index": 494,
+                        "end_index": 504,
+                        "reason": "NON_COMPLIANT",
+                        "id": 195521
+                    },
+                    {
+                        "start_index": 616,
+                        "end_index": 655,
+                        "reason": "NON_COMPLIANT",
+                        "id": 195522
+                    },
+                    {
+                        "start_index": 1256,
+                        "end_index": 1303,
+                        "reason": "NON_COMPLIANT",
+                        "id": 195523
+                    }
+                ],
+                "reviewed_on": "2019-07-27 04:01:57",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 635613,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1571,
+                "text": "Treadmill Test - TMT"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1101576,
+            "status": "PUBLISHED",
+            "note": "2019-03-08 09:25:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 484288,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-08T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39159516,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-07 09:11:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 635613,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

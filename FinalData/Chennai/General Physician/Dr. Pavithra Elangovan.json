@@ -1,0 +1,910 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2309856,
+            "status": "PUBLISHED",
+            "note": "2023-12-19 09:43:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-19T10:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46251770,
+                "review_text": "Dr Pavithra Elangovan is a very friendly and approachable person. My 5yo developed sudden rashes all over her body. Dr helped us explaining the issue though we went out of visiting hours. She was so caring and my daughter likes visiting her. My elder one took flu shot and my 18 month old daughter's vaccination was also done here.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-17 16:48:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gautham K"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2319504,
+            "status": "PUBLISHED",
+            "note": "2024-01-05 07:12:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-05T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46306542,
+                "review_text": "Doctor treated our baby with constipation issue and fixed it with her timely, ethical consulting & prescription. She even did the follow up to check baby's health condition.",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-04 07:06:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Balaji Varadhan"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            },
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2319825,
+            "status": "PUBLISHED",
+            "note": "2024-01-06 05:20:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-06T06:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46308302,
+                "review_text": "She is very polite and explains about the problem very elaborately. She is very friendly with the kids. I would strongly recommend her. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-04 14:59:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Swetha Sriram"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 846,
+                "text": "Nutritional Assessment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2316453,
+            "status": "PUBLISHED",
+            "note": "2023-12-31 06:53:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-31T07:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46289051,
+                "review_text": "Friendly doctor, my kid was comfortable with her, she took time to diagnose my kid and explained clearly. Very happy and satisfied.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-29 14:10:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vivehtha"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2314595,
+            "status": "PUBLISHED",
+            "note": "2023-12-28 05:22:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-28T06:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46278841,
+                "review_text": "Very kindly doctor.. very good way up communication . Bobby handling very good so happy to meet doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-26 14:24:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajesh kanna"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2301653,
+            "status": "PUBLISHED",
+            "note": "2023-12-05 05:36:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-05T06:01:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46205412,
+                "review_text": "Dr. Pavitra is very kind and can give good treatment. She treated my children very well.So I recommend it to others.Thanks.....",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-02 16:15:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "R Mythili "
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2309027,
+            "status": "PUBLISHED",
+            "note": "2023-12-17 06:16:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-17T07:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46246925,
+                "review_text": "Initially we went for dysentery issue for my 4.5 yrs baby girl along with intense  stomach pain. Doctor was so friendly and she gave correct medications and also she gave confidence to be calm as dysentery will not stop suddenly but it can take 2-3 days to completely become normal. And she was checking with us regularly about child's progress after medication. We were so happy that we found a doctor who is not keen about injections/admissions. We are thankful always to her. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-16 06:13:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2129,
+                "text": "Paediatric Critical Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2348963,
+            "status": "PUBLISHED",
+            "note": "2024-03-01 09:30:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-01T10:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46476634,
+                "review_text": "In a word she is a fabulous doctor with good values.\nAs a young mother I'm satisfied..explains everything regarding health issue and clears every doubt..\n",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-29 07:38:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2266159,
+            "status": "PUBLISHED",
+            "note": "2023-09-26 08:12:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-26T09:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46004168,
+                "review_text": "very caring .doctor helps and listens patiently to problems and is to the point. Her treatment is also effective.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-24 19:25:03",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2264535,
+            "status": "PUBLISHED",
+            "note": "2023-09-22 06:56:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-22T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45993486,
+                "review_text": "Recently visited her for grand son .she prescribed medicine after thoroughly analyzing. Her positive approach is  highly commendable. A service minded dedicated doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-21 05:53:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nirmala "
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2309856,
+            "status": "PUBLISHED",
+            "note": "2023-12-19 09:43:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-19T10:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46251770,
+                "review_text": "Dr Pavithra Elangovan is a very friendly and approachable person. My 5yo developed sudden rashes all over her body. Dr helped us explaining the issue though we went out of visiting hours. She was so caring and my daughter likes visiting her. My elder one took flu shot and my 18 month old daughter's vaccination was also done here.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-17 16:48:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gautham K"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2319504,
+            "status": "PUBLISHED",
+            "note": "2024-01-05 07:12:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-05T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46306542,
+                "review_text": "Doctor treated our baby with constipation issue and fixed it with her timely, ethical consulting & prescription. She even did the follow up to check baby's health condition.",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-04 07:06:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Balaji Varadhan"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            },
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2319825,
+            "status": "PUBLISHED",
+            "note": "2024-01-06 05:20:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-06T06:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46308302,
+                "review_text": "She is very polite and explains about the problem very elaborately. She is very friendly with the kids. I would strongly recommend her. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-04 14:59:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Swetha Sriram"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 846,
+                "text": "Nutritional Assessment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2316453,
+            "status": "PUBLISHED",
+            "note": "2023-12-31 06:53:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-31T07:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46289051,
+                "review_text": "Friendly doctor, my kid was comfortable with her, she took time to diagnose my kid and explained clearly. Very happy and satisfied.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-29 14:10:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vivehtha"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2314595,
+            "status": "PUBLISHED",
+            "note": "2023-12-28 05:22:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-28T06:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46278841,
+                "review_text": "Very kindly doctor.. very good way up communication . Bobby handling very good so happy to meet doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-26 14:24:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajesh kanna"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2301653,
+            "status": "PUBLISHED",
+            "note": "2023-12-05 05:36:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-05T06:01:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46205412,
+                "review_text": "Dr. Pavitra is very kind and can give good treatment. She treated my children very well.So I recommend it to others.Thanks.....",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-02 16:15:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "R Mythili "
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2309027,
+            "status": "PUBLISHED",
+            "note": "2023-12-17 06:16:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-17T07:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46246925,
+                "review_text": "Initially we went for dysentery issue for my 4.5 yrs baby girl along with intense  stomach pain. Doctor was so friendly and she gave correct medications and also she gave confidence to be calm as dysentery will not stop suddenly but it can take 2-3 days to completely become normal. And she was checking with us regularly about child's progress after medication. We were so happy that we found a doctor who is not keen about injections/admissions. We are thankful always to her. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-16 06:13:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2129,
+                "text": "Paediatric Critical Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2348963,
+            "status": "PUBLISHED",
+            "note": "2024-03-01 09:30:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-01T10:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46476634,
+                "review_text": "In a word she is a fabulous doctor with good values.\nAs a young mother I'm satisfied..explains everything regarding health issue and clears every doubt..\n",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-29 07:38:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2266159,
+            "status": "PUBLISHED",
+            "note": "2023-09-26 08:12:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-26T09:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46004168,
+                "review_text": "very caring .doctor helps and listens patiently to problems and is to the point. Her treatment is also effective.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-24 19:25:03",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2264535,
+            "status": "PUBLISHED",
+            "note": "2023-09-22 06:56:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1069183,
+            "practice_id": 1427948,
+            "practice_name": "Petals Child Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-22T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45993486,
+                "review_text": "Recently visited her for grand son .she prescribed medicine after thoroughly analyzing. Her positive approach is  highly commendable. A service minded dedicated doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-21 05:53:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nirmala "
+        },
+        "entity_id": 867302,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

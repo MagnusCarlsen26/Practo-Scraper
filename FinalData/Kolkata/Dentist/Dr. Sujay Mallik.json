@@ -1,0 +1,92 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1977919,
+            "status": "PUBLISHED",
+            "note": "2022-04-24 04:49:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 398100,
+            "practice_id": 1327326,
+            "practice_name": "Cosmodent Dental Clinic and Orthodontic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-24T05:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44305488,
+                "review_text": "Awesome dentist. Many members of my joint family got RCT done by him and we and completely satisfied. Moreover as a person too he is a great human being.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-22 13:55:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rituparna Bhattacharyya"
+        },
+        "entity_id": 317352,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1983142,
+            "status": "PUBLISHED",
+            "note": "2022-05-02 09:54:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 398100,
+            "practice_id": 1327326,
+            "practice_name": "Cosmodent Dental Clinic and Orthodontic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-02T10:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44334992,
+                "review_text": "Great behaviour and thorough explanation of the condition and treatment. It was a pleasant experience. Would recommend 10/10.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-30 12:49:36",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 317352,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1765895,
+            "status": "PUBLISHED",
+            "note": "2021-07-04 07:17:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 912878,
+            "practice_id": 1324334,
+            "practice_name": "Novo Smile Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-03T10:02:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 298533,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback \ud83d\ude4f\nAlways welcome for any shorts of oral & dental needs. ",
+                "replied_at": "2021-07-03T10:02:08+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9953841,
+                "modified_by_id": 9953841,
+                "replier_name": "Dr. Saumyadeep Ghosh",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/912878/dr-saumyadeep-ghosh-604e663ccbc34.jpg"
+            },
+            "survey_response": {
+                "id": 43069798,
+                "review_text": "I visited Novo Clinic & Did Root canal & crown...\n\nDr. Saumadeep ghosh in Novo Clinic Treated me Well... I am completely satishfied...\n\nHe is very attentive & does his job with paerfetion & patience... So I will recommend if you are looking for any teeth related issue...\n\nIn covid time  Novo Clinic maintained Hygine Properly... It's organized & equipped with morern infrastructure...",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-02 15:56:24",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SUHRID GHOSH"
+        },
+        "entity_id": 755352,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1686526,
+            "status": "PUBLISHED",
+            "note": "2021-03-31 05:58:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 912878,
+            "practice_id": 1324334,
+            "practice_name": "Novo Smile Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-31T06:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 298534,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback\ud83d\ude4f",
+                "replied_at": "2021-07-03T10:02:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9953841,
+                "modified_by_id": 9953841,
+                "replier_name": "Dr. Saumyadeep Ghosh",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/912878/dr-saumyadeep-ghosh-604e663ccbc34.jpg"
+            },
+            "survey_response": {
+                "id": 42639179,
+                "review_text": "This clinic is way ahead in terms of equipment, technology and skills of the dentist. The location is near the Dumdum station and the behaviour received was also very warm. Do visit for dental issues.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-29 19:42:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 755352,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

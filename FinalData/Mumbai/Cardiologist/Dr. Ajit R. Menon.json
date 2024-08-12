@@ -1,0 +1,113 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 6284,
+                "text": "Cardiac Diseases"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1003993,
+            "status": "PUBLISHED",
+            "note": "2018-10-24 06:25:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 478784,
+            "practice_id": 976187,
+            "practice_name": "Dr. Menon's Cardiology",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-24T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38489434,
+                "review_text": "** ***** ** *** ** *** **** ************ ** *..for past 25yrs he has been treating my mother and now I m his patient ...very genuine.****** ********* ...u can totally rely on his line of treatment ...many thk",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 44,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 136348
+                    },
+                    {
+                        "start_index": 133,
+                        "end_index": 149,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 136349
+                    }
+                ],
+                "reviewed_on": "2018-10-22 12:55:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Zarina baig"
+        },
+        "entity_id": 418616,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 53,
+                "text": "Coronary Angioplasty / Bypass Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1234766,
+            "status": "PUBLISHED",
+            "note": "2019-08-30 07:41:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 478784,
+            "practice_id": 976187,
+            "practice_name": "Dr. Menon's Cardiology",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-30T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40005638,
+                "review_text": "Dr.Menon is very down to earth, explain nicely the problem of patient to us in simple understanding language to common man. I wish him all success for his future life.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-29 07:36:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 418616,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

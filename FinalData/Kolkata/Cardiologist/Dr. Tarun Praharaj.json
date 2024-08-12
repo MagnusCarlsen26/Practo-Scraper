@@ -1,0 +1,417 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1825052,
+            "status": "PUBLISHED",
+            "note": "2021-09-12 09:21:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-12T10:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43408202,
+                "review_text": "********* ******* very cooperative, advises nicely.\n\nI am from Guwahati, Assam. I am a pacemaker patient having difficulty in breathing on exertion. Doctor evaluated very keenly, did the evaluation and prescribed medicines. Now I am 100% ok. \nThank you Dr Tarun Prahraj and other support staff who are also very helpful, specially his assistant Partho..\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 372141
+                    }
+                ],
+                "reviewed_on": "2021-09-10 06:38:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Motahar Ali"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1903093,
+            "status": "PUBLISHED",
+            "note": "2021-12-31 09:25:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-31T10:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43881822,
+                "review_text": "** ** *** ***** **** ********** he knows what he good and best, he can understand problem just by seeing, it's called experience",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 30,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 390064
+                    }
+                ],
+                "reviewed_on": "2021-12-30 09:00:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhishek Sahal"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 52,
+                "text": "Coronary Angiogram"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1614079,
+            "status": "PUBLISHED",
+            "note": "2021-01-06 13:23:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-06T14:06:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42243389,
+                "review_text": "Hospital staff is totally inefficient and doctor is not at all courteous. He takes too many appointments and then goes for surgery in between. Went for consultation at 1.20 and till 5 he didn\u2019t consult us. Out of frustration , had to ask for refund . They treat patients as if they are consulting then for free. Extremely dissatisfied. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-05 13:22:28",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 6284,
+                "text": "Cardiac Diseases"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1613957,
+            "status": "PUBLISHED",
+            "note": "2021-01-06 11:04:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-06T12:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42242664,
+                "review_text": "It's disappointing experience with the doctor. He didn't have time to hear patient's problem. Before listening he starts writing prescription for the tests to be done in B M Birla Hospital and it's instantly. No scope for discussion with him. No specific appointment schedule. I have an appointment for 2 pm slot but practically I get a chance around 5 pm to meet him. No serial, no queue, horrible experience. No sitting space there. It's unfortunate....",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-05 10:59:26",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1726278,
+            "status": "PUBLISHED",
+            "note": "2021-05-19 09:00:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-19T09:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42856796,
+                "review_text": "I have visited doctor a quite few times for my parents. I found Doctor as very friendly with the patient and Patient Party. He always keep you positive vibes and proper advice. ***** ********** *********** ******* ****** I always recomend the doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 176,
+                        "end_index": 219,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 345945
+                    }
+                ],
+                "reviewed_on": "2021-05-18 08:52:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anindya Ghosh"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1460825,
+            "status": "PUBLISHED",
+            "note": "2020-07-07 07:25:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-07T08:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41442348,
+                "review_text": "I am satisfied with the way he explained and guided. Outstanding behavior. Clearly explained my conditions and adviced further course of action",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-05 05:05:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nilanjan Datta"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733453,
+            "status": "PUBLISHED",
+            "note": "2021-05-27 12:48:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-27T13:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42893505,
+                "review_text": "I have taken appointment for my father for cardiology concern and we have visited the hospital. Doctor was quite good and he had done the check up for my father and with his treatment we are 100% satisfied. There was no wait time for us and our appointment was on time. I would like to recommend this doctor for my friends and family members also.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-26 12:45:21",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1722090,
+            "status": "PUBLISHED",
+            "note": "2021-05-14 07:45:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-14T08:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42835238,
+                "review_text": "I went to the doctor for my heart issue the doctor asked to do some tests I met him yesterday & there was no problem detected in my reports ** ** * ****** **** ****** I am totally satisfied with the consultation would definately recommend it to others",
+                "review_alterations": [
+                    {
+                        "start_index": 139,
+                        "end_index": 166,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 345023
+                    }
+                ],
+                "reviewed_on": "2021-05-13 05:37:23",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1888953,
+            "status": "PUBLISHED",
+            "note": "2021-12-10 08:06:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 585815,
+            "practice_id": 1263792,
+            "practice_name": "BM Birla Heart Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-10T09:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43798461,
+                "review_text": "Dr Tarun Praharaj is a friendly doctor who treats patient with care at BM Birla Heart Research Center.",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-08 07:22:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 690364,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

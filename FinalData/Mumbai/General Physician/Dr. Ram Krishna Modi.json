@@ -1,0 +1,375 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1814727,
+            "status": "PUBLISHED",
+            "note": "2021-08-31 07:37:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 374232,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-31T08:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43345704,
+                "review_text": "He gives customized treated considering the body response unlike others  who quantify as per standard practice i.e he explains in details. Even though he is senior doctor he attend to all patient calls at odd hours also which is great psychological support. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-28 15:57:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 287525,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1187986,
+            "status": "PUBLISHED",
+            "note": "2019-06-30 07:47:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 374232,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-30T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39708811,
+                "review_text": "I want to recommend  the doctor to other patients  also . The doctor is so friendly and very good to consult.  Thank you !",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-29 06:03:48",
+                "channel": "web",
+                "source": "ACCOUNTLESS_FEEDBACK",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 287525,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1649365,
+            "status": "PUBLISHED",
+            "note": "2021-02-18 09:42:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 374232,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-18T10:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42435861,
+                "review_text": "I fell from bike and got abresion on my left knee and left palm. we had to literally speak at our loudest to make him understand the issue, on hearing the same he didn't even suggested basic dressing of the wound. *** *********** *** **** ******* ********** ** *** ****** ** ********* ******* *** ******* This is not expected from such senior doctors that too associated with such reputed hospital as Fortis. Never gonna trust the said doctor and will also suggest the same to everyone. ******* ****** ** ***** ******** should make patients comfortable and understand the issue.",
+                "review_alterations": [
+                    {
+                        "start_index": 214,
+                        "end_index": 304,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 327411
+                    },
+                    {
+                        "start_index": 486,
+                        "end_index": 518,
+                        "reason": "NON_COMPLIANT",
+                        "id": 327412
+                    }
+                ],
+                "reviewed_on": "2021-02-17 09:24:00",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 287525,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1146220,
+            "status": "PUBLISHED",
+            "note": "2019-05-05 10:49:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 374232,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-05T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39444711,
+                "review_text": "I had a very bad experience with doctor who was treating a close family member. We were his proper regular patient and had even been admitted in hospital under his care multiple times. The experience was horrendous. I have lost the family member today. It doesn't matter which problem we went to him with, the attitude, the arrogance, the audacity and most important Insensitivity of the doctor towards a patient who is on death bed.\n\nI can not tell how much regret we have that we referred this doctor. This post may seem like another spam but i wanted to do my part ** ******* ******** *** *** ***********  I so much hope that this post help somebody. That's the least thing i can repent with for what we have lost today.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 568,
+                        "end_index": 606,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 173482
+                    }
+                ],
+                "reviewed_on": "2019-05-04 08:27:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 287525,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1169076,
+            "status": "PUBLISHED",
+            "note": "2019-06-05 11:23:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 374232,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-05T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39588394,
+                "review_text": "**** * **** ****** ****** **** ****** ******************** said take x ray...etc..first of all consultation fees is so high...upon that other charges....consultation for general practitioners should be low",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 57,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 181295
+                    }
+                ],
+                "reviewed_on": "2019-06-04 02:37:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Vidya"
+        },
+        "entity_id": 287525,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1186465,
+            "status": "PUBLISHED",
+            "note": "2019-06-28 06:16:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 374232,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-28T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39699006,
+                "review_text": "Satisfied with the overall consultation of the doctor . I will recommend the doctor to other patients also .",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-27 05:31:50",
+                "channel": "web",
+                "source": "ACCOUNTLESS_FEEDBACK",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 287525,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192342,
+                "text": "Viral Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 661407,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 374232,
+            "practice_id": 809303,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-26T07:08:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35443641,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-25 17:51:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Harvendra Raj"
+        },
+        "entity_id": 287525,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

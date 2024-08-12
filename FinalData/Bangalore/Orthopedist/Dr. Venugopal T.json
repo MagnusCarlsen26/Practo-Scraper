@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 875,
+                "text": "Hip Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2297635,
+            "status": "PUBLISHED",
+            "note": "2023-11-26 10:00:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 881849,
+            "practice_id": 1422628,
+            "practice_name": "DHEE Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-26T11:00:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46182587,
+                "review_text": "Doctor was very friendly and explained the issue in detail and suggest right medications . I strongly recommend Dr. Venugopal on the ortho treatments ",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-25 09:13:58",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shashikant Joshi"
+        },
+        "entity_id": 883181,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,462 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2042673,
+            "status": "PUBLISHED",
+            "note": "2022-08-05 07:09:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 707970,
+            "practice_name": "Fortis La Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-05T08:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44677495,
+                "review_text": "Mam Dr Seema Thakur is indeed a genius doctor, I and my wife visited, she patient friendly and her suggestion to patient is worth billion dollars,, ultra professional, I suggest ever one those have genetic and gyne problems,, she the Dr is helping hand. Thanks mam. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-04 03:43:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neyaz lone "
+        },
+        "entity_id": 510135,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1727788,
+            "status": "PUBLISHED",
+            "note": "2021-05-21 07:05:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 736234,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-21T08:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42864581,
+                "review_text": "I had visited the hospital and it was related to my health  . Doctor was **** *** well experienced. I am  fully satisfied with the explanation and treatment given. There was   long  waiting time in the hospital. And the staffs were to rude too. But overall it was very good. i would like to recommend the doctor in future for my  family and friends too.",
+                "review_alterations": [
+                    {
+                        "start_index": 72,
+                        "end_index": 80,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 346334
+                    }
+                ],
+                "reviewed_on": "2021-05-20 05:19:49",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rachna agarwal"
+        },
+        "entity_id": 459657,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1299390,
+            "status": "PUBLISHED",
+            "note": "2019-11-26 12:19:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 736234,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-26T13:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40426082,
+                "review_text": "I had an advanced booking through Fortis app, so the waiting period was less than 20 minutes. Dr. Aradhana Singh is a well-experienced doctor. The treatment was highly satisfactory. It was my first visit to her but the experience was definitely good to recommend.",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-25 11:08:23",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harvinder Kaur"
+        },
+        "entity_id": 459657,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 996,
+                "text": "Female Sexual Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1161580,
+            "status": "PUBLISHED",
+            "note": "2019-05-26 05:01:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 736234,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-26T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39540576,
+                "review_text": "Waited 4 hr (you promised a wait time of less than 1 hr), only to be told by Dr Seema Thakur that she ***** ***** ** ******* *** recommended to someone else.",
+                "review_alterations": [
+                    {
+                        "start_index": 102,
+                        "end_index": 128,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 178518
+                    }
+                ],
+                "reviewed_on": "2019-05-24 13:29:17",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rajannya Lahiri"
+        },
+        "entity_id": 459657,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101761,
+                "text": "Genetic tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 945992,
+            "status": "PUBLISHED",
+            "note": "2018-08-14 06:42:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 727274,
+            "practice_name": "Fortis Memorial Research Institute",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-14T07:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38060353,
+                "review_text": "I am Arijit Nandy served in Indian Army.  Dr Seema Thkaur is the God for me and my wife also.  She is \nan friendly doctor like as mother.  I felt like a person and not like someone sick.  I am very pleased.  Thank you maam for kindness and all your help.  I really appreciate it. \n",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-11 17:30:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arijit Nandy"
+        },
+        "entity_id": 261231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101759,
+                "text": "Genetic Diseases"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1890951,
+            "status": "PUBLISHED",
+            "note": "2021-12-12 10:14:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 707970,
+            "practice_name": "Fortis La Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-12T11:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43809702,
+                "review_text": "Dr. Seema Thakur is exceptionally good with such a friendly behaviour that is seldom seen in today's world. She gave us 30 minutes hearing and advised  and refered us for further treatment of our daughter who is Downs Syndrome case.",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-11 09:25:07",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jatinder Kaw"
+        },
+        "entity_id": 510135,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 189,
+                "text": "Genetic counseling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 782624,
+            "status": "PUBLISHED",
+            "note": "2018-02-07 08:56:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 707970,
+            "practice_name": "Fortis La Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-07T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36633140,
+                "review_text": "Very polite total statisfied and very helpful give her time to my baby for counsel and very experienced doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-29 08:05:44",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rishi sachdeva"
+        },
+        "entity_id": 510135,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101759,
+                "text": "Genetic Diseases"
+            },
+            {
+                "id": 239,
+                "text": "Down's Syndrome"
+            },
+            {
+                "id": 101761,
+                "text": "Genetic tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1069304,
+            "status": "PUBLISHED",
+            "note": "2019-01-24 06:53:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 736234,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-24T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38943139,
+                "review_text": "Dr Seema thakur is a excellent doctor. Very nice and helpful. Explained everything in detail with out looking at time. I recommend everyone to visit her ones during pregnancy. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-23 06:42:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 459657,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 189,
+                "text": "Genetic counseling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1212614,
+            "status": "PUBLISHED",
+            "note": "2019-08-01 04:55:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 281156,
+            "practice_id": 736234,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-01T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39864650,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 157,
+                        "end_index": 310,
+                        "reason": "NON_COMPLIANT",
+                        "id": 196287
+                    }
+                ],
+                "reviewed_on": "2019-07-30 14:56:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aakash Garg"
+        },
+        "entity_id": 459657,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

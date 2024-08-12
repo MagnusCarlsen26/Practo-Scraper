@@ -1,0 +1,104 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1666885,
+            "status": "PUBLISHED",
+            "note": "2021-03-09 08:22:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 424070,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-09T09:02:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42530528,
+                "review_text": "There is famous quote, miracles do happen and sometimes they are done by persons who we referred as Angel of God. *** *** ** ****** **** ** *** ** *** ****** \nIt was night of 30th Oct 2020, Day of my Wife Bday, we came to apollo hospital in emergency with my wife case of rarest of rare complexity name Placenta percreta in Cesarean delivery. We was referred by Apollo hospital after changing 2 hospital on that day. The first assigned Duty Doctor in Apollo hospital refused to take the case of my Wife , the reasons may be best known to them. Then this case came to Dr Neelam and she after getting the initial inputs from Gyno Resident doctor took the case in her expert hands and directed her Resident doctor to give us admission. That night of 30th Oct and 31st early morning was very tough from my wife as he was in constant pain since 28th Oct 2020 afternoon. By Morning when she came, she took the immediate decision of going by surgery after looking at condition of my wife.\n\nThrough she had explained me the risk factor & complexities in that case but she assured me that she will put best of her efforts and rest depend upon God and will of my wife to fight. She motivated my wife with all here skills and finally able to instill confidence in my wife. \nMy wife critical surgery successfully carried out on 31st Oct 2020 giving birth to baby boy followed by another surgery on 2nd Nov 2020 under the able supervision of Dr Neelam Suri.\n\nWhat like I most about the Dr Neelam Suri was her so down to earth and humbleness. ! Post 2nd Nov Surgery she gave all credit of my Wife Surgery to God & her team of doctor who was with her both Surgeries especially Dr Feroz Pasha who was surgeon in that C-Section Delivery.\n\nBut I could easily figure out the challenge she had accepted after just talking with brief inputs from her Gyno Resident Doctor, Arranging the whole set of required expert of doctors that too in couple of morning hours, do the complete readiness of surgery even my wife was not the her patient ( getting all the history of patient documented in just small time).\n\nPost successful execution of Surgery, She even supported my wife the post-surgery recovery medically as well emotionally like her elder sister. When my new baby born was diagnosed with heart problem she was the first one who accompany with me to Heart Doctor so that she could instill confidence in my Wife that everything will be alright.\n\nAs present my baby and Wife both are fine and I deep from my heart give the credit of both of their wellbeing to Dr Neelam Suri only.\n\nThat is why I do say Dr Neelam Suri is Angel of God & thank you so much for bringing back my life partner and mother of children\u2019s from Jaw of Death.  I will always remain indebt of you throughout my life.\n\nRegards\nVishal Saini\n",
+                "review_alterations": [
+                    {
+                        "start_index": 114,
+                        "end_index": 156,
+                        "reason": "NON_COMPLIANT",
+                        "id": 331533
+                    }
+                ],
+                "reviewed_on": "2021-03-07 12:38:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586257,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1,
+                "text": "Stomach Cramps"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1865196,
+            "status": "PUBLISHED",
+            "note": "2021-11-03 07:26:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 424070,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-03T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43657081,
+                "review_text": "She is very friendly n caring...  she hears out my complain and explains me in an understandable way..",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-01 13:09:01",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Babina Takyenjam"
+        },
+        "entity_id": 586257,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

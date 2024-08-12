@@ -1,0 +1,254 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 243,
+                "text": "Ankle Sprain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 251720,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 48262,
+            "practice_id": 850424,
+            "practice_name": "Dr Sharad's Orthopaedic & Trauma Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-04-29T06:13:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 17187468,
+                "review_text": "The doctor was quite experienced. He was very patient while listening to my problems. He went through each and every aspect of my problem.\r\nAbove all he was very friendly and explained the course of action that he will take.\r\nI would definitely star him 4+",
+                "review_alterations": [],
+                "reviewed_on": "2016-04-29 06:08:46",
+                "channel": "web_sms",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "RAMA RAGHAVAN"
+        },
+        "entity_id": 362040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2291480,
+            "status": "PUBLISHED",
+            "note": "2023-11-14 07:22:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 48262,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-14T08:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46148138,
+                "review_text": "Doctor was very nice to us and he explained everything to us. He is very friendly and helpful and very knowledgeable.\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-12 04:39:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 114674,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1861600,
+            "status": "PUBLISHED",
+            "note": "2021-10-28 07:30:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 48262,
+            "practice_id": 850424,
+            "practice_name": "Dr Sharad's Orthopaedic & Trauma Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-28T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43634998,
+                "review_text": "I would like to recommend this doctor to others the experience  with the doctor and the staff is good",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-27 07:27:48",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 362040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1006838,
+            "status": "PUBLISHED",
+            "note": "2018-10-27 07:29:44",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 48262,
+            "practice_id": 850424,
+            "practice_name": "Dr Sharad's Orthopaedic & Trauma Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-27T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38509543,
+                "review_text": "He explains the actual issue causing problems ,avoid unnecessary tests.Doctor's friendliness attitude with patient is preferable.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-26 07:27:32",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 362040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 819424,
+            "status": "PUBLISHED",
+            "note": "2018-03-14 09:12:10",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 48262,
+            "practice_id": 850424,
+            "practice_name": "Dr Sharad's Orthopaedic & Trauma Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-14T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36976277,
+                "review_text": "Excellent. Grt experience nd watch the patient with utmost care. Gives appropriate time to check nd explain the things. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-13 07:11:14",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 362040,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2128411,
+            "status": "PUBLISHED",
+            "note": "2023-01-05 05:45:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 950384,
+            "practice_id": 1224581,
+            "practice_name": "Dr. Rela Institute & Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-05T06:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45172315,
+                "review_text": "The doctor was very friendly and she clarified the issue I had and told not to worry as I am breastfeeding she carefully suggested the tablets as well. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-03 15:08:00",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 781594,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

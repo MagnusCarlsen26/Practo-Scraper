@@ -1,0 +1,119 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 52,
+                "text": "Coronary Angiogram"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1332677,
+            "status": "PUBLISHED",
+            "note": "2020-01-07 09:36:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 491524,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-07T10:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40661241,
+                "review_text": "Best and friendly.Procedure was over in a jiffy.5 stars to the doctor .I will definitely recommend him",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-05 08:59:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saqiq"
+        },
+        "entity_id": 600967,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            },
+            {
+                "id": 1593,
+                "text": "Radial Approach Angiography"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 901803,
+            "status": "PUBLISHED",
+            "note": "2018-06-19 07:23:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 491524,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-19T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37689620,
+                "review_text": "The angiography procedure was well explained , and the procedure felt like a routine inveigation . Moreover Dr Arif explained that the blocks were small and i will need only  medicine.",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-17 15:52:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shahid Khan"
+        },
+        "entity_id": 600967,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

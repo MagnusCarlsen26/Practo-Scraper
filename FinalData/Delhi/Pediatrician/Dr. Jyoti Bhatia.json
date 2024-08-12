@@ -1,0 +1,60 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 2135,
+                "text": "Growth & Development Evaluation / Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2375109,
+            "status": "PUBLISHED",
+            "note": "2024-04-27 04:15:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619764,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-27T05:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46625255,
+                "review_text": "The doctor at first seemed to be very good but as we progress , we came to know that\nShe will keep on increasing your consultations **** *** ******* *** ************\nShe will prescribe 3 test to every child and those are done at her clinic in Noida.  **** ******  ******* *** ******** ** *** **** ** *********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 132,
+                        "end_index": 164,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 484914
+                    },
+                    {
+                        "start_index": 249,
+                        "end_index": 310,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 484915
+                    }
+                ],
+                "reviewed_on": "2024-04-25 17:03:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Ashima"
+        },
+        "entity_id": 625440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1249085,
+            "status": "PUBLISHED",
+            "note": "2019-09-18 11:48:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 509603,
+            "practice_id": 1175053,
+            "practice_name": "Marigold Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-18T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40097219,
+                "review_text": "Good. The doctor was friendly even the waiting time was less than the 5 mins. I really suggest to some one",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-17 02:18:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prashant"
+        },
+        "entity_id": 672716,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

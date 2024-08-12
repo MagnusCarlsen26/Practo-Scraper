@@ -1,0 +1,89 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2136920,
+            "status": "PUBLISHED",
+            "note": "2023-01-21 05:51:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 732543,
+            "practice_id": 1121812,
+            "practice_name": "Medicover Woman & Child Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-21T06:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45220780,
+                "review_text": "*** ** *** **** ** ********* ****** * she is simple, superb Human being, approachable, a Great Social Worker, friendly approach with smiling face with his selfless service with his selfless services. I experienced amazing treatment. She is an extraordinary intelligent Doctor with great human values.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 36,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 440429
+                    }
+                ],
+                "reviewed_on": "2023-01-19 17:59:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akhil"
+        },
+        "entity_id": 673911,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2324610,
+            "status": "PUBLISHED",
+            "note": "2024-01-14 10:15:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 732543,
+            "practice_id": 1121812,
+            "practice_name": "Medicover Woman & Child Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-14T11:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46335797,
+                "review_text": "We were happy with her. She treated my wife like a her own daughter. \nHer response will be very good. Always smiley\nShe will explain problem very well\nShe will maintain all reports very well\nWe visited her at the time of 8th month. But she took my wife with very heart fully. Finally she made delivery very well and I am very with Meenakshi madam\n\nFinally I recommended her 100%",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-13 10:10:39",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 673911,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1222588,
+            "status": "PUBLISHED",
+            "note": "2019-08-14 11:01:58",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 204132,
+            "practice_id": 663844,
+            "practice_name": "Life Alive",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-14T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39928031,
+                "review_text": "I have been associated with Life Alive for more than 8 years. Dr. Sunita Ravi is a thorough professional. The consultation was detailed and she explained about the treatment in detail and addressed to all my questions and doubts. She gave the correct picture of the treatment and explained the right expectation from it. I recommend her 100 percent. ***** ********* * ****** * *** ***** *********. \nDr. Divya who does the Zerona setting is also very nice and she is very polite and professional. \nI recommend Life alive Clinic and Dr. Sunita for all your lifestyle requirements. \ud83d\udc4d\ud83d\udc4d",
+                "review_alterations": [
+                    {
+                        "start_index": 349,
+                        "end_index": 395,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 199386
+                    }
+                ],
+                "reviewed_on": "2019-08-13 08:41:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 90595,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 111,
+                "text": "Laser Gum Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2102137,
+            "status": "PUBLISHED",
+            "note": "2022-11-16 10:23:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 204132,
+            "practice_id": 663086,
+            "practice_name": "MSR Dental For Smiles & Beyond...",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-16T11:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45022463,
+                "review_text": "Wonderful doctor. Highly recommend for ********* treatment and explained the complete process. Was sensitive to patients pain.",
+                "review_alterations": [
+                    {
+                        "start_index": 39,
+                        "end_index": 47,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 432946
+                    }
+                ],
+                "reviewed_on": "2022-11-15 10:16:49",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rampi "
+        },
+        "entity_id": 110997,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1367778,
+            "status": "PUBLISHED",
+            "note": "2020-02-13 10:59:03",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 204132,
+            "practice_id": 663844,
+            "practice_name": "Life Alive",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-13T11:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40922564,
+                "review_text": "She is amazing . I got connected with her easily and have deep conversations about how I can take care of my health and mind. I have recommended her to my friends and family. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-12 10:57:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sindhu"
+        },
+        "entity_id": 90595,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 473,
+                "text": "Dental Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1303114,
+            "status": "PUBLISHED",
+            "note": "2019-12-01 06:27:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 204132,
+            "practice_id": 663086,
+            "practice_name": "MSR Dental For Smiles & Beyond...",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-01T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40452155,
+                "review_text": "Both doctors Dr Ravi and Dr Sunitha are excellent. The supporting doctors and staff were pleasant and friendly. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-30 04:01:21",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raghu R"
+        },
+        "entity_id": 110997,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 306,
+                "text": "Anti Aging Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1084073,
+            "status": "PUBLISHED",
+            "note": "2019-02-13 05:54:35",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 204132,
+            "practice_id": 663844,
+            "practice_name": "Life Alive",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-13T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39040576,
+                "review_text": "Wonderful experience.  Life alive is the reason behind my positive differences . Thank u so much for the inspiration u have given ",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-11 10:55:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shoba chandrasekar"
+        },
+        "entity_id": 90595,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 65,
+                "text": "Mucogingival Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1305404,
+            "status": "PUBLISHED",
+            "note": "2019-12-04 11:40:34",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 204132,
+            "practice_id": 663844,
+            "practice_name": "Life Alive",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-04T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40469713,
+                "review_text": "It was a holistic treatment for weight loss. Not just weight loss, over all  wellness is taken care. Thanks a million to Dr. Sunita Ravi for helping in the discovery of new Me. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-03 06:46:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 90595,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 6611,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 201538,
+            "practice_id": 663086,
+            "practice_name": "MSR Dental Surgery for Smiles & Beyond...",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-01-05T14:12:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 467314,
+                "review_text": "Had a gr8 experience.                                                  .                                                                                    .",
+                "review_alterations": [],
+                "reviewed_on": "2015-01-05 14:12:48",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 88508,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 4104,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 201538,
+            "practice_id": 663086,
+            "practice_name": "MSR Dental Surgery for Smiles & Beyond...",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2014-12-03T09:50:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 284969,
+                "review_text": "Very much satisfied with treatment and care taken.its well organised and patient properly briefed about the the problen.",
+                "review_alterations": [],
+                "reviewed_on": "2014-12-03 09:50:08",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 88508,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

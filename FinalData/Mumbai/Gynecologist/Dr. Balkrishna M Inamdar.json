@@ -1,0 +1,184 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1227931,
+            "status": "PUBLISHED",
+            "note": "2019-08-23 05:02:29",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 396225,
+            "practice_id": 779030,
+            "practice_name": "Datt Maternity & Surgical Home",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-23T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39961426,
+                "review_text": "**** **** ******* * friendly environment hospital. Both doctors are experience & humble. Staff are co- operative.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 201007
+                    }
+                ],
+                "reviewed_on": "2019-08-20 12:18:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Babita Kamble"
+        },
+        "entity_id": 314760,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1267236,
+            "status": "PUBLISHED",
+            "note": "2019-10-12 09:19:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 396225,
+            "practice_id": 779030,
+            "practice_name": "Datt Maternity & Surgical Home",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-12T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40215067,
+                "review_text": "Very Humble and helpful personality. will release any tension and pressure from patient mind and will give best guidance and advice for being healthy. i would recommend inamdar sir to everyone looking for better pregnancy path.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-11 08:28:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 314760,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2179582,
+            "status": "PUBLISHED",
+            "note": "2023-04-06 09:46:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 396225,
+            "practice_id": 779030,
+            "practice_name": "Datt Maternity & Surgical Home",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-06T10:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45466566,
+                "review_text": "Horrible experience, ** ********** ** ****** just reports are asked to be taken and going further some other doctor is recommending. People do not have this kind of time to keep running round and round for a single thing ***** *** ** **** *** ** *** ***** ** ****** ** ******* **** ******* *** ****** ***** ** ** ****** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 21,
+                        "end_index": 43,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 451473
+                    },
+                    {
+                        "start_index": 220,
+                        "end_index": 323,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 451474
+                    }
+                ],
+                "reviewed_on": "2023-04-05 07:45:54",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 314760,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

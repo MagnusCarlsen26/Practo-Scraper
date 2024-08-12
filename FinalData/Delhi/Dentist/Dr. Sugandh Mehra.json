@@ -1,0 +1,1414 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193836,
+                "text": "Re-Root Canal Treatment"
+            },
+            {
+                "id": 99,
+                "text": "Dental Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2178177,
+            "status": "PUBLISHED",
+            "note": "2023-04-03 05:03:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-03T06:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420886,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback. We're so happy to hear from you. We're glad that you were satisfied with your dental treatment. Hoping to provide you with state of art facilities and highest quality in future!",
+                "replied_at": "2023-08-12T11:49:01+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 45457563,
+                "review_text": "I recently visited Dr. Sugandh Mehra's dental practice, and I have to say that it was one of the best dental experiences I have ever had. From the moment I walked in**** *** ********** ************* *** took the time to explain everything that was happening during the exam.The treatment itself was painless and efficient, and I was impressed by the state-of-the-art technology that was used in the practice. The office was clean and well-maintained, which further added to the overall positive experience.Overall, I would recommend Dr. Sugandh to anyone in need of dental care. She provide exceptional service, and I left feeling confident and satisfied with my visit. Thank you for the great experience!\\",
+                "review_alterations": [
+                    {
+                        "start_index": 165,
+                        "end_index": 202,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 451140
+                    }
+                ],
+                "reviewed_on": "2023-04-02 04:05:53",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pooja Kumbhare"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 631,
+                "text": "Dental Implant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1796472,
+            "status": "PUBLISHED",
+            "note": "2021-08-07 10:36:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-07T11:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420889,
+                "reply_status": "PUBLISHED",
+                "reply_text": "We're happy to hear from you! Thank you sir for your kind words of appreciation. We're definitely looking forward to provide you with highest quality of dental services in future too.",
+                "replied_at": "2023-08-12T12:24:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 43240223,
+                "review_text": "I went to the clinic with a broken wisdom tooth. I must appreciate *** **** **** ********** ** * ****** ******* ******* **** ***** ********* ** **** *** ** *****. Initially i was scared from the pain the extraction would cause. However, k felt very comfortable and relaxed during the treatment with absolutely no pain at all. After 3 months, i visited the her clinic again for my dental implant on the extracted tooth and the entire surgery was really smooth with no side effects till date.\nAlso to note the fact that the clinic is taking all the required COVID-19 prevention measures, which is really commendable im these asking times.\nI am very happy and satisfied with the overall experience and would highly recommend everyone to visit the clinic.",
+                "review_alterations": [
+                    {
+                        "start_index": 67,
+                        "end_index": 160,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 364274
+                    }
+                ],
+                "reviewed_on": "2021-08-06 10:33:45",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anant"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1239917,
+            "status": "PUBLISHED",
+            "note": "2019-09-06 09:47:00",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-06T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 431116,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback. We're glad you are satisfied with your treatment. We'll definitely provide you with a pleasant dental experience in future too.",
+                "replied_at": "2023-11-24T09:04:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 40038092,
+                "review_text": "I had broken my tooth and it was really painful at that time. I was searching for a good dentist and then a friend suggested me to visit Dr. Sugandh. She was very friendly and helpful in making me understand the depth of my injury and what treatments can be provided to fix my tooth. \n\nI got my Root Canal treatment from her. She placed a capping on my teeth too. I was so relaxed and comfortable during the treatment. She is keeping a check on my dental records since then and I go for frequent dental check ups to her clinic.\n\nI had a very good experience with Dr. Sugandh Mehra. She is very sweet and is always concerned for her patients.\n\nPatients feel very comfortable in the clinic. I would recommend Serenity Dental Care to everyone.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-05 09:44:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Avanthika Sanil"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1698413,
+            "status": "PUBLISHED",
+            "note": "2021-04-15 09:42:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-15T10:01:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 431129,
+                "reply_status": "PUBLISHED",
+                "reply_text": "We can assure proper treatment, follow up and patient care to all the patients in the clinic. All patients need to follow proper treatment protocol and visit the clinic on appointment days.    Kindly stop spreading inappropriate and false information. \n\nDecayed Milk teeth and permanent teeth need to be treated in children.",
+                "replied_at": "2023-11-24T10:18:04+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 42705494,
+                "review_text": "I had taken my 8yr son for checkup after he started complaining about tooth ache.  She started the checkup only after taking advance payment of \u20b9600 via Gpay. She inspected and did Couple of x-rays and advised that My son has cavity and the tooth should be extracted as it is a milk tooth and cavity might damage the permanent tooth that is coming down under.  She convinced me to pay advance payment of additional \u20b93400 and gave me appointment for next day for the procedure. \n\nUpon reaching home I explained this to my wife and she suggested for a 2nd opinion. We checked with another dentist *** ***** ********* **** *** ** *** **** **** **** ** *** * ********* ***** *** *** **** ***** *** ** ******* *** **** ******  \n\nWe as parents of an 8yr were now really confused between 2 different opinions and line of treatment and we decided to get opinion from a 3rd dentist.\n\nWe visited 3rd dentist *** ** **** ******* **** ** ** * ********* ***** *** **** ********* ** **** ***** *** *** *** ***** *********** ***** **** ** **** ****** ** *** ** **** **** ** ** * ********* ****** \n\nWe were so glad that we didn't listened to her and got the tooth extracted, **** ** *** ***** **** **** ******* * ***** *** *** ****** ***** We called and told her about our visit to other 2 dentist's and asked her to share the x-rays which she had taken, which she never did. After waiting for few days I visited her clinic to ask for the x-rays and the advance I had paid for the treatment. She neither shared the x-rays nor did refund my money. \n\n**** ** *** **** *** ** ***** ****** *** **** ** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 595,
+                        "end_index": 719,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 339274
+                    },
+                    {
+                        "start_index": 898,
+                        "end_index": 1080,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 339275
+                    },
+                    {
+                        "start_index": 1159,
+                        "end_index": 1223,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 339276
+                    },
+                    {
+                        "start_index": 1533,
+                        "end_index": 1588,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 339277
+                    }
+                ],
+                "reviewed_on": "2021-04-13 13:13:31",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1672677,
+            "status": "PUBLISHED",
+            "note": "2021-03-14 13:35:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-14T14:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42562611,
+                "review_text": "First of all, She is very expensive.. Also I went to her for roothe extraction and before that she did some X-ray and till date she has not provided the films of X-ray, I have been to her clinic four time to get the X-ray films but she always give some or the other reason, also first u have to pay only then she will start with the treatment. \n\nI had lot of pain in my tooth, it was Monday and she does not come to clinic on Monday, so I called her up as told her I have a lot of pain if u can please let me know some medicine and we can meet on Tuesday but no she first took 600 rs online through Paytm to prescribe the medicine***** **** ***** ***** ****** ***",
+                "review_alterations": [
+                    {
+                        "start_index": 630,
+                        "end_index": 662,
+                        "reason": "NON_COMPLIANT",
+                        "id": 332748
+                    }
+                ],
+                "reviewed_on": "2021-03-13 13:24:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Prince Dhingra"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 268,
+                "text": "Dental X-Ray"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 499,
+                "text": "Ceramic Braces Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1796847,
+            "status": "PUBLISHED",
+            "note": "2021-08-08 04:58:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-08T05:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420888,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much. We're glad that you are satisfied and happy with our treatment.",
+                "replied_at": "2023-08-12T12:08:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 43242258,
+                "review_text": "I\u2019m really scared of dentists. But I must say that Dr. Sugandh is genuinely the most humble and sweetest doctor I\u2019ve ever met. First, I got my X rays and fillings done from this clinic. Then later i started with my braces treatment. She took some photos in the beginning and explained the entire procedure in detail. The ambience of the clinic is really good and staff is also well trained. The best part is you get quality work without pain. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-06 16:47:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ankita Jain"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1239009,
+            "status": "PUBLISHED",
+            "note": "2019-09-05 10:56:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-05T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 431120,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for a valuable feedback. We'll provide an execellent dental treatment in future too.",
+                "replied_at": "2023-11-24T09:09:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 40032476,
+                "review_text": "My son was complaining of severe pain in his tooth since many days. Then, I got to know about Dr. Sugandh Mehra from my friend. So I visited her clinic in East Punjabi bagh. \n\nShe removed his rotten tooth and gave him medicines. She is a very friendly doctor. She is very cooperative and considered all of my aspects and then she did the treatment.\n\nAlso during the treatment, my son was so comfortable that he couldn't  feel that he was undergoing any treatment.\n\nI would recommend everyone to visit Serenity Dental Care as they take full responsibility to give you best dental results.\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-04 08:52:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 109,
+                "text": "Invisible/Clear Braces"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2280279,
+            "status": "PUBLISHED",
+            "note": "2023-10-21 07:28:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-20T09:45:44+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 427159,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback. We're glad that you are satisfied with your treatment. ",
+                "replied_at": "2023-10-20T09:45:44+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 46084441,
+                "review_text": "**** ****** * **** **** ***, I had some issues regarding my teeth and I had some concerns regarding them. They help me very much. They told me about the procedure in a way which I could understand easily.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 26,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 471444
+                    }
+                ],
+                "reviewed_on": "2023-10-19 18:59:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shubham Gupta"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193843,
+                "text": " Teeth cleaning & polishing"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2149831,
+            "status": "PUBLISHED",
+            "note": "2023-02-12 09:36:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-12T10:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420887,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you mam for your kind words! Your feedback helps us to keep working hard and motivates us.",
+                "replied_at": "2023-08-12T11:53:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 45294343,
+                "review_text": "Good and caring doctor for tooth and best experience to visit in this dentist it is too relaxing work\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-11 09:32:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sonia Sehgal"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1238961,
+            "status": "PUBLISHED",
+            "note": "2019-09-05 10:34:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-05T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 431117,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback.",
+                "replied_at": "2023-11-24T09:04:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 40032152,
+                "review_text": "Very beautiful designed clinic and very hygienic. Dr Sugandh is very nice, expert and a professional.  I always get myself and family treated for all dental issues ",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-04 07:52:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jitendra khanna"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193836,
+                "text": "Re-Root Canal Treatment"
+            },
+            {
+                "id": 99,
+                "text": "Dental Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2178177,
+            "status": "PUBLISHED",
+            "note": "2023-04-03 05:03:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-03T06:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420886,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback. We're so happy to hear from you. We're glad that you were satisfied with your dental treatment. Hoping to provide you with state of art facilities and highest quality in future!",
+                "replied_at": "2023-08-12T11:49:01+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 45457563,
+                "review_text": "I recently visited Dr. Sugandh Mehra's dental practice, and I have to say that it was one of the best dental experiences I have ever had. From the moment I walked in**** *** ********** ************* *** took the time to explain everything that was happening during the exam.The treatment itself was painless and efficient, and I was impressed by the state-of-the-art technology that was used in the practice. The office was clean and well-maintained, which further added to the overall positive experience.Overall, I would recommend Dr. Sugandh to anyone in need of dental care. She provide exceptional service, and I left feeling confident and satisfied with my visit. Thank you for the great experience!\\",
+                "review_alterations": [
+                    {
+                        "start_index": 165,
+                        "end_index": 202,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 451140
+                    }
+                ],
+                "reviewed_on": "2023-04-02 04:05:53",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pooja Kumbhare"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 631,
+                "text": "Dental Implant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1796472,
+            "status": "PUBLISHED",
+            "note": "2021-08-07 10:36:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-07T11:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420889,
+                "reply_status": "PUBLISHED",
+                "reply_text": "We're happy to hear from you! Thank you sir for your kind words of appreciation. We're definitely looking forward to provide you with highest quality of dental services in future too.",
+                "replied_at": "2023-08-12T12:24:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 43240223,
+                "review_text": "I went to the clinic with a broken wisdom tooth. I must appreciate *** **** **** ********** ** * ****** ******* ******* **** ***** ********* ** **** *** ** *****. Initially i was scared from the pain the extraction would cause. However, k felt very comfortable and relaxed during the treatment with absolutely no pain at all. After 3 months, i visited the her clinic again for my dental implant on the extracted tooth and the entire surgery was really smooth with no side effects till date.\nAlso to note the fact that the clinic is taking all the required COVID-19 prevention measures, which is really commendable im these asking times.\nI am very happy and satisfied with the overall experience and would highly recommend everyone to visit the clinic.",
+                "review_alterations": [
+                    {
+                        "start_index": 67,
+                        "end_index": 160,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 364274
+                    }
+                ],
+                "reviewed_on": "2021-08-06 10:33:45",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anant"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1239917,
+            "status": "PUBLISHED",
+            "note": "2019-09-06 09:47:00",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-06T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 431116,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your valuable feedback. We're glad you are satisfied with your treatment. We'll definitely provide you with a pleasant dental experience in future too.",
+                "replied_at": "2023-11-24T09:04:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 40038092,
+                "review_text": "I had broken my tooth and it was really painful at that time. I was searching for a good dentist and then a friend suggested me to visit Dr. Sugandh. She was very friendly and helpful in making me understand the depth of my injury and what treatments can be provided to fix my tooth. \n\nI got my Root Canal treatment from her. She placed a capping on my teeth too. I was so relaxed and comfortable during the treatment. She is keeping a check on my dental records since then and I go for frequent dental check ups to her clinic.\n\nI had a very good experience with Dr. Sugandh Mehra. She is very sweet and is always concerned for her patients.\n\nPatients feel very comfortable in the clinic. I would recommend Serenity Dental Care to everyone.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-05 09:44:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Avanthika Sanil"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1698413,
+            "status": "PUBLISHED",
+            "note": "2021-04-15 09:42:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-15T10:01:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 431129,
+                "reply_status": "PUBLISHED",
+                "reply_text": "We can assure proper treatment, follow up and patient care to all the patients in the clinic. All patients need to follow proper treatment protocol and visit the clinic on appointment days.    Kindly stop spreading inappropriate and false information. \n\nDecayed Milk teeth and permanent teeth need to be treated in children.",
+                "replied_at": "2023-11-24T10:18:04+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 42705494,
+                "review_text": "I had taken my 8yr son for checkup after he started complaining about tooth ache.  She started the checkup only after taking advance payment of \u20b9600 via Gpay. She inspected and did Couple of x-rays and advised that My son has cavity and the tooth should be extracted as it is a milk tooth and cavity might damage the permanent tooth that is coming down under.  She convinced me to pay advance payment of additional \u20b93400 and gave me appointment for next day for the procedure. \n\nUpon reaching home I explained this to my wife and she suggested for a 2nd opinion. We checked with another dentist *** ***** ********* **** *** ** *** **** **** **** ** *** * ********* ***** *** *** **** ***** *** ** ******* *** **** ******  \n\nWe as parents of an 8yr were now really confused between 2 different opinions and line of treatment and we decided to get opinion from a 3rd dentist.\n\nWe visited 3rd dentist *** ** **** ******* **** ** ** * ********* ***** *** **** ********* ** **** ***** *** *** *** ***** *********** ***** **** ** **** ****** ** *** ** **** **** ** ** * ********* ****** \n\nWe were so glad that we didn't listened to her and got the tooth extracted, **** ** *** ***** **** **** ******* * ***** *** *** ****** ***** We called and told her about our visit to other 2 dentist's and asked her to share the x-rays which she had taken, which she never did. After waiting for few days I visited her clinic to ask for the x-rays and the advance I had paid for the treatment. She neither shared the x-rays nor did refund my money. \n\n**** ** *** **** *** ** ***** ****** *** **** ** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 595,
+                        "end_index": 719,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 339274
+                    },
+                    {
+                        "start_index": 898,
+                        "end_index": 1080,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 339275
+                    },
+                    {
+                        "start_index": 1159,
+                        "end_index": 1223,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 339276
+                    },
+                    {
+                        "start_index": 1533,
+                        "end_index": 1588,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 339277
+                    }
+                ],
+                "reviewed_on": "2021-04-13 13:13:31",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1672677,
+            "status": "PUBLISHED",
+            "note": "2021-03-14 13:35:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-14T14:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42562611,
+                "review_text": "First of all, She is very expensive.. Also I went to her for roothe extraction and before that she did some X-ray and till date she has not provided the films of X-ray, I have been to her clinic four time to get the X-ray films but she always give some or the other reason, also first u have to pay only then she will start with the treatment. \n\nI had lot of pain in my tooth, it was Monday and she does not come to clinic on Monday, so I called her up as told her I have a lot of pain if u can please let me know some medicine and we can meet on Tuesday but no she first took 600 rs online through Paytm to prescribe the medicine***** **** ***** ***** ****** ***",
+                "review_alterations": [
+                    {
+                        "start_index": 630,
+                        "end_index": 662,
+                        "reason": "NON_COMPLIANT",
+                        "id": 332748
+                    }
+                ],
+                "reviewed_on": "2021-03-13 13:24:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Prince Dhingra"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 268,
+                "text": "Dental X-Ray"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 499,
+                "text": "Ceramic Braces Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1796847,
+            "status": "PUBLISHED",
+            "note": "2021-08-08 04:58:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-08T05:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420888,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much. We're glad that you are satisfied and happy with our treatment.",
+                "replied_at": "2023-08-12T12:08:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 43242258,
+                "review_text": "I\u2019m really scared of dentists. But I must say that Dr. Sugandh is genuinely the most humble and sweetest doctor I\u2019ve ever met. First, I got my X rays and fillings done from this clinic. Then later i started with my braces treatment. She took some photos in the beginning and explained the entire procedure in detail. The ambience of the clinic is really good and staff is also well trained. The best part is you get quality work without pain. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-06 16:47:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ankita Jain"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1239009,
+            "status": "PUBLISHED",
+            "note": "2019-09-05 10:56:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-05T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 431120,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for a valuable feedback. We'll provide an execellent dental treatment in future too.",
+                "replied_at": "2023-11-24T09:09:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 40032476,
+                "review_text": "My son was complaining of severe pain in his tooth since many days. Then, I got to know about Dr. Sugandh Mehra from my friend. So I visited her clinic in East Punjabi bagh. \n\nShe removed his rotten tooth and gave him medicines. She is a very friendly doctor. She is very cooperative and considered all of my aspects and then she did the treatment.\n\nAlso during the treatment, my son was so comfortable that he couldn't  feel that he was undergoing any treatment.\n\nI would recommend everyone to visit Serenity Dental Care as they take full responsibility to give you best dental results.\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-04 08:52:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 109,
+                "text": "Invisible/Clear Braces"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2280279,
+            "status": "PUBLISHED",
+            "note": "2023-10-21 07:28:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-20T09:45:44+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 427159,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback. We're glad that you are satisfied with your treatment. ",
+                "replied_at": "2023-10-20T09:45:44+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 46084441,
+                "review_text": "**** ****** * **** **** ***, I had some issues regarding my teeth and I had some concerns regarding them. They help me very much. They told me about the procedure in a way which I could understand easily.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 26,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 471444
+                    }
+                ],
+                "reviewed_on": "2023-10-19 18:59:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shubham Gupta"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193843,
+                "text": " Teeth cleaning & polishing"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2149831,
+            "status": "PUBLISHED",
+            "note": "2023-02-12 09:36:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-12T10:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420887,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you mam for your kind words! Your feedback helps us to keep working hard and motivates us.",
+                "replied_at": "2023-08-12T11:53:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 45294343,
+                "review_text": "Good and caring doctor for tooth and best experience to visit in this dentist it is too relaxing work\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-11 09:32:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sonia Sehgal"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1238961,
+            "status": "PUBLISHED",
+            "note": "2019-09-05 10:34:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 562681,
+            "practice_id": 1118406,
+            "practice_name": "Serenity Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-05T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 431117,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback.",
+                "replied_at": "2023-11-24T09:04:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1129291,
+                "modified_by_id": 1129291,
+                "replier_name": "Dr. Sugandh Mehra",
+                "replier_logo": "https://images1-fabric.practo.com/sugandh-mehra-1469430482-5795bad24ab00.jpg"
+            },
+            "survey_response": {
+                "id": 40032152,
+                "review_text": "Very beautiful designed clinic and very hygienic. Dr Sugandh is very nice, expert and a professional.  I always get myself and family treated for all dental issues ",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-04 07:52:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jitendra khanna"
+        },
+        "entity_id": 536816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

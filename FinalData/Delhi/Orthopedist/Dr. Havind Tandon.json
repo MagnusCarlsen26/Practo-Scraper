@@ -1,0 +1,268 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1421020,
+            "status": "PUBLISHED",
+            "note": "2020-05-05 06:32:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 131998,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-05T07:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41242630,
+                "review_text": "Dr Havind Tandon ** ** ********* ****** *** ******* *** ****** ** ** ****** ***** ** *** *** hand with utmost care and his team of doctors are also outstanding. I got my second life after road accident due to Dr Tandon and his team at Apollo Hospital Delhi. ",
+                "review_alterations": [
+                    {
+                        "start_index": 16,
+                        "end_index": 92,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 264020
+                    }
+                ],
+                "reviewed_on": "2020-05-03 11:26:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586869,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2426146,
+            "status": "PUBLISHED",
+            "note": "2024-08-08 10:32:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 131998,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-08T11:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46917779,
+                "review_text": "I went to this doctor taking an appointment , he recommended some tests .. I did all the tests but after that I had to give the appointment fees twice ... So won't recommend this doctor to any person *** ** **** ****** ***** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 200,
+                        "end_index": 234,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 492817
+                    }
+                ],
+                "reviewed_on": "2024-08-07 10:24:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586869,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 741329,
+            "status": "PUBLISHED",
+            "note": "2017-12-06 11:08:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 131998,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-06T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36227528,
+                "review_text": "I had a foot injury. ** **** ** * ********* **** *** ****** He gave me a steroid shot. Because of which I ended up getting CRPS \nI would not recommend this doctor",
+                "review_alterations": [
+                    {
+                        "start_index": 21,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 80001
+                    }
+                ],
+                "reviewed_on": "2017-12-03 23:46:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sarika"
+        },
+        "entity_id": 586869,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 755,
+                "text": "Toe Walking"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 924450,
+            "status": "PUBLISHED",
+            "note": "2018-07-20 10:12:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 131998,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-20T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37881981,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 129,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 118758
+                    }
+                ],
+                "reviewed_on": "2018-07-18 16:24:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sarika"
+        },
+        "entity_id": 586869,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 656083,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 131998,
+            "practice_id": 695475,
+            "practice_name": "Joint View Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-22T08:51:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35391612,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-19 14:55:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Balvinder Singh"
+        },
+        "entity_id": 182289,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

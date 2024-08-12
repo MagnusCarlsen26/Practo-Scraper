@@ -1,0 +1,175 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2386391,
+            "status": "PUBLISHED",
+            "note": "2024-05-19 09:59:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1056081,
+            "practice_id": 1445117,
+            "practice_name": "City Dental Care (A Multispeciality Dental Centre )",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-19T10:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46690197,
+                "review_text": "Doctor explained the situation in normal terms for us to understand and treated my dental issue without any pain.\n\nStaff at clinic are friendly and highly cooperative.",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-18 09:46:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "PAVITRA KAKARLA"
+        },
+        "entity_id": 888230,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            },
+            {
+                "id": 42161,
+                "text": "Composite tooth filling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2363107,
+            "status": "PUBLISHED",
+            "note": "2024-03-31 04:19:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1056081,
+            "practice_id": 1445117,
+            "practice_name": "City Dental Care (A Multispeciality Dental Centre )",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-31T05:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46556885,
+                "review_text": "We have been visiting dr. Prakash Chandra for a very long time. ** ** *** ** *** **** ******** *** ******* ********* *** *********** *********** He is very down to earth and friendly. Also the visiting doctors are very good, ********** ** **** ***** ************* *** ******** ",
+                "review_alterations": [
+                    {
+                        "start_index": 63,
+                        "end_index": 143,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482701
+                    },
+                    {
+                        "start_index": 224,
+                        "end_index": 275,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 482702
+                    }
+                ],
+                "reviewed_on": "2024-03-29 11:22:38",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "user"
+        },
+        "entity_id": 888230,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2377904,
+            "status": "PUBLISHED",
+            "note": "2024-05-03 07:17:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1056081,
+            "practice_id": 1445117,
+            "practice_name": "City Dental Care (A Multispeciality Dental Centre )",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-03T08:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46641515,
+                "review_text": "We visited dental clinic for my 5yr old son's dental fillings. Doctor explained the situation in normal terms for us to understand and treated my son's dental issue without any pain.\nStaff at clinic are friendly and highly cooperative. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-01 07:49:47",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Samved"
+        },
+        "entity_id": 888230,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

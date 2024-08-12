@@ -1,0 +1,2630 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2016442,
+            "status": "PUBLISHED",
+            "note": "2022-06-24 11:49:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-24T12:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 364566,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2022-06-29T09:11:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 44525545,
+                "review_text": "**** ********* *** correct medication. Very supportive throughout. We approached the doctor for throatpain and temperature. He was very prompt in suggesting RTPCR and once it was determined that I had covid, he was very thorough in suggesting correct course  of action.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 415255
+                    }
+                ],
+                "reviewed_on": "2022-06-23 11:20:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hrishikesh Deshmukh "
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1878567,
+            "status": "PUBLISHED",
+            "note": "2021-11-23 10:52:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-23T10:26:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 328468,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for feedback",
+                "replied_at": "2021-11-23T10:26:53+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 43740308,
+                "review_text": "We have been going to Rahul sir for almost 5 years now and we find his diagnosis always to the point. He is straightforward calm very attentive  and definitive  in his treatment. He starts with a conservative pproach for minor ailments and reads all the reports patiently. When he refers you to someone he will inquire about you  with that person. We recommend him everyone who is looking for a thorough and detail and accurate diagnosis. Thank you Rahul sir!",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-22 08:57:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Baby. Mahati Murari"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            },
+            {
+                "id": 186383,
+                "text": "hba1c"
+            },
+            {
+                "id": 186434,
+                "text": "Diabetes complications"
+            },
+            {
+                "id": 186443,
+                "text": "Annual health checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733860,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 05:38:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:57:58+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289584,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:57:58+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42895424,
+                "review_text": "We have known Dr.Rahul for the past 2 years or so..our complete family consults him including our elders, relatives and friends. He is just a phone call away whenever we need his medical advice..our goto person..thank you for being so consideradate and approachable at any time. Whoever consults him are very happy with his treatment..",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-27 03:58:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anita J"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733771,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 06:36:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:58:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289586,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42894945,
+                "review_text": "*** ** *** ****** ********** ** ************ ********** ***** We had consulted him when my family was battling COVID. He was extremely systematic in his approach and had prescribed certain tests and medicines which helped us recover well. Can\u2019t thank him enough for navigating my family out of the COVID crisis",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 61,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 347821
+                    }
+                ],
+                "reviewed_on": "2021-05-26 17:48:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abdhesh"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733602,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 04:23:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289590,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42894185,
+                "review_text": "Dr. Rahul Chirag was very friendly and gave enough time to listen to our health issues. He patiently explained us the diagnosis and treatment that was given. He took the stock of the situations during the follow ups. He answered all our questions very nicely. I could definitely recommend him to my family and friends.  I am very satisfied with his consultation. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-26 14:26:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajaneesh Anuapm"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733553,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 04:06:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289589,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42893972,
+                "review_text": "Dr. Rahul Chirag treated My Family and Me for Covid.\n********* ** *** ********** **** ********* *** we have recovered.\nDoctor also suggested general preventions and precautions which were very helpful.\n\nI am very thankful for him being very supportive sometimes even outside his working hours.",
+                "review_alterations": [
+                    {
+                        "start_index": 53,
+                        "end_index": 98,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 347739
+                    }
+                ],
+                "reviewed_on": "2021-05-26 13:59:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gunjan Choudhary"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733493,
+            "status": "PUBLISHED",
+            "note": "2021-05-27 13:29:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-27T14:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289588,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42893707,
+                "review_text": "Hi sir,\n \nI am really happy with treatment and friendliness of doctor.I have never seen these kind behaviour of doctors especially in these covid situations.\n\nI have recovered from the covid but I didn't convey any message to doctor but doctor called me and asked that what's your condition now it really means a lot for me and my family members.\n\nThanking you sir. God bless you and your family members with good health and wealth.\n\nThanking you.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-26 13:28:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ravella saisri"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1670656,
+            "status": "PUBLISHED",
+            "note": "2021-03-13 07:59:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-13T08:01:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 279475,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-04-07T11:42:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42551228,
+                "review_text": "Doctor Chirag has been very supportive in giving me timely treatment and recommendations.I am extensively hypertensive and his timely advice has been helpful to tackle this problem in time.He understood the problem, the health history and current complications and advised accordingly in detail.I am relieved to have him as a family physician for immediate consultations.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-11 11:44:40",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vandana"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2102754,
+            "status": "PUBLISHED",
+            "note": "2022-11-17 10:54:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Speciality Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-17T11:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 385635,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2022-11-17T12:31:36+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 45025807,
+                "review_text": "Visited this doctor for my mother treatment. He is very polite and excellent in finding out the issue to the core and providing relevant solution.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-16 10:51:42",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Laxman"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            },
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2024571,
+            "status": "PUBLISHED",
+            "note": "2022-07-07 07:36:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-07T08:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44570978,
+                "review_text": "Dr. Rahul Chirag has always been a great support for all our health issues. \n\nHe is very patient and identifies the root cause of the issue. His explanation about the problem is very satisfactory and is always available to guide. \n\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-06 07:33:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sweta Jain"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2016442,
+            "status": "PUBLISHED",
+            "note": "2022-06-24 11:49:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-24T12:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 364566,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2022-06-29T09:11:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 44525545,
+                "review_text": "**** ********* *** correct medication. Very supportive throughout. We approached the doctor for throatpain and temperature. He was very prompt in suggesting RTPCR and once it was determined that I had covid, he was very thorough in suggesting correct course  of action.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 415255
+                    }
+                ],
+                "reviewed_on": "2022-06-23 11:20:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hrishikesh Deshmukh "
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1878567,
+            "status": "PUBLISHED",
+            "note": "2021-11-23 10:52:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-23T10:26:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 328468,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for feedback",
+                "replied_at": "2021-11-23T10:26:53+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 43740308,
+                "review_text": "We have been going to Rahul sir for almost 5 years now and we find his diagnosis always to the point. He is straightforward calm very attentive  and definitive  in his treatment. He starts with a conservative pproach for minor ailments and reads all the reports patiently. When he refers you to someone he will inquire about you  with that person. We recommend him everyone who is looking for a thorough and detail and accurate diagnosis. Thank you Rahul sir!",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-22 08:57:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Baby. Mahati Murari"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            },
+            {
+                "id": 186383,
+                "text": "hba1c"
+            },
+            {
+                "id": 186434,
+                "text": "Diabetes complications"
+            },
+            {
+                "id": 186443,
+                "text": "Annual health checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733860,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 05:38:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:57:58+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289584,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:57:58+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42895424,
+                "review_text": "We have known Dr.Rahul for the past 2 years or so..our complete family consults him including our elders, relatives and friends. He is just a phone call away whenever we need his medical advice..our goto person..thank you for being so consideradate and approachable at any time. Whoever consults him are very happy with his treatment..",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-27 03:58:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anita J"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733771,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 06:36:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:58:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289586,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42894945,
+                "review_text": "*** ** *** ****** ********** ** ************ ********** ***** We had consulted him when my family was battling COVID. He was extremely systematic in his approach and had prescribed certain tests and medicines which helped us recover well. Can\u2019t thank him enough for navigating my family out of the COVID crisis",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 61,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 347821
+                    }
+                ],
+                "reviewed_on": "2021-05-26 17:48:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abdhesh"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733602,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 04:23:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289590,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42894185,
+                "review_text": "Dr. Rahul Chirag was very friendly and gave enough time to listen to our health issues. He patiently explained us the diagnosis and treatment that was given. He took the stock of the situations during the follow ups. He answered all our questions very nicely. I could definitely recommend him to my family and friends.  I am very satisfied with his consultation. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-26 14:26:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajaneesh Anuapm"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733553,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 04:06:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289589,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42893972,
+                "review_text": "Dr. Rahul Chirag treated My Family and Me for Covid.\n********* ** *** ********** **** ********* *** we have recovered.\nDoctor also suggested general preventions and precautions which were very helpful.\n\nI am very thankful for him being very supportive sometimes even outside his working hours.",
+                "review_alterations": [
+                    {
+                        "start_index": 53,
+                        "end_index": 98,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 347739
+                    }
+                ],
+                "reviewed_on": "2021-05-26 13:59:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gunjan Choudhary"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733493,
+            "status": "PUBLISHED",
+            "note": "2021-05-27 13:29:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-27T14:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289588,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42893707,
+                "review_text": "Hi sir,\n \nI am really happy with treatment and friendliness of doctor.I have never seen these kind behaviour of doctors especially in these covid situations.\n\nI have recovered from the covid but I didn't convey any message to doctor but doctor called me and asked that what's your condition now it really means a lot for me and my family members.\n\nThanking you sir. God bless you and your family members with good health and wealth.\n\nThanking you.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-26 13:28:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ravella saisri"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1670656,
+            "status": "PUBLISHED",
+            "note": "2021-03-13 07:59:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-13T08:01:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 279475,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-04-07T11:42:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42551228,
+                "review_text": "Doctor Chirag has been very supportive in giving me timely treatment and recommendations.I am extensively hypertensive and his timely advice has been helpful to tackle this problem in time.He understood the problem, the health history and current complications and advised accordingly in detail.I am relieved to have him as a family physician for immediate consultations.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-11 11:44:40",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vandana"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2102754,
+            "status": "PUBLISHED",
+            "note": "2022-11-17 10:54:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Speciality Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-17T11:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 385635,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2022-11-17T12:31:36+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 45025807,
+                "review_text": "Visited this doctor for my mother treatment. He is very polite and excellent in finding out the issue to the core and providing relevant solution.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-16 10:51:42",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Laxman"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            },
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2024571,
+            "status": "PUBLISHED",
+            "note": "2022-07-07 07:36:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-07T08:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44570978,
+                "review_text": "Dr. Rahul Chirag has always been a great support for all our health issues. \n\nHe is very patient and identifies the root cause of the issue. His explanation about the problem is very satisfactory and is always available to guide. \n\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-06 07:33:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sweta Jain"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1878819,
+            "status": "PUBLISHED",
+            "note": "2021-11-24 05:38:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-23T10:27:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 328469,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-11-23T10:27:08+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 43741923,
+                "review_text": "Doctor explained in detail and was patient to resolve all the queries I had. Didn't take much time as well.",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-22 14:07:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "mohil kapoor"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1732977,
+            "status": "PUBLISHED",
+            "note": "2021-05-27 05:32:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-27T06:01:23+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289585,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:07+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42891172,
+                "review_text": "Doctor is really straight and on to point. Not many antibiotics are suggested. He really very kind and highly postive. Thank you!!!",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-26 04:23:36",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hetal shah"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1693564,
+            "status": "PUBLISHED",
+            "note": "2021-04-08 11:54:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-08T12:01:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 279742,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-04-08T17:14:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42678730,
+                "review_text": "Dr Rahul is so kind person. Giving correct treatment on decease. He is very cool and calm. \nWe have never seen time mismatch. He always available on time.  Really appreciate and thanks . ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-07 11:50:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jayendra Patrale "
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            },
+            {
+                "id": 4180,
+                "text": "managing acute medical conditions"
+            },
+            {
+                "id": 101904,
+                "text": "Men and Women Wellness Screening"
+            },
+            {
+                "id": 1550,
+                "text": "Diabetes Renal Failure"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1691545,
+            "status": "PUBLISHED",
+            "note": "2021-04-06 09:51:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-06T10:01:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 279473,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-04-07T11:42:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42667578,
+                "review_text": "Cordial, friendly. Available and prompt feedback when ever contacted online. \nVery Effective medical advise. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-05 06:20:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chandrasekhar J"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            },
+            {
+                "id": 248,
+                "text": "Muscle Cramps"
+            },
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1691504,
+            "status": "PUBLISHED",
+            "note": "2021-04-06 09:46:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-06T10:01:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 279474,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-04-07T11:42:08+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42667310,
+                "review_text": "I have been under his treatment since last 2 years. He used to clarify / explain about disease and his communication is very clear. One thing I appreciate is his honesty towards the profession.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-05 05:45:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ranjit Satpathy"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1436461,
+            "status": "PUBLISHED",
+            "note": "2020-06-03 06:02:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-03T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41320044,
+                "review_text": "Really impressed and explains Ur problem briefly and recommends less medicines. Even my husband got treated for his BP for which he explained briefly.  ",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-02 05:50:56",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neelima"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1335150,
+            "status": "PUBLISHED",
+            "note": "2020-01-09 06:53:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-09T07:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40678900,
+                "review_text": "Explains very well and listens patiently to your problems and questions. ******** **** ********* *********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 73,
+                        "end_index": 107,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 235968
+                    }
+                ],
+                "reviewed_on": "2020-01-08 05:20:39",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SHEETAL PANCHAL"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1325671,
+            "status": "PUBLISHED",
+            "note": "2019-12-29 06:34:06",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-29T07:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40612815,
+                "review_text": "He was calm and listened patiently. Apt medication . He explained side effects of medication very well ",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-28 04:33:29",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ramesh Srinivasan"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1253613,
+            "status": "PUBLISHED",
+            "note": "2019-09-24 09:29:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-23T13:43:15+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 165886,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.",
+                "replied_at": "2019-09-23T13:43:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 40126283,
+                "review_text": "Very friendly approach by the doctor. Explained about the disease very well. I was diagnosed with dengue fever and he listens all queries and answers at length about everything. :)",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-22 04:31:46",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rohit Prakash"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1152251,
+            "status": "PUBLISHED",
+            "note": "2019-05-14 06:23:32",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-14T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39482185,
+                "review_text": "Doctor is very friendly and had the patience to listen to My issues and am very much happy with treatment that he has suggested ",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-12 04:36:38",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Writtika Maitra"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1361456,
+            "status": "PUBLISHED",
+            "note": "2020-02-07 06:48:27",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-07T07:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40875777,
+                "review_text": "very rarely we wd find doctors who listens to our problems. also he has explained the reason for throat infection and suggested the precautions to be taken to reduce the infection. satisfied with overall experience",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-05 15:32:08",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2016281,
+            "status": "PUBLISHED",
+            "note": "2022-06-24 07:19:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-24T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 364568,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2022-06-29T09:11:50+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 44524671,
+                "review_text": "********* ****** **** ***** ********** ********* ********* *** ******** ** ****.highly recommended.\nVery friendly and even respond to queries over call only in emergency. \n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 78,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 415223
+                    }
+                ],
+                "reviewed_on": "2022-06-23 07:17:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2015034,
+            "status": "PUBLISHED",
+            "note": "2022-06-22 10:09:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-21T13:59:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44517740,
+                "review_text": "Doctor is very friendly *** ** ********* ** ******* ************ I had covid and he kept suspecting other kinds of fever like dengue etc.",
+                "review_alterations": [
+                    {
+                        "start_index": 24,
+                        "end_index": 63,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 414953
+                    }
+                ],
+                "reviewed_on": "2022-06-21 08:34:31",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1734418,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 12:30:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:58:24+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 289587,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-05-28T05:58:24+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42898239,
+                "review_text": "He explains well about the problem and encourage. This helps to calm anxiety. Available on emergency basis which is good.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-27 12:30:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1691609,
+            "status": "PUBLISHED",
+            "note": "2021-04-06 09:57:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-06T10:02:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 279472,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2021-04-07T11:41:51+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4473753,
+                "modified_by_id": 4473753,
+                "replier_name": "Dr. Rahul Chirag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/679810/dr-rahul-chirag-5ea085146fe84.jpg"
+            },
+            "survey_response": {
+                "id": 42668005,
+                "review_text": "Doctor Rahul  spent sufficient time with my father to understand the issue and suggest proper course of action . The suggested action resulted in fast discovery of the underlying issue in his lungs.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-05 07:35:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 297,
+                "text": "Sports Medicine"
+            },
+            {
+                "id": 301,
+                "text": "Rheumatological Rehabilitation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1361956,
+            "status": "PUBLISHED",
+            "note": "2020-02-07 09:34:16",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1117265,
+            "practice_name": "Citizens Specialty Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-07T10:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40879389,
+                "review_text": "Went to Dr Rahul for the first time. Listens in details before coming up with his on diagnosis. Which is a good approach and post his check has his own set of questions before the final diagnosis.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-06 07:48:02",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 660440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 248,
+                "text": "Muscle Cramps"
+            },
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            },
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1333271,
+            "status": "PUBLISHED",
+            "note": "2020-01-07 12:54:04",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-07T13:02:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40665732,
+                "review_text": "It was really nice. The overall experience is good. Right from the beginning he asked me in details regarding my problems. The waiting time was too less as well.. Hugely satisfied.",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-06 07:42:28",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1237387,
+            "status": "PUBLISHED",
+            "note": "2019-09-04 10:52:38",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-04T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40021919,
+                "review_text": "The overall experience was good. The treatment gave me relaxation in few hours. The doctor even consulted on phone as well.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-01 16:39:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1202316,
+            "status": "PUBLISHED",
+            "note": "2019-07-19 05:16:34",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1255628,
+            "practice_name": "Medics Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-19T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39799759,
+                "review_text": "He is a truly caring doctor. he continuously consulted me on my changing condition and was even available on WhatsApp to provide help. it was very reassuring to know that my doctor cares",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-17 14:43:20",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 678167,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1145747,
+            "status": "PUBLISHED",
+            "note": "2019-05-05 05:24:06",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 679810,
+            "practice_id": 1210283,
+            "practice_name": "Rishitha Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-05T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39441765,
+                "review_text": "Human first then doc took care of father as he cancer patient he only diagnosed.  He never force you to do anything gives you option.",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-03 14:32:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 644633,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

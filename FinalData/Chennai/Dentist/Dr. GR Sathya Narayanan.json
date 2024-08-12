@@ -1,0 +1,120 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2308181,
+            "status": "PUBLISHED",
+            "note": "2023-12-16 06:52:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 429323,
+            "practice_id": 843612,
+            "practice_name": "Apollo Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-16T07:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46242254,
+                "review_text": "Really , I will recommend the APOLLO DENTAL CLINIC,  GUDUVANCHERY- Dr G R SATYA NARAYANAN , MDS has given the immediate consultation and treatment for my little daughter aged 3 years with friendly and care. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-14 15:23:14",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 328937,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1212834,
+            "status": "PUBLISHED",
+            "note": "2019-08-01 05:59:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 429323,
+            "practice_id": 843612,
+            "practice_name": "Medi Dent Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-31T08:03:07+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 156743,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your courteous feedback sir.",
+                "replied_at": "2019-07-31T08:03:07+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 393276,
+                "modified_by_id": 393276,
+                "replier_name": "Dr. GR Sathya Narayanan",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/429323/dr-gr-sathya-narayanan-657b5a989cb20.jpg"
+            },
+            "survey_response": {
+                "id": 39866048,
+                "review_text": "The doctor was friendly and explained the options clearly before starting the treatment like the necessity for a crown. He is open to questions and is willing to refer to experts if necessary. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-31 04:26:51",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 328937,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

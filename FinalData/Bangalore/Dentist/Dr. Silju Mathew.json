@@ -1,0 +1,100 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2312408,
+            "status": "PUBLISHED",
+            "note": "2023-12-23 09:29:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 268216,
+            "practice_id": 689062,
+            "practice_name": "Dental Clinic and Orthodontic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-23T10:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46266156,
+                "review_text": "Really loved the experience so far.  Dr Silju explained the gravity of the problem, the treatment routine and the time it will take. Very good team also",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-22 08:51:52",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aditi Anand"
+        },
+        "entity_id": 161436,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 513157,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 268216,
+            "practice_id": 706935,
+            "practice_name": "Medident Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-03T07:26:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33759631,
+                "review_text": "It was amazing. . The doctor's great.  He'll make you feel so great that you start waiting for each month to come to make yourself look better.  Didn't hurt one bit. \r\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-02 06:52:19",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 212281,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

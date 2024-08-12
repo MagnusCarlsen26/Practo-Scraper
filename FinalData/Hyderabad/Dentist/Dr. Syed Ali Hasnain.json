@@ -1,0 +1,2545 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 40133,
+                "text": "Surgical Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1578442,
+            "status": "PUBLISHED",
+            "note": "2020-11-22 05:39:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-21T08:58:35+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 249219,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank You Mr. Sayan for the valuable feedback which can motivate the other patients as well, for their dental check ups and treatments.",
+                "replied_at": "2020-11-21T08:58:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42054685,
+                "review_text": "Dr. Syed Ali Hasnain is very good and experienced person. He listened to my problems carefully and completed my tooth extraction process with utmost care. It took only 15-20 minutes and the process was completely painless. He also explained me in detail and also provide valuable post extraction instruction. Thank You so much.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-20 17:26:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr. Sayan"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1902746,
+            "status": "PUBLISHED",
+            "note": "2021-12-31 06:23:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1001606,
+            "practice_name": "Dr Smiles Dental Clinic Ramkote",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-31T07:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43879692,
+                "review_text": "**** ** **** *** ******* ** *** ** *** **** ******* ** *** **** I got his appointment for my teeth whitening and he treated me very nicely during the whitening treatment and I'm so glad that he was so calm and terrific during the treatment.\nThank you so much Dr Syed Ali Hasnain for taking care of my dental care. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 62,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 390010
+                    }
+                ],
+                "reviewed_on": "2021-12-29 17:19:02",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.syed Taqi Abbas"
+        },
+        "entity_id": 774743,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1900882,
+            "status": "PUBLISHED",
+            "note": "2021-12-28 11:14:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1001606,
+            "practice_name": "Dr Smiles Dental Clinic Ramkote",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-28T12:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43868449,
+                "review_text": "Visited Dr Smiles for my tooth pain. I got my RCT treatment done by Dr Syed Ali Hasnain, the treatment was smooth and painless. He professionally carried the whole treatment and later I got my cap fixed. The staff was very helpful. I recommend Dr Syed Ali for any dental problems. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-27 10:53:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Divya"
+        },
+        "entity_id": 774743,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1397705,
+            "status": "PUBLISHED",
+            "note": "2020-03-13 12:57:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-13T13:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248164,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back,please do visit for your regular dental check ups.",
+                "replied_at": "2020-11-16T09:45:47+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 41111934,
+                "review_text": "**** ** *** **** ****** ****** ** ********** My wife had wisdom tooth extraction but I would say it was done so well *** *** **** ** ****** **** ************* ***    Waiting time is also very well managed, Very well explained and procedure is also very smooth",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 43,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 256585
+                    },
+                    {
+                        "start_index": 117,
+                        "end_index": 161,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 256586
+                    }
+                ],
+                "reviewed_on": "2020-03-12 12:33:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jyotsana Singh"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1319542,
+            "status": "PUBLISHED",
+            "note": "2019-12-22 05:05:20",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-22T06:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40570790,
+                "review_text": "I came with severe pain to the hospital , Dr Ali advised me to go for root canal and composite filling for my lower tooth. I was relieved from pain the frst day. Whole treatment was done smoothly and it was painless. Now i can eat frim my back tooth. Thanks to dr smiles.",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-20 13:47:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "196548"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3431,
+                "text": "Dental Examinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1574103,
+            "status": "PUBLISHED",
+            "note": "2020-11-16 12:07:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-16T09:44:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248161,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back,please do visit for your regular dental check ups.",
+                "replied_at": "2020-11-16T09:44:51+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42030578,
+                "review_text": "Awesome and extremely good...knows exactly what he is doing******* ********** follow up treatment every thing was perfectly taken care of....This hospital displays care for there patients. ",
+                "review_alterations": [
+                    {
+                        "start_index": 59,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 307801
+                    }
+                ],
+                "reviewed_on": "2020-11-13 16:14:18",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aparna sridharan"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1576203,
+            "status": "PUBLISHED",
+            "note": "2020-11-19 06:53:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-19T07:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 249221,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank for the feedback, pls do visit for your regular dental check up.",
+                "replied_at": "2020-11-21T08:59:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42042762,
+                "review_text": "I'm really very happy with the dentist doctor. They make feel safer and Good and nice \ud83d\ude0a\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-18 06:41:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Taraka ramarao"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1248,
+                "text": "Crowns and Bridges Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1574827,
+            "status": "PUBLISHED",
+            "note": "2020-11-18 06:15:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-18T07:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 249223,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the valuable feedback. ",
+                "replied_at": "2020-11-21T08:59:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42034748,
+                "review_text": "**** ********* welldone recommend to others for reliable service  for hygienic servce at quick service ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 13,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 308000
+                    }
+                ],
+                "reviewed_on": "2020-11-16 04:41:32",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kvsrayudu"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 40133,
+                "text": "Surgical Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1573169,
+            "status": "PUBLISHED",
+            "note": "2020-11-13 11:00:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-13T11:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248162,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back\ud83d\udc4d\ud83c\udffb",
+                "replied_at": "2020-11-16T09:45:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42025592,
+                "review_text": "Visited Dr smiles dental clinic with pain and Dr Syed Ali diagnosed and advised to go for teeth removal which was badly decayed and infected. The complete tooth removal procedure was smooth and  painless.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-12 10:56:29",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ms.Suvarna"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1979190,
+            "status": "PUBLISHED",
+            "note": "2022-04-26 06:47:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-26T07:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44313036,
+                "review_text": "All doctors and nursing staff at Dr smiles are really patient friendly and gives right advise with proper consultation and follow up.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-24 17:20:01",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manan Sheth"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 40133,
+                "text": "Surgical Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1578442,
+            "status": "PUBLISHED",
+            "note": "2020-11-22 05:39:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-21T08:58:35+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 249219,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank You Mr. Sayan for the valuable feedback which can motivate the other patients as well, for their dental check ups and treatments.",
+                "replied_at": "2020-11-21T08:58:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42054685,
+                "review_text": "Dr. Syed Ali Hasnain is very good and experienced person. He listened to my problems carefully and completed my tooth extraction process with utmost care. It took only 15-20 minutes and the process was completely painless. He also explained me in detail and also provide valuable post extraction instruction. Thank You so much.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-20 17:26:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr. Sayan"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1902746,
+            "status": "PUBLISHED",
+            "note": "2021-12-31 06:23:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1001606,
+            "practice_name": "Dr Smiles Dental Clinic Ramkote",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-31T07:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43879692,
+                "review_text": "**** ** **** *** ******* ** *** ** *** **** ******* ** *** **** I got his appointment for my teeth whitening and he treated me very nicely during the whitening treatment and I'm so glad that he was so calm and terrific during the treatment.\nThank you so much Dr Syed Ali Hasnain for taking care of my dental care. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 62,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 390010
+                    }
+                ],
+                "reviewed_on": "2021-12-29 17:19:02",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.syed Taqi Abbas"
+        },
+        "entity_id": 774743,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1900882,
+            "status": "PUBLISHED",
+            "note": "2021-12-28 11:14:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1001606,
+            "practice_name": "Dr Smiles Dental Clinic Ramkote",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-28T12:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43868449,
+                "review_text": "Visited Dr Smiles for my tooth pain. I got my RCT treatment done by Dr Syed Ali Hasnain, the treatment was smooth and painless. He professionally carried the whole treatment and later I got my cap fixed. The staff was very helpful. I recommend Dr Syed Ali for any dental problems. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-27 10:53:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Divya"
+        },
+        "entity_id": 774743,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1397705,
+            "status": "PUBLISHED",
+            "note": "2020-03-13 12:57:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-13T13:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248164,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back,please do visit for your regular dental check ups.",
+                "replied_at": "2020-11-16T09:45:47+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 41111934,
+                "review_text": "**** ** *** **** ****** ****** ** ********** My wife had wisdom tooth extraction but I would say it was done so well *** *** **** ** ****** **** ************* ***    Waiting time is also very well managed, Very well explained and procedure is also very smooth",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 43,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 256585
+                    },
+                    {
+                        "start_index": 117,
+                        "end_index": 161,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 256586
+                    }
+                ],
+                "reviewed_on": "2020-03-12 12:33:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jyotsana Singh"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1319542,
+            "status": "PUBLISHED",
+            "note": "2019-12-22 05:05:20",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-22T06:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40570790,
+                "review_text": "I came with severe pain to the hospital , Dr Ali advised me to go for root canal and composite filling for my lower tooth. I was relieved from pain the frst day. Whole treatment was done smoothly and it was painless. Now i can eat frim my back tooth. Thanks to dr smiles.",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-20 13:47:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "196548"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3431,
+                "text": "Dental Examinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1574103,
+            "status": "PUBLISHED",
+            "note": "2020-11-16 12:07:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-16T09:44:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248161,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back,please do visit for your regular dental check ups.",
+                "replied_at": "2020-11-16T09:44:51+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42030578,
+                "review_text": "Awesome and extremely good...knows exactly what he is doing******* ********** follow up treatment every thing was perfectly taken care of....This hospital displays care for there patients. ",
+                "review_alterations": [
+                    {
+                        "start_index": 59,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 307801
+                    }
+                ],
+                "reviewed_on": "2020-11-13 16:14:18",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aparna sridharan"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1576203,
+            "status": "PUBLISHED",
+            "note": "2020-11-19 06:53:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-19T07:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 249221,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank for the feedback, pls do visit for your regular dental check up.",
+                "replied_at": "2020-11-21T08:59:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42042762,
+                "review_text": "I'm really very happy with the dentist doctor. They make feel safer and Good and nice \ud83d\ude0a\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-18 06:41:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Taraka ramarao"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1248,
+                "text": "Crowns and Bridges Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1574827,
+            "status": "PUBLISHED",
+            "note": "2020-11-18 06:15:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-18T07:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 249223,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the valuable feedback. ",
+                "replied_at": "2020-11-21T08:59:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42034748,
+                "review_text": "**** ********* welldone recommend to others for reliable service  for hygienic servce at quick service ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 13,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 308000
+                    }
+                ],
+                "reviewed_on": "2020-11-16 04:41:32",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kvsrayudu"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 40133,
+                "text": "Surgical Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1573169,
+            "status": "PUBLISHED",
+            "note": "2020-11-13 11:00:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-13T11:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248162,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back\ud83d\udc4d\ud83c\udffb",
+                "replied_at": "2020-11-16T09:45:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42025592,
+                "review_text": "Visited Dr smiles dental clinic with pain and Dr Syed Ali diagnosed and advised to go for teeth removal which was badly decayed and infected. The complete tooth removal procedure was smooth and  painless.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-12 10:56:29",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ms.Suvarna"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1979190,
+            "status": "PUBLISHED",
+            "note": "2022-04-26 06:47:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-26T07:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44313036,
+                "review_text": "All doctors and nursing staff at Dr smiles are really patient friendly and gives right advise with proper consultation and follow up.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-24 17:20:01",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manan Sheth"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1954180,
+            "status": "PUBLISHED",
+            "note": "2022-03-17 12:43:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1001606,
+            "practice_name": "Dr Smiles Dental Clinic Ramkote",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-17T13:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44172984,
+                "review_text": "He explained the situation quite well , Is a genuine person and a very nice doctor. Removed all my fears , will definitely visit again and also would recommend to my family and friends . 100/100",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-16 12:34:20",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ms.Fatima Abbas Akhtari"
+        },
+        "entity_id": 774743,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 194810,
+                "text": "Scalling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1885837,
+            "status": "PUBLISHED",
+            "note": "2021-12-04 10:07:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1001606,
+            "practice_name": "Dr Smiles Dental Clinic Ramkote",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-04T11:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43780863,
+                "review_text": "Dr. Hussnain is very professional with his work.\nI have known him for a very long time and as always great to have been treated by him.\n\nI would like to thank the Team of Dr. Smiles Dental Clinic",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-03 08:55:53",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.Mubashshir Malek"
+        },
+        "entity_id": 774743,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1857369,
+            "status": "PUBLISHED",
+            "note": "2021-10-22 09:28:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1001606,
+            "practice_name": "Dr Smiles Dental Clinic Ramkote",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-22T10:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43608251,
+                "review_text": "I feel good the doctor help me in my treatment everytime I visit this dental clinic only I already took treatment here only thank you so much for helping me in it",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-21 06:39:07",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "K.Jayalakshmi"
+        },
+        "entity_id": 774743,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1598595,
+            "status": "PUBLISHED",
+            "note": "2020-12-17 06:57:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-17T07:01:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42160488,
+                "review_text": "Excellent work done by Dr Ali  very much satisfied with his treatment.  Explains well about the problem and had done extraction for my father.  It was painless..\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-16 06:55:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yadai"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1590679,
+            "status": "PUBLISHED",
+            "note": "2020-12-08 06:31:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-08T07:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42118649,
+                "review_text": "Excelent professional very nice and friendly. The instalations are very vlean. Health protocols are followed",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-06 07:26:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kim"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193720,
+                "text": " Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1589123,
+            "status": "PUBLISHED",
+            "note": "2020-12-05 09:31:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-05T10:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 252409,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your positive feedback. Hope to see you for your regular dental checkup.",
+                "replied_at": "2020-12-06T12:24:34+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42110223,
+                "review_text": "Doctors are very friendly and helpful. Provided detailed treatment steps and knowledgeable. Hospital is very clean and friendly staff ",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-04 09:27:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "K Rani"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 193720,
+                "text": " Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1588163,
+            "status": "PUBLISHED",
+            "note": "2020-12-04 07:16:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-04T08:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 252408,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback which would help people get their consultations done regarding any dental problems.",
+                "replied_at": "2020-12-06T12:20:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42105368,
+                "review_text": "Doctor explains clearly what the issue and suggests the options of the treatment which are suitable .\nAlso, he is very much available on the call if we have any issue",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-03 07:13:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.Donthula Chandra Shekar"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1504054,
+            "status": "PUBLISHED",
+            "note": "2020-08-28 08:13:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-27T13:41:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 228035,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the positive feedback.. hope to see you for your regular dental check-ups.",
+                "replied_at": "2020-08-27T13:41:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 41659829,
+                "review_text": "**** ********* *** good care and awesome check up. The treatment and caring was taken in a very good manner ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 288233
+                    }
+                ],
+                "reviewed_on": "2020-08-27 08:06:02",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr. Giri"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1492468,
+            "status": "PUBLISHED",
+            "note": "2020-08-15 07:23:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-15T08:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41601553,
+                "review_text": "Consulted Dr Ali for tooth pain and he explained about the problem. I was satisfied by his way of treating. I have underwent RCT and cap treatment which was almost painless.",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-14 05:14:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sasi"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1384686,
+            "status": "PUBLISHED",
+            "note": "2020-02-29 12:37:55",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-29T13:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248166,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back,please do visit for your regular dental check ups.",
+                "replied_at": "2020-11-16T09:46:21+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 41032223,
+                "review_text": "****** ****** ** **** *he did0composite filling for me.recomend dr ali for dental problems. Happy with him\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 252468
+                    }
+                ],
+                "reviewed_on": "2020-02-28 12:32:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nagendra"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1357464,
+            "status": "PUBLISHED",
+            "note": "2020-02-02 12:44:55",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-02T13:00:16+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248167,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back\ud83d\udc4d\ud83c\udffb",
+                "replied_at": "2020-11-16T09:46:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 40844959,
+                "review_text": "Doctor was very friendly as well as well behaved.. Treatment was done smoothly and well managed by the doctor and the nurse... Hassle free appointment with consultation...",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-01 12:43:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arunima Parija"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 42161,
+                "text": "Composite tooth filling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1319254,
+            "status": "PUBLISHED",
+            "note": "2019-12-21 09:25:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-21T10:00:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40568888,
+                "review_text": "Treatment done by Dr Ali was very smooth and efficient and it was painless. Recommend dr for all the dental problems",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-20 08:03:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajesh"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193843,
+                "text": " Teeth cleaning & polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1318471,
+            "status": "PUBLISHED",
+            "note": "2019-12-20 10:24:59",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-20T11:00:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40564024,
+                "review_text": "Teeth cleaning done in Dr smiles, rates are reasonable and doctors are friendly ..with good clinic atmosphere. Recommend dr smiles for every dental problem",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-19 10:23:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aman"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1277283,
+            "status": "PUBLISHED",
+            "note": "2019-10-26 10:22:10",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-26T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40281583,
+                "review_text": "Very Nice Doctor and did the flawless treatment . I will go again to him and strongly recommend to others.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-25 10:03:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harsh vardhan"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1255344,
+            "status": "PUBLISHED",
+            "note": "2019-09-26 06:56:20",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-26T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248168,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back,please do visit for your regular dental check ups.",
+                "replied_at": "2020-11-16T09:46:54+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 40138019,
+                "review_text": "I was having surgery of my wisdom tooth and I was afraid but staff, doctor and surgeon behavioural approach was so good that it happen so smoothly. I am so grateful for that and I will strongly recommend this place for any dental issues.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-24 13:26:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanshi Singh"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3758,
+                "text": "Scaling / Polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2316944,
+            "status": "PUBLISHED",
+            "note": "2024-01-04 10:04:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr. Smiles Dental Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-04T11:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46291938,
+                "review_text": "Not very welcoming. ***** ***********. Went for scaling and attachment removal and it was an Average experience.",
+                "review_alterations": [
+                    {
+                        "start_index": 20,
+                        "end_index": 36,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 476343
+                    }
+                ],
+                "reviewed_on": "2023-12-30 11:19:24",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1602041,
+            "status": "PUBLISHED",
+            "note": "2020-12-22 06:40:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-22T07:01:31+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 255878,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words. Hope to see you for your regular dental check up.",
+                "replied_at": "2020-12-22T13:33:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 42178275,
+                "review_text": "The overall experience was good. No issues. Got the treatment that to need. Staff were friendly. ** *** ** **** ************* ******",
+                "review_alterations": [
+                    {
+                        "start_index": 97,
+                        "end_index": 131,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 315669
+                    }
+                ],
+                "reviewed_on": "2020-12-20 07:07:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1547395,
+            "status": "PUBLISHED",
+            "note": "2020-10-13 09:45:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-13T10:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248163,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back,please do visit for your regular dental check ups.",
+                "replied_at": "2020-11-16T09:45:32+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 41887792,
+                "review_text": "I was quite good experience with him and i am looking forward to visit for my next dental checkup. \n",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-12 03:55:10",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1385795,
+            "status": "PUBLISHED",
+            "note": "2020-03-01 12:47:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-01T13:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 248165,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feed back,please do visit for your regular dental check ups.",
+                "replied_at": "2020-11-16T09:46:09+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6071402,
+                "modified_by_id": 6071402,
+                "replier_name": "Dr. Syed Ali Hasnain",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/747988/dr-ali-5d1b2e4796c4e.jpeg"
+            },
+            "survey_response": {
+                "id": 41039190,
+                "review_text": "Good care was taken by Dr Ali, he explained about the treatment well. Teeth cleaning and filling was done perfectly. Recommend Doctor",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-29 12:45:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1223329,
+            "status": "PUBLISHED",
+            "note": "2019-08-15 07:04:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 747988,
+            "practice_id": 1260062,
+            "practice_name": "Dr Smiles Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-15T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39932738,
+                "review_text": "Got my scaling done. The treatment done by the doctor was painless. Highly recommend to everyone with dental problems ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-14 07:01:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683987,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

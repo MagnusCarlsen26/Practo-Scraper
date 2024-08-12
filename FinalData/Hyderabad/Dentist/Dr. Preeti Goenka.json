@@ -1,0 +1,60 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2317831,
+            "status": "PUBLISHED",
+            "note": "2024-01-03 10:33:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 731886,
+            "practice_id": 1136728,
+            "practice_name": "Dantam - The Dental Lounge",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-03T11:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46296878,
+                "review_text": "It was a great experience and the treatment was explained very well in detail, overall a great experience.",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-01 09:16:35",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sagi Aditya Raju"
+        },
+        "entity_id": 673920,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

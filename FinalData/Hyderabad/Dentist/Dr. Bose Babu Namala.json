@@ -1,0 +1,49 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1792058,
+            "status": "PUBLISHED",
+            "note": "2021-08-03 09:26:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 915352,
+            "practice_id": 1326469,
+            "practice_name": "Clean & Correct Dentistry",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-03T10:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43215096,
+                "review_text": "Dr Bose is a wonderful human being *** ** * ******* ** **** **** * ******** ** *****. the relative ease and comfort with which my 9 year old son underwent tooth extraction is simply remarkable.. Such was the finesse with which the extraction was carried out that my son couldn't help but gush that \"EXTRACTIONS DO NOT HURT AT ALL\"... \nThe doctor connects extremely well with his patients and takes out time to explain the nitty-gritties involved in the process.. Overall a phenomenal experience...!!",
+                "review_alterations": [
+                    {
+                        "start_index": 35,
+                        "end_index": 83,
+                        "reason": "NON_COMPLIANT",
+                        "id": 363111
+                    }
+                ],
+                "reviewed_on": "2021-08-01 06:31:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anand Bajpai"
+        },
+        "entity_id": 757684,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

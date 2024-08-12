@@ -1,0 +1,372 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2030320,
+            "status": "PUBLISHED",
+            "note": "2022-07-16 06:23:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 668903,
+            "practice_id": 1264984,
+            "practice_name": "Maharaja Agrasen Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-16T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44603433,
+                "review_text": "In year 1997 my spine fractured and spinal cord damaged very badly I was paralysed below stomach my both legs were fully  movement less, I am very lucky that Dr. V. K  sabharwal operated (Dr. Sahab was M.S in Dr N. C. JOSHI MEMORIAL HOSPITAL Faiz Road Karol Bagh N.D 110005 in year 1997) my injured portion and now I am living normal life, **** ****** ** ** *** * *** *** I am very very thankful for him and I will remember during my whole life to Dr sahab. I Pray to God Dr. Sahab live long, healthy and prosperous life. ",
+                "review_alterations": [
+                    {
+                        "start_index": 340,
+                        "end_index": 370,
+                        "reason": "NON_COMPLIANT",
+                        "id": 418287
+                    }
+                ],
+                "reviewed_on": "2022-07-14 18:26:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 691702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1894863,
+            "status": "PUBLISHED",
+            "note": "2021-12-18 11:41:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 668903,
+            "practice_id": 1365095,
+            "practice_name": "Doctors' Hub",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-18T12:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43831623,
+                "review_text": "A great doctor came for my Auntie teartment for knee.  a smiled & humble doctor she recovered very fast. we thanks Dr sabharwal from the bottom of my heart ",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-17 11:33:33",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajan"
+        },
+        "entity_id": 800634,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1437863,
+            "status": "PUBLISHED",
+            "note": "2020-06-05 06:34:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 668903,
+            "practice_id": 1194651,
+            "practice_name": "Express Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-05T07:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41327058,
+                "review_text": "I was not satisfied at all . I had an injury in my left arm and I was asked to go for an x ray . He asked to me to do the x ray like 10-15 times and I did not know that  what he wanted to see in the x ray . My so much time got  wasted *** **** *** ****** *** ** *** ****** * **** ***** * ****** ** *** ** ** *** *** * ",
+                "review_alterations": [
+                    {
+                        "start_index": 235,
+                        "end_index": 316,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 268972
+                    }
+                ],
+                "reviewed_on": "2020-06-04 06:30:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 638353,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1342271,
+            "status": "PUBLISHED",
+            "note": "2020-01-18 06:57:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 668903,
+            "practice_id": 1264984,
+            "practice_name": "Maharaja Agrasen Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-18T07:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40730837,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-16 04:20:26",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 691702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1931639,
+            "status": "PUBLISHED",
+            "note": "2022-02-12 05:06:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 668903,
+            "practice_id": 1365095,
+            "practice_name": "Doctors' Hub",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-12T06:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44050385,
+                "review_text": "Nice Experience with a Doctor,My treatment  is Done under his observation, I get relief with the Problem . ",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-10 15:18:10",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 800634,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1931142,
+            "status": "PUBLISHED",
+            "note": "2022-02-11 06:41:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 668903,
+            "practice_id": 1365095,
+            "practice_name": "Doctors' Hub",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-11T07:01:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44047888,
+                "review_text": "Past Few Months ,I have Acute pain on my Right Shoulder and I cant sleep properly from that side. My Friend suggested me for Dr. Vinod Sabbarwal is a Professional orthopedics Doctor,and I have seen Relief in my Pain .",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-10 05:27:48",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 800634,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1263384,
+            "status": "PUBLISHED",
+            "note": "2019-10-06 06:53:42",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 668903,
+            "practice_id": 1264984,
+            "practice_name": "Maharaja Agrasen Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-06T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40189531,
+                "review_text": "dr prescriped me med nd few test . I hv to visit again in next week with test reports.Now lets see ..",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-05 06:37:48",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 691702,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 539386,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 668903,
+            "practice_id": 809302,
+            "practice_name": "HCL Healthcare",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-27T12:05:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34190511,
+                "review_text": "Great doctor. Very experienced. Listened patiently to the issues. ********* ********* ******* ********* *** **** ********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 65,
+                        "end_index": 93,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 42039
+                    },
+                    {
+                        "start_index": 94,
+                        "end_index": 122,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 42040
+                    }
+                ],
+                "reviewed_on": "2017-04-26 05:42:37",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 504806,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

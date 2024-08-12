@@ -1,0 +1,134 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2070656,
+            "status": "PUBLISHED",
+            "note": "2022-09-20 07:00:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 886974,
+            "practice_id": 1306611,
+            "practice_name": "Healing Hands Children's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-20T08:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44844972,
+                "review_text": "Very good she treats my baby very well. Lots of patience. Doctor is good at knowledge and skills. \n\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-18 13:43:14",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vibha V"
+        },
+        "entity_id": 734664,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2135,
+                "text": "Growth & Development Evaluation / Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1673169,
+            "status": "PUBLISHED",
+            "note": "2021-03-16 07:32:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 886974,
+            "practice_id": 1306611,
+            "practice_name": "Healing Hands Children's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-15T08:47:32+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 273986,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for the feedback \ud83d\ude42",
+                "replied_at": "2021-03-15T08:47:32+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2109774,
+                "modified_by_id": 2109774,
+                "replier_name": "Dr. Lakshmi V",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/886974/dr-lakshmi-v-62e8ce1e6d6a7.jpg"
+            },
+            "survey_response": {
+                "id": 42565354,
+                "review_text": "Great experience as a first timer. The Dr. Lakshmi V very friendly and helpful. Doctor explained all my queries about my kid. I had a great visit and the doctor\u2019s demeanor has really put me at ease so I highly recommend this clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-14 04:37:09",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manasa G S"
+        },
+        "entity_id": 734664,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

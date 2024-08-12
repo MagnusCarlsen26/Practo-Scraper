@@ -1,0 +1,297 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2316594,
+            "status": "PUBLISHED",
+            "note": "2023-12-31 07:24:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 163144,
+            "practice_id": 648623,
+            "practice_name": "SmilesForever By Dr Suhas Lele",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-31T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46289879,
+                "review_text": "Excellent service at Smiles Forever clinic.Dr. Aditi Lele is amazing! Dr.Suhas Lele is so experienced and has such a positive energy! The staff is very polite and professional at the same time.I highly recommend this clinic for Dental work and procedures.Kudos to Dr.Lele and his team.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-29 17:38:28",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raashee Tuli"
+        },
+        "entity_id": 65433,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 317546,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 163144,
+            "practice_id": 648623,
+            "practice_name": "Smiles Forever",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-26T12:17:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 21750508,
+                "review_text": "I am quite happy with the procedure done with Dr. The whole process was handled very professionally. Would recommend to everyone.",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-21 12:00:43",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sabina tandon"
+        },
+        "entity_id": 65433,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2311492,
+            "status": "PUBLISHED",
+            "note": "2023-12-22 04:55:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 163144,
+            "practice_id": 648623,
+            "practice_name": "SmilesForever By Dr Suhas Lele",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-22T05:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46260934,
+                "review_text": "Doctor is very friendly, soft spoken & caring... making me very comfortable throughout the session. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-20 13:49:35",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lalita Mukharjee"
+        },
+        "entity_id": 65433,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 394603,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 163144,
+            "practice_id": 648623,
+            "practice_name": "Smiles Forever",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-26T11:12:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26579858,
+                "review_text": "Absolutely brilliant.\r\nIt was a painless procedure \r\nI am petrified of dentists but with Dr. Aditi Lele.. I didn't realise a thing.\r\nI know where to go now for all my dental problems ",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-26 09:55:34",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shebany"
+        },
+        "entity_id": 65433,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2165047,
+            "status": "PUBLISHED",
+            "note": "2023-03-11 09:56:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 163144,
+            "practice_id": 648623,
+            "practice_name": "SmilesForever By Dr Suhas Lele",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-11T10:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45381333,
+                "review_text": "All was good. Doctor was friendly in explaining all the aspects related to my teeth and has suggested many improvements",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-10 09:54:28",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 65433,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 111,
+                "text": "Laser Gum Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2286680,
+            "status": "PUBLISHED",
+            "note": "2023-11-03 08:27:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 163144,
+            "practice_id": 648623,
+            "practice_name": "SmilesForever By Dr Suhas Lele",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-03T09:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46120645,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-01 14:22:31",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saraf"
+        },
+        "entity_id": 65433,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

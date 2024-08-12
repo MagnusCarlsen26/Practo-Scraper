@@ -1,0 +1,205 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1728317,
+            "status": "PUBLISHED",
+            "note": "2021-05-22 04:47:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 238817,
+            "practice_id": 678414,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-22T05:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42867288,
+                "review_text": "I have booked appointment for one of family member and it was related to her pregnancy . Doctor was very good with the patients. There was no waiting time in the hospital.  we are fully satisfied with him. I would like to recommend this doctor for my friends and family members also.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-20 15:01:08",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Alok Mishra"
+        },
+        "entity_id": 127806,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1688973,
+            "status": "PUBLISHED",
+            "note": "2021-04-04 04:52:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 238817,
+            "practice_id": 678414,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-04T05:04:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42652939,
+                "review_text": "The best gynaecologist we have came across .We have visited N no.s of gynecologist but Dr. Sowjanya Aggarwal has became the reason of our happiness in life , yes , am a mother of a daughter because of Dr. Sowjanya Aggarwal . She's mastered in her field , very humble, very polite as well as very prompt . She solves all queries and give proper suggestions and provide the best treatment possible or required . I am thankful to Dr. Sowjanya Aggarwal and her team for giving such  treatment and we have had a lifetime experience with all of them  . ***** ** **** **** * *** ** ** *Thanx a lot Mam for giving us our bundle of joy \ud83d\ude4f\ud83d\ude0a",
+                "review_alterations": [
+                    {
+                        "start_index": 547,
+                        "end_index": 578,
+                        "reason": "NON_COMPLIANT",
+                        "id": 336626
+                    }
+                ],
+                "reviewed_on": "2021-04-01 20:43:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 127806,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1563061,
+            "status": "PUBLISHED",
+            "note": "2020-11-01 06:56:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 238817,
+            "practice_id": 678414,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-01T07:01:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41971489,
+                "review_text": "She appeared very cordial and intelligent She listened patiently and explained everything. She is a very good doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-30 13:06:53",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Beena"
+        },
+        "entity_id": 127806,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 142,
+                "text": "Infertility"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 602273,
+            "status": "PUBLISHED",
+            "note": "2017-06-25 08:03:23",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 238817,
+            "practice_id": 678414,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-25T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34830799,
+                "review_text": "Dr. Was nyc and experienced hand...dedicated to her work, with gud results...she handled all my queries patiently...was always dere  in the hour of need....today m blessed with twins...dey r gud doing great things....and dr. Has becum reason of my happiness...thank u mam",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-23 16:36:21",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 127806,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1749024,
+            "status": "PUBLISHED",
+            "note": "2021-06-15 07:05:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619989,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-15T08:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42977131,
+                "review_text": "I had met the doctor and it was for health problem. Treatment was excellent by doctor. I can surely\u00a0recommend doctor to others.\u00a0Doctor was friendly. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-13 08:02:42",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suresh varadarajan"
+        },
+        "entity_id": 600964,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 875,
+                "text": "Hip Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1253002,
+            "status": "PUBLISHED",
+            "note": "2019-09-22 07:50:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619989,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-22T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40122064,
+                "review_text": "Doctors care and passion to understand and treat the patient His follow up and communication . Will definitely recommend him to the needy.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-21 07:41:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saraswathi"
+        },
+        "entity_id": 600964,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2323221,
+            "status": "PUBLISHED",
+            "note": "2024-01-12 06:16:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 618191,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-12T07:00:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46327912,
+                "review_text": "I wanted to take a moment to express my deepest gratitude to Dr Anuradha Mam for the extraordinary care and attention  provided to child Aadhiran . Your dedication to ensuring their well-being has been truly remarkable.Not only did you demonstrate exceptional medical expertise in the treatment you prescribed, but your genuine concern for Child health and your selflessness in not prioritizing financial gain are qualities that set you apart. Your unwavering commitment to your patients' welfare speaks volumes about your professionalism and the true essence of being a healer.It's evident that your primary focus is on the welfare of your patients rather than on financial gain, and that level of dedication is a rare find in today's world. Your compassionate approach and the genuine care you extend to each patient, regardless of financial concerns, is deeply appreciated.Aadhiran is thriving under your care, and your efforts have not gone unnoticed. Thank you for being an exemplary healthcare professional, for going above and beyond, and for embodying the true spirit of medical service.With heartfelt thanks,Balraj Madasamy",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-10 17:16:23",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 599098,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

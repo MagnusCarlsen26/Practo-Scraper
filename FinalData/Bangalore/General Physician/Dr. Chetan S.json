@@ -1,0 +1,299 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2422048,
+            "status": "PUBLISHED",
+            "note": "2024-07-31 10:41:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1021768,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-31T11:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46894466,
+                "review_text": "Good Doctor.Visited for fever. Friendly Doctor. I will recommend this Doctor to everyone..........  ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-30 09:44:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajesh"
+        },
+        "entity_id": 835994,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2374740,
+            "status": "PUBLISHED",
+            "note": "2024-04-25 12:39:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1021768,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-25T13:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46623245,
+                "review_text": "The doctor was very polite and understanding, his medication helped treat my high fever, cold, throat infection quickly.",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-24 12:34:31",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 835994,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2120234,
+            "status": "PUBLISHED",
+            "note": "2022-12-20 07:59:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1021768,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-20T08:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45124046,
+                "review_text": "An extremely rude doctor. we asked genuine questions regarding the doubts we have, and his replies were extremely rude and unprofessional. he should know by giving consultation, he is not giving us any favour and we pay a good amount for those 10mins.",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-18 12:29:12",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 835994,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 193277,
+                "text": "Food Poison"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2095461,
+            "status": "PUBLISHED",
+            "note": "2022-11-05 07:14:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1021768,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-05T08:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44985654,
+                "review_text": "Staff  was too slow , appointment was for 6pm , doctor looked after 7 pm . Staff was very slow and totally unhelpful regarding when and how the numbering is working . ",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-03 15:26:49",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 835994,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2377738,
+            "status": "PUBLISHED",
+            "note": "2024-05-03 07:01:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1021768,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-03T08:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46640479,
+                "review_text": "Great doctor. Recommends only necessary medicines. Listens to problems calmly & explains issue well.",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-30 20:12:11",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 835994,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2274088,
+            "status": "PUBLISHED",
+            "note": "2023-10-10 09:25:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1021768,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-10T10:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46049272,
+                "review_text": "The doctor was really friendly and humble. Gave a lot of information and cleared my doubts as well! I would definitely recommend",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-08 17:56:28",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 835994,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2135648,
+            "status": "PUBLISHED",
+            "note": "2023-01-19 06:18:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1021768,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-19T07:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45213888,
+                "review_text": "* **** **** ******* consulted him for my father's hypertension issue, We are very happy with how he handled the case. He is very good with senior citizens. My father is good  now after following his medication.\n\nGod bless you Dr. Chetan s",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 440124
+                    }
+                ],
+                "reviewed_on": "2023-01-17 15:25:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 835994,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 995,
+                "text": "Male Sexual Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1604305,
+            "status": "PUBLISHED",
+            "note": "2020-12-24 07:11:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 240009,
+            "practice_id": 692922,
+            "practice_name": "S L Raheja Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-24T08:01:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42190226,
+                "review_text": "** ** **** ************* *** guides you with the easiest way possible. He was kind and down to earth .",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 27,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 316234
+                    }
+                ],
+                "reviewed_on": "2020-12-23 07:09:45",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suchita parab"
+        },
+        "entity_id": 580529,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

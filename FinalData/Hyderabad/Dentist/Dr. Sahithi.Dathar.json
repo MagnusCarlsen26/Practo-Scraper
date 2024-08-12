@@ -1,0 +1,127 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 87,
+                "text": "Tooth Loss"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 542513,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 575786,
+            "practice_id": 1131359,
+            "practice_name": "Dent Inn Dental & Implant Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-02T05:15:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34225958,
+                "review_text": "Nice clinic and neatly maintained. I went twice here and they managed appointments such that there was no waiting period. Really liked it and I Thank the doctors.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-28 18:30:19",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vani.GV"
+        },
+        "entity_id": 556365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 542509,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 575786,
+            "practice_id": 1131359,
+            "practice_name": "Dent Inn Dental & Implant Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-02T06:12:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34225915,
+                "review_text": "I had a good experience overall.\nRoot canal was done to my tooth without any pain by Dr Sahithi which was affordable as well.\nI suggest the clinic for everyone.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-28 18:14:33",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ram"
+        },
+        "entity_id": 556365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2193205,
+            "status": "PUBLISHED",
+            "note": "2023-05-05 06:51:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 575786,
+            "practice_id": 1131359,
+            "practice_name": "Dent Inn Dental & Implant Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-05T07:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45552220,
+                "review_text": "Very friendly nature doctor...and excellent treatment...i strongly recommend this doctor...don't search any where just visit here...",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-04 05:36:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 556365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

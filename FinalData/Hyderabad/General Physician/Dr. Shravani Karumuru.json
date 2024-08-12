@@ -1,0 +1,135 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1711677,
+            "status": "PUBLISHED",
+            "note": "2021-05-01 07:57:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 754484,
+            "practice_id": 680558,
+            "practice_name": "Himagiri Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-01T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42780665,
+                "review_text": "*** ******* *** *** ** *** **** ******* ** ********** \nMy father got admitted at a very critical stage under supervision of Dr.Sravani and the way she treated my father was tremendous. A patient in that critical stage takes alot of efforts and time but with help of the doctor it was pretty quick and the recovery was very fast. \nShe understands the needs and pain of the patient and accordingly she treat them with a great ease.\nIt's my personal experience that every after handling hundreds of patients, she speaks with every attendant to explain about the steps of treatment she opted for and also consults patient for his concern.  She is one of the gifted doctors and can't thank enough for her support. She never neglects to reply even after the discharge.. *** ** ***** * **** ****** * **** **** **** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 52,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 342510
+                    },
+                    {
+                        "start_index": 764,
+                        "end_index": 816,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 342511
+                    }
+                ],
+                "reviewed_on": "2021-04-30 07:55:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohammad Imran Ahmed"
+        },
+        "entity_id": 705234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1670891,
+            "status": "PUBLISHED",
+            "note": "2021-03-13 07:31:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 754484,
+            "practice_id": 680558,
+            "practice_name": "Himagiri Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-13T08:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42552503,
+                "review_text": "I had been to Shravani doctor for Dengue along with Viral Fever.\n\nI was cured and impressed the way she handles the patients.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-11 15:04:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 705234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1633351,
+            "status": "PUBLISHED",
+            "note": "2021-01-30 07:46:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 754484,
+            "practice_id": 680558,
+            "practice_name": "Himagiri Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-30T08:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42346970,
+                "review_text": "Happy with the detailed description of the issue and the medication given.\nShe has understood our concerns and suggested to remedy not just with medicines but also with dietary restrictions.",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-29 07:38:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 705234,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

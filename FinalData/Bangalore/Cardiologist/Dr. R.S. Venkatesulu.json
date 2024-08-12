@@ -1,0 +1,416 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1762664,
+            "status": "PUBLISHED",
+            "note": "2021-06-30 09:24:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 385309,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-30T10:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43052937,
+                "review_text": "The Appointment was for my Father . He had gone through Angioplasty so regarding that we met the doctor actually our appointment time was given at 11 but we could meet the doctor at 11:55 it was a long wait rather than that there are no complaints . The doctor was good gave required medications. I am satisfied with the treatment. I would recommend the doctor to others.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-29 09:10:48",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ritu Naramdeo"
+        },
+        "entity_id": 590312,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1354089,
+            "status": "PUBLISHED",
+            "note": "2020-01-30 06:35:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 385309,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-30T07:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40819108,
+                "review_text": "I happened to meet the doctor, and the consultation experience was good. Got to know about the doctor from practo. He was listening to my problems whatever I said to him about my problem. The medicines he suggested were helpful to cure my problem. The doctor's behaviour is good with me. I would recommend the doctor to my family and friends. I'm satisfied with the treatment and the consultation of the doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-28 18:41:45",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kiran Achanta"
+        },
+        "entity_id": 590312,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1222135,
+            "status": "PUBLISHED",
+            "note": "2019-08-14 07:48:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 385309,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-14T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39925243,
+                "review_text": "I am diabetic and heart patient. I underwent Master health check in Aster, Sahakaranagar. I wanted to take his views. He was the only doctor available at that time and  I had to wait for him. I was asked to wait. As the wait period was very long I went back to check. He was chit chatting with some one. On seeing me then they cleared to see me.  Not at all professional approach. Sorry for the my review.\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-12 16:15:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Venu"
+        },
+        "entity_id": 590312,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 51,
+                "text": "Carotid Angioplasty And Stenting"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1171935,
+            "status": "PUBLISHED",
+            "note": "2019-06-08 11:55:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 385309,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-08T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39606389,
+                "review_text": "*** ****** ****** ******** ******** ******* *** ******** ***** the family was not convinced the patient was well treated. We definitely don't recommend this Dr. to anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 62,
+                        "reason": "NON_COMPLIANT",
+                        "id": 182183
+                    }
+                ],
+                "reviewed_on": "2019-06-07 11:53:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 590312,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1720723,
+            "status": "PUBLISHED",
+            "note": "2021-05-12 12:33:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 385309,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-12T13:02:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42828506,
+                "review_text": "My mom had visited the hospital and consulted the doctor as she had thyroid and asthma problem. Doctor was very good but hospital management, security was not good that was concern. There was more waiting time in hospital, it was nearly 2 hours. I can surely recommend doctor to others. He told to continue same tablets which was prescribed earlier. Diet was suggested and told to avoid oily food. Doctor was very friendly.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-11 12:27:05",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 590312,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1342159,
+            "status": "PUBLISHED",
+            "note": "2020-01-18 11:30:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 385309,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-18T12:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40730143,
+                "review_text": "****** ******* ** ***** I visited for cardiac issue. Doctor behaviour was good and I am satisfied with doctor treatment. When it comes to improvement everything was good. I would like to recommend this doctor to others and I would like to give a rating of 4/5. I got to know about the doctor from Practo and the doctor prescribed medicines which were helpful.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 238527
+                    }
+                ],
+                "reviewed_on": "2020-01-15 18:53:53",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 590312,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 770,
+                "text": "Pulmonary Hypertension"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1161312,
+            "status": "PUBLISHED",
+            "note": "2019-05-29 07:06:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 385309,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-29T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39538771,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 29,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 179362
+                    },
+                    {
+                        "start_index": 116,
+                        "end_index": 161,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 179363
+                    },
+                    {
+                        "start_index": 255,
+                        "end_index": 434,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 179364
+                    },
+                    {
+                        "start_index": 493,
+                        "end_index": 807,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 179365
+                    }
+                ],
+                "reviewed_on": "2019-05-25 14:35:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 590312,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4975,
+                "text": "Cardiovascular Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 964994,
+            "status": "PUBLISHED",
+            "note": "2018-09-05 07:37:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 385309,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-05T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38208854,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-03 15:37:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 590312,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]
