@@ -1,0 +1,1154 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 396284,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-02T11:12:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26670118,
+                "review_text": "Excellent diagnostic centre....*** ****** ** ********* ************* *** very dedicated.He truly cares for the patient and also as an individual.Really impressed..would recommend my friends...",
+                "review_alterations": [
+                    {
+                        "start_index": 31,
+                        "end_index": 71,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 12928
+                    }
+                ],
+                "reviewed_on": "2016-10-28 16:52:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karthik"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172,
+                "text": "Gastroscopy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1132666,
+            "status": "PUBLISHED",
+            "note": "2019-04-17 11:36:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1045131,
+            "practice_name": "LG Eye Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-17T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39359289,
+                "review_text": "Very patient and ************* impressed with his care   ,listens to patient intently and in detail. Explains the problem well. ",
+                "review_alterations": [
+                    {
+                        "start_index": 16,
+                        "end_index": 29,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 169047
+                    }
+                ],
+                "reviewed_on": "2019-04-16 11:24:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "adhitya"
+        },
+        "entity_id": 315708,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1743624,
+            "status": "PUBLISHED",
+            "note": "2021-06-08 10:59:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1045131,
+            "practice_name": "LG Eye Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-07T14:43:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 292125,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Worst patient I have seen, has fixed ideas and has no patience to listen! Wants treatment for whatever he thinks is his diagnosis!",
+                "replied_at": "2021-06-07T14:43:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 684414,
+                "modified_by_id": 684414,
+                "replier_name": "Dr. S Ganesh",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/515074/dr-s-ganesh-5b1fd44d0d0f7.jpg"
+            },
+            "survey_response": {
+                "id": 42947300,
+                "review_text": "Consulted the doctor for gastritis. Doctor was in a complete hurry. He didn't care to look at the health reports I had given him. Didn't give even few seconds of time to explain my GI related problems that I was facing. He just jumped at conclusion that it was stomach pain and it should probably be hernia and that I need to be on life long medication. I stopped him to say that it wasn't hernia and I had a test done ** ******* ********* ** ***** ** ****** ** ** *** said that test has to be done only where he recommends to be taken. No value for the time and money spent on consultation. Wouldn't recommend to anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 419,
+                        "end_index": 468,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 350279
+                    }
+                ],
+                "reviewed_on": "2021-06-07 07:34:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 315708,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 518,
+                "text": "Irritable Bowel Syndrome ( IBS ) Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1070472,
+            "status": "PUBLISHED",
+            "note": "2019-01-26 05:12:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-26T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38950899,
+                "review_text": "I went for my gas, acidity and loose motion problem. Dr did endoscopy and prescribed 1month medicine. ***** ** ********** *** **** ******** *** ** ***** **** ****** ***** I went 2nd times, but Dr didnt listen carefully *** ***** ******** *** ***** *********** *** * ** ********* *********** ***** **** *** ****** ** ****** ** **** ******* ****** ******** ***** ******** *** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 102,
+                        "end_index": 170,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 151117
+                    },
+                    {
+                        "start_index": 218,
+                        "end_index": 258,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 151118
+                    },
+                    {
+                        "start_index": 259,
+                        "end_index": 382,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 151119
+                    }
+                ],
+                "reviewed_on": "2019-01-24 14:13:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 518,
+                "text": "Irritable Bowel Syndrome ( IBS ) Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1047692,
+            "status": "PUBLISHED",
+            "note": "2018-12-25 10:40:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-25T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38797267,
+                "review_text": "keenly listened to my history and then explained the problem without unnecessary tests! well read and friendly doctor!",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-24 02:03:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "adhitya"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1628,
+                "text": "Abdominal Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1013702,
+            "status": "PUBLISHED",
+            "note": "2018-11-07 10:51:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-07T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38559239,
+                "review_text": "Good great and well experienced\nVisited the doctor for abdominal pain\nNow reduced and feeling better\nThanks",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-05 07:43:01",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr. Anthony Raj. T"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1304864,
+            "status": "PUBLISHED",
+            "note": "2019-12-04 09:31:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-04T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40465458,
+                "review_text": "I have taken a single consultation from him. He prescribed some medications ***** ****** ****** **** *** *** He has informed me to go for a follow up if the problems still persist. But I am satisfied with the results as of now. There was around half an hour of a waiting period. Everything was good and comfortable during the consultation.",
+                "review_alterations": [
+                    {
+                        "start_index": 75,
+                        "end_index": 108,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 226069
+                    }
+                ],
+                "reviewed_on": "2019-12-02 12:32:29",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 389852,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 593933,
+            "status": "PUBLISHED",
+            "note": "2017-06-17 11:48:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-17T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34750339,
+                "review_text": "Dr.Ganesh patiently listened to the problems and provided remedy for it, he didn't unnecessarily ask for scan and other diagnostic. He advised endoscopy only when the pain is not re-mediated after tablets.",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-16 08:25:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172,
+                "text": "Gastroscopy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 986360,
+            "status": "PUBLISHED",
+            "note": "2018-09-30 04:48:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-30T05:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38364042,
+                "review_text": "Doctor understood my problem and gave hope for recovery and asked me to visit for further assistance.  ",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-28 16:18:37",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 56,
+                "text": "Burning Sensation in Stomach"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 974693,
+            "status": "PUBLISHED",
+            "note": "2018-09-19 05:44:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-19T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38278153,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 114,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 130187
+                    }
+                ],
+                "reviewed_on": "2018-09-16 14:40:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 396284,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-11-02T11:12:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26670118,
+                "review_text": "Excellent diagnostic centre....*** ****** ** ********* ************* *** very dedicated.He truly cares for the patient and also as an individual.Really impressed..would recommend my friends...",
+                "review_alterations": [
+                    {
+                        "start_index": 31,
+                        "end_index": 71,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 12928
+                    }
+                ],
+                "reviewed_on": "2016-10-28 16:52:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karthik"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172,
+                "text": "Gastroscopy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1132666,
+            "status": "PUBLISHED",
+            "note": "2019-04-17 11:36:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1045131,
+            "practice_name": "LG Eye Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-17T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39359289,
+                "review_text": "Very patient and ************* impressed with his care   ,listens to patient intently and in detail. Explains the problem well. ",
+                "review_alterations": [
+                    {
+                        "start_index": 16,
+                        "end_index": 29,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 169047
+                    }
+                ],
+                "reviewed_on": "2019-04-16 11:24:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "adhitya"
+        },
+        "entity_id": 315708,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1743624,
+            "status": "PUBLISHED",
+            "note": "2021-06-08 10:59:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1045131,
+            "practice_name": "LG Eye Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-07T14:43:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 292125,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Worst patient I have seen, has fixed ideas and has no patience to listen! Wants treatment for whatever he thinks is his diagnosis!",
+                "replied_at": "2021-06-07T14:43:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 684414,
+                "modified_by_id": 684414,
+                "replier_name": "Dr. S Ganesh",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/515074/dr-s-ganesh-5b1fd44d0d0f7.jpg"
+            },
+            "survey_response": {
+                "id": 42947300,
+                "review_text": "Consulted the doctor for gastritis. Doctor was in a complete hurry. He didn't care to look at the health reports I had given him. Didn't give even few seconds of time to explain my GI related problems that I was facing. He just jumped at conclusion that it was stomach pain and it should probably be hernia and that I need to be on life long medication. I stopped him to say that it wasn't hernia and I had a test done ** ******* ********* ** ***** ** ****** ** ** *** said that test has to be done only where he recommends to be taken. No value for the time and money spent on consultation. Wouldn't recommend to anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 419,
+                        "end_index": 468,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 350279
+                    }
+                ],
+                "reviewed_on": "2021-06-07 07:34:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 315708,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 518,
+                "text": "Irritable Bowel Syndrome ( IBS ) Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1070472,
+            "status": "PUBLISHED",
+            "note": "2019-01-26 05:12:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-26T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38950899,
+                "review_text": "I went for my gas, acidity and loose motion problem. Dr did endoscopy and prescribed 1month medicine. ***** ** ********** *** **** ******** *** ** ***** **** ****** ***** I went 2nd times, but Dr didnt listen carefully *** ***** ******** *** ***** *********** *** * ** ********* *********** ***** **** *** ****** ** ****** ** **** ******* ****** ******** ***** ******** *** *********",
+                "review_alterations": [
+                    {
+                        "start_index": 102,
+                        "end_index": 170,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 151117
+                    },
+                    {
+                        "start_index": 218,
+                        "end_index": 258,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 151118
+                    },
+                    {
+                        "start_index": 259,
+                        "end_index": 382,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 151119
+                    }
+                ],
+                "reviewed_on": "2019-01-24 14:13:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 518,
+                "text": "Irritable Bowel Syndrome ( IBS ) Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1047692,
+            "status": "PUBLISHED",
+            "note": "2018-12-25 10:40:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-25T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38797267,
+                "review_text": "keenly listened to my history and then explained the problem without unnecessary tests! well read and friendly doctor!",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-24 02:03:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "adhitya"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1628,
+                "text": "Abdominal Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1013702,
+            "status": "PUBLISHED",
+            "note": "2018-11-07 10:51:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-07T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38559239,
+                "review_text": "Good great and well experienced\nVisited the doctor for abdominal pain\nNow reduced and feeling better\nThanks",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-05 07:43:01",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr. Anthony Raj. T"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1304864,
+            "status": "PUBLISHED",
+            "note": "2019-12-04 09:31:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 702067,
+            "practice_name": "Fortis Malar Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-04T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40465458,
+                "review_text": "I have taken a single consultation from him. He prescribed some medications ***** ****** ****** **** *** *** He has informed me to go for a follow up if the problems still persist. But I am satisfied with the results as of now. There was around half an hour of a waiting period. Everything was good and comfortable during the consultation.",
+                "review_alterations": [
+                    {
+                        "start_index": 75,
+                        "end_index": 108,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 226069
+                    }
+                ],
+                "reviewed_on": "2019-12-02 12:32:29",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 389852,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 593933,
+            "status": "PUBLISHED",
+            "note": "2017-06-17 11:48:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-17T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34750339,
+                "review_text": "Dr.Ganesh patiently listened to the problems and provided remedy for it, he didn't unnecessarily ask for scan and other diagnostic. He advised endoscopy only when the pain is not re-mediated after tablets.",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-16 08:25:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172,
+                "text": "Gastroscopy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 986360,
+            "status": "PUBLISHED",
+            "note": "2018-09-30 04:48:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-30T05:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38364042,
+                "review_text": "Doctor understood my problem and gave hope for recovery and asked me to visit for further assistance.  ",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-28 16:18:37",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 56,
+                "text": "Burning Sensation in Stomach"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 974693,
+            "status": "PUBLISHED",
+            "note": "2018-09-19 05:44:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 515074,
+            "practice_id": 1037270,
+            "practice_name": "GE Clinic And Endoscopy Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-19T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38278153,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 114,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 130187
+                    }
+                ],
+                "reviewed_on": "2018-09-16 14:40:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 467188,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

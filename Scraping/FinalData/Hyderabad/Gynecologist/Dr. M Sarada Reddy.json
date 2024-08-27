@@ -1,0 +1,511 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1520678,
+            "status": "PUBLISHED",
+            "note": "2020-09-15 10:23:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600004,
+            "practice_id": 1149160,
+            "practice_name": "Shree Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-15T11:01:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41746745,
+                "review_text": "Thank you so much sharada mam, it was my 1st pregnancy..I have delivered my son (4.3 kg) in ur hospital.had c section.i think you remember. you took good care of me and my son..i didn't even scared of surgery just because of you mam..I really thankful to you..",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-13 11:07:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sabitha"
+        },
+        "entity_id": 586363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 838411,
+            "status": "PUBLISHED",
+            "note": "2018-04-04 10:59:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 600004,
+            "practice_id": 1149160,
+            "practice_name": "Shree Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-04T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37147301,
+                "review_text": "Doctor was very friendly, at ease and never showed any kind of frustration, if asked too many questions. \nExplained all related issues and helped me proceed with the surgery. Her assurance was my strength. Her confidence was my courage and decided to proceed with surgery. \nPost surgery, despite being unwell, visited me to check on my condition. Provided proper guidelines, ensuring I recover very soon. *** ** **** ***** *** *** ********** ******* ",
+                "review_alterations": [
+                    {
+                        "start_index": 405,
+                        "end_index": 448,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 100508
+                    }
+                ],
+                "reviewed_on": "2018-04-03 10:56:40",
+                "channel": "web-gmf",
+                "source": "GMF",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ms.Dolly"
+        },
+        "entity_id": 586363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1338457,
+            "status": "PUBLISHED",
+            "note": "2020-01-12 10:32:48",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 600004,
+            "practice_id": 1149160,
+            "practice_name": "Shree Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-12T11:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 203784,
+                "reply_status": "PUBLISHED",
+                "reply_text": "One copy is given to the patient \nOne is submitted to the pcpndt board \nCost of the scan 2500 rs includes TIFFA and fetal doppler \n\n600rs scan what you are saying , never heard of it any where In city .\nRates also depend on the machine used , radiologist performing , whether sonologist or radiologist doing it.\n",
+                "replied_at": "2020-04-24T09:14:01+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 7744879,
+                "modified_by_id": 7744879,
+                "replier_name": "Dr. M Sarada Reddy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/600004/dr-m-sarada-reddy-61a8663f0945a.jpeg"
+            },
+            "survey_response": {
+                "id": 40701564,
+                "review_text": "I do no know where to start. **** ******** *** ***** ******* *** ** ******  **** they always try to charge you more  in name of professional charges. **** *** ***** ** *** ***** ******* **** ** ** ********* ** ******** ****** ********* avoid this place for your own good. They always 0vercharge and once when i confronted the staff they told that they have taken advance payment for our next visit and tests. can any hospital do so without even telling the patients? i never went to thi hosital post this incident. and i have to collect 2500 rs that they charged in advance for scanning. You never get to see the scanned report as they not even provide hard copy for your reference. *** *** * **** *** ***** ***** **** *** ** **** ** ****** ************ ",
+                "review_alterations": [
+                    {
+                        "start_index": 29,
+                        "end_index": 79,
+                        "reason": "NON_COMPLIANT",
+                        "id": 237143
+                    },
+                    {
+                        "start_index": 150,
+                        "end_index": 235,
+                        "reason": "NON_COMPLIANT",
+                        "id": 237144
+                    },
+                    {
+                        "start_index": 683,
+                        "end_index": 752,
+                        "reason": "NON_COMPLIANT",
+                        "id": 237145
+                    }
+                ],
+                "reviewed_on": "2020-01-11 10:23:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Ragini Yadav"
+        },
+        "entity_id": 586363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 929061,
+            "status": "PUBLISHED",
+            "note": "2018-07-25 12:01:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 600004,
+            "practice_id": 1149160,
+            "practice_name": "Shree Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-25T13:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37920683,
+                "review_text": "We visited this doctor for my wife's pregnancy check up. *** *** *** ********* *** **** ** *** ***** ********** ***** ******** *** * ******** ***** *** *** *** *** ** **** **** ** ********* ******* ***** **** ** *** ******* ******** ** *** *** ******* ****** ********** *** ******** ** **********  Even their diagnostics center reports were different from other centers. We had a hard time to understand which one was correct and whether to go for medication or not.\n\nDear patients, please check with your neighbors or well wisher before visiting any clinic and get to know about the clinic and doctors before visiting the clinic. I did not know about the other patients opinion about these clinic, but I was really disappointed and hence wrote these feedback, also the consultation is 600 rupees not 400 rupees as Practo displayed.",
+                "review_alterations": [
+                    {
+                        "start_index": 57,
+                        "end_index": 147,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 119692
+                    },
+                    {
+                        "start_index": 148,
+                        "end_index": 295,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 119693
+                    }
+                ],
+                "reviewed_on": "2018-07-22 14:32:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1534,
+                "text": "Maternal Care/ Checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1906014,
+            "status": "PUBLISHED",
+            "note": "2022-01-05 09:34:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600004,
+            "practice_id": 1149160,
+            "practice_name": "Shree Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-05T10:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43900208,
+                "review_text": "I cannot say enough wonderful things about Dr. Sarada Reddy First of all, I think she is a brilliant physician and surgeon. But, what really makes her stand out is how she made me feel like I was her only patient and that she would spend as much time with me as I needed. she was incredibly thorough in not only asking me about my history, but in explaining all my options. she called before my surgery to see if I had any more questions, and she called several times after to see how I was doing and to update me on the results. she emphasized that I should feel free to contact her any time with any questions. I think the highest compliment one can give a doctor is that they treat a patient like a member of their family and Dr. Sarada did that for me. I feel so lucky to have found her!",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-04 09:28:11",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            },
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 1530,
+                "text": "Menstrual Disorders in Adolescent Girls"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1773932,
+            "status": "PUBLISHED",
+            "note": "2021-07-13 13:06:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600004,
+            "practice_id": 1149160,
+            "practice_name": "Shree Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-13T14:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43114140,
+                "review_text": "** ******* *****  ** *** **** ************ ** ********** Both my children are born in her hospital. My daughter is now 13 years and son is 9 years. They both are healthy and both the deliveries went smoothly. I consulted her for my mother in laws hysterectomy too. She did laparoscopy and my MIL has not faced any complications afterwards. Now she is like an extended family to us. I am deeply thankful to Dr Sharda.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 55,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 358377
+                    }
+                ],
+                "reviewed_on": "2021-07-11 15:42:25",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 836473,
+            "status": "PUBLISHED",
+            "note": "2018-04-03 07:30:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 600004,
+            "practice_id": 1149160,
+            "practice_name": "Shree Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-03T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37130812,
+                "review_text": "Her treatment talks alot about her experience. She was quite supportive all through my pregnancy. I want to mention a couple of things ******** ** ********* *** ****..... there is no elevator in the hospital and room cleanliness was not maintained during my stay. ",
+                "review_alterations": [
+                    {
+                        "start_index": 134,
+                        "end_index": 164,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 100169
+                    }
+                ],
+                "reviewed_on": "2018-03-31 19:00:51",
+                "channel": "web-gmf",
+                "source": "GMF",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 989430,
+            "status": "PUBLISHED",
+            "note": "2018-10-04 09:22:04",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 600004,
+            "practice_id": 1149160,
+            "practice_name": "Shree Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-04T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38386051,
+                "review_text": "never go to that place. Staff is unqualified and untrained. Basic hygiene is not there. Toilets are dirty.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-02 14:21:51",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

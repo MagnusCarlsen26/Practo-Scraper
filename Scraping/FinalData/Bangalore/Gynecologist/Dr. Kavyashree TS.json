@@ -1,0 +1,63 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2421289,
+            "status": "PUBLISHED",
+            "note": "2024-07-30 10:52:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1073198,
+            "practice_id": 1463730,
+            "practice_name": "Garbha Raksha",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-30T11:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46889999,
+                "review_text": " I am extremely satisfied with the doctor's guidance and care. The advice provided was very helpful and addressed all my concerns. Thank you for the excellent service.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-29 01:39:43",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 927984,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

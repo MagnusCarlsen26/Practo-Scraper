@@ -1,0 +1,52 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 773705,
+            "status": "PUBLISHED",
+            "note": "2018-01-28 09:40:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495893,
+            "practice_id": 681187,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-28T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36545848,
+                "review_text": "She is very friendly. Explains everything in detail. Listens to patient queries . Well experienced doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-17 13:18:45",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs.Nivedha"
+        },
+        "entity_id": 524797,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

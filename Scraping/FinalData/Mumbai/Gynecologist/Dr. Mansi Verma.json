@@ -1,0 +1,127 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2400359,
+            "status": "PUBLISHED",
+            "note": "2024-06-18 12:18:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1063559,
+            "practice_id": 1053187,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-18T13:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46770841,
+                "review_text": "I recently had a hysterectomy performed by Dr. Mansi Verma, and I am incredibly grateful for the exceptional care I received. From the first consultation, Dr. Verma was professional, compassionate, and attentive, putting me at ease immediately.Dr. Verma thoroughly explained the procedure and addressed all my concerns, ensuring I understood everything. On the day of the surgery, her warm smile and calm demeanor alleviated my anxiety. Her personal touch extended beyond the operating room, with multiple check-ins post-operation to ensure my comfort and understanding of the recovery process.Throughout my recovery, Dr. Verma was accessible and supportive, promptly addressing any questions. Her dedication to patients is evident, and I felt genuinely cared for during the entire experience.Dr. Verma is a highly skilled surgeon and a compassionate healthcare provider. I wholeheartedly recommend her to anyone in need of gynecological care. She made a significant positive impact on my health and well-being, and I am forever grateful for her expertise and kindness",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-17 12:18:13",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Poonam Yadav"
+        },
+        "entity_id": 863617,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1535,
+                "text": "Breast Examination"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2320389,
+            "status": "PUBLISHED",
+            "note": "2024-01-07 05:03:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1063559,
+            "practice_id": 1053187,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-07T06:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46311413,
+                "review_text": "Extremely helpful doctor, was very patient and supportive.  Would definitely recommend her to family and friends. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-05 13:34:36",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "shriya ghongade"
+        },
+        "entity_id": 863617,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2340595,
+            "status": "PUBLISHED",
+            "note": "2024-02-15 05:34:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1063559,
+            "practice_id": 1053187,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-15T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46428255,
+                "review_text": "She's so sweet...And I m very comfortable with her... always guide me very well.. am blessed that you are my doc! I have great confidence in you and your abilities\u201d ",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-13 20:34:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 863617,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

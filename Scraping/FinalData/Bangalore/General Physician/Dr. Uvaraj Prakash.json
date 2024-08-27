@@ -1,0 +1,379 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2070976,
+            "status": "PUBLISHED",
+            "note": "2022-09-20 07:57:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-20T08:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44846937,
+                "review_text": "Doctor was very patient and listened to the whole thing. And helped me get better.  Definitely would recommend.\n\n\nThe support staff gave me a wrong cough syrup though. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-19 07:52:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nakhul v n"
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1846513,
+            "status": "PUBLISHED",
+            "note": "2021-10-07 09:12:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-07T10:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43541239,
+                "review_text": "Very approachable, kind and articulate doctor who diagnosed wife's viral fever . Having recently moved to Bangalore was looking for a dependable general physician and looks like we have found him",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-06 08:34:10",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Varun Sekar"
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1694183,
+            "status": "PUBLISHED",
+            "note": "2021-04-09 10:08:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-09T11:01:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42681930,
+                "review_text": "I visited for fever the Dr is very polite and patient friendly and informative and suggestive and cooperative. ete .in single word 100% recommendable doctor,thanks to the Dr. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-08 06:38:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ch.Praneeth Reddy"
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1654117,
+            "status": "PUBLISHED",
+            "note": "2021-02-24 07:13:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-24T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 283003,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your inputs.",
+                "replied_at": "2021-04-26T09:30:06+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 6628925,
+                "modified_by_id": 6628925,
+                "replier_name": "Dr. Uvaraj Prakash",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/770727/dr-uvaraj-prakash-65685ad6ca8a6.jpeg"
+            },
+            "survey_response": {
+                "id": 42462038,
+                "review_text": "We can explain our problem without hesitation. He is listening to us very patiently and the way of his diagnosis is appreciable. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-22 13:46:59",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "krishna chaitanya "
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2150944,
+            "status": "PUBLISHED",
+            "note": "2023-02-15 04:51:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-15T05:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45301081,
+                "review_text": "I took my mother for general checkup , He was very friendly and carefully listen to  my mother problems and gave very good suggestions and treatment  and gave counseling for personal life as  his mother and to me he spoke as close friend ...overall was great  experience",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-13 13:00:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2071239,
+            "status": "PUBLISHED",
+            "note": "2022-09-21 04:58:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-21T05:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44848449,
+                "review_text": "I have been extremely blessed to come across a doctor like this. Had taken my mother for a cough and tiredness. He thoroughly examined her and through and ecg identified that she had a heart problem. He then referred to a reputed doctor. With his house timely help he saved my mother from a life threatening disease. I will would like to express my waves of gratitude towards Dr Uvaraj. I highly recommend him to all.",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-19 13:21:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2062400,
+            "status": "PUBLISHED",
+            "note": "2022-09-07 06:48:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-07T07:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44796520,
+                "review_text": "He was very friendly and listened about my issues patiently and gave me suggestions about how to improve my health condition and gave counseling also for personal life as a friend...overall had amazing experience ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-05 17:48:19",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2038829,
+            "status": "PUBLISHED",
+            "note": "2022-07-29 04:42:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-29T05:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44651846,
+                "review_text": "Good explanation and consultation.\nHighly recommended doctor.\nAppointment on time. \nConsulted for Cough\nMedicine available at clinic itself ",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-27 14:05:11",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1707798,
+            "status": "PUBLISHED",
+            "note": "2021-04-27 07:20:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 770727,
+            "practice_id": 1267100,
+            "practice_name": "Malliga Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-27T08:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42758694,
+                "review_text": "Very professional, practical and amicable approach to treatment. Would definitely recommend the doc further.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-25 05:25:52",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693344,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

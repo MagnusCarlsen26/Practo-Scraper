@@ -1,0 +1,158 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1469879,
+            "status": "PUBLISHED",
+            "note": "2020-07-17 11:06:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 853898,
+            "practice_id": 1292377,
+            "practice_name": "Poonam Medical Centre ",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-17T12:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 232778,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much mam",
+                "replied_at": "2020-09-13T12:10:12+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8005060,
+                "modified_by_id": 8005060,
+                "replier_name": "Dr. Rohan Rajpuut",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/853898/dr-rohan-rajpuut-5f40e00c8abeb.jpeg"
+            },
+            "survey_response": {
+                "id": 41488790,
+                "review_text": "I have consulted the doctor for anxiety and other questions related to Covid. \nHe is super patient, listening to the issues keenly , asks a lot of questions to understand what exactly the patient is going through and then diagnose the situation. \nI wish if every doctor could be that patient and try to give time to his patients.\nI would totally recommend him to others. \nThank you Dr.Rohan",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-16 11:03:26",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hemendra"
+        },
+        "entity_id": 719469,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1531250,
+            "status": "PUBLISHED",
+            "note": "2020-09-25 09:47:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 853898,
+            "practice_id": 1292377,
+            "practice_name": "Poonam Medical Centre ",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-24T14:36:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 236082,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much take care stay safe and healthy \ud83d\ude0a",
+                "replied_at": "2020-09-24T14:36:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8005060,
+                "modified_by_id": 8005060,
+                "replier_name": "Dr. Rohan Rajpuut",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/853898/dr-rohan-rajpuut-5f40e00c8abeb.jpeg"
+            },
+            "survey_response": {
+                "id": 41801572,
+                "review_text": "I contacted Dr. Rohan to clear some doubts regarding Covid. He was extremely patient, listened to my queries and cleared the doubts really well. I would definitely reach him out again and recommend him to my family and friends. Thanks a lot doctor!",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-24 09:44:06",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pulkit Arora"
+        },
+        "entity_id": 719469,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2325129,
+            "status": "PUBLISHED",
+            "note": "2024-01-16 07:29:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 853898,
+            "practice_id": 1292377,
+            "practice_name": "Poonam Medical Centre ",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-16T08:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46338849,
+                "review_text": "good doctor very nice doctor amazing doctor **** ********* ****** knows everything related to medicine ",
+                "review_alterations": [
+                    {
+                        "start_index": 44,
+                        "end_index": 64,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 477131
+                    }
+                ],
+                "reviewed_on": "2024-01-14 14:15:01",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 719469,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

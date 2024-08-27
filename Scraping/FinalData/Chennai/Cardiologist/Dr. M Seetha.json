@@ -1,0 +1,406 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 621309,
+            "status": "PUBLISHED",
+            "note": "2017-07-14 11:14:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 583252,
+            "practice_id": 1137076,
+            "practice_name": "Kamakshi Memorial Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-14T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35026481,
+                "review_text": "Doctor was very kind and listened patiently on my chest pain issue. Suggested thread mill test and found that there is nothing to worry about cardio problems. Was related to chest muscle or gastric trouble. Now I am totally alright. Overall completely satisfied. Thank you doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-13 05:48:25",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Srikanth Krishnamurthy"
+        },
+        "entity_id": 567593,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183996,
+                "text": "Echocardiography"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1399564,
+            "status": "PUBLISHED",
+            "note": "2020-03-15 08:01:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 583252,
+            "practice_id": 657002,
+            "practice_name": "Bharathirajaa Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-15T09:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41123429,
+                "review_text": "Very Good service with nice experience thanks to doctor and technician.  Good hospital. Very reliable time of the test. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-14 07:39:06",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "S Manikandan"
+        },
+        "entity_id": 670243,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 183996,
+                "text": "Echocardiography"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 883857,
+            "status": "PUBLISHED",
+            "note": "2018-05-27 07:15:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 583252,
+            "practice_id": 1137076,
+            "practice_name": "Dr. Kamakshi Memorial Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-27T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37540006,
+                "review_text": "She very kind, cool, good listener. She is not General practitioner/physician, she is inetrventional cardiologist. I suggest to visit her for cardiac only.",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-26 07:14:49",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "PATIL"
+        },
+        "entity_id": 567593,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 50,
+                "text": "Cardioversion"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2256097,
+            "status": "PUBLISHED",
+            "note": "2023-09-03 06:46:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 583252,
+            "practice_id": 657002,
+            "practice_name": "Bharathirajaa Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-03T07:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45938236,
+                "review_text": "Charges are very high 1300 normal person can not affordable    \nNormally fee should be 500  is affordable fee  for every one ",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-02 06:42:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 670243,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183104,
+                "text": "Cardiac checkup - General"
+            },
+            {
+                "id": 3608,
+                "text": "Peripheral Angiogram"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 908898,
+            "status": "PUBLISHED",
+            "note": "2018-06-28 04:35:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 583252,
+            "practice_id": 1137076,
+            "practice_name": "Dr. Kamakshi Memorial Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-28T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37748159,
+                "review_text": "Dr.Seetha is unknown to me and at random I made a visit for consultation of my Heart problem.\nShe is very professional and genuine.\nShe suggested me for angiogram and the procedure was very neat and quick and my 5 years fear was eradicated in one day. I denied for angiogram several times previously but her explanation made me to take a quick decision.\nHats off to the doctor.\nRajagopalan",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-26 14:14:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 567593,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 698154,
+            "status": "PUBLISHED",
+            "note": "2017-10-12 09:30:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 583252,
+            "practice_id": 1137076,
+            "practice_name": "Dr. Kamakshi Memorial Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-12T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35807359,
+                "review_text": "Doctor patiently listened on my chest pain issue and Suggested scanning thread mill test and found that there is nothing to worry about cardio problems. Was related to chest muscle issue . Now I am totally alright. Thank you doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-09 09:42:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 567593,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1812405,
+            "status": "PUBLISHED",
+            "note": "2021-08-27 08:36:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 583252,
+            "practice_id": 657002,
+            "practice_name": "Bharathirajaa Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-27T09:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43332587,
+                "review_text": "She was very friendly approach and we satisfied  . She was referred by our family doctor . So we went to meet her by online appointment ",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-26 08:27:49",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 670243,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 955733,
+            "status": "PUBLISHED",
+            "note": "2018-08-24 13:19:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 583252,
+            "practice_id": 1137076,
+            "practice_name": "Dr. Kamakshi Memorial Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-24T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38139055,
+                "review_text": "Very good doctor. noncommercial. explained issue in-detail.\nI strongly suggest for any one. no extra medicines written. asked me to get well by taking natural food but not with medicine.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-23 13:09:51",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 567593,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

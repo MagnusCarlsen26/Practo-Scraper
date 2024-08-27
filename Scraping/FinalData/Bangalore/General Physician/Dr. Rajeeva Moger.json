@@ -1,0 +1,268 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2372278,
+            "status": "PUBLISHED",
+            "note": "2024-04-21 05:00:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527489,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-21T06:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46609380,
+                "review_text": "Apollo Hospital is Dr. Rajeev Mogera is also one. He has treated my daughter. Very simple. A gentleman doctor. His words. Loved the care and advice given while treating the patients.",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-19 13:41:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 519834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186431,
+                "text": "Respiratory tract infection"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            },
+            {
+                "id": 245,
+                "text": "Body Ache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 596662,
+            "status": "PUBLISHED",
+            "note": "2017-06-21 07:38:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527489,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-21T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34776844,
+                "review_text": "Very good doctor, but you cannot meet him on emergency sickness, due to appointment  ,you need advance 2days to book slot, I don't know about current situation how they have improved appointment system, but ultimately ** ****** ******** ********** in my case they immediately said about my difficiency , and it was correct after lab test",
+                "review_alterations": [
+                    {
+                        "start_index": 218,
+                        "end_index": 246,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 52709
+                    }
+                ],
+                "reviewed_on": "2017-06-19 04:14:09",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MANJUNATHA"
+        },
+        "entity_id": 519834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 766366,
+            "status": "PUBLISHED",
+            "note": "2018-01-17 09:48:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527489,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-17T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36473057,
+                "review_text": "Excellent conservative doctor******** ********* \nCool and calm,making patients comfortable \nDoctor Came from humble background and came up in life by hardwork\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 29,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 85853
+                    }
+                ],
+                "reviewed_on": "2018-01-07 14:50:25",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Radhakrishna Shastry"
+        },
+        "entity_id": 519834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 401,
+                "text": "Chikungunya"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 729036,
+            "status": "PUBLISHED",
+            "note": "2017-11-20 15:08:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527489,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-20T16:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36109443,
+                "review_text": "All joints were aching and lack of appetite. He diagnosed ********* and I felt much better. No overdosing or unnessary consultations.",
+                "review_alterations": [
+                    {
+                        "start_index": 58,
+                        "end_index": 66,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 76902
+                    }
+                ],
+                "reviewed_on": "2017-11-18 04:18:06",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "pankaja bajpai"
+        },
+        "entity_id": 519834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 829802,
+            "status": "PUBLISHED",
+            "note": "2018-03-25 09:17:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 527489,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-25T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37070779,
+                "review_text": "Very humble, conservative, no extra or unnecessary  diagnosis tests, extremely satisfied with the consultation* **** ******* ********* * **** **** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 110,
+                        "end_index": 150,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 98846
+                    }
+                ],
+                "reviewed_on": "2018-03-24 08:07:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 519834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

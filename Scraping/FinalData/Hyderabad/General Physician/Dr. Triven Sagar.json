@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192789,
+                "text": "Physcian"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1966006,
+            "status": "PUBLISHED",
+            "note": "2022-04-06 04:11:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 884426,
+            "practice_id": 1373081,
+            "practice_name": "Aloha Clinic Women And General Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-06T05:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44239006,
+                "review_text": "Doctor patiently hear all the symptoms and provided the medications accordingly. Staff was friendly.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-04 13:39:04",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shubhranshu Zutshi"
+        },
+        "entity_id": 807728,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

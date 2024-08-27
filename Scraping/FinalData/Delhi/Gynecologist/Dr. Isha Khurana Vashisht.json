@@ -1,0 +1,136 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1581638,
+            "status": "PUBLISHED",
+            "note": "2020-11-26 06:02:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 801654,
+            "practice_id": 1138095,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-26T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42071912,
+                "review_text": "Thanks to Dr. Isha Khurana Vashisht at Apollo Cradle for getting breast diagnosed for possible cancer during an IVF treatment and recommending a through examination from any Oncologist. God bless Dr. Isha!\n\nThis whole issue started when another Gynaecologist at another Hospital carried on IUI a year ago despite showing her breast lumps. These became malignant (cancerous) latter most probably due to hormones given during IUI treatment.\n\nThis has costed patient a lot of pain and a complete turnaround in her personal life. All this misery could have been avoided easily. Another lady Doctor at another famous IVF Clinic at Patel Nagar, Delhi was also ready to go ahead with the IVF despite seeing this lump.\n\nWe will return to Dr. Isha once cancer treatment is over and recommend her to each and every person we come in touch with. We are so grateful for your timely recommendation and emotional support. \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-24 17:37:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lalit Sharma "
+        },
+        "entity_id": 708287,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1440734,
+            "status": "PUBLISHED",
+            "note": "2020-06-09 12:51:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 801654,
+            "practice_id": 1138095,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-09T13:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41341829,
+                "review_text": "***** *** ** *** **** ****** **** *** *** ***** I know how hard it is to find a doctor who listens you and do whatever can be done to resolve your problem. She possess all the qualities of a good health care professional and most importantly is approachable. She made our parenthood dream alive which was fading in the past.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 47,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 269665
+                    }
+                ],
+                "reviewed_on": "2020-06-08 12:49:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 708287,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2011693,
+            "status": "PUBLISHED",
+            "note": "2022-06-17 04:50:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 801654,
+            "practice_id": 1138095,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-17T05:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44497801,
+                "review_text": "**** ****** ***** listen to all the problems and is. Always available...would highly recommend her. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 414233
+                    }
+                ],
+                "reviewed_on": "2022-06-15 13:09:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "aarti agarwal"
+        },
+        "entity_id": 708287,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

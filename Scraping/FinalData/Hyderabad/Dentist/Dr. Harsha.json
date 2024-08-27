@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2315518,
+            "status": "PUBLISHED",
+            "note": "2023-12-29 07:20:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1072895,
+            "practice_id": 1255364,
+            "practice_name": "National Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-29T08:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46283904,
+                "review_text": "The treatment was good and painless. Dr. Harsh is friendly and he explained the treatment producer very clearly. Very happy with the result. Thank you so much. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-28 07:11:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nikitha"
+        },
+        "entity_id": 870440,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

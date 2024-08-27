@@ -1,0 +1,147 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2034984,
+            "status": "PUBLISHED",
+            "note": "2022-07-23 06:47:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 928613,
+            "practice_id": 1346342,
+            "practice_name": "Adarsh Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-23T07:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44629853,
+                "review_text": "As a mother , i am very worried on my daughter's health, and frequently call and ask for feedback  on my child health to dr, recently i called him and initially he got very angry, but immediately he realised and apologized and helped me read the reports and suggested.very rare to see such nature and humbleness.. thank you so much dr thank you so much dr Punit Garg.",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-21 17:11:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "priyaa venkataraman"
+        },
+        "entity_id": 778254,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2078664,
+            "status": "PUBLISHED",
+            "note": "2022-10-04 07:19:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 928613,
+            "practice_id": 1346342,
+            "practice_name": "Adarsh Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-03T09:19:16+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 379225,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much!\ud83d\ude0a ",
+                "replied_at": "2022-10-03T09:19:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 10436370,
+                "modified_by_id": 10436370,
+                "replier_name": "Dr. Punit Vinod Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/928613/dr-punit-vinod-garg-60d064dcc2462.jpeg"
+            },
+            "survey_response": {
+                "id": 44890195,
+                "review_text": "Dr. Puneet is very helpful and knowledgeable. We were really delighted with quick resolution, low wait time, and the doctor's friendly attitude.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-01 15:22:32",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vaibhavi Joshi"
+        },
+        "entity_id": 778254,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1838687,
+            "status": "PUBLISHED",
+            "note": "2021-09-28 09:15:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 928613,
+            "practice_id": 1346342,
+            "practice_name": "Adarsh Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-28T10:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 318894,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for the feedback. \ud83d\ude42",
+                "replied_at": "2021-09-30T06:38:23+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 10436370,
+                "modified_by_id": 10436370,
+                "replier_name": "Dr. Punit Vinod Garg",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/928613/dr-punit-vinod-garg-60d064dcc2462.jpeg"
+            },
+            "survey_response": {
+                "id": 43492078,
+                "review_text": "really good experience and suggestions by doctor.preferrable to others also. Great explanation by doctor and staff also good.",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-26 06:50:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Avinash mhatre"
+        },
+        "entity_id": 778254,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

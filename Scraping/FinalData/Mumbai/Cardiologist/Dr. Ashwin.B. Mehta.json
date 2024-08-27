@@ -1,0 +1,125 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 52,
+                "text": "Coronary Angiogram"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1379016,
+            "status": "PUBLISHED",
+            "note": "2020-02-25 10:25:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 240326,
+            "practice_id": 604160,
+            "practice_name": "Breach Candy Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-25T11:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40999286,
+                "review_text": "I would fully recommend the doctor to everyone who is looking for any guidance related to heart.\nWe had visited him for my husband.\nHe patiently heard all the facts and took note of it, checked all the reports, symptoms thoroughly and guided us for further actions.\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-23 07:43:53",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 129407,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1232855,
+            "status": "PUBLISHED",
+            "note": "2019-08-28 07:42:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 240326,
+            "practice_id": 668021,
+            "practice_name": "Ashwin B Mehta Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-28T08:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39993478,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 133,
+                        "reason": "NON_COMPLIANT",
+                        "id": 202475
+                    }
+                ],
+                "reviewed_on": "2019-08-27 03:50:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101726,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

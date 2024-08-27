@@ -1,0 +1,1240 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1749575,
+            "status": "PUBLISHED",
+            "note": "2021-06-15 10:29:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 765380,
+            "practice_name": "Swarnarani Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-15T09:10:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 294024,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much for your kind words.",
+                "replied_at": "2021-06-15T09:10:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 42980459,
+                "review_text": "Dr. Ranjith listens to your problem and understands the issue very well. He makes you very comfortable to deal with. My personal experience was very good , the way he explains the problem and makes us feel it's not a big deal to over come the problem is a very good attitude .he explains abt the treatment, action and follow up and he's always there for any emergencies. *** *** ******* **** ** ******* **** *********. thanks you so much doctor",
+                "review_alterations": [
+                    {
+                        "start_index": 371,
+                        "end_index": 416,
+                        "reason": "NON_COMPLIANT",
+                        "id": 351893
+                    }
+                ],
+                "reviewed_on": "2021-06-14 07:16:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Princy"
+        },
+        "entity_id": 296611,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193799,
+                "text": "Pediatric Foot and Ankle Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1868103,
+            "status": "PUBLISHED",
+            "note": "2021-11-09 06:56:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 1331298,
+            "practice_name": "Mom & Me Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-09T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43675529,
+                "review_text": "Very happy and satisfied with the explanation and treatment.. 10/10 .. Keep up the great work doctor... ",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-07 07:28:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nalina Srinivas"
+        },
+        "entity_id": 762769,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 757,
+                "text": "Neuromuscular Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1851676,
+            "status": "PUBLISHED",
+            "note": "2021-10-14 06:21:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 1331298,
+            "practice_name": "Mom & Me Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-14T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325198,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:25:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 43573303,
+                "review_text": "We need many many more doctors like doctor Ranjit. Very confident in his diagnosis. Extremely friendly. The clinic is very clean *** *** ** *** **** ** *** ***** Thanks doctor. All the very best from sriram and myself. ",
+                "review_alterations": [
+                    {
+                        "start_index": 129,
+                        "end_index": 160,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 378619
+                    }
+                ],
+                "reviewed_on": "2021-10-13 04:15:12",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Linda Sriram"
+        },
+        "entity_id": 762769,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1390028,
+            "status": "PUBLISHED",
+            "note": "2020-03-06 05:56:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 765380,
+            "practice_name": "Swarnarani Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-06T06:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325201,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:25:37+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 41064358,
+                "review_text": "Overall satisfied with the explanation given by doctor. He explained the problem in detail and suggested some exercises ",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-04 14:10:32",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yogesh"
+        },
+        "entity_id": 296611,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101942,
+                "text": "Muscle release"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1312022,
+            "status": "PUBLISHED",
+            "note": "2019-12-13 05:28:53",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 711687,
+            "practice_name": "Manipal Hospital Malleshwaram",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-13T06:01:23+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325199,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:25:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 40519611,
+                "review_text": "Dr.Ranjit is one of the best orthopedic  I have came across. He is not only a good doctor but an excellent human being who took really good care of his patients. I feel safe under his medical supervision. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-11 15:35:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mousumi "
+        },
+        "entity_id": 567926,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1566902,
+            "status": "PUBLISHED",
+            "note": "2020-11-05 11:19:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 765380,
+            "practice_name": "Swarnarani Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-05T12:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 254572,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your encouraging words.",
+                "replied_at": "2020-12-16T08:15:34+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 41992239,
+                "review_text": "Very nice and professional behavior, Relaxed environment and made us comfortable which is very important with respect to managing the patients.\n\nThanks for your inputs and suggestions Doctor.\n\nI would strongly recommend the Doctor for anybody with Ortho related issues.\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-04 11:16:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 296611,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1215936,
+            "status": "PUBLISHED",
+            "note": "2019-08-07 04:51:10",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 700041,
+            "practice_name": "People Tree Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-07T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325197,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:24:46+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 39885651,
+                "review_text": "Unlike the current generation of docs who misdiagnose issues. He is patient and administers step by step prognosis of the condition. And in time if the body doesn't heal, is when he advises surgery and other harsh alternative.\nHe explained the repercussions in terms of of short term and long term troubles/benefits. Also the anatomy of the knee was explained in detail.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-04 05:12:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 568558,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 671733,
+            "status": "PUBLISHED",
+            "note": "2017-09-08 06:18:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 1162704,
+            "practice_name": "Raghavendra People Tree Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-07T08:33:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 44966,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the positive feedback. Always a pleasure.",
+                "replied_at": "2017-09-07T08:33:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 35545158,
+                "review_text": "He spent good time interacting and diagnosing the condition. He gave me an option for further management. He explained the consequences and when to come back fot follow up.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-06 14:06:49",
+                "channel": "sapphire",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 569273,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 71,
+                "text": "Joint Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1360796,
+            "status": "PUBLISHED",
+            "note": "2020-02-06 07:08:37",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 765380,
+            "practice_name": "Swarnarani Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-06T08:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325200,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:25:26+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 40870742,
+                "review_text": "I am indresh medical representative from innovcare life sciences Pvt ltd I meet Ranjith sir Very friendly talk with me he is good human being and clinic surround is very good",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-05 06:28:54",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 296611,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 537081,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 1045722,
+            "practice_name": "Sparsh Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-24T11:50:15+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325196,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:24:28+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 34163085,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-23 18:21:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naresh Babu"
+        },
+        "entity_id": 523372,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1749575,
+            "status": "PUBLISHED",
+            "note": "2021-06-15 10:29:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 765380,
+            "practice_name": "Swarnarani Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-15T09:10:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 294024,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much for your kind words.",
+                "replied_at": "2021-06-15T09:10:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 42980459,
+                "review_text": "Dr. Ranjith listens to your problem and understands the issue very well. He makes you very comfortable to deal with. My personal experience was very good , the way he explains the problem and makes us feel it's not a big deal to over come the problem is a very good attitude .he explains abt the treatment, action and follow up and he's always there for any emergencies. *** *** ******* **** ** ******* **** *********. thanks you so much doctor",
+                "review_alterations": [
+                    {
+                        "start_index": 371,
+                        "end_index": 416,
+                        "reason": "NON_COMPLIANT",
+                        "id": 351893
+                    }
+                ],
+                "reviewed_on": "2021-06-14 07:16:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Princy"
+        },
+        "entity_id": 296611,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193799,
+                "text": "Pediatric Foot and Ankle Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1868103,
+            "status": "PUBLISHED",
+            "note": "2021-11-09 06:56:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 1331298,
+            "practice_name": "Mom & Me Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-09T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43675529,
+                "review_text": "Very happy and satisfied with the explanation and treatment.. 10/10 .. Keep up the great work doctor... ",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-07 07:28:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nalina Srinivas"
+        },
+        "entity_id": 762769,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 757,
+                "text": "Neuromuscular Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1851676,
+            "status": "PUBLISHED",
+            "note": "2021-10-14 06:21:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 1331298,
+            "practice_name": "Mom & Me Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-14T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325198,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:25:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 43573303,
+                "review_text": "We need many many more doctors like doctor Ranjit. Very confident in his diagnosis. Extremely friendly. The clinic is very clean *** *** ** *** **** ** *** ***** Thanks doctor. All the very best from sriram and myself. ",
+                "review_alterations": [
+                    {
+                        "start_index": 129,
+                        "end_index": 160,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 378619
+                    }
+                ],
+                "reviewed_on": "2021-10-13 04:15:12",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Linda Sriram"
+        },
+        "entity_id": 762769,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1390028,
+            "status": "PUBLISHED",
+            "note": "2020-03-06 05:56:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 765380,
+            "practice_name": "Swarnarani Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-06T06:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325201,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:25:37+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 41064358,
+                "review_text": "Overall satisfied with the explanation given by doctor. He explained the problem in detail and suggested some exercises ",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-04 14:10:32",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yogesh"
+        },
+        "entity_id": 296611,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101942,
+                "text": "Muscle release"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1312022,
+            "status": "PUBLISHED",
+            "note": "2019-12-13 05:28:53",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 711687,
+            "practice_name": "Manipal Hospital Malleshwaram",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-13T06:01:23+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325199,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:25:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 40519611,
+                "review_text": "Dr.Ranjit is one of the best orthopedic  I have came across. He is not only a good doctor but an excellent human being who took really good care of his patients. I feel safe under his medical supervision. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-11 15:35:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mousumi "
+        },
+        "entity_id": 567926,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1566902,
+            "status": "PUBLISHED",
+            "note": "2020-11-05 11:19:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 765380,
+            "practice_name": "Swarnarani Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-05T12:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 254572,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your encouraging words.",
+                "replied_at": "2020-12-16T08:15:34+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 41992239,
+                "review_text": "Very nice and professional behavior, Relaxed environment and made us comfortable which is very important with respect to managing the patients.\n\nThanks for your inputs and suggestions Doctor.\n\nI would strongly recommend the Doctor for anybody with Ortho related issues.\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-04 11:16:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 296611,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1215936,
+            "status": "PUBLISHED",
+            "note": "2019-08-07 04:51:10",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 700041,
+            "practice_name": "People Tree Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-07T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325197,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:24:46+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 39885651,
+                "review_text": "Unlike the current generation of docs who misdiagnose issues. He is patient and administers step by step prognosis of the condition. And in time if the body doesn't heal, is when he advises surgery and other harsh alternative.\nHe explained the repercussions in terms of of short term and long term troubles/benefits. Also the anatomy of the knee was explained in detail.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-04 05:12:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 568558,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 671733,
+            "status": "PUBLISHED",
+            "note": "2017-09-08 06:18:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 1162704,
+            "practice_name": "Raghavendra People Tree Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-07T08:33:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 44966,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the positive feedback. Always a pleasure.",
+                "replied_at": "2017-09-07T08:33:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 35545158,
+                "review_text": "He spent good time interacting and diagnosing the condition. He gave me an option for further management. He explained the consequences and when to come back fot follow up.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-06 14:06:49",
+                "channel": "sapphire",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 569273,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 71,
+                "text": "Joint Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1360796,
+            "status": "PUBLISHED",
+            "note": "2020-02-06 07:08:37",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 765380,
+            "practice_name": "Swarnarani Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-06T08:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325200,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:25:26+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 40870742,
+                "review_text": "I am indresh medical representative from innovcare life sciences Pvt ltd I meet Ranjith sir Very friendly talk with me he is good human being and clinic surround is very good",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-05 06:28:54",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 296611,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 537081,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544825,
+            "practice_id": 1045722,
+            "practice_name": "Sparsh Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-24T11:50:15+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 325196,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you and Take care.",
+                "replied_at": "2021-11-05T06:24:28+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 273368,
+                "modified_by_id": 273368,
+                "replier_name": "Dr. Ranjit SDI",
+                "replier_logo": "https://images1-fabric.practo.com/dr-ranjit-sdi--1462481947-572bb41bcb1af.jpg"
+            },
+            "survey_response": {
+                "id": 34163085,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-23 18:21:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naresh Babu"
+        },
+        "entity_id": 523372,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

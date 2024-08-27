@@ -1,0 +1,3514 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 280,
+                "text": "Knee Replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2135668,
+            "status": "PUBLISHED",
+            "note": "2023-01-19 06:22:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-19T07:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45214037,
+                "review_text": "I, Venkatesh Divate visited for my mother's knee replacement 6 months ago. Dr Girish Sir really made my mother comfortable and explained us the issue and assured us everything will be alright. Dr Girish Sir took really good care when admitted in Hospital by regularly visiting and guidance. Also Dr Girish Sir arranged Physiotherapist at our home after the surgery.  Dr Girish Sir is really very humble and gentle person and is reachable when needed. I would suggest Dr Girish Sir for any Orthopaedic issues.",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-17 16:16:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Venkatesh D Divate"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192987,
+                "text": "Orthopedic Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 823970,
+            "status": "PUBLISHED",
+            "note": "2018-03-20 11:38:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-20T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37019198,
+                "review_text": "I went there for my mother-in-law's swollen forearm. Doc made us comfortable at the beginning and asked my MIL for the duration of the swelling. He touched it and made sure that my MIL was not in any discomfort. Explained us the causes of the same. Suggested ice massaging, ointments and some medications. All in all a refreshing experience after some bad decisions I have made in the past of going to big name hospitals who actually treat you like a commodity rather than a human being suffering from some form of disease/illness.",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-17 17:20:32",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandeepan JM"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101548,
+                "text": "Orthopedic physical therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2410738,
+            "status": "PUBLISHED",
+            "note": "2024-07-09 09:51:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-09T10:01:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46829600,
+                "review_text": "* *** **** *** ********** **** **** he has no patience to listen patient\u2019s issue\u2026. The most peculiar habit he has,  he leaves patient in his cabin all of a sudden and doesn\u2019t come back\u2026. I had to stop him while he was going out to ask my queries he replied very casually and rushed out\u2026 he did the same thing in both the hospitals manipal and RXDX\u2026. He make patients wait for long long time\u2026* * ******** ****** * **** ***** ********* *** ** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 34,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 490594
+                    },
+                    {
+                        "start_index": 391,
+                        "end_index": 446,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 490595
+                    }
+                ],
+                "reviewed_on": "2024-07-07 16:22:52",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 199968,
+                "text": "Foot Pressure/Vascular Assessment"
+            },
+            {
+                "id": 3606,
+                "text": "Orthopedic Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2198142,
+            "status": "PUBLISHED",
+            "note": "2023-05-16 06:32:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-16T07:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45580827,
+                "review_text": "I was at Manipal whitefield 2months back for my mother's femur fracture surgery, even that time the service was bad and now it's just terrible. *** ******* ******** ** ********* * ***** ******** *** ** ***** *** *** *** ******* *** ******** ********* ***** *** * **** *********** *********. She had to be in the ICU for a day, and I had to spend money, time and energy for negligence on a doctor's end. We have gone for multiple appointments in these 2 months but not once was that medicine was told to be continued. \n\nManipal only cares about protocol, when it's convenient to them. The ER staffs ***** *** ******* ** ******* didn't care to remember her name) were too arrogant when asked about the condition of my mother. The nurses and housekeeping staffs were pulling away my mother's leg in ways that would even hurt people with unbroken bones. No information was being passed from the ER staffs to the radiologists etc and they were asking us what test they were supposed to do. And all this, for a mistake that your hospital and doctors did. \n\nShe had to stay at the ICU for a day and was told would be shifted to a normal ward soon but waited till evening for a bed to be available, only to find out that the bed was not even made, no housekeeping done, no essential kits given for the attender, unclean toilets. The guards on the floor kept bothering attenders to leave, since only one attender can stay, when we were just going to collect our belongings from the room. The nurse station was empty at times and they were always overworked. We had to wait more than an hour for a simple IV change or meds or bandage dressings. We got the essentials next day, after asking them for a whole day. Our food preferences were asked on the next day, but even then food provided was not what we chose. Wrong lunch was given at 1:43pm and then when informed, it was changed after an hour. Same happened in the evening, then what's the point of even asking what food preference we have. \n\nNurses came in the morning and told to skip the BP medicine, since the BP is stable and then comes later on saying we shouldn't have skipped it and then gave the medicine. \n\nThe lifts were filthy, smelling of garbage. Discharge always takes so long, even after getting all required approvals from insurer and settling all final payments. Partial refunds given and no mention of the amount pending to be refunded which I can apparently use to buy meds at the pharmacy. Even calling an ambulance has a wait time of upwards of an hour. Can go on and on of what was wrong with this hospital, *** *** **** ********* ***** *** *** ********** **** *** ******** ***** *** ** ** *** ******** ** *** ******** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 144,
+                        "end_index": 288,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 455986
+                    },
+                    {
+                        "start_index": 597,
+                        "end_index": 625,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 455987
+                    },
+                    {
+                        "start_index": 2574,
+                        "end_index": 2691,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 455988
+                    }
+                ],
+                "reviewed_on": "2023-05-12 17:17:01",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1473501,
+            "status": "PUBLISHED",
+            "note": "2020-07-22 04:31:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-22T05:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41506502,
+                "review_text": "We visited DR.grisha for my father\u2019s fracture, ***  ********* *** ***** ******** he stated that the healing time would be 3 months for * ***** fracture ***** ** *** ***** ****** *** ** ******* *** ** *** ******* ******* *** ******* **** *** ***** *** ********* ******** *** ******** **** *** he charged \u20b92100 **** to put a cast for the leg, where he spent 10 minutes ** *** ** ****** ******** ***** I have all the receipts as an evidence. **** **** ** ****** ** **** ******* **** ****\nI recommend people to think twice before you\u2019ll could visit. ******* **** ***** ** ***** ** * ***** ** ****** ***** **** * ****** ** ** *** ****** ****** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 47,
+                        "end_index": 79,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278843
+                    },
+                    {
+                        "start_index": 135,
+                        "end_index": 142,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278844
+                    },
+                    {
+                        "start_index": 152,
+                        "end_index": 291,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278845
+                    },
+                    {
+                        "start_index": 309,
+                        "end_index": 312,
+                        "reason": "NON_COMPLIANT",
+                        "id": 278846
+                    },
+                    {
+                        "start_index": 367,
+                        "end_index": 397,
+                        "reason": "NON_COMPLIANT",
+                        "id": 278847
+                    },
+                    {
+                        "start_index": 438,
+                        "end_index": 483,
+                        "reason": "NON_COMPLIANT",
+                        "id": 278848
+                    },
+                    {
+                        "start_index": 546,
+                        "end_index": 645,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278849
+                    }
+                ],
+                "reviewed_on": "2020-07-20 21:47:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhinav"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2011855,
+            "status": "PUBLISHED",
+            "note": "2022-06-17 06:20:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-17T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44498637,
+                "review_text": "Hello this is Eeshaan Thakre! I am a 12 years old boy. I had a bone injury while playing cricket and fractured my left hand little finger. Further it got complicated due to fracture dislocation. I consulted Dr. Girisha Sir at Manipal Whitefield. He treated me very well with lot of patience and support. I underwent a complicated surgery as it was a small joint. Dr. Girisha Sir did an awesome job by fixing back my bone with minimally invasive K-wire technique. Dr. Girisha Sir is very humble and always accessible to his patients. I fully recovered in 4 weeks. I am very thankful to Dr. Girisha Sir and highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-15 16:01:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Eeshaan Thakre"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1112,
+                "text": "Joint and Muscle Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1037289,
+            "status": "PUBLISHED",
+            "note": "2018-12-11 09:35:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1106420,
+            "practice_name": "Femiint Health & Fertility",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-11T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38727607,
+                "review_text": "First of really liked his commitment towards the job. He came all the way to check me alone as many other doctors cancel appointments if only one patient is there. Then his patience in hearing the patient and proper explanation of issue. Also he checks up very well and never prescribe for xray on the firsr strech as like many other ortho doctors do in bangalore. \nWait time is also seems to be fair enough and since we went with prime, consulted doc within just 10 mins of wait only. Hospital also is well kept and friendly front office staff. Over all very good experience. Thanks to practo for bringing up the facility. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-09 02:03:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sarath Chandran S"
+        },
+        "entity_id": 531635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2358051,
+            "status": "PUBLISHED",
+            "note": "2024-03-20 07:36:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-20T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46528491,
+                "review_text": "My mother visited this doctor with a back pain and without any examination he suggested pain killers. She went through the pain for another 10 days with no results & then consulted another doctor to find the actual cause of osteoporosis.*** ****** *** *** ******** **** *** ********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 237,
+                        "end_index": 283,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 481904
+                    }
+                ],
+                "reviewed_on": "2024-03-17 11:08:45",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 199964,
+                "text": "Foot Injury Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1983350,
+            "status": "PUBLISHED",
+            "note": "2022-05-02 16:11:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-02T17:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44336075,
+                "review_text": "My 3&4th toe were fractured. But he said big toe is fractured. In the first meeting he didn't even ask to put bandage or plaster on the big toe and in followup questioned where it was. He didn't even touch my foot to see which joint is sore or paining or if the ankle can be moved. He was in a hurry to send me off and typing on the monitor. Didn't explain the injury *** ********* ** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 367,
+                        "end_index": 394,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 407646
+                    }
+                ],
+                "reviewed_on": "2022-04-30 16:05:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Madhukar Reddy N"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 195168,
+                "text": "Hand Fracture Reduction and Fixation by Kirschner Wires"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1958546,
+            "status": "PUBLISHED",
+            "note": "2022-03-25 06:06:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-25T07:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44196987,
+                "review_text": "Overall very happy with the outcome and treatment. Doctor does not prescribe redundant medications . Surgery outcome and rehab after physiotherapy shows appreciable progress. Does npt push for any fancy procedures. weng ahead with conventional kwire which were minimally invasive. humble doc, values patients time as much as his and spends considerable time patiently explaining answers to my pertinent queries.",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-23 14:58:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "anand lakshmanan"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 280,
+                "text": "Knee Replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2135668,
+            "status": "PUBLISHED",
+            "note": "2023-01-19 06:22:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-19T07:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45214037,
+                "review_text": "I, Venkatesh Divate visited for my mother's knee replacement 6 months ago. Dr Girish Sir really made my mother comfortable and explained us the issue and assured us everything will be alright. Dr Girish Sir took really good care when admitted in Hospital by regularly visiting and guidance. Also Dr Girish Sir arranged Physiotherapist at our home after the surgery.  Dr Girish Sir is really very humble and gentle person and is reachable when needed. I would suggest Dr Girish Sir for any Orthopaedic issues.",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-17 16:16:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Venkatesh D Divate"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192987,
+                "text": "Orthopedic Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 823970,
+            "status": "PUBLISHED",
+            "note": "2018-03-20 11:38:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-20T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37019198,
+                "review_text": "I went there for my mother-in-law's swollen forearm. Doc made us comfortable at the beginning and asked my MIL for the duration of the swelling. He touched it and made sure that my MIL was not in any discomfort. Explained us the causes of the same. Suggested ice massaging, ointments and some medications. All in all a refreshing experience after some bad decisions I have made in the past of going to big name hospitals who actually treat you like a commodity rather than a human being suffering from some form of disease/illness.",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-17 17:20:32",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandeepan JM"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101548,
+                "text": "Orthopedic physical therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2410738,
+            "status": "PUBLISHED",
+            "note": "2024-07-09 09:51:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-09T10:01:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46829600,
+                "review_text": "* *** **** *** ********** **** **** he has no patience to listen patient\u2019s issue\u2026. The most peculiar habit he has,  he leaves patient in his cabin all of a sudden and doesn\u2019t come back\u2026. I had to stop him while he was going out to ask my queries he replied very casually and rushed out\u2026 he did the same thing in both the hospitals manipal and RXDX\u2026. He make patients wait for long long time\u2026* * ******** ****** * **** ***** ********* *** ** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 34,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 490594
+                    },
+                    {
+                        "start_index": 391,
+                        "end_index": 446,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 490595
+                    }
+                ],
+                "reviewed_on": "2024-07-07 16:22:52",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 199968,
+                "text": "Foot Pressure/Vascular Assessment"
+            },
+            {
+                "id": 3606,
+                "text": "Orthopedic Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2198142,
+            "status": "PUBLISHED",
+            "note": "2023-05-16 06:32:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-16T07:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45580827,
+                "review_text": "I was at Manipal whitefield 2months back for my mother's femur fracture surgery, even that time the service was bad and now it's just terrible. *** ******* ******** ** ********* * ***** ******** *** ** ***** *** *** *** ******* *** ******** ********* ***** *** * **** *********** *********. She had to be in the ICU for a day, and I had to spend money, time and energy for negligence on a doctor's end. We have gone for multiple appointments in these 2 months but not once was that medicine was told to be continued. \n\nManipal only cares about protocol, when it's convenient to them. The ER staffs ***** *** ******* ** ******* didn't care to remember her name) were too arrogant when asked about the condition of my mother. The nurses and housekeeping staffs were pulling away my mother's leg in ways that would even hurt people with unbroken bones. No information was being passed from the ER staffs to the radiologists etc and they were asking us what test they were supposed to do. And all this, for a mistake that your hospital and doctors did. \n\nShe had to stay at the ICU for a day and was told would be shifted to a normal ward soon but waited till evening for a bed to be available, only to find out that the bed was not even made, no housekeeping done, no essential kits given for the attender, unclean toilets. The guards on the floor kept bothering attenders to leave, since only one attender can stay, when we were just going to collect our belongings from the room. The nurse station was empty at times and they were always overworked. We had to wait more than an hour for a simple IV change or meds or bandage dressings. We got the essentials next day, after asking them for a whole day. Our food preferences were asked on the next day, but even then food provided was not what we chose. Wrong lunch was given at 1:43pm and then when informed, it was changed after an hour. Same happened in the evening, then what's the point of even asking what food preference we have. \n\nNurses came in the morning and told to skip the BP medicine, since the BP is stable and then comes later on saying we shouldn't have skipped it and then gave the medicine. \n\nThe lifts were filthy, smelling of garbage. Discharge always takes so long, even after getting all required approvals from insurer and settling all final payments. Partial refunds given and no mention of the amount pending to be refunded which I can apparently use to buy meds at the pharmacy. Even calling an ambulance has a wait time of upwards of an hour. Can go on and on of what was wrong with this hospital, *** *** **** ********* ***** *** *** ********** **** *** ******** ***** *** ** ** *** ******** ** *** ******** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 144,
+                        "end_index": 288,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 455986
+                    },
+                    {
+                        "start_index": 597,
+                        "end_index": 625,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 455987
+                    },
+                    {
+                        "start_index": 2574,
+                        "end_index": 2691,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 455988
+                    }
+                ],
+                "reviewed_on": "2023-05-12 17:17:01",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1473501,
+            "status": "PUBLISHED",
+            "note": "2020-07-22 04:31:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-22T05:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41506502,
+                "review_text": "We visited DR.grisha for my father\u2019s fracture, ***  ********* *** ***** ******** he stated that the healing time would be 3 months for * ***** fracture ***** ** *** ***** ****** *** ** ******* *** ** *** ******* ******* *** ******* **** *** ***** *** ********* ******** *** ******** **** *** he charged \u20b92100 **** to put a cast for the leg, where he spent 10 minutes ** *** ** ****** ******** ***** I have all the receipts as an evidence. **** **** ** ****** ** **** ******* **** ****\nI recommend people to think twice before you\u2019ll could visit. ******* **** ***** ** ***** ** * ***** ** ****** ***** **** * ****** ** ** *** ****** ****** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 47,
+                        "end_index": 79,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278843
+                    },
+                    {
+                        "start_index": 135,
+                        "end_index": 142,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278844
+                    },
+                    {
+                        "start_index": 152,
+                        "end_index": 291,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278845
+                    },
+                    {
+                        "start_index": 309,
+                        "end_index": 312,
+                        "reason": "NON_COMPLIANT",
+                        "id": 278846
+                    },
+                    {
+                        "start_index": 367,
+                        "end_index": 397,
+                        "reason": "NON_COMPLIANT",
+                        "id": 278847
+                    },
+                    {
+                        "start_index": 438,
+                        "end_index": 483,
+                        "reason": "NON_COMPLIANT",
+                        "id": 278848
+                    },
+                    {
+                        "start_index": 546,
+                        "end_index": 645,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278849
+                    }
+                ],
+                "reviewed_on": "2020-07-20 21:47:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhinav"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2011855,
+            "status": "PUBLISHED",
+            "note": "2022-06-17 06:20:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-17T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44498637,
+                "review_text": "Hello this is Eeshaan Thakre! I am a 12 years old boy. I had a bone injury while playing cricket and fractured my left hand little finger. Further it got complicated due to fracture dislocation. I consulted Dr. Girisha Sir at Manipal Whitefield. He treated me very well with lot of patience and support. I underwent a complicated surgery as it was a small joint. Dr. Girisha Sir did an awesome job by fixing back my bone with minimally invasive K-wire technique. Dr. Girisha Sir is very humble and always accessible to his patients. I fully recovered in 4 weeks. I am very thankful to Dr. Girisha Sir and highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-15 16:01:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Eeshaan Thakre"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1112,
+                "text": "Joint and Muscle Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1037289,
+            "status": "PUBLISHED",
+            "note": "2018-12-11 09:35:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1106420,
+            "practice_name": "Femiint Health & Fertility",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-11T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38727607,
+                "review_text": "First of really liked his commitment towards the job. He came all the way to check me alone as many other doctors cancel appointments if only one patient is there. Then his patience in hearing the patient and proper explanation of issue. Also he checks up very well and never prescribe for xray on the firsr strech as like many other ortho doctors do in bangalore. \nWait time is also seems to be fair enough and since we went with prime, consulted doc within just 10 mins of wait only. Hospital also is well kept and friendly front office staff. Over all very good experience. Thanks to practo for bringing up the facility. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-09 02:03:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sarath Chandran S"
+        },
+        "entity_id": 531635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2358051,
+            "status": "PUBLISHED",
+            "note": "2024-03-20 07:36:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-20T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46528491,
+                "review_text": "My mother visited this doctor with a back pain and without any examination he suggested pain killers. She went through the pain for another 10 days with no results & then consulted another doctor to find the actual cause of osteoporosis.*** ****** *** *** ******** **** *** ********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 237,
+                        "end_index": 283,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 481904
+                    }
+                ],
+                "reviewed_on": "2024-03-17 11:08:45",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 199964,
+                "text": "Foot Injury Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1983350,
+            "status": "PUBLISHED",
+            "note": "2022-05-02 16:11:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-02T17:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44336075,
+                "review_text": "My 3&4th toe were fractured. But he said big toe is fractured. In the first meeting he didn't even ask to put bandage or plaster on the big toe and in followup questioned where it was. He didn't even touch my foot to see which joint is sore or paining or if the ankle can be moved. He was in a hurry to send me off and typing on the monitor. Didn't explain the injury *** ********* ** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 367,
+                        "end_index": 394,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 407646
+                    }
+                ],
+                "reviewed_on": "2022-04-30 16:05:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Madhukar Reddy N"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 195168,
+                "text": "Hand Fracture Reduction and Fixation by Kirschner Wires"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1958546,
+            "status": "PUBLISHED",
+            "note": "2022-03-25 06:06:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-25T07:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44196987,
+                "review_text": "Overall very happy with the outcome and treatment. Doctor does not prescribe redundant medications . Surgery outcome and rehab after physiotherapy shows appreciable progress. Does npt push for any fancy procedures. weng ahead with conventional kwire which were minimally invasive. humble doc, values patients time as much as his and spends considerable time patiently explaining answers to my pertinent queries.",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-23 14:58:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "anand lakshmanan"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            },
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1293846,
+            "status": "PUBLISHED",
+            "note": "2019-11-20 07:47:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-20T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40389609,
+                "review_text": "Doctor was patient enough to hear what i had to say and examined my foot.Suggested the medication and exercise for foot/heel and knee pain. My foot pain is reduced a lot and i would strongly recommended Dr.Girish. RxDx charged Rs.100 extra for registration which i personally feel extra way to charge patients. The clinic also should improve their appointment system to reduce waiting time.",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-18 08:53:22",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karthik"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 54904,
+                "text": "ACL &PCL Reconstruction"
+            },
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1281848,
+            "status": "PUBLISHED",
+            "note": "2019-11-05 11:44:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-05T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40310943,
+                "review_text": "4 Years after my ACL Reconstruction surgery I met an accident and again I was injured. This time again I was not able to walk properly and my knee movement was impacted. So I was afraid whether again I have to do surgery or not. *** *** ****** ** **** **** ***** He didn't explained too much but assured me not to worry and gave just simple medicine for 5 days. Just after two days of taking medicine I feel like a normal person again. Thank you sir. ",
+                "review_alterations": [
+                    {
+                        "start_index": 229,
+                        "end_index": 262,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 218427
+                    }
+                ],
+                "reviewed_on": "2019-11-02 07:27:33",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhishek Majumdar"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3606,
+                "text": "Orthopedic Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1248349,
+            "status": "PUBLISHED",
+            "note": "2019-09-17 11:17:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-17T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40092571,
+                "review_text": "Dr Girish is very humble, patient and approachable. He possess a great attitude which every doctor should have. He explained in detail about the procedure, the pros and cons in no time we approached him over phone. He was very quick in responding and setting things up for us for next day surgery. We personally thank him and are grateful to him and his entire team for their great support and work.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-16 04:10:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sushree Sunita Hota"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 769263,
+            "status": "PUBLISHED",
+            "note": "2018-01-20 08:13:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1106420,
+            "practice_name": "Femiint Health",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-20T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36502189,
+                "review_text": "I met with an accident and having pain in my right foot. Then consulted doctor Girish and he suggested to use crepe bandage and ice bag massage. The nice thing was he didn't told me to go x-ray which other orthopedic doctors do in Bangalore.\nThis shows his experience. Thanks doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-11 10:36:48",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "shashank gupta"
+        },
+        "entity_id": 531635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 604,
+                "text": "Shoulder Dislocation Repair"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1287397,
+            "status": "PUBLISHED",
+            "note": "2019-11-12 07:05:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-12T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40347958,
+                "review_text": "I went to dr Girisha after my first shoulder dislocation and he made me take  X-ray and followed by a MRI and a CT . After all of this he did not provide a diagnosis for at least 5 days. I had to keep calling him for next course of action. After 5 days he just suggests not do anything. In total I paid for 2 consultations , 1 X-ray and 1 mri. Since I lost hope with him I consulted 2 other doctors *** ***** ** *** * **** *** ** *** ** ** *** ******* *********** **** ** **** **** **** *** *** *** *** ****** ** ** ***** **** **** ** ***** ***** * ****** ** ** ***** * ***** ***** *** ******* So my suggestion is to stay away from this doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 398,
+                        "end_index": 468,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220244
+                    },
+                    {
+                        "start_index": 469,
+                        "end_index": 592,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220245
+                    }
+                ],
+                "reviewed_on": "2019-11-09 16:39:19",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 775197,
+            "status": "PUBLISHED",
+            "note": "2018-01-31 05:00:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1106420,
+            "practice_name": "Femiint Health",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-31T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36559109,
+                "review_text": "Dear Guys, if you reached this place that means first you are in real pain and you valur your health and time. so i visited doctor after reading review of people and the best part was he came all the way to whitefield for single appointment of mine so dedication toward his oath is undoubtful and trust me he didnt suggested any single test and being sympethetic he gave the actual solutions explaining what and why this happned. \n\nI remommend him for his patience , dedication and truthfullness for his job.",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-19 09:39:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 531635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 671147,
+            "status": "PUBLISHED",
+            "note": "2017-09-07 10:00:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1106420,
+            "practice_name": "Femiint Health",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-07T11:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35539315,
+                "review_text": "Good and nice explanation on the problem\nUnderstands problem thoroughly\nLot of patience\n Prescribes appropriate medicine",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-06 04:31:58",
+                "channel": "sapphire",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanvika V"
+        },
+        "entity_id": 531635,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 659056,
+            "status": "PUBLISHED",
+            "note": "2017-08-25 10:14:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-25T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35420983,
+                "review_text": "Doctor is supercool. He took enough time to analyze the issue and prescribed medicine. Felt really good and would recommend others ",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-23 04:44:20",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chethan Jagannath"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1155,
+                "text": "Heel Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 653382,
+            "status": "PUBLISHED",
+            "note": "2017-08-19 10:51:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-19T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35364968,
+                "review_text": "Very thorough with his diagnosis and doesn't hurry . Explains everything in a detailed manner. I have a follow up on my consultation this Saturday . Hoping for things to go well",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-17 04:25:16",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Govind Raj Kaushik M"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 634621,
+            "status": "PUBLISHED",
+            "note": "2017-07-28 13:04:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-28T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35162729,
+                "review_text": "Doctor was very professional. He examined the pain very proficiently.\nHe has advised for 2 weeks dose for the pain..\nOver all I recommend the doc.",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-27 04:57:55",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sakshi Bhat"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101607,
+                "text": "Hand Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 563230,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare Pvt. Ltd.",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-19T07:49:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34442269,
+                "review_text": "Doctor listens to your problem in detail and examines the root cause **********. Thanks to the doctor for the treatment. ",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 78,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 46869
+                    }
+                ],
+                "reviewed_on": "2017-05-18 14:01:21",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Radhika"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 520025,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare Pvt. Ltd.",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-10T05:11:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33981210,
+                "review_text": "He is very courteous and astute. Listens to the patient's symptoms in detail and treats the ailment accordingly. The medication I was prescribed worked like a charm as well. I'd highly recommend him to anyone who has orthopedic problems.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-08 21:47:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karthik Acharya"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 515469,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare Pvt. Ltd.",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-05T09:03:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33831313,
+                "review_text": "\nHad good treatment.  Went to him for gabglion cyst. Was a decent operation with good post operation care",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-04 14:03:55",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "puja chowdhury"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 85,
+                "text": "Fractured Tooth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 425690,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare Pvt. Ltd.",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-12-18T04:24:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 28573978,
+                "review_text": "The doctor is very well behaved & patient. He will explain you each and every thing about the problem you have.\nHe will attentively listen to you and will give you his best advice unlike others who are almost always in a hurry.\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-12-13 05:07:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sakshi Nathani"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            },
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            },
+            {
+                "id": 875,
+                "text": "Hip Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1475909,
+            "status": "PUBLISHED",
+            "note": "2020-07-25 05:02:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-25T06:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41518171,
+                "review_text": "Dr. Girish is very friendly. He will not make the patient panic. Will explain in detail about his diagnosis.*** ********* ** ******** *** ********* ** **********\n ",
+                "review_alterations": [
+                    {
+                        "start_index": 108,
+                        "end_index": 160,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 279634
+                    }
+                ],
+                "reviewed_on": "2020-07-23 14:16:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "V R Murari"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1309817,
+            "status": "PUBLISHED",
+            "note": "2019-12-12 07:03:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-12T09:00:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40503332,
+                "review_text": "Doctor has been very patient to what I was saying.  with his experience, he could easily figure out what the issue was. Highly recommended",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-09 05:06:54",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chethan.Raithatha"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183094,
+                "text": "Upper Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1019876,
+            "status": "PUBLISHED",
+            "note": "2018-11-16 07:49:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-16T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38602216,
+                "review_text": "He was very nice . He listens to your problem nicely.\n** **** ***** ********* \ud83d\ude0a\ud83d\ude0a\nHe explained all the route cause properly. Really satisfied.",
+                "review_alterations": [
+                    {
+                        "start_index": 54,
+                        "end_index": 77,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 139797
+                    }
+                ],
+                "reviewed_on": "2018-11-15 07:48:09",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "bhagyashree"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 839043,
+            "status": "PUBLISHED",
+            "note": "2018-04-05 06:47:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-05T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37152970,
+                "review_text": "Good i am happy and satisfied  with the treatment. Doctor gave me medicines for elbow pain and swelling.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-04 05:16:26",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.shishir desai"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 838082,
+            "status": "PUBLISHED",
+            "note": "2018-04-04 08:47:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-04T09:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37144381,
+                "review_text": "I was satisfied with the doctor but very unhappy with the hospital services - the doctor asked me for an untrasound. Forget about getting it done then, they asked me to come 3 days later! Very unhappy with RXDX",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-03 05:16:49",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "bishwaroop"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 829508,
+            "status": "PUBLISHED",
+            "note": "2018-03-25 06:08:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-25T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37068239,
+                "review_text": "RxDx should give proper information to patients... With out information you are providing appointment. Communication is bad in RxDx. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-24 04:34:35",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajesh.k.v"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 808462,
+            "status": "PUBLISHED",
+            "note": "2018-03-01 11:54:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-01T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36874487,
+                "review_text": "Doctor was very patient to listen my problems. Explained very well about effects of wrong things I think and do.  Not just like a doctor, he acted like a great friend, well wisher,  lovely parent.",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-28 09:47:38",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "srikant"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 793427,
+            "status": "PUBLISHED",
+            "note": "2018-02-14 12:09:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-14T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36735940,
+                "review_text": "The wait time was really bad. But the doctor himself and care given was great. He was very friendly and gave appropriate advice.",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-11 04:58:46",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lakshay Rastogi"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186426,
+                "text": "Sprain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2321200,
+            "status": "PUBLISHED",
+            "note": "2024-01-09 05:38:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-09T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46316140,
+                "review_text": "Arrogant dr., he is an orthopedic surgeon so better to consult Orthopedician. Not recommended..........",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-06 19:47:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2489,
+                "text": "Finger Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1943933,
+            "status": "PUBLISHED",
+            "note": "2022-03-02 12:08:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-02T13:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44116800,
+                "review_text": "I went there for my daughter who crushed her little finger in door. Her little finger was fractured and in 1st meeting he told that he has given 2 solution. Cap and surgery with thin wire. On 1st day he told to come after 4 days. On 2nd meeting he told that we can not do anything now, it's too late. He suggested for strapping of finger and come after 10 days. Nurse did the strapping which stays for 4-5 hours only. I was not satisfied with the behavior and solution. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-01 11:47:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 288,
+                "text": "Physiotherapy for Sports Injury Rehabilitation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1158617,
+            "status": "PUBLISHED",
+            "note": "2019-05-22 09:26:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-22T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39521789,
+                "review_text": "I visited two times for shoulder injury, *** ***** ******* *** ***** **** ** ******* both times i paid for counselling charges, believe they gave max 5 min for patient , no time to listen the concern, ** **** **** **** ******* ***** *** **** ******* *** **** ****I personally dont recommend at all   ",
+                "review_alterations": [
+                    {
+                        "start_index": 40,
+                        "end_index": 83,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 177562
+                    },
+                    {
+                        "start_index": 200,
+                        "end_index": 262,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 177563
+                    }
+                ],
+                "reviewed_on": "2019-05-20 15:31:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 802645,
+            "status": "PUBLISHED",
+            "note": "2018-02-24 05:27:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-24T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36819140,
+                "review_text": "Doctor and the treatment is fine but there is one concern that I want to share. First time I visited RxDx for the fracture in my thumb finger, the doctor asked me to visit after 10days for follow up. 2nd time when  I went to visit them I was asked to pay for consulting again since they had a policy that 2nd consultation is free only if the patient comes back within a week. If the doctor himself has asked me to visit after 10days, why can't the management agree for a free follow up?",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-22 04:24:44",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 70,
+                "text": "Hip Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 851561,
+            "status": "PUBLISHED",
+            "note": "2018-04-19 09:47:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-19T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37263135,
+                "review_text": "Very good doctor. Thorough in analysis and wont write too many medicines. He remebers the patient and was very helpful in understanding the issue\n\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-18 07:01:43",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arun T Valappil"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 850580,
+            "status": "PUBLISHED",
+            "note": "2018-04-19 05:07:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-19T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37254331,
+                "review_text": "Very good in diagnosing with patience. Doctor gets into detail of the problems faced by the patient.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-17 04:56:02",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kiran Patil"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 683335,
+            "status": "PUBLISHED",
+            "note": "2017-09-20 12:08:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-20T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35656345,
+                "review_text": "The doctor is good. But we had to wait for more than an hour after the appointment time to get to see him. By the end of it we left the hospital by 9 only where as our appointment was at 6:20.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-19 04:49:05",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1155,
+                "text": "Heel Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 608811,
+            "status": "PUBLISHED",
+            "note": "2017-07-04 06:00:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-04T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34894542,
+                "review_text": "Doctor is very patient and quick to understand the problem. Started taking medications feeling better now. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-30 05:30:55",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183094,
+                "text": "Upper Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1800222,
+            "status": "PUBLISHED",
+            "note": "2021-08-12 06:23:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1102131,
+            "practice_name": "Manipal Hospital Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-12T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43262016,
+                "review_text": "*** ******* ** * **** **** ******.He takes time to patiently listen to the problem and explain the diagnosis.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 32,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 365303
+                    }
+                ],
+                "reviewed_on": "2021-08-11 06:22:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 631497,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1179497,
+            "status": "PUBLISHED",
+            "note": "2019-06-19 10:23:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-19T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39653779,
+                "review_text": "uttery time wast.hospital ever seen, every time I visit,  have to wait more than 1.30 hours. even after taking prior appointment. this is soo bad.staff will be saying all silly reasons and make us to wait for more than hour.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-17 14:25:59",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 71,
+                "text": "Joint Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1066453,
+            "status": "PUBLISHED",
+            "note": "2019-01-22 08:53:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-22T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38924401,
+                "review_text": "Doctor is a thorough professional and a kind gentleman. I am dissatisfied with the Hospital staff; the way the appointments are managed...There is no value for seeking appointments/ patients time.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-19 12:40:21",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 757,
+                "text": "Neuromuscular Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 892673,
+            "status": "PUBLISHED",
+            "note": "2018-06-07 08:47:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-07T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37613368,
+                "review_text": "Doctor was very friendly and warm.Explained the problem well to me.His medicines worked like magic.Gives few medicines only.I am still under medication and treatment. I have faith **** * **** ** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 180,
+                        "end_index": 200,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 111091
+                    }
+                ],
+                "reviewed_on": "2018-06-06 05:48:31",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2353,
+                "text": "Knee care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 829984,
+            "status": "PUBLISHED",
+            "note": "2018-03-25 11:06:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-25T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37072855,
+                "review_text": "Very friendly,listen very patiently, explained very well.i love n admire Dr.girish very well..We always talking about Dr.with my son n my husband.",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-24 11:06:03",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 810371,
+            "status": "PUBLISHED",
+            "note": "2018-03-04 07:06:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-04T08:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36893497,
+                "review_text": "I was given a patient hearing and Doctor Girish did not rush into things and explained the diagnosis... Again he has not given too many medicines . So over-all a good experience",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-03 04:41:34",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 670462,
+            "status": "PUBLISHED",
+            "note": "2017-09-06 10:38:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "Telerad RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-05T10:38:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35532263,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 58,
+                        "end_index": 104,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 64685
+                    },
+                    {
+                        "start_index": 106,
+                        "end_index": 155,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 64684
+                    }
+                ],
+                "reviewed_on": "2017-09-05 06:26:38",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": " Sanjula Guha"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 997272,
+            "status": "PUBLISHED",
+            "note": "2018-10-13 05:45:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-13T06:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38440853,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-12 05:30:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Khaleel"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            },
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1787193,
+            "status": "PUBLISHED",
+            "note": "2021-07-28 06:13:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-28T07:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43188082,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 32,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 361748
+                    },
+                    {
+                        "start_index": 116,
+                        "end_index": 166,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 361749
+                    }
+                ],
+                "reviewed_on": "2021-07-26 17:09:23",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101607,
+                "text": "Hand Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1210202,
+            "status": "PUBLISHED",
+            "note": "2019-07-28 09:57:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 354984,
+            "practice_id": 1154591,
+            "practice_name": "RxDx Healthcare",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-28T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39848365,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 18,
+                        "end_index": 93,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 195436
+                    }
+                ],
+                "reviewed_on": "2019-07-27 09:56:36",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 523150,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

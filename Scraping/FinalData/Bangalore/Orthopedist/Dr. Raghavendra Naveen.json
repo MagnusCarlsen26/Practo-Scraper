@@ -1,0 +1,126 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 876670,
+            "status": "PUBLISHED",
+            "note": "2018-05-18 10:04:59",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 664510,
+            "practice_id": 1149834,
+            "practice_name": "Greenview Medical Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-18T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37481212,
+                "review_text": "He is a good and humble doctor. Good service by support staff of Greenview medical center, hSR Layout, Bangalore",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-17 10:01:54",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manoj kumar"
+        },
+        "entity_id": 628382,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 199964,
+                "text": "Foot Injury Treatment"
+            },
+            {
+                "id": 77,
+                "text": "Osteoporosis"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 899672,
+            "status": "PUBLISHED",
+            "note": "2018-06-17 06:04:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 664510,
+            "practice_id": 712236,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-17T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37671983,
+                "review_text": "**** ************* *** humble doctor. Provides perfect treatment. I would strongly recommend for ortho related problems. He will explain the problem clearly and give medicines. Thank you Doctor ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 112636
+                    }
+                ],
+                "reviewed_on": "2018-06-14 17:36:00",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 635792,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 530351,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 588729,
+            "practice_id": 693787,
+            "practice_name": "Womens Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-18T13:16:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34091691,
+                "review_text": "This was my first appointment with Dr. Chawla and I am so pleased and happy. She is very sweet and humble and addressed all my queries and worries. She took all my detailed medical history and notes.  She also explained my current stage of pregnancy and all the symptoms and discomfort I may face normally and made us aware of the possible situations which may arise that would need a medical intervention  and calmed down my fears.\n\nIt was a calming and soothing appointment for both my husband and I as we were able to hear the baby's heart beat as well. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-18 06:18:07",
+                "channel": "sapphire",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shilpa Dhekne"
+        },
+        "entity_id": 574178,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 502470,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 588729,
+            "practice_id": 693787,
+            "practice_name": "Womens Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-22T06:16:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33247533,
+                "review_text": "She is an excellent doctor. She was training in Khar when I had my baby and I found her very warm then itself. I live in Andheri and when I found out she is a doctor at the Women's Hospital here, I was thrilled. I wen tto visit her and she was extremely patient and informative. She is superb *** ************* ",
+                "review_alterations": [
+                    {
+                        "start_index": 293,
+                        "end_index": 309,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 33956
+                    }
+                ],
+                "reviewed_on": "2017-03-21 16:59:31",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "seema palwani"
+        },
+        "entity_id": 574178,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1784926,
+            "status": "PUBLISHED",
+            "note": "2021-07-25 07:29:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 588729,
+            "practice_id": 693787,
+            "practice_name": "Womens Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-25T08:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43174780,
+                "review_text": "My wife had visited the hospital and it was gynaecology related ****** *** ** ** ********** **** She was available on time and guided to meet different doctor. Doctor was polite and kind to her. There was no waiting time in the hospital. There was long queue in registration. Doctor was friendly. Hospitality was good but directions and sign board in hospital is not proper, that was concern. ",
+                "review_alterations": [
+                    {
+                        "start_index": 64,
+                        "end_index": 95,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 361234
+                    }
+                ],
+                "reviewed_on": "2021-07-24 05:38:10",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 602241,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

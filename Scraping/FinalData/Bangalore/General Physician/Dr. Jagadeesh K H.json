@@ -1,0 +1,175 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2030016,
+            "status": "PUBLISHED",
+            "note": "2022-07-15 10:23:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 797516,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-15T11:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44601818,
+                "review_text": "Dr. Jagadeesh KH in Manipal hospital Sarjapur Road is awesome. Consulted Dr. Jagadeesh KH (Internal medicine) for my son's severe throat infection and fever. Dr. patiently listened to us and guided us appropriately.He spent time listening to us and patiently answered all our questions with details. He was not in a hurry to do many tests and did what's required for the issue. Very happy with the Dr. experience and I would recommend Dr. Jagadeesh.This is my 1st visit after it became Manipal Hospital. (Earlier it was Columbia Asia)I felt a whole new level of professionalism, speed and care for patients with all staff members of MH. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-14 10:22:12",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ganesan Anaiappan"
+        },
+        "entity_id": 820196,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1629304,
+            "status": "PUBLISHED",
+            "note": "2021-01-26 06:21:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 797516,
+            "practice_id": 711486,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-26T07:01:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42325091,
+                "review_text": "My mother was admitted few days back in Columbia Asia hospital on 15th jan for acute dyscentry. Dr Jagadeesh attended my mother during her hospitalisation. She was released on 18th jan. He took the proper care and gave the right treatment due to which she got discharged and now she is doing fine.",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-23 17:38:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "P RAUTH"
+        },
+        "entity_id": 721867,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1543331,
+            "status": "PUBLISHED",
+            "note": "2020-10-09 04:42:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 797516,
+            "practice_id": 711486,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-09T05:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41866240,
+                "review_text": "1.He is very humble .\n2.He has enough patience to listen patient concerns.\n3. Suggesting right medication and effects the medication very quickly \n",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-07 13:48:31",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hanuraja karri"
+        },
+        "entity_id": 721867,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1854470,
+            "status": "PUBLISHED",
+            "note": "2021-10-19 06:23:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 797516,
+            "practice_id": 1163208,
+            "practice_name": "Fostr Healthcare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-19T07:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43590261,
+                "review_text": "Listens well and treats pragmatically, explaining the diagnosis and prognosis. Recommend to meet him at Fostr, with low waiting queues.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-17 05:17:18",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 705916,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,438 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1742347,
+            "status": "PUBLISHED",
+            "note": "2021-06-08 05:26:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-08T06:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42940287,
+                "review_text": "I had met the doctor and it was for vertigo and continuous neck pain. Doctor was good in consulting me. I would like to recommend the doctor to other people.\u00a0Doctor was friendly with me. He told to reduce dosage of tablets as he had given high dose earlier. Entire body check up was done of Rs 3000 package. And report was good. There was no waiting time in the hospital\u00a0when we went. Initially I went to physiotherapy and BP was checked. And it was 180/ 100 and he told to contact physician. He checked it for 3 days and my BP was not coming down. Suddenly even my BP was down due to heavy dosage. I took second opinion with Dr. Arul E D. Treadmill test was done. Diet and walking was suggested. He was friendly. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-05 13:04:41",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Venu C"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1742356,
+            "status": "PUBLISHED",
+            "note": "2021-06-08 04:33:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-08T05:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42940323,
+                "review_text": "My dad had been to hospital and it was for chest pain. ********* *** **** ** ******. I would like to recommend the doctor to other people.\u00a0Doctor spoke well. Another doctor was recommended to consult. There was less waiting time in the hospital\u00a0when we went. It was for 15 minutes. Walking was suggested. Doctor was friendly.    ",
+                "review_alterations": [
+                    {
+                        "start_index": 55,
+                        "end_index": 82,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 349968
+                    }
+                ],
+                "reviewed_on": "2021-06-05 13:09:05",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajesh"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1741957,
+            "status": "PUBLISHED",
+            "note": "2021-06-06 06:15:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-06T07:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42938189,
+                "review_text": "Me and my husband went for regular checkup. ****** *** **** **** ** *********** I would like to recommend the doctor to other people.\u00a0Tablets were prescribed by the doctor. Ultra sound test, ECG was done. There was no waiting time in the hospital\u00a0when we went. Diet was suggested. Doctor told to come after 6 months. Doctor was friendly. ",
+                "review_alterations": [
+                    {
+                        "start_index": 43,
+                        "end_index": 78,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 349844
+                    }
+                ],
+                "reviewed_on": "2021-06-05 06:14:37",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "D.Surekha"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1670444,
+            "status": "PUBLISHED",
+            "note": "2021-03-13 07:03:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-13T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42550027,
+                "review_text": "He was in a hurry to go to cathlab. he dint ve time to see my******* heart reports???? so what is the point of going through tests if Dr does not ve time for it ",
+                "review_alterations": [
+                    {
+                        "start_index": 61,
+                        "end_index": 68,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 332301
+                    }
+                ],
+                "reviewed_on": "2021-03-11 07:25:36",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pushpitha rajamainthan"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2029196,
+            "status": "PUBLISHED",
+            "note": "2022-07-14 08:27:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-14T09:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44597354,
+                "review_text": "Dr Arul has worsst bedside maanners. First upon entering into his room for consultation, he doesn't even look at the patient, he simply see the computer and talk to patient as he take notes, this shows he has no valuable time for the patient and doesn't give listening ears. If the patient genuinely describes a chest pain that he is undergoing, he just brushes off immediately saying don't imagine things as if the pain is not real. On questioning that he cannot talk to patient rudely like that and the pain experienced is real he irresponsibly tells the patient: so what?! You don't have a heart attack right?! Does that mean people who have any chest discomfort cannot see him to get treated? Only heart attack patients can be seen by him. How irrresponsible and arrogant attitude. Absolutely ZERO BED SIDE MAaNNERS, ZERO COMPASSION, ZERO FRIENDLISNESS, and what not.\n\nWe do respect the medical treatment as a doctor he is providing to his patients but the way he talks is absolutely rude.\n\nWill not recommend this Dr if you really want a caring Dr to solve your health problems.",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-13 07:40:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1457628,
+            "status": "PUBLISHED",
+            "note": "2020-07-02 07:13:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-02T08:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41426524,
+                "review_text": "A Medical Gentleman - That's the word you can describe him.  Very Patient eccentric humble doctor. To the point diagnosis, No extra test no unnecessary medicine. I would recommend him strongly for any cardiac issues.",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-01 07:00:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sourabh Karar"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1742343,
+            "status": "PUBLISHED",
+            "note": "2021-06-08 05:25:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-08T06:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42940266,
+                "review_text": "My husband had visited the hospital and it was chest pain. Consultation was fine by the doctor. I would like to recommend the doctor to other people. I am satisfied with the explanation given by the doctor. Tests was suggested. There was more waiting time in the hospital when we went. It was for one hour. ECG was done to check if heart attack was there or not. Echo tests was done later and he was fine. Walking was suggested. Doctor listens problem and doesn't recommend unnecessary test.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-05 13:02:42",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 51,
+                "text": "Carotid Angioplasty And Stenting"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1172635,
+            "status": "PUBLISHED",
+            "note": "2019-06-09 09:53:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-09T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39610604,
+                "review_text": "Very professional, genuine and care taking person. Systematic approach with wide experience and knowledge on diagnosis towards cardio treatment.  A very kind and friendly doctor who patiently responds towards queries since i had a personal experience with him, myself on behalf of my family truly respect him and his profession to serve more towards well being.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-08 09:44:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1742338,
+            "status": "PUBLISHED",
+            "note": "2021-06-08 05:24:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-08T06:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42940252,
+                "review_text": "I had been to hospital and it was for chest pain. Consultation was fine by the doctor. I can surely\u00a0recommend doctor to others. Medical tests were\u00a0done.\u00a0There was waiting time in the hospital\u00a0when we went. It was for 30-45 minutes.  ",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-05 13:00:22",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1650879,
+            "status": "PUBLISHED",
+            "note": "2021-02-20 04:50:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619881,
+            "practice_id": 1158991,
+            "practice_name": "Apollo Speciality Hospitals O M R",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-20T05:01:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42443619,
+                "review_text": "He listens to patient completely \nPost which he analysis from his side and recommends test only if we need . \nVery humble , Good mannerism showcased.\nThanks Doctor",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-18 16:05:34",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600829,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

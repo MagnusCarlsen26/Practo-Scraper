@@ -1,0 +1,452 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1327309,
+            "status": "PUBLISHED",
+            "note": "2019-12-31 06:41:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 784692,
+            "practice_id": 1271407,
+            "practice_name": "Pisat Polyclinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-31T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40623934,
+                "review_text": "I am really thankful to Dr.Rajshree Joshi *** ****** **** ********* ** ** ***** My both kids were allergic to dust, *** ***** ******* ****** ******** * **** ********* **  ******** both kids are fit & fine.\nDr. Joshi is very softspoken & sincere to her work.\nI am glad that my kids are in safe hands.  ",
+                "review_alterations": [
+                    {
+                        "start_index": 41,
+                        "end_index": 78,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233049
+                    },
+                    {
+                        "start_index": 116,
+                        "end_index": 178,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233050
+                    }
+                ],
+                "reviewed_on": "2019-12-30 04:16:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pooja Nigam"
+        },
+        "entity_id": 698980,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1586565,
+            "status": "PUBLISHED",
+            "note": "2020-12-02 09:00:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 784692,
+            "practice_id": 1271407,
+            "practice_name": "Pisat Polyclinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-01T14:33:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 251413,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Mr Aditya Tembekar, for the response. Will continue to serve the humanity.",
+                "replied_at": "2020-12-01T14:33:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 5249596,
+                "modified_by_id": 5249596,
+                "replier_name": "Dr. Rajashri Shanbhag",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/784692/dr-rajashri-shanbhag-5ded08a91fafa.jpg"
+            },
+            "survey_response": {
+                "id": 42097363,
+                "review_text": "My name is Aditya & my daughter name is Aashrita she is now 1year & 9 month old. Dr.rajashree always gives 200% to their each patient and whenever my daughter become ill Dr.Rajashree has took care of her & prescribed best medicine. Very down to earth person and aim is to heal the patient quickly. good human being always helped us whenever my daughter was ill. Even in Covid19 Situation she was serving and gave the timely vaccination to my daughter. *** ** *** **** ****** ** ******* Thank you madam for dedication & continues support to all.",
+                "review_alterations": [
+                    {
+                        "start_index": 452,
+                        "end_index": 485,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 311277
+                    }
+                ],
+                "reviewed_on": "2020-12-01 08:42:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 698980,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1328034,
+            "status": "PUBLISHED",
+            "note": "2020-01-01 10:14:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 784692,
+            "practice_id": 1271407,
+            "practice_name": "Pisat Polyclinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-01T11:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40628983,
+                "review_text": "Dr. Rajashri Shanbhag is a very friendly doctor and does diagnosis nicely. Attends patient within stipulated time.",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-30 18:07:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sharad S"
+        },
+        "entity_id": 698980,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193997,
+                "text": "All Pediatric Problems "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1326987,
+            "status": "PUBLISHED",
+            "note": "2019-12-31 06:42:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 784692,
+            "practice_id": 1271407,
+            "practice_name": "Pisat Polyclinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-31T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40621555,
+                "review_text": "The doctor is extremely patient friendly *** ******** **** *** ***********She understands her patients well and as a parent gives me immense confidence in her diagnosis treatment and recovery.",
+                "review_alterations": [
+                    {
+                        "start_index": 41,
+                        "end_index": 73,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233052
+                    }
+                ],
+                "reviewed_on": "2019-12-29 11:22:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Alka Verma"
+        },
+        "entity_id": 698980,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1326957,
+            "status": "PUBLISHED",
+            "note": "2019-12-31 06:42:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 784692,
+            "practice_id": 1271407,
+            "practice_name": "Pisat Polyclinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-31T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40621349,
+                "review_text": "Good to talk *** *************\nLess waiting time \nReasonable charge********** **** \nGot well within few doses of the medication ",
+                "review_alterations": [
+                    {
+                        "start_index": 13,
+                        "end_index": 29,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233053
+                    },
+                    {
+                        "start_index": 67,
+                        "end_index": 82,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233054
+                    }
+                ],
+                "reviewed_on": "2019-12-29 10:18:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Niranjan Shanbhag "
+        },
+        "entity_id": 698980,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2050602,
+            "status": "PUBLISHED",
+            "note": "2022-08-20 06:34:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 784692,
+            "practice_id": 1271407,
+            "practice_name": "Shalyak hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-20T07:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44727093,
+                "review_text": "********* ******* very helpful, good experience. Both my kids visit them for any medical issues. thank for being there for help.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 422365
+                    }
+                ],
+                "reviewed_on": "2022-08-18 13:59:07",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 698980,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193477,
+                "text": "Child specialists "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1327222,
+            "status": "PUBLISHED",
+            "note": "2019-12-31 06:42:06",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 784692,
+            "practice_id": 1271407,
+            "practice_name": "Pisat Polyclinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-31T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40623218,
+                "review_text": "Doctor Rajashri is an experienced child specialist *** ******** ******** ********* *** **********\nShe is attentive and easy to talk to. She has provided correct advice and medicines based on the child\u2019s illness.",
+                "review_alterations": [
+                    {
+                        "start_index": 51,
+                        "end_index": 96,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233051
+                    }
+                ],
+                "reviewed_on": "2019-12-29 17:09:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 698980,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1327055,
+            "status": "PUBLISHED",
+            "note": "2019-12-31 06:42:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 784692,
+            "practice_id": 1271407,
+            "practice_name": "Pisat Polyclinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-31T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40622082,
+                "review_text": "The Doctor is very friendly, compassionate towards the kids. Has practical remedies & easily accessibl., ",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-29 13:37:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 698980,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

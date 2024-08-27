@@ -1,0 +1,948 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2306314,
+            "status": "PUBLISHED",
+            "note": "2023-12-13 05:18:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-13T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46232072,
+                "review_text": "I would like to recommend Dr.Arun Raj as he was extremely friendly and also I was too scared of the tooth extraction earlier but the way he and the other staff carried the whole process, Everything went smoothly,the whole process was not at all painful.Thanks to the doctor and staff of Tooth Shine",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-11 15:19:41",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sindhura b"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 271,
+                "text": "Oral & Maxillofacial Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2072794,
+            "status": "PUBLISHED",
+            "note": "2022-09-23 05:07:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1388718,
+            "practice_name": "Tooth Shine Dentistry",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-23T06:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44856967,
+                "review_text": "****** *** **** *** treated me well . Bakya lakshmi made my day. She explained everything to me and treated my tooth issue.. Must recommended..\n\nKudos to doctor\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426978
+                    }
+                ],
+                "reviewed_on": "2022-09-21 14:25:26",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mukesh"
+        },
+        "entity_id": 823394,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 512677,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-03T08:15:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33719035,
+                "review_text": "very good in explaining the information in detail. Kind and polite guy.. Have a very good team members. Very much satisfied by the service..",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-01 14:24:30",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ezhil Venthan R"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 473350,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-16T10:08:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31513726,
+                "review_text": "doctorfriendlytrement...I will surely refer patients for this doctor...well maintained clinic...with knowledged staff",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-14 14:29:09",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "chandran"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 886,
+                "text": "Tooth Decay"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 366089,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-21T06:20:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24942229,
+                "review_text": "Polite and friendly staff/ doctor. Took good care of our three year old. Would definitely visit again. Clean and good ambience too!",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-20 15:28:31",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kalaivani"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 42161,
+                "text": "Composite tooth filling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 363559,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-19T05:38:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24788383,
+                "review_text": "Dr was patient to review our problem and he spent enough time to attend each of our family member. we are satisfied with the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-17 15:38:08",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Joan lizzy"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 500420,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-20T06:39:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33158196,
+                "review_text": "done good service. now don't have any pain in my teeth. I will recommend to my friends. in future if I have any problems in my teeth I will sure visit this place. Thanks for the service",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-19 08:19:26",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Narayanan.S"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 494549,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-13T08:45:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32824112,
+                "review_text": "very friendly..nice and professional approach..excellent infrastructure.will surely recommend my friends .thank you",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-12 06:26:59",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "suganya"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 99,
+                "text": "Fixed Partial Denture (FPD)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 488689,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-06T04:59:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32436522,
+                "review_text": "Had good satisfaction and good treatment. All the problems are solved, would like to suggest him for your reference",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-04 16:10:54",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ponni devi"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 447986,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-13T04:55:14+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 19616,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you very much..sir",
+                "replied_at": "2017-03-02T07:10:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1022170,
+                "modified_by_id": 1022170,
+                "replier_name": "Dr. D Arun Raj",
+                "replier_logo": "https://images1-fabric.practo.com/dr-d-arun-raj-1467641941-577a7055ead0f.jpeg"
+            },
+            "survey_response": {
+                "id": 29995394,
+                "review_text": "Feeling better now after a week we will give full review.\nDoctor is friendly ,taking good care and attention to patients.\nRecommend to visit ",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-12 14:41:53",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "parthasarathy"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2306314,
+            "status": "PUBLISHED",
+            "note": "2023-12-13 05:18:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-13T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46232072,
+                "review_text": "I would like to recommend Dr.Arun Raj as he was extremely friendly and also I was too scared of the tooth extraction earlier but the way he and the other staff carried the whole process, Everything went smoothly,the whole process was not at all painful.Thanks to the doctor and staff of Tooth Shine",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-11 15:19:41",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sindhura b"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 271,
+                "text": "Oral & Maxillofacial Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2072794,
+            "status": "PUBLISHED",
+            "note": "2022-09-23 05:07:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1388718,
+            "practice_name": "Tooth Shine Dentistry",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-23T06:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44856967,
+                "review_text": "****** *** **** *** treated me well . Bakya lakshmi made my day. She explained everything to me and treated my tooth issue.. Must recommended..\n\nKudos to doctor\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 426978
+                    }
+                ],
+                "reviewed_on": "2022-09-21 14:25:26",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mukesh"
+        },
+        "entity_id": 823394,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 512677,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-03T08:15:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33719035,
+                "review_text": "very good in explaining the information in detail. Kind and polite guy.. Have a very good team members. Very much satisfied by the service..",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-01 14:24:30",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ezhil Venthan R"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 473350,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-16T10:08:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31513726,
+                "review_text": "doctorfriendlytrement...I will surely refer patients for this doctor...well maintained clinic...with knowledged staff",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-14 14:29:09",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "chandran"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 886,
+                "text": "Tooth Decay"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 366089,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-21T06:20:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24942229,
+                "review_text": "Polite and friendly staff/ doctor. Took good care of our three year old. Would definitely visit again. Clean and good ambience too!",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-20 15:28:31",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kalaivani"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 42161,
+                "text": "Composite tooth filling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 363559,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-19T05:38:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24788383,
+                "review_text": "Dr was patient to review our problem and he spent enough time to attend each of our family member. we are satisfied with the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-17 15:38:08",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Joan lizzy"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 500420,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-20T06:39:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33158196,
+                "review_text": "done good service. now don't have any pain in my teeth. I will recommend to my friends. in future if I have any problems in my teeth I will sure visit this place. Thanks for the service",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-19 08:19:26",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Narayanan.S"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 494549,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-13T08:45:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32824112,
+                "review_text": "very friendly..nice and professional approach..excellent infrastructure.will surely recommend my friends .thank you",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-12 06:26:59",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "suganya"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 99,
+                "text": "Fixed Partial Denture (FPD)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 488689,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-06T04:59:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32436522,
+                "review_text": "Had good satisfaction and good treatment. All the problems are solved, would like to suggest him for your reference",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-04 16:10:54",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ponni devi"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 447986,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 557379,
+            "practice_id": 1112937,
+            "practice_name": "Tooth Shine Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-13T04:55:14+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 19616,
+                "reply_status": "PUBLISHED",
+                "reply_text": "thank you very much..sir",
+                "replied_at": "2017-03-02T07:10:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1022170,
+                "modified_by_id": 1022170,
+                "replier_name": "Dr. D Arun Raj",
+                "replier_logo": "https://images1-fabric.practo.com/dr-d-arun-raj-1467641941-577a7055ead0f.jpeg"
+            },
+            "survey_response": {
+                "id": 29995394,
+                "review_text": "Feeling better now after a week we will give full review.\nDoctor is friendly ,taking good care and attention to patients.\nRecommend to visit ",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-12 14:41:53",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "parthasarathy"
+        },
+        "entity_id": 528013,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

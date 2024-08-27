@@ -1,0 +1,174 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2033350,
+            "status": "PUBLISHED",
+            "note": "2022-07-21 06:15:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 243031,
+            "practice_id": 692922,
+            "practice_name": "S L Raheja Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-21T07:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44620890,
+                "review_text": "HOSPITAL CHARGED ALMOST DOUBLE THE AMOUNT STATING PRACTO HAS NOT UPDATED REVISED FEES\u2026. HOSPITAL KNEW THAT PATIENT WILL NOT WALK AWAY FROM RECEPTION COUNTER AS THE APPOINTMENT WAS FIXED *** ** * ***** **** **** **** **** THIS IS BLATANT BREACH OF CONFIDENCE IN PRACTO. AND THIS WILL BRAZENLY GO ON.",
+                "review_alterations": [
+                    {
+                        "start_index": 186,
+                        "end_index": 220,
+                        "reason": "NON_COMPLIANT",
+                        "id": 418930
+                    }
+                ],
+                "reviewed_on": "2022-07-19 13:32:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "aishwarya"
+        },
+        "entity_id": 174411,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 104,
+                "text": "Swollen Lymph Nodes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1634963,
+            "status": "PUBLISHED",
+            "note": "2021-02-02 07:29:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 243031,
+            "practice_id": 692922,
+            "practice_name": "S L Raheja Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-02T08:01:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42355895,
+                "review_text": "Highly experienced and very very patient Doctor. Just by sharing problems with him & his explanation over a concern and treatment takes away 80%. Of the pain. **** ****** ** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 158,
+                        "end_index": 178,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 323780
+                    }
+                ],
+                "reviewed_on": "2021-01-31 06:59:20",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 174411,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101998,
+                "text": "Numbness and tingling"
+            },
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            },
+            {
+                "id": 186435,
+                "text": "Numbness in fingers and toes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1511648,
+            "status": "PUBLISHED",
+            "note": "2020-09-05 08:42:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 243031,
+            "practice_id": 692922,
+            "practice_name": "S L Raheja Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-05T09:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41699055,
+                "review_text": "The doctor understood the patient's health issues immediately after looking at her. Kind words were used while interacting.",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-04 08:39:56",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 174411,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

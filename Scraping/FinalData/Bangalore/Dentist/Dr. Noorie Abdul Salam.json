@@ -1,0 +1,124 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2410529,
+            "status": "PUBLISHED",
+            "note": "2024-07-09 10:52:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1115421,
+            "practice_id": 1444709,
+            "practice_name": "American Dental Practices",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-09T11:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46828412,
+                "review_text": "Dr. Noorie Abdul Salam is very patient and explains the issue/steps very clearly. She takes efforts to make you as comfortable as possible, while ensuring that there are no shortcuts on treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-07 06:31:44",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 904331,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193836,
+                "text": "Re-Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2376035,
+            "status": "PUBLISHED",
+            "note": "2024-04-28 07:39:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1115421,
+            "practice_id": 1444709,
+            "practice_name": "American Dental Practices",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-28T08:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46630452,
+                "review_text": "Dr. Noorie made my re-root canal experience wonderful. She was patient, professional, and explained everything clearly. The procedure was quick, painless, and expertly done, showcasing her expertise and integrity. I highly recommend her as a trustworthy and friendly dentist.",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-27 05:11:45",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SOUMYA JYOTI SAHU"
+        },
+        "entity_id": 904331,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

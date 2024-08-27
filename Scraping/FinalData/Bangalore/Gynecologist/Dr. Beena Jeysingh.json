@@ -1,0 +1,5458 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1062614,
+            "status": "PUBLISHED",
+            "note": "2019-01-15 11:21:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-15T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38898053,
+                "review_text": "Pros : \n1. Experienced Doctor, Answers your all queries and doubts, never scare the patient.\n2. Smiling Face.\n\nCons : \n1. She is very busy as deputed as HOD  in Columbia Asia  because  of that to connect her over phone is very tough, first you need to call hospital, they will connect you to her if required.\n\n2. I suggest her name for consultation but not for delivery as she is too busy and cant give too much time to try for normal delivery .\nAs every girl is little scared of labour pain and want to opt C - section as painless option, Doctor tries to convince the pateint once or twice for normal else agreed for C-section.\n\n3. She won't prefer Saturday and Sunday for deliveries.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-14 11:17:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish Maheshwari"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1991184,
+            "status": "PUBLISHED",
+            "note": "2022-05-14 08:08:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-14T09:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44379968,
+                "review_text": "I am totally happy and satisfied with Dr.Beena's treatment. I cannot say enough wonderful things about her. ***** ** **** * ***** ***** * ********* ****** *** ******** All I can say is I was so lucky to have found her. I only regret for not having seen or met her much before , I got to know about this amazing doctor through a friend of mine and I will strongly recommend all those with gynaec issues to meet Dr.Beena without any second thought or opinion. She will find a solution for you, a permanent solution. I can guarantee on that.  She never made me feel uncomfortable or bad for asking so many questions. Each time I see her, she has a smile on her face, no matter how big or complicated your problem is, she will make you feel at ease and give you the perfect treatment. I have always walked out from the clinic with great peace and contentment, thats how she makes you feel.  She is a best gyne I ever experienced. Before meeting Dr.Beena, I have consulted with many other gyne who are just professional with their patients. However, Dr. Beena is out of the world I would say. **** *** ***** Hats off to you Doctor... I would once  again recommend everyone to consult doctor Beena and get best advice all the time. God Bless you Doctor...",
+                "review_alterations": [
+                    {
+                        "start_index": 108,
+                        "end_index": 166,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 409532
+                    },
+                    {
+                        "start_index": 1087,
+                        "end_index": 1101,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 409533
+                    }
+                ],
+                "reviewed_on": "2022-05-13 06:50:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2329510,
+            "status": "PUBLISHED",
+            "note": "2024-01-25 05:12:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-25T06:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46363929,
+                "review_text": "She listened the problem patiently. Gone through all reports. She did a physical check tge explained what's issue, what yo be done. She is very calm and gave enough support.",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-23 13:05:49",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sudheer Korada"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 616927,
+            "status": "PUBLISHED",
+            "note": "2017-07-11 11:26:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-11T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34983198,
+                "review_text": "Dr Beena does not give you the time of day which can be very disappointing for new mothers. I had to consult with Dr Beena as my previous consulting gynecologist left the hospital. Dr Beena is very brisk and curt and none of our sessions lasted more than 5 mins. Any follow up questions is given a standard response. At the time of birth, I did not have a say as to the type of birth. Worst still we did not receive any prior information about what a c-section entails. I had to do all my research on google. And after delivery too I had to google everything. I stopped visiting after the delivery however, unfortunately I developed infection at the site of sutures and had high fever. My wound opened up again. It took months of going to the hospital to get it dressed till it finally healed. \nThat was very taxing especially if you have a newborn to look after and you are running on minimal sleep. \nWe plan to have just one child. And I feel cheated that my only experience of pregnancy has not been a very happy one. \n\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-08 11:41:35",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Janis/Darinia"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1419657,
+            "status": "PUBLISHED",
+            "note": "2020-05-01 06:06:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-01T07:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41235947,
+                "review_text": "Beena Ma'am is very confident experienced doctor, *** ****** **** *********** ******** ** ***** *******, she has a very good approach to.go step by step for patients welfare. She was very helpful for me in my consultation pregnancy phase and delivery, never scares patients and take correct action. I am thankful to her.",
+                "review_alterations": [
+                    {
+                        "start_index": 50,
+                        "end_index": 102,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 263619
+                    }
+                ],
+                "reviewed_on": "2020-04-29 18:44:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Moni"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 570285,
+            "status": "PUBLISHED",
+            "note": "2017-05-26 08:51:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-26T09:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34518697,
+                "review_text": "An excellent doctor. I've visited Dr. Beena 3-4 times and every time I have come out with a sigh of relief. She listens patiently and always have a smile on her face.. very comforting. She does not rush into anything and Very calmly does the diagnosis.. her treatment worked really good for me.\nAfter a long search found a very reliable doctor.\nThank you Dr. Beena",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-25 08:47:04",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rashmi Bhutani"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1,
+                "text": "Stomach Cramps"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 569147,
+            "status": "PUBLISHED",
+            "note": "2017-05-25 12:27:14",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-25T13:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34507401,
+                "review_text": "Doctor was good. However for an aptt booked for 12 pm, got to see the doctor only by around 1 after mutliple follow ups with reception. Resulted in an hour of delay for a non critical issue. Hospital should have better way of tracking appointments and avoid over booking.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-24 08:22:49",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Meetee Arya"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1560158,
+            "status": "PUBLISHED",
+            "note": "2020-10-28 10:30:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-28T11:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41955471,
+                "review_text": "I visited beena for my pregnancy and she is friendly and nvr suggested any unneccassary tests and she supported me during my labour and eventhough its c section she showed me baby and advised me for early breastfeeding after 3hrs from c section.she helped me in fast recovery .Thanks beena for her support.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-27 07:10:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sushma"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1277900,
+            "status": "PUBLISHED",
+            "note": "2019-10-27 12:41:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-27T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40285622,
+                "review_text": "Dr.Beena has been very patient and friendly and throughout my pregnancy took real good care and was always available over phone. Very compassionate.. She took extra care during my last few weeks of pregnancy when my BP levels were fluctuating. Highly recommend her for pregnancy and delivery related issues.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-26 12:20:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Roopa M"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 63386,
+                "text": "Caesarean Section (C Section)"
+            },
+            {
+                "id": 101475,
+                "text": "Pregnant Women Counseling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1277223,
+            "status": "PUBLISHED",
+            "note": "2019-10-26 10:05:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-26T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40281164,
+                "review_text": "Hi, I have been visiting Dr.Beena Jeysing for my pregnancy related appointments over the last few months and recently underwent a C-section surgery for delivery.. I was completely relaxed throughout the surgery. Dr.Beena took extra care when my BP levels were fluctuating in the last few days of pregnancy. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-25 07:56:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Roopa M"
+        },
+        "entity_id": 634955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1062614,
+            "status": "PUBLISHED",
+            "note": "2019-01-15 11:21:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-15T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38898053,
+                "review_text": "Pros : \n1. Experienced Doctor, Answers your all queries and doubts, never scare the patient.\n2. Smiling Face.\n\nCons : \n1. She is very busy as deputed as HOD  in Columbia Asia  because  of that to connect her over phone is very tough, first you need to call hospital, they will connect you to her if required.\n\n2. I suggest her name for consultation but not for delivery as she is too busy and cant give too much time to try for normal delivery .\nAs every girl is little scared of labour pain and want to opt C - section as painless option, Doctor tries to convince the pateint once or twice for normal else agreed for C-section.\n\n3. She won't prefer Saturday and Sunday for deliveries.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-14 11:17:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish Maheshwari"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1991184,
+            "status": "PUBLISHED",
+            "note": "2022-05-14 08:08:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-14T09:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44379968,
+                "review_text": "I am totally happy and satisfied with Dr.Beena's treatment. I cannot say enough wonderful things about her. ***** ** **** * ***** ***** * ********* ****** *** ******** All I can say is I was so lucky to have found her. I only regret for not having seen or met her much before , I got to know about this amazing doctor through a friend of mine and I will strongly recommend all those with gynaec issues to meet Dr.Beena without any second thought or opinion. She will find a solution for you, a permanent solution. I can guarantee on that.  She never made me feel uncomfortable or bad for asking so many questions. Each time I see her, she has a smile on her face, no matter how big or complicated your problem is, she will make you feel at ease and give you the perfect treatment. I have always walked out from the clinic with great peace and contentment, thats how she makes you feel.  She is a best gyne I ever experienced. Before meeting Dr.Beena, I have consulted with many other gyne who are just professional with their patients. However, Dr. Beena is out of the world I would say. **** *** ***** Hats off to you Doctor... I would once  again recommend everyone to consult doctor Beena and get best advice all the time. God Bless you Doctor...",
+                "review_alterations": [
+                    {
+                        "start_index": 108,
+                        "end_index": 166,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 409532
+                    },
+                    {
+                        "start_index": 1087,
+                        "end_index": 1101,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 409533
+                    }
+                ],
+                "reviewed_on": "2022-05-13 06:50:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2329510,
+            "status": "PUBLISHED",
+            "note": "2024-01-25 05:12:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-25T06:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46363929,
+                "review_text": "She listened the problem patiently. Gone through all reports. She did a physical check tge explained what's issue, what yo be done. She is very calm and gave enough support.",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-23 13:05:49",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sudheer Korada"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 616927,
+            "status": "PUBLISHED",
+            "note": "2017-07-11 11:26:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-11T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34983198,
+                "review_text": "Dr Beena does not give you the time of day which can be very disappointing for new mothers. I had to consult with Dr Beena as my previous consulting gynecologist left the hospital. Dr Beena is very brisk and curt and none of our sessions lasted more than 5 mins. Any follow up questions is given a standard response. At the time of birth, I did not have a say as to the type of birth. Worst still we did not receive any prior information about what a c-section entails. I had to do all my research on google. And after delivery too I had to google everything. I stopped visiting after the delivery however, unfortunately I developed infection at the site of sutures and had high fever. My wound opened up again. It took months of going to the hospital to get it dressed till it finally healed. \nThat was very taxing especially if you have a newborn to look after and you are running on minimal sleep. \nWe plan to have just one child. And I feel cheated that my only experience of pregnancy has not been a very happy one. \n\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-08 11:41:35",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Janis/Darinia"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1419657,
+            "status": "PUBLISHED",
+            "note": "2020-05-01 06:06:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-01T07:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41235947,
+                "review_text": "Beena Ma'am is very confident experienced doctor, *** ****** **** *********** ******** ** ***** *******, she has a very good approach to.go step by step for patients welfare. She was very helpful for me in my consultation pregnancy phase and delivery, never scares patients and take correct action. I am thankful to her.",
+                "review_alterations": [
+                    {
+                        "start_index": 50,
+                        "end_index": 102,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 263619
+                    }
+                ],
+                "reviewed_on": "2020-04-29 18:44:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Moni"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 570285,
+            "status": "PUBLISHED",
+            "note": "2017-05-26 08:51:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-26T09:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34518697,
+                "review_text": "An excellent doctor. I've visited Dr. Beena 3-4 times and every time I have come out with a sigh of relief. She listens patiently and always have a smile on her face.. very comforting. She does not rush into anything and Very calmly does the diagnosis.. her treatment worked really good for me.\nAfter a long search found a very reliable doctor.\nThank you Dr. Beena",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-25 08:47:04",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rashmi Bhutani"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1,
+                "text": "Stomach Cramps"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 569147,
+            "status": "PUBLISHED",
+            "note": "2017-05-25 12:27:14",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-25T13:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34507401,
+                "review_text": "Doctor was good. However for an aptt booked for 12 pm, got to see the doctor only by around 1 after mutliple follow ups with reception. Resulted in an hour of delay for a non critical issue. Hospital should have better way of tracking appointments and avoid over booking.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-24 08:22:49",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Meetee Arya"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1560158,
+            "status": "PUBLISHED",
+            "note": "2020-10-28 10:30:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-28T11:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41955471,
+                "review_text": "I visited beena for my pregnancy and she is friendly and nvr suggested any unneccassary tests and she supported me during my labour and eventhough its c section she showed me baby and advised me for early breastfeeding after 3hrs from c section.she helped me in fast recovery .Thanks beena for her support.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-27 07:10:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sushma"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1277900,
+            "status": "PUBLISHED",
+            "note": "2019-10-27 12:41:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-27T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40285622,
+                "review_text": "Dr.Beena has been very patient and friendly and throughout my pregnancy took real good care and was always available over phone. Very compassionate.. She took extra care during my last few weeks of pregnancy when my BP levels were fluctuating. Highly recommend her for pregnancy and delivery related issues.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-26 12:20:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Roopa M"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 63386,
+                "text": "Caesarean Section (C Section)"
+            },
+            {
+                "id": 101475,
+                "text": "Pregnant Women Counseling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1277223,
+            "status": "PUBLISHED",
+            "note": "2019-10-26 10:05:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-26T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40281164,
+                "review_text": "Hi, I have been visiting Dr.Beena Jeysing for my pregnancy related appointments over the last few months and recently underwent a C-section surgery for delivery.. I was completely relaxed throughout the surgery. Dr.Beena took extra care when my BP levels were fluctuating in the last few days of pregnancy. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-25 07:56:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Roopa M"
+        },
+        "entity_id": 634955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1189293,
+            "status": "PUBLISHED",
+            "note": "2019-07-03 05:47:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-03T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39717340,
+                "review_text": "Hi,\nMy experiences so far have been very good with Dr. Beena jeysingh. I had visited 2 more doctors which were very experienced and popular. But, only here i got the proper relief. I had small haematoma in early pregnancy. While others scared us, Dr. Beena very nicely explained all risks and positive factors too. Her treatment has been very helpful. In all other follow ups for any issue she provide treatment without scaring us. No unneccessary medication. To the point details.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-01 08:04:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neha"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1097814,
+            "status": "PUBLISHED",
+            "note": "2019-03-05 05:02:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-05T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39135350,
+                "review_text": "Firstly I would like to thank the doctor for recognizing me after almost 6 yrs. I consulted her for my second pregnancy as I was unhappy with the doctor near my home. I felt really happy and comfortable with the warmth shown by Dr. Beena. Although it's little little far from electronic City I would like to visit Dr Beena as I am extremely satisfied with the way I am treated by her.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-02 14:03:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hiranmayee Ushasagar"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1088312,
+            "status": "PUBLISHED",
+            "note": "2019-02-19 08:34:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-19T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39068204,
+                "review_text": "Worst experience ever.. Dint even spent 1 min..instead of listening d problem Dr said u need to meet another physicians.. Den y should spend 500 rs to listen dat i need to meet other doctor. **** * **** *** ** ******* **** ******** She sent me and asked me to come after 10 days i dint understand for wat fun i went today ",
+                "review_alterations": [
+                    {
+                        "start_index": 190,
+                        "end_index": 231,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 155808
+                    }
+                ],
+                "reviewed_on": "2019-02-16 16:47:32",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Veena Salunke"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101475,
+                "text": "Pregnant Women Counseling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 998625,
+            "status": "PUBLISHED",
+            "note": "2018-10-16 05:28:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-16T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38450822,
+                "review_text": "She is an excellent doctor...Talks to the point , does not prescribe unnecessary medicines. I have fibroid issue , my earlier gynac suggested me to get it removed through surgery but Dr Beena said there is no need for any surgery . She gave a genuine advise to me & I was completely relieved. I will recommend her for sure.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-13 16:30:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hina"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 989448,
+            "status": "PUBLISHED",
+            "note": "2018-10-04 09:44:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-04T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38386160,
+                "review_text": "I went for my wife's pregnancy to Dr. Beena. She is a great doctor who knows what she is doing. My wife had low AFI during 37th week. She took a decision to induce labor pains.. She tried her best to deliver normally.  We were blessed with a healthy baby delivered normally. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-02 14:35:01",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ankit Johari"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 943317,
+            "status": "PUBLISHED",
+            "note": "2018-08-10 07:09:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-10T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38037310,
+                "review_text": "Dr Beena has been very supportive throughout my pregnancy. Her suggestion are bang on. I had faith in her and she didn\u2019t let me down. She gave me  positive hopes throughout. She also handled my sisters critical pre- mature delivery , her timely decisions have blessed us with babies.  A big thanks to her! ",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-08 17:06:10",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Navya"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 735844,
+            "status": "PUBLISHED",
+            "note": "2017-11-28 10:43:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-28T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36174119,
+                "review_text": "One of the Great gynecologist and a caring human being. Due to her continuous suggestions and support we were able to get our second baby c-section delivery. Never seen a friendly-behavior and exceptional question answering. Thanks so much for assistance.   ",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-26 15:11:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Deeptirekha Das"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1217066,
+            "status": "PUBLISHED",
+            "note": "2019-08-08 07:25:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-08T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39892923,
+                "review_text": "*** ****** ******** ** ****** ** **** ****** ****** ** *** ******* **** ** ** ********** She was the first doctor we consulted during pregnancy. *** **** ** ** **** *** asked for more and more scans for the hospital, till I had to rush to a nearby doctor with a severe stomach pain to find out that the baby was not growing, and it was a miscarriage. **** ****** **** **** ***** **** ******* ***** *** ****** *** ***** ** ***** *** ******* *** *** **** *** *** *** *** ****** ** ** **** *** ******** **** Extremely upset and hurt due to this. We recommend that no one goes through a situation like this.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 88,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 197868
+                    },
+                    {
+                        "start_index": 144,
+                        "end_index": 168,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 197869
+                    },
+                    {
+                        "start_index": 350,
+                        "end_index": 504,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 197870
+                    }
+                ],
+                "reviewed_on": "2019-08-06 06:53:14",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 111697,
+                "text": "Pre-Pregnancy Counselling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1036199,
+            "status": "PUBLISHED",
+            "note": "2018-12-08 09:26:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-08T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38719501,
+                "review_text": "*** ****** *** ** ********* ************** *** what good is that knowledge that you can't share with your patient and comfort them. Dr. Beena is extremely curt and to the point, spends less than a couple of minutes with every patient. Be prepared to Google everything to get your answers, because she is never interested in sharing anything. There is no transparency or information sharing. Every meeting with her leaves you dazed and confused. \nIf you are the types who are ok doing whatever is recommended, she may be a great Doctor.\nBut, I repeat, if you are the kinds who would like to know more about the procedures etc., do not at all consider going to her. You'll leave highly unsatisfied.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 45,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 143270
+                    }
+                ],
+                "reviewed_on": "2018-12-07 09:23:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 752428,
+            "status": "PUBLISHED",
+            "note": "2017-12-25 07:05:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-25T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36338237,
+                "review_text": "Doctor Beena Jeysingh is encouraging to go for normal delivery, at the same time is a great decision maker - analyses risk factors for delivery and communicates the same in very straightforward manner . She is very supportive we had a great journey with her during my pregnancy and delivery . Would surely recommend her :)\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-19 03:49:49",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pavithra"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 656947,
+            "status": "PUBLISHED",
+            "note": "2017-08-23 12:59:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-23T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35398244,
+                "review_text": "Has a listening ear,  very cordial. Confident and explains us why. Had time to go through my history  as I had visited her in my 32nd week. Very satisfied. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-20 17:51:04",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karthikeya"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 645288,
+            "status": "PUBLISHED",
+            "note": "2017-08-09 09:58:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-09T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35275030,
+                "review_text": "She listens and explains very nicely. Gives time to the patient and her experience shows in discussion.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-07 16:27:07",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Deepak R N Sakalle"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192685,
+                "text": "Gynaecological Problem"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 701477,
+            "status": "PUBLISHED",
+            "note": "2017-10-17 10:25:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-17T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35840664,
+                "review_text": "Nowadays it is very difficult to find such 'Good' doctors. She was very friendly   and provided the best treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-13 06:58:05",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Haseena Nasser"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 639709,
+            "status": "PUBLISHED",
+            "note": "2017-08-04 11:31:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-04T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35217914,
+                "review_text": "Very warm as a person. Any day with any GYN issue I will only consult her. I have been going to her for more than 10 years. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-01 13:40:36",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nimmi Philip"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 29399,
+                "text": "Pregnancy Tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 609020,
+            "status": "PUBLISHED",
+            "note": "2017-07-04 06:42:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-04T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34896197,
+                "review_text": "Extraordinary doctor.. she is awesome.. always gives best for her patience .. never dumps patience with medicine.. wants things to happen in natural way ..*** **** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 155,
+                        "end_index": 169,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 54699
+                    }
+                ],
+                "reviewed_on": "2017-06-30 07:27:49",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tharani"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 594164,
+            "status": "PUBLISHED",
+            "note": "2017-06-17 13:14:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-17T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34752100,
+                "review_text": "She is very nice. And listen properly to me.. given sm test now came for follow up. She is very friendly and calm lady. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-16 11:29:32",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Diksha Aggrwal"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 111697,
+                "text": "Pre-Pregnancy Counselling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 583189,
+            "status": "PUBLISHED",
+            "note": "2017-06-07 12:21:02",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-07T13:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34641452,
+                "review_text": "It is such a easy-going consultation and follow-up experience with Dr. Beena.  She is such a friendly person and makes her patient more comfortable to talk so that everything can be understood correctly.",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-06 09:56:33",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arun Kolhapur"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 518009,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-07T06:51:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33948013,
+                "review_text": "She is a very senior experienced doctor.She takes time to understand ur concern and advice accordingly.Talks to the point,very chirp and clear.\nShe has indepth ********* *** experience.\nI m happy i found her.",
+                "review_alterations": [
+                    {
+                        "start_index": 160,
+                        "end_index": 172,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 37480
+                    }
+                ],
+                "reviewed_on": "2017-04-07 06:04:35",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "alisha"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 457017,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-27T09:58:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30541048,
+                "review_text": "**** ************ ** ********** She is one who handling most complicated pregnancy cases, highly recommended",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 30,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 24419
+                    }
+                ],
+                "reviewed_on": "2017-01-25 05:28:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ninu Mathew"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1534,
+                "text": "Maternal Care/ Checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1800417,
+            "status": "PUBLISHED",
+            "note": "2021-08-12 09:24:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-12T10:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43263000,
+                "review_text": "** ***** ** **** **** *** *************. I went for a health checkup and she was patient in hearing any issues I have. Also her coordinator made sure I was comfortable and could  see doctor as soon as possible. Thanks to both of them..",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 38,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 365354
+                    }
+                ],
+                "reviewed_on": "2021-08-11 09:20:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 29399,
+                "text": "Pregnancy Tests"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1302936,
+            "status": "PUBLISHED",
+            "note": "2019-12-01 05:40:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-01T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40450649,
+                "review_text": "Consulted for pregnancy test, satisfied with the treatment. Doctor was explaining the situation clearly as we were having some doubts about pregnancy",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-29 15:06:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Uma rani n"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1292109,
+            "status": "PUBLISHED",
+            "note": "2019-11-17 06:28:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-17T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40378269,
+                "review_text": "I really appreciate the simplicity with which she explained the treatment options and the procedure. She also understood the worries I had and addressed them properly. I would definitely recommend her.",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-16 04:25:42",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "subha"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1191026,
+            "status": "PUBLISHED",
+            "note": "2019-07-04 09:50:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-04T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39729331,
+                "review_text": "Very caring and professional doctor...executed my emergency c section at 1 AM night on a Sunday when I was feeling uncomfortable.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-03 09:45:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Atreyee Sarkar"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192757,
+                "text": "Pregnancy care and management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1090794,
+            "status": "PUBLISHED",
+            "note": "2019-02-21 06:29:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-21T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39086335,
+                "review_text": "Doctor was very friendly and showed a  great deal of patience in explaining things needed to be taken care during pregnancy. Completely satisfied with service offered.",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-20 05:22:41",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saravanan"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1065315,
+            "status": "PUBLISHED",
+            "note": "2019-01-19 06:24:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-19T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38916463,
+                "review_text": "An excellent human being and a good doctor. Described us properly the usages and method to take pregnancy prevention pills. She is really really experienced person.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-18 05:02:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "parimal tewari"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1062586,
+            "status": "PUBLISHED",
+            "note": "2019-01-15 10:31:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-15T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38897866,
+                "review_text": "We have been consulting her for a long time and she is been very helpful and explains problem very priceisely and gives proper medication",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-14 10:28:07",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sunil Kumar N M"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1982,
+                "text": "Tubal Ligation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 987623,
+            "status": "PUBLISHED",
+            "note": "2018-10-02 11:01:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-02T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38372953,
+                "review_text": "Beena mam understood the problem very well and provided possible resolutions. She is very patient. She is very very supportive  and positive person.",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-30 06:57:26",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "KAmalaeswari"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2,
+                "text": "Irregular Periods"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 984557,
+            "status": "PUBLISHED",
+            "note": "2018-09-28 04:50:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-28T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38351361,
+                "review_text": "Really a great doctor,,,,,we will get 100% satisfaction after each consultation,,,,I am very much impressed and vl recommend whoever in need,,,,,",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-26 15:31:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumayya "
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            },
+            {
+                "id": 111697,
+                "text": "Pre-Pregnancy Counselling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 979222,
+            "status": "PUBLISHED",
+            "note": "2018-09-21 11:45:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-21T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38311794,
+                "review_text": "**** ************* ** ****** I very much liked her explanation to the issue & her patient, given full time.. I recommend to everyone .... ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 130813
+                    }
+                ],
+                "reviewed_on": "2018-09-20 11:43:28",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Syed Meraj Quadri"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 5365,
+                "text": "Vaginal Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 956509,
+            "status": "PUBLISHED",
+            "note": "2018-08-25 11:32:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-25T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38144991,
+                "review_text": "Treatment satisfaction in previous case.she has a good behaviour and proper approach towards treatments ",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-24 10:23:34",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shambhu Sharan Sinha"
+        },
+        "entity_id": 634955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 866,
+                "text": "PCOD/PCOS Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 945546,
+            "status": "PUBLISHED",
+            "note": "2018-08-14 12:55:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-14T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38057302,
+                "review_text": "Doctor is so friendly type she understand from our point of view and give guidance ..she gives every one personal attention\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-11 13:21:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Afsha "
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3599,
+                "text": "Fertility Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 895990,
+            "status": "PUBLISHED",
+            "note": "2018-06-12 06:27:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-12T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37641992,
+                "review_text": "The doctor listened very patiently to the problem and provided a very assessment and guidance. Very happy with her guidance. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-10 04:40:19",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kamal Singhania"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1756,
+                "text": "Family Planning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 870052,
+            "status": "PUBLISHED",
+            "note": "2018-05-11 04:18:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-11T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37426014,
+                "review_text": "She ** **** ************* *** listens to her patients with patience. She explains very well and very systematic. I would really recommend her.",
+                "review_alterations": [
+                    {
+                        "start_index": 3,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 106601
+                    }
+                ],
+                "reviewed_on": "2018-05-09 13:12:20",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sonia tathgir"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186455,
+                "text": " Ovarian Cyst"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2252039,
+            "status": "PUBLISHED",
+            "note": "2023-08-24 06:19:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-24T07:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45910031,
+                "review_text": "I went to Manipal clinic to Dr Beena Jeysingh three times with waiting time of over an hour every time. And the disappointment was that there was no diagnosis. I had an MRI and USG , but no diagnosis on what type of cyst and what to do with it. No way to followup without going to the hospital. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-22 07:23:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1105975,
+            "status": "PUBLISHED",
+            "note": "2019-03-14 09:30:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-14T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39187888,
+                "review_text": "She's very polite and friendly,when I met her first time that time am 3 months pregnant now my baby will get 3 yrs till now am continuing with her, she's like goddess for me,she saved me and my baby from those critical situations, now am alive means that is because of her. she's not like other doctors, Beena Mam is something special to me, now am planning for 2nd baby,started treatment with her.... ",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-12 20:21:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 634955,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 694153,
+            "status": "PUBLISHED",
+            "note": "2017-10-07 05:31:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-07T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35770703,
+                "review_text": "I visited Dr.Beena Jeysingh in motherhood for my complete pregnancy care. She is very good in terms of listening to the problems we are facing *** ***** *** ***** ********** She made sure that we were aware of the smallest of small issue if any in the pregnancy and gave us right directions. I was made to induce pain and it was a normal delivery. Hence I highly recommend this doctor for all gynaec related issues.",
+                "review_alterations": [
+                    {
+                        "start_index": 143,
+                        "end_index": 172,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 69102
+                    }
+                ],
+                "reviewed_on": "2017-10-04 11:57:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1452972,
+            "status": "PUBLISHED",
+            "note": "2020-06-26 06:45:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-26T07:01:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41403199,
+                "review_text": "I visited doctor for my pregnancy and she gave such positive guidance that helped ease all my pregnancy anxiety as it\u2019s my first baby and the pandemic situation created lot of fear. However the responses and the care given by doctor eased most of it and I am very happy with her attitude and approach. Would definitely recommend her.",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-25 04:24:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 163605,
+                "text": "Prenatal Checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1288435,
+            "status": "PUBLISHED",
+            "note": "2019-11-12 13:03:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-12T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40354725,
+                "review_text": "She is warm , \u2018to the point\u2019 , experienced doctor.\nI could trust her completely during my pregnancy and this is cos of her experience ,advises and friendliness. I really liked her style of work - very crisp. she is very fast and efficient * ****** *** ******* ***********I would recommend her by the way she handled my pregnancy, Thank you doctor!",
+                "review_alterations": [
+                    {
+                        "start_index": 239,
+                        "end_index": 270,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220542
+                    }
+                ],
+                "reviewed_on": "2019-11-11 12:56:55",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1189423,
+            "status": "PUBLISHED",
+            "note": "2019-07-03 06:26:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-03T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39718194,
+                "review_text": "Dr Beena is compassionate, efficient and very thorough. She takes the time to listen to you and is completely non-judgemental. She also explains your problem in language you will understand and is adept at dealing with skittish people. I would highly recommend her services as you can be sure you're in knowing, safe hands.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-01 11:42:51",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1093703,
+            "status": "PUBLISHED",
+            "note": "2019-02-26 07:57:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-26T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39106520,
+                "review_text": "It's been my 3rd visit and so far it's been great. Dr Beena gives you a sense of confidence that all is well as she speaks so confidently and assures us that everything is fine. Hoping for this feeling to last for me as I'm going to visit her quite often now\ud83d\ude0a",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-25 04:36:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 996,
+                "text": "Female Sexual Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1081940,
+            "status": "PUBLISHED",
+            "note": "2019-02-09 13:27:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-09T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39026922,
+                "review_text": "When patient is shouting out that she is getting a treatment for something, *** ****** ****** ** ***** ***** *** ************ ****** ** ** *** **** ***** ***** * ****** ****** ****** We as a patient don't know what are the effects of the medicines we are already taking. I have weasted 3K because of this!",
+                "review_alterations": [
+                    {
+                        "start_index": 76,
+                        "end_index": 132,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 153977
+                    },
+                    {
+                        "start_index": 133,
+                        "end_index": 182,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 153976
+                    }
+                ],
+                "reviewed_on": "2019-02-08 13:15:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 779312,
+            "status": "PUBLISHED",
+            "note": "2018-02-03 11:16:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-03T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36600862,
+                "review_text": "One of my friend recommended Dr Beena.\nShe is very polite and gives her time to patient.\nThis is just not a busines to her like it is nowadays with lots of doctor.\n\nI remember one of the incident where I was traveling from far distance and has made delayed for 1 hour to reach her clinic. But all she did was waited only for me patiently.\n\nI would  definitely recommend her .",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-24 10:03:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 716973,
+            "status": "PUBLISHED",
+            "note": "2017-11-07 05:41:04",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-07T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35996629,
+                "review_text": "******* ********* ** **** **** My wife had a severe urine infection, even after telling doctor that she gets this pain because of UTI, doctor said it is because my wife was pregnant and this happens after pregnancy. NOT Recommended at ALL\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 30,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 73945
+                    }
+                ],
+                "reviewed_on": "2017-11-03 02:01:44",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nadeem Khan"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 491332,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-08T09:32:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32618540,
+                "review_text": "It is a nice experience with Dr. Beena ,i am very comfortable with doctor while explaining my problems. And she give very optimum solution. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-08 09:31:18",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Samina Firdous"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1534,
+                "text": "Maternal Care/ Checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 459536,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-31T10:55:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30706558,
+                "review_text": "She is a very good doctor. She is quite encouraging and gives the best adviceo the patient. I am Glad that I found her. Thank you doc. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-28 09:01:34",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Poonam kushwaha"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 445722,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-10T06:05:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 29846850,
+                "review_text": "very nice doctor , we visited doctor for pregnancy consultation , when ever we visited clinic always on time we never got delayed,  doctor listens to patients problems and gives proper medication, overall very good experience ",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-10 06:01:24",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Malini"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 111697,
+                "text": "Pre-Pregnancy Counselling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 761637,
+            "status": "PUBLISHED",
+            "note": "2018-01-10 04:59:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-10T05:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36427940,
+                "review_text": "Really very good doctor.... Good behaviour and listen to us very carefully... Overall very good experience .\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-01 13:12:15",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sarmista "
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 878782,
+            "status": "PUBLISHED",
+            "note": "2018-05-22 09:32:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-22T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37498867,
+                "review_text": "I really liked Dr beena. She shows the humanity and concern towards patients as a close relation. I like the way she explains the problem n gives solutions ",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-19 17:11:23",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1370822,
+            "status": "PUBLISHED",
+            "note": "2020-02-19 06:56:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-19T07:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40945066,
+                "review_text": "It's not fair\nI booked for 5.40 pm and got to meet doctor at 7 pm. What is the use booking via practo. I could have gone walk in. Decided No more practo",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-15 14:52:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1411,
+                "text": "Obstetrics Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1126733,
+            "status": "PUBLISHED",
+            "note": "2019-04-11 06:49:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-11T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39321146,
+                "review_text": "The way she treats the patients gives the confidence of cure... Once she get to know that my problem is a combination of dermatology she suggested me the other doctor and she refused me to pay the consultation fee, she is very kind\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-08 18:51:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 720452,
+            "status": "PUBLISHED",
+            "note": "2017-11-09 07:13:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-09T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36029777,
+                "review_text": "Me and my mom have been consulting doc since 5yrs**** ** **** *** **** **** **** ,very friendly and very caring doc...just like the way she treat us..\nThankyou",
+                "review_alterations": [
+                    {
+                        "start_index": 49,
+                        "end_index": 80,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 74736
+                    }
+                ],
+                "reviewed_on": "2017-11-07 13:11:09",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 615376,
+            "status": "PUBLISHED",
+            "note": "2017-07-11 04:37:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-11T05:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34965649,
+                "review_text": "She is very good and treated step by step with problem explanation. Best thing is with out medication",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-07 03:01:58",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 542532,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-02T05:11:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34226158,
+                "review_text": "Very nice doctor..we have consulted for pre and post pregnancy..she will take care of everything...very patience listens well..\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-29 00:42:58",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 540873,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-28T08:31:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34205377,
+                "review_text": "She s a very good at diagnosing and receives all her patients with a smile :-) she treated my vitamin d deficiency very well....\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-27 07:26:25",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 473959,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-17T05:42:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31564902,
+                "review_text": "*** ***** ******** ** *** ****  ************ *** honestly cares about her patients. Thank you doctor for your complete care and treatment.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 47,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 27917
+                    }
+                ],
+                "reviewed_on": "2017-02-15 11:16:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1673353,
+            "status": "PUBLISHED",
+            "note": "2021-03-16 06:57:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-16T07:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42566204,
+                "review_text": "I had visited Dr.Beena for a second opinion. She was very very friendly and very clear in explaining what was required. She s very approachable and has patience. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-14 07:51:24",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 7,
+                "text": "Menopause"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1343134,
+            "status": "PUBLISHED",
+            "note": "2020-01-19 06:30:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-19T07:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40737040,
+                "review_text": "satisfactory with the treatment provided visited for my mother's routine check up. she did well and suggested for the proper process to find out if no issues are there",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-17 00:03:49",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4191,
+                "text": "menopause advice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1242357,
+            "status": "PUBLISHED",
+            "note": "2019-09-11 04:48:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-11T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40053625,
+                "review_text": "Dr. Beena explained the issue well and gave minimal medicine. Her friendly tone  and calm demeanour was an additional boost. I\u2019m confident, I\u2019m with the right doctor! ",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-08 08:26:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2,
+                "text": "Irregular Periods"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1183191,
+            "status": "PUBLISHED",
+            "note": "2019-06-23 12:40:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-23T13:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39677952,
+                "review_text": "the doctor makes you wait for 1 hour, she reaches the clinic really late and doesn't give even you 5 mins of her time to consult. punctuality is not her forte and making patients wait even after appt time is really not acceptable.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-22 12:27:04",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 844,
+                "text": "Pregnancy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1159798,
+            "status": "PUBLISHED",
+            "note": "2019-05-23 06:32:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-23T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39529162,
+                "review_text": "I visited her for my pregnancy ...I started getting blood during 8th week itself..she told it's fine.**** ***** * ***** * *** ****************** **** ** *** ********** * **** *** ****..won't suggest any one to visit her ",
+                "review_alterations": [
+                    {
+                        "start_index": 101,
+                        "end_index": 182,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 177856
+                    }
+                ],
+                "reviewed_on": "2019-05-22 05:42:40",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 31,
+                "text": "Ovarian Cyst Removal"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1143837,
+            "status": "PUBLISHED",
+            "note": "2019-05-03 06:28:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-03T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39429461,
+                "review_text": "Dr Beena is very confident and clear.. she is listening to your problems patiently and gives best advice..Very satisfied with the visit ..!",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-01 05:52:32",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3599,
+                "text": "Fertility Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1136810,
+            "status": "PUBLISHED",
+            "note": "2019-04-23 13:05:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-23T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39385476,
+                "review_text": "She is a very confident and friendly person. It feels good to be treated by someone whose personality is comforting to the patients.",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-22 06:32:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 111697,
+                "text": "Pre-Pregnancy Counselling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1126867,
+            "status": "PUBLISHED",
+            "note": "2019-04-11 07:25:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-11T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39322025,
+                "review_text": "It was the first time visiting Dr Beena for a check up. She was very informative and helpful. Will definitely recommend to others",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-09 04:33:14",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1070557,
+            "status": "PUBLISHED",
+            "note": "2019-01-26 05:08:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-26T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38951371,
+                "review_text": "Very friendly nature \nWe\u2019re  blessed to meet such a good and caring doctor  towards patients \nThank you mam.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-24 15:47:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1068279,
+            "status": "PUBLISHED",
+            "note": "2019-01-23 07:21:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-23T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38936535,
+                "review_text": "Good Doctor, will prefer to my friends and family members \nEvery time we go she will ask everything regarding health ",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-22 05:41:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1063247,
+            "status": "PUBLISHED",
+            "note": "2019-01-17 07:07:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-17T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38902004,
+                "review_text": "She is very sorted,I have just visited her for the first time,She made me feel confident and I hope for the best results..",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-15 08:33:12",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1027169,
+            "status": "PUBLISHED",
+            "note": "2018-11-27 11:29:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-27T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38654152,
+                "review_text": "Madam explains problem with clarity and do not give unnecessary medicines.really happy to have such a wonderful doctor at HSR Layout.",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-25 05:18:59",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1535,
+                "text": "Breast Examination"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1011979,
+            "status": "PUBLISHED",
+            "note": "2018-11-03 11:32:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-03T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38546611,
+                "review_text": "She was quick and clear in her approach. She was very patient and encouraging. She did not scare us or recommended unwanted scan or other procedures. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-02 11:29:43",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 993953,
+            "status": "PUBLISHED",
+            "note": "2018-10-10 07:54:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-10T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38417053,
+                "review_text": "Friendly and caring doctor. Provide appropriate suggestion. Always available for help. \nTalented doctor",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-08 06:15:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 985946,
+            "status": "PUBLISHED",
+            "note": "2018-09-29 09:14:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-29T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38361042,
+                "review_text": "She listens the problem very carefully and with patience . As I am new to Bangalore , I was very scared for the moment to choose the doctor for me.\nBut thanks to Practo I got ended up reaching at good place.",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-28 09:03:06",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 985253,
+            "status": "PUBLISHED",
+            "note": "2018-09-28 13:26:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-28T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38356332,
+                "review_text": "She is an amazing doctor.Makes you relaxed and worry free.very good Approach.she gives medication if only required. Listens carefully n explains things elaborately.",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-27 13:22:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            },
+            {
+                "id": 111697,
+                "text": "Pre-Pregnancy Counselling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 946629,
+            "status": "PUBLISHED",
+            "note": "2018-08-14 08:04:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-14T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38064920,
+                "review_text": "********* ********* ****** ********** Doctor's friendliness and expertise is appreciable. Thanks for the help.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 36,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 123335
+                    }
+                ],
+                "reviewed_on": "2018-08-12 14:47:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 696823,
+            "status": "PUBLISHED",
+            "note": "2017-10-12 11:33:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-12T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35795603,
+                "review_text": "*** ** *** ** *** **** ************ ********* ** ********** Very calm, friendly and good Patient listener. I would highly recommend her to others. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 69942
+                    }
+                ],
+                "reviewed_on": "2017-10-11 09:54:47",
+                "channel": "web",
+                "source": "TAB",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 529680,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Mom And Baby Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-18T10:23:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34083112,
+                "review_text": "As per discussion she is nice and supportive. \nShe took the all details and according to that she made the prescription also suggest precautions and every day attention details ",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-17 12:11:17",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 676265,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 693752,
+            "practice_name": "Motherhood Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-12T06:08:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35589354,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-11 14:21:40",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Anubhuti Goyal"
+        },
+        "entity_id": 472820,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1105253,
+            "status": "PUBLISHED",
+            "note": "2019-03-13 11:25:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-13T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39183254,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-12 04:32:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vengatesh R"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 992559,
+            "status": "PUBLISHED",
+            "note": "2018-10-07 10:01:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-07T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38407756,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-06 09:03:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Deepali Khedekar "
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1914553,
+            "status": "PUBLISHED",
+            "note": "2022-01-18 05:39:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital, Sarjapur Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-18T06:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43953403,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 134,
+                        "end_index": 262,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 392625
+                    },
+                    {
+                        "start_index": 293,
+                        "end_index": 385,
+                        "reason": "NON_COMPLIANT",
+                        "id": 392621
+                    }
+                ],
+                "reviewed_on": "2022-01-16 19:07:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1,
+                "text": "Stomach Cramps"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 985359,
+            "status": "PUBLISHED",
+            "note": "2018-09-29 04:13:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1132972,
+            "practice_name": "Beena's Mom & Baby Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-29T05:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38357106,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-27 14:15:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558346,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            },
+            {
+                "id": 1,
+                "text": "Stomach Cramps"
+            },
+            {
+                "id": 14,
+                "text": "Miscarriage"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 977755,
+            "status": "PUBLISHED",
+            "note": "2018-09-20 05:04:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202746,
+            "practice_id": 1163290,
+            "practice_name": "Columbia Asia Hospital sarjapur road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-20T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38300501,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 55,
+                        "end_index": 129,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 130534
+                    }
+                ],
+                "reviewed_on": "2018-09-18 14:42:35",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 611733,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,2481 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1672090,
+            "status": "PUBLISHED",
+            "note": "2021-03-14 06:13:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-13T12:37:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 273718,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words.",
+                "replied_at": "2021-03-13T12:37:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 42559119,
+                "review_text": "Dr. Vimal was perfectly explained and addressed the issue I was facing , he even showed me bone structure photos to explain all these. Unlike other doctors, he said it clearly no test or medicine would help just only rest, though just for my satisfaction he recommended 2 medicines also explained their functions. He gave his phone number, if I face any further issues I can contact him. He is very genuine and I would highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-13 05:08:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anish Debnath"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193265,
+                "text": "Joint pains"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1512377,
+            "status": "PUBLISHED",
+            "note": "2020-09-06 06:39:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-06T07:01:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 232545,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you mam, for your kind words.",
+                "replied_at": "2020-09-12T08:52:46+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 41702868,
+                "review_text": "Dr. Vimal is an experienced physician. He listened me thoroughly then asked a few related questions and explained me the health issues. It was actually the other issue that I was ignoring for quite some time, Thyroid. I am very satisfied with diagnosis and advice by the doctor. Thank you Dr. Vimal!",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-05 04:35:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tanuja"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 71,
+                "text": "Joint Pain"
+            },
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1254339,
+            "status": "PUBLISHED",
+            "note": "2019-09-25 05:01:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-24T08:01:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 165995,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you sir",
+                "replied_at": "2019-09-24T08:01:51+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 40131019,
+                "review_text": "Doctor Vimal was extremely patient while listening to my concerns, he thoroughly examined my knees and provided a detailed opinion. He advised the most apt blood tests and medications. His follow up process was extremely convienient and that saved my time and money, without compromising on the diagnosis. A feel lucky that I found him on practo and went to him. His dedicated consultation process deserves appreciation.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-23 08:34:37",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yuvraj Rathore"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1194937,
+            "status": "PUBLISHED",
+            "note": "2019-07-09 12:18:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-08T13:33:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 152730,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your kind words and appreciation .",
+                "replied_at": "2019-07-08T13:33:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 39754516,
+                "review_text": "Doctor has listened to my problem, have let me understood the reason of the pain. He has described it in a way so that I could understand. He advised me to take medicines and exercise. I am taking the meds, will do the test recommended and will surely revisit.\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-08 11:57:06",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shreyasi Das"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 717,
+                "text": "Orthopedic Physiotherapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2217546,
+            "status": "PUBLISHED",
+            "note": "2023-06-18 05:34:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 1406288,
+            "practice_name": "Practo Care Surgeries",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-18T06:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45695806,
+                "review_text": "I will not recommend Dr. Vimal at all. He barely spent 10 mins on my issue and did not even listen to the kind of pain I was feeling in my back. His advice for me was to \u2018eat vitamin  d tablets\u2019. I showed him my scan of my back and he recognised that there were some curvatures but blamed it on that I must have twisted while lying down?? The scan was when I was lying on my back which couldn\u2019t have gone wrong in any case. **** * **** ** ** *** * ****** ****** ******* ** **** *** ****** **** **** *******  ***** *** **** *** *** ******* ",
+                "review_alterations": [
+                    {
+                        "start_index": 423,
+                        "end_index": 537,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459969
+                    }
+                ],
+                "reviewed_on": "2023-06-16 17:42:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nidhi Singh"
+        },
+        "entity_id": 843641,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101607,
+                "text": "Hand Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 887742,
+            "status": "PUBLISHED",
+            "note": "2018-06-01 05:38:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-31T08:02:22+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 87151,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks sir ",
+                "replied_at": "2018-05-31T08:02:22+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 37572693,
+                "review_text": "Dr Vimal is so patient and also helped me with the ******* diagnosis. I am very happy with these two qualities. I have visited so many doctors,  but nobody could help me find out what is the actual reason of the pain in my hand. I had tried everything, but nothing worked. Dr Vimal helped me understand the chronological reason. Today I am sure that with Dr Vimal's treatment, the pain will go within few weeks ",
+                "review_alterations": [
+                    {
+                        "start_index": 51,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 109998
+                    }
+                ],
+                "reviewed_on": "2018-05-30 15:56:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kamal Khurana "
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 885824,
+            "status": "PUBLISHED",
+            "note": "2018-05-31 05:21:48",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-30T13:19:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 87054,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your feedback, hope to serve you better next time. Clinic was closed at that time and received you within 5-10 minutes of your call. As clinic was closed so may be not that much ordered as in working hours. Sir I asked lots of questions to diagnose the disease, as some are alright in 2/3 days and some require follow up and investigation. Hope to serve you soon! ",
+                "replied_at": "2018-05-30T13:19:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 37556577,
+                "review_text": "I visited the Clinique for my back pack. It started suddenly and it's persisting till now. The doctor was half an hour late, the Clinique was quite shabby and smelled. Though the doctor asked me a lot of questions and gave me general medicine, the over all experience was bad. \n",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-28 17:53:00",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhishek Manchanda"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 717,
+                "text": "Orthopedic Physiotherapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1569023,
+            "status": "PUBLISHED",
+            "note": "2020-11-08 06:57:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-08T07:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42003388,
+                "review_text": "Overall was good experience. Doctor tells in details how overcome this problem nd what therapy need to do ",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-07 04:54:28",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rahul"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2013999,
+            "status": "PUBLISHED",
+            "note": "2022-06-21 06:54:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-21T07:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44511442,
+                "review_text": "I went to the doctor for my elbow pain. He helped me to understand what the problem is & prescribed\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-19 08:19:52",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shahan Siraj"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1724489,
+            "status": "PUBLISHED",
+            "note": "2021-05-17 08:06:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-17T09:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42847482,
+                "review_text": "Doctor is very polite and explained problem very clearly, i would surely recommend doctor Vimal, \u2026..",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-16 04:25:43",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dheeraj Kumar"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1672090,
+            "status": "PUBLISHED",
+            "note": "2021-03-14 06:13:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-13T12:37:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 273718,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words.",
+                "replied_at": "2021-03-13T12:37:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 42559119,
+                "review_text": "Dr. Vimal was perfectly explained and addressed the issue I was facing , he even showed me bone structure photos to explain all these. Unlike other doctors, he said it clearly no test or medicine would help just only rest, though just for my satisfaction he recommended 2 medicines also explained their functions. He gave his phone number, if I face any further issues I can contact him. He is very genuine and I would highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-13 05:08:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anish Debnath"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193265,
+                "text": "Joint pains"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1512377,
+            "status": "PUBLISHED",
+            "note": "2020-09-06 06:39:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-06T07:01:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 232545,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you mam, for your kind words.",
+                "replied_at": "2020-09-12T08:52:46+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 41702868,
+                "review_text": "Dr. Vimal is an experienced physician. He listened me thoroughly then asked a few related questions and explained me the health issues. It was actually the other issue that I was ignoring for quite some time, Thyroid. I am very satisfied with diagnosis and advice by the doctor. Thank you Dr. Vimal!",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-05 04:35:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tanuja"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 71,
+                "text": "Joint Pain"
+            },
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1254339,
+            "status": "PUBLISHED",
+            "note": "2019-09-25 05:01:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-24T08:01:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 165995,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you sir",
+                "replied_at": "2019-09-24T08:01:51+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 40131019,
+                "review_text": "Doctor Vimal was extremely patient while listening to my concerns, he thoroughly examined my knees and provided a detailed opinion. He advised the most apt blood tests and medications. His follow up process was extremely convienient and that saved my time and money, without compromising on the diagnosis. A feel lucky that I found him on practo and went to him. His dedicated consultation process deserves appreciation.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-23 08:34:37",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yuvraj Rathore"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1194937,
+            "status": "PUBLISHED",
+            "note": "2019-07-09 12:18:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-08T13:33:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 152730,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your kind words and appreciation .",
+                "replied_at": "2019-07-08T13:33:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 39754516,
+                "review_text": "Doctor has listened to my problem, have let me understood the reason of the pain. He has described it in a way so that I could understand. He advised me to take medicines and exercise. I am taking the meds, will do the test recommended and will surely revisit.\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-08 11:57:06",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shreyasi Das"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 717,
+                "text": "Orthopedic Physiotherapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2217546,
+            "status": "PUBLISHED",
+            "note": "2023-06-18 05:34:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 1406288,
+            "practice_name": "Practo Care Surgeries",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-18T06:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45695806,
+                "review_text": "I will not recommend Dr. Vimal at all. He barely spent 10 mins on my issue and did not even listen to the kind of pain I was feeling in my back. His advice for me was to \u2018eat vitamin  d tablets\u2019. I showed him my scan of my back and he recognised that there were some curvatures but blamed it on that I must have twisted while lying down?? The scan was when I was lying on my back which couldn\u2019t have gone wrong in any case. **** * **** ** ** *** * ****** ****** ******* ** **** *** ****** **** **** *******  ***** *** **** *** *** ******* ",
+                "review_alterations": [
+                    {
+                        "start_index": 423,
+                        "end_index": 537,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459969
+                    }
+                ],
+                "reviewed_on": "2023-06-16 17:42:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nidhi Singh"
+        },
+        "entity_id": 843641,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101607,
+                "text": "Hand Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 887742,
+            "status": "PUBLISHED",
+            "note": "2018-06-01 05:38:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-31T08:02:22+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 87151,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks sir ",
+                "replied_at": "2018-05-31T08:02:22+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 37572693,
+                "review_text": "Dr Vimal is so patient and also helped me with the ******* diagnosis. I am very happy with these two qualities. I have visited so many doctors,  but nobody could help me find out what is the actual reason of the pain in my hand. I had tried everything, but nothing worked. Dr Vimal helped me understand the chronological reason. Today I am sure that with Dr Vimal's treatment, the pain will go within few weeks ",
+                "review_alterations": [
+                    {
+                        "start_index": 51,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 109998
+                    }
+                ],
+                "reviewed_on": "2018-05-30 15:56:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kamal Khurana "
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 885824,
+            "status": "PUBLISHED",
+            "note": "2018-05-31 05:21:48",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-30T13:19:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 87054,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your feedback, hope to serve you better next time. Clinic was closed at that time and received you within 5-10 minutes of your call. As clinic was closed so may be not that much ordered as in working hours. Sir I asked lots of questions to diagnose the disease, as some are alright in 2/3 days and some require follow up and investigation. Hope to serve you soon! ",
+                "replied_at": "2018-05-30T13:19:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 37556577,
+                "review_text": "I visited the Clinique for my back pack. It started suddenly and it's persisting till now. The doctor was half an hour late, the Clinique was quite shabby and smelled. Though the doctor asked me a lot of questions and gave me general medicine, the over all experience was bad. \n",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-28 17:53:00",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhishek Manchanda"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 717,
+                "text": "Orthopedic Physiotherapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1569023,
+            "status": "PUBLISHED",
+            "note": "2020-11-08 06:57:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-08T07:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42003388,
+                "review_text": "Overall was good experience. Doctor tells in details how overcome this problem nd what therapy need to do ",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-07 04:54:28",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rahul"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2013999,
+            "status": "PUBLISHED",
+            "note": "2022-06-21 06:54:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-21T07:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44511442,
+                "review_text": "I went to the doctor for my elbow pain. He helped me to understand what the problem is & prescribed\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-19 08:19:52",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shahan Siraj"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1724489,
+            "status": "PUBLISHED",
+            "note": "2021-05-17 08:06:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-17T09:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42847482,
+                "review_text": "Doctor is very polite and explained problem very clearly, i would surely recommend doctor Vimal, \u2026..",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-16 04:25:43",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dheeraj Kumar"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1649126,
+            "status": "PUBLISHED",
+            "note": "2021-02-18 06:37:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-18T07:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42434507,
+                "review_text": "Doctor's behaviour was very nice, he was explaining everything and I was satisfied, with my treatment which he was telling new technology. \n",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-17 05:19:59",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SANDHYA"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 755,
+                "text": "Toe Walking"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1606139,
+            "status": "PUBLISHED",
+            "note": "2020-12-27 07:25:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-27T08:01:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42199720,
+                "review_text": "****** ******* Very friendly. Explained the problem in in simple words.  Didn\u2019t recommend unnecessary treatment/ medicine. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 13,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 316690
+                    }
+                ],
+                "reviewed_on": "2020-12-25 12:42:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Indira jain"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101607,
+                "text": "Hand Pain Treatment"
+            },
+            {
+                "id": 66,
+                "text": "Bone Fracture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1528443,
+            "status": "PUBLISHED",
+            "note": "2020-09-23 06:19:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-22T08:10:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 235268,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you mam",
+                "replied_at": "2020-09-22T08:10:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 41787148,
+                "review_text": "Very friendly doctor, who heard my problems patiently and advised me as to the next steps accordingly. I would definitely recommend! ",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-21 13:46:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajalakshmi Rajan"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1483470,
+            "status": "PUBLISHED",
+            "note": "2020-08-04 06:58:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-03T08:09:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 222404,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your valuable feedback \u263a\ufe0f.",
+                "replied_at": "2020-08-03T08:09:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 41555633,
+                "review_text": "Doctor is very much to the point and expained well the treatment process.\nHe is a gud guy with lots of positive ness.",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-02 06:09:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nishant kesarwani"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1336037,
+            "status": "PUBLISHED",
+            "note": "2020-01-10 06:32:03",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-10T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 191988,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much",
+                "replied_at": "2020-02-18T03:40:54+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 40684719,
+                "review_text": "Very friendly and satisfactory doctor .he helped a lot and checked my condition thoroughly .very nice ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-09 04:20:53",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harsh prasad"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1128093,
+            "status": "PUBLISHED",
+            "note": "2019-04-12 05:33:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-12T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39330029,
+                "review_text": "Went there for my wife's twisted heel and pain in the wrist. Dr. Dakour was really easy and warm in explaining the situation and course of treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-10 11:27:44",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumit Kumar Sharma"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 755,
+                "text": "Toe Walking"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1116088,
+            "status": "PUBLISHED",
+            "note": "2019-03-27 07:30:58",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-26T08:03:25+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 136327,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words!!",
+                "replied_at": "2019-03-26T08:03:25+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 39252504,
+                "review_text": "I was facing some issue with my toes for a very long time.... I tried several ways to get rid of the pain but nothing worked.... I visited Dr. Dakour\u2019s clinic and after medication of 5 days the problem has almost gone... ",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-26 02:49:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Antara Chowdhury "
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1472873,
+            "status": "PUBLISHED",
+            "note": "2020-07-21 11:10:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-20T16:21:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 219371,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Dear patient,\nAs you mentioned your detailed history of full sedentary lifestyle from past 3 months, and after my examination,it was a lifestyle related problems and required physical activities more than painkillers,so we mostly advised vitamins and health supplements.\nYour apprehension,I understand,but from past more than 3 months,we wear PPE for hours during operations of lengthy surgeries in hospital ot,but for OPD government recommendations are mainly social distancing and hand washing and sanatizers and disinfecting space that we do regularly, and till now zero count of covid at our facility.\nMost welcome \ud83d\ude0a for follow up .\nThank you for your valuable input \ud83d\ude0a.\n",
+                "replied_at": "2020-07-20T16:21:41+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 41503528,
+                "review_text": "I do not recommend the doctor\nMy experience was worse with clinic and doctor. **** ***** ** *** **** ********* ***** *** They are not taking any pracuation . Regarding my lower back pain doctor has given ******** medicine **** *** ******** ******* *** ***** ****** * **** **** **** ******** ***** ** ** ********** ***** ** **** ********* *** ** ********* Worse experience for me with the doctor in my entire life",
+                "review_alterations": [
+                    {
+                        "start_index": 77,
+                        "end_index": 120,
+                        "reason": "NON_COMPLIANT",
+                        "id": 278739
+                    },
+                    {
+                        "start_index": 204,
+                        "end_index": 212,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278740
+                    },
+                    {
+                        "start_index": 221,
+                        "end_index": 354,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 278741
+                    }
+                ],
+                "reviewed_on": "2020-07-20 08:26:34",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 237,
+                "text": "Neck Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 306142,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-07T10:17:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 20934705,
+                "review_text": "Now pain is less after taken the prescribe medicine by Dr.Vimal kumar...thanku so much Dr. Vimal kumar...Rajneet kaur",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-07 10:16:16",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajneet Kaur"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 717,
+                "text": "Orthopedic Physiotherapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2172776,
+            "status": "PUBLISHED",
+            "note": "2023-03-25 05:23:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 1406288,
+            "practice_name": "Practo Care Surgeries",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-25T06:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45426131,
+                "review_text": "Good  and helpful experience with the doctor. Looking forward to healing fast and resume normal functioning ",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-23 14:37:18",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 843641,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101548,
+                "text": "Orthopedic physical therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2146924,
+            "status": "PUBLISHED",
+            "note": "2023-02-08 04:58:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 1406288,
+            "practice_name": "Practo Care Surgeries",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-08T05:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45278043,
+                "review_text": "I showed my son to the Doctor he diagnosed the aa tennis elbow gave the medicine and the excercise and medicine. He also explains the same properly",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-06 14:24:07",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 843641,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101965,
+                "text": "Neck Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1655681,
+            "status": "PUBLISHED",
+            "note": "2021-02-27 04:52:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-27T05:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42470172,
+                "review_text": "********* ** ******\nWait time is 0\n\nExplanation of the health issue is 10/10\n\nOverall it's a very good experience for me.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 329251
+                    }
+                ],
+                "reviewed_on": "2021-02-25 14:39:27",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1959212,
+            "status": "PUBLISHED",
+            "note": "2022-03-26 04:04:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-26T05:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44200559,
+                "review_text": "Nice friendly attitude of the doctor. Spent time examining and explaining the issue. Would recommend him ",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-24 13:37:12",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1760669,
+            "status": "PUBLISHED",
+            "note": "2021-06-29 06:30:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-29T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43041634,
+                "review_text": "No waiting time. listen all my issues. checked properly & explained things. over all good experience.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-26 15:40:06",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 74,
+                "text": "Knee Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1709554,
+            "status": "PUBLISHED",
+            "note": "2021-04-28 12:11:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-27T13:34:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 283376,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you \ud83d\udc95",
+                "replied_at": "2021-04-27T13:34:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 42769235,
+                "review_text": "he tries to explain the problem in easy way along with providing you with simple, effecive and easy treatment options. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-27 12:10:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1519232,
+            "status": "PUBLISHED",
+            "note": "2020-09-13 06:08:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-12T08:53:14+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 232546,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words!",
+                "replied_at": "2020-09-12T08:53:14+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 41738851,
+                "review_text": "He reached on time. He didn't asked for un necessary tests.\n There was only 1 more patient beside me, so time was not an issue.",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-12 04:28:35",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 76,
+                "text": "Lower Back Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1476925,
+            "status": "PUBLISHED",
+            "note": "2020-07-26 08:05:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-25T13:38:12+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 220536,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you, for your valuable feedback and kind words.",
+                "replied_at": "2020-07-25T13:38:12+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 41523059,
+                "review_text": "it was the nice experience doctor is too friendly and satisfactory. I recommend this doctor for back pain",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-25 02:58:45",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1463995,
+            "status": "PUBLISHED",
+            "note": "2020-07-10 08:52:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-10T09:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 217799,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you ,for your kind words.",
+                "replied_at": "2020-07-14T08:14:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 41458614,
+                "review_text": "It is over all good experience and Doctor advise peoperly and explained the treatment which may require in future.",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-09 08:36:35",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193349,
+                "text": "Foot & Ankle"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1249215,
+            "status": "PUBLISHED",
+            "note": "2019-09-18 07:29:23",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-17T08:15:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 164812,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words.",
+                "replied_at": "2019-09-17T08:15:08+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 40097965,
+                "review_text": "Good and polite doctor  . We went for my cousins sprained ankle. The doctor gave good advice . We are satisfied with the treatment ",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-17 04:53:44",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 806,
+                "text": "Ankylosing Spondylitis"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1111882,
+            "status": "PUBLISHED",
+            "note": "2019-03-21 07:50:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 275292,
+            "practice_id": 692527,
+            "practice_name": "Motherhood Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-20T08:03:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 135209,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much!",
+                "replied_at": "2019-03-20T08:03:54+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 220045,
+                "modified_by_id": 220045,
+                "replier_name": "Dr. Vimal Kumar Dakour",
+                "replier_logo": "https://images1-fabric.practo.com/dr-vimal-kumar-dakour-1455985769-56c89469dd280.jpg"
+            },
+            "survey_response": {
+                "id": 39225601,
+                "review_text": "Amazing doctor. Very good listener, he took the time to explain my disease and suggested remedy. Patiently answered all questions.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-20 04:41:15",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 170973,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

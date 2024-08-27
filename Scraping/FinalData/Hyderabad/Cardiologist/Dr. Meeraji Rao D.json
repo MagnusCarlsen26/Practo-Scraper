@@ -1,0 +1,968 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 51,
+                "text": "Carotid Angioplasty And Stenting"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2167929,
+            "status": "PUBLISHED",
+            "note": "2023-03-16 11:56:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-16T12:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45398430,
+                "review_text": "Dear Dr. Meeraji Rao, \nI wanted to take a moment to express my heartfelt appreciation for the exceptional care and attention you provided me during my recent medical treatment. Your kindness, professionalism, and expertise have been a tremendous source of comfort to me and my family.\nYour willingness to go above and beyond the call of duty to ensure our well-being was truly remarkable, and it gave us the strength to endure a difficult time. Your skillful diagnosis and treatment, as well as your reassuring presence, were a source of comfort and hope for us.\nYour thoughtful approach to my health concerns, your clear explanations of the medical procedures, and your willingness to answer all my questions have been invaluable. Your dedication to your patients and your commitment to excellence are truly admirable.\nI feel incredibly fortunate to have had you as my doctor, and I cannot thank you enough for all that you have done for me. Your compassion and kindness have made a significant difference in my recovery, and I will always be grateful for the exceptional care you provided.\nThank you again for your outstanding service and for being such an incredible healthcare professional. You truly are a credit to your profession, and I will always recommend you to anyone in need of medical care.\nWe wish you all the best in your future endeavors.\nRegards\nVamsee Vangaveti \n(V.S.R Murthy & Family) \n\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-15 11:09:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vamsee"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1508266,
+            "status": "PUBLISHED",
+            "note": "2020-09-02 08:48:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-02T09:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41682217,
+                "review_text": "My in-law had met the doctor and it was for health problem. Doctor was **** ************* *** experienced. He explained issue well in simple terms. He comforted us properly and gave proper guidance. I can recommend doctor to my family or friends. He is very nice doctor. BP was checked. Medicine was prescribed by the doctor. Patient is better now. There was no waiting time in the hospital.  Hospitality was very good, it was much better than other hospitals. It was high blood pressure. Doctor told to walk for 30 minutes and diet changes was suggested. We went with reports, blood sample reports and he identified problem. He understood problem as he is experienced.",
+                "review_alterations": [
+                    {
+                        "start_index": 71,
+                        "end_index": 92,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 289594
+                    }
+                ],
+                "reviewed_on": "2020-09-01 04:08:51",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sunil"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1763913,
+            "status": "PUBLISHED",
+            "note": "2021-07-02 05:07:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-02T06:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43059517,
+                "review_text": "I had met the doctor and it was for health problem. Consultation went well. He is our family doctor and senior person. I would like to recommend the doctor to many people. There was no waiting time in the hospital. It was for 15 minutes. I went for suggestions. Reports was checked. Washroom was not maintained properly in hospital. In parking space it's completely dark as I was unable to find my vehicle. Doctor service is good.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-30 14:37:07",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shravan Kumar"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1453608,
+            "status": "PUBLISHED",
+            "note": "2020-06-27 04:02:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-27T05:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41406278,
+                "review_text": "I visited the doctor. I am not satisfied with the doctor and doctor treatment, ******* ** **** *** ********** *** ****** There was not much waiting time. When it comes to improvement, everything was good and I wouldn't like to recommend this doctor to others.",
+                "review_alterations": [
+                    {
+                        "start_index": 79,
+                        "end_index": 120,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 273065
+                    }
+                ],
+                "reviewed_on": "2020-06-25 16:59:13",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nikhit Velagapudi"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1722908,
+            "status": "PUBLISHED",
+            "note": "2021-05-16 06:00:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-16T06:01:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42839381,
+                "review_text": "I had consulted the doctor and it was for heart related. Consultation was very good by the doctor. I would like to recommend the doctor to other people. If necessary he told to take paracetamol tablets. ECG was suggested. There was no waiting time in the hospital. I am totally fine now. He told to come after taking test, but I was not able to come. Hospitality was good. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-14 05:27:04",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandy"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1722820,
+            "status": "PUBLISHED",
+            "note": "2021-05-15 11:07:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-15T12:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42839021,
+                "review_text": "My father had heart related so went to hospital. ********* *** **** ** ******. After doing stunt we met Dr. Meeraji Rao D. I am satisfied with the explanation and treatment\u00a0given by the doctor. Medicine was prescribed by doctor during\u00a0consultation.\u00a0Angiogram was done. There was no waiting time in the hospital. He is recovering health wise. Infrastructure in Continental was good. He was very friendly.   \u00a0",
+                "review_alterations": [
+                    {
+                        "start_index": 48,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 345178
+                    }
+                ],
+                "reviewed_on": "2021-05-14 04:29:35",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rayapureddy Mallareddy"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1496480,
+            "status": "PUBLISHED",
+            "note": "2020-08-20 06:19:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-20T07:01:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41622011,
+                "review_text": "I had consulted the doctor for stomach related issue. ****** *** ***** I can recommend doctor to my family or friends. I am satisfied with the treatment given.  I am good now. Medicine was prescribed by the doctor for one week. There was less waiting time in the hospital. Diet was suggested by doctor and he explained well. *********** *** ***** ",
+                "review_alterations": [
+                    {
+                        "start_index": 54,
+                        "end_index": 69,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 285900
+                    },
+                    {
+                        "start_index": 325,
+                        "end_index": 345,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 285901
+                    }
+                ],
+                "reviewed_on": "2020-08-19 04:22:28",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raju"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 53,
+                "text": "Coronary Angioplasty / Bypass Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 989828,
+            "status": "PUBLISHED",
+            "note": "2018-10-04 12:50:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-04T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38388648,
+                "review_text": "my mother admitted in hospital due to hyper tension.****** *** **** **** **** ********* ** ** ****** the way he explained the problem  n solution it was great. he explained me the problem and gave confidence to our family . thank you very much sir and my mother with healthy and her blood pressure level became normal .*** *** ********* ** **** *** **** **** we are very much thank full to you.",
+                "review_alterations": [
+                    {
+                        "start_index": 52,
+                        "end_index": 99,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 133135
+                    },
+                    {
+                        "start_index": 319,
+                        "end_index": 357,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 133136
+                    }
+                ],
+                "reviewed_on": "2018-10-03 06:06:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "y.chandra renuka"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1722844,
+            "status": "PUBLISHED",
+            "note": "2021-05-15 11:09:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-15T12:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42839124,
+                "review_text": "I had health issue so went to hospital. Consultation was fine by the doctor. I am satisfied with the explanation and treatment\u00a0given by the doctor. BP tablets was suggested. I took reports with me. ECG was done. Doctor was friendly. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-14 04:39:20",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tkirankumar"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1699832,
+            "status": "PUBLISHED",
+            "note": "2021-04-16 08:54:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-16T09:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42713354,
+                "review_text": "Very experienced and patient friendly doctor. He has gone through my previous medical history patiently and suggested tests. I am very much satisfied with his treatment. Thank you doctor and thank you Continental hospital ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-15 08:31:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "M Fazlur Rahman"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 51,
+                "text": "Carotid Angioplasty And Stenting"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2167929,
+            "status": "PUBLISHED",
+            "note": "2023-03-16 11:56:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-16T12:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45398430,
+                "review_text": "Dear Dr. Meeraji Rao, \nI wanted to take a moment to express my heartfelt appreciation for the exceptional care and attention you provided me during my recent medical treatment. Your kindness, professionalism, and expertise have been a tremendous source of comfort to me and my family.\nYour willingness to go above and beyond the call of duty to ensure our well-being was truly remarkable, and it gave us the strength to endure a difficult time. Your skillful diagnosis and treatment, as well as your reassuring presence, were a source of comfort and hope for us.\nYour thoughtful approach to my health concerns, your clear explanations of the medical procedures, and your willingness to answer all my questions have been invaluable. Your dedication to your patients and your commitment to excellence are truly admirable.\nI feel incredibly fortunate to have had you as my doctor, and I cannot thank you enough for all that you have done for me. Your compassion and kindness have made a significant difference in my recovery, and I will always be grateful for the exceptional care you provided.\nThank you again for your outstanding service and for being such an incredible healthcare professional. You truly are a credit to your profession, and I will always recommend you to anyone in need of medical care.\nWe wish you all the best in your future endeavors.\nRegards\nVamsee Vangaveti \n(V.S.R Murthy & Family) \n\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-15 11:09:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vamsee"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1508266,
+            "status": "PUBLISHED",
+            "note": "2020-09-02 08:48:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-02T09:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41682217,
+                "review_text": "My in-law had met the doctor and it was for health problem. Doctor was **** ************* *** experienced. He explained issue well in simple terms. He comforted us properly and gave proper guidance. I can recommend doctor to my family or friends. He is very nice doctor. BP was checked. Medicine was prescribed by the doctor. Patient is better now. There was no waiting time in the hospital.  Hospitality was very good, it was much better than other hospitals. It was high blood pressure. Doctor told to walk for 30 minutes and diet changes was suggested. We went with reports, blood sample reports and he identified problem. He understood problem as he is experienced.",
+                "review_alterations": [
+                    {
+                        "start_index": 71,
+                        "end_index": 92,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 289594
+                    }
+                ],
+                "reviewed_on": "2020-09-01 04:08:51",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sunil"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1763913,
+            "status": "PUBLISHED",
+            "note": "2021-07-02 05:07:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-02T06:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43059517,
+                "review_text": "I had met the doctor and it was for health problem. Consultation went well. He is our family doctor and senior person. I would like to recommend the doctor to many people. There was no waiting time in the hospital. It was for 15 minutes. I went for suggestions. Reports was checked. Washroom was not maintained properly in hospital. In parking space it's completely dark as I was unable to find my vehicle. Doctor service is good.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-30 14:37:07",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shravan Kumar"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1453608,
+            "status": "PUBLISHED",
+            "note": "2020-06-27 04:02:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-27T05:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41406278,
+                "review_text": "I visited the doctor. I am not satisfied with the doctor and doctor treatment, ******* ** **** *** ********** *** ****** There was not much waiting time. When it comes to improvement, everything was good and I wouldn't like to recommend this doctor to others.",
+                "review_alterations": [
+                    {
+                        "start_index": 79,
+                        "end_index": 120,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 273065
+                    }
+                ],
+                "reviewed_on": "2020-06-25 16:59:13",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nikhit Velagapudi"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1722908,
+            "status": "PUBLISHED",
+            "note": "2021-05-16 06:00:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-16T06:01:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42839381,
+                "review_text": "I had consulted the doctor and it was for heart related. Consultation was very good by the doctor. I would like to recommend the doctor to other people. If necessary he told to take paracetamol tablets. ECG was suggested. There was no waiting time in the hospital. I am totally fine now. He told to come after taking test, but I was not able to come. Hospitality was good. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-14 05:27:04",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandy"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1722820,
+            "status": "PUBLISHED",
+            "note": "2021-05-15 11:07:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-15T12:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42839021,
+                "review_text": "My father had heart related so went to hospital. ********* *** **** ** ******. After doing stunt we met Dr. Meeraji Rao D. I am satisfied with the explanation and treatment\u00a0given by the doctor. Medicine was prescribed by doctor during\u00a0consultation.\u00a0Angiogram was done. There was no waiting time in the hospital. He is recovering health wise. Infrastructure in Continental was good. He was very friendly.   \u00a0",
+                "review_alterations": [
+                    {
+                        "start_index": 48,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 345178
+                    }
+                ],
+                "reviewed_on": "2021-05-14 04:29:35",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rayapureddy Mallareddy"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1496480,
+            "status": "PUBLISHED",
+            "note": "2020-08-20 06:19:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-20T07:01:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41622011,
+                "review_text": "I had consulted the doctor for stomach related issue. ****** *** ***** I can recommend doctor to my family or friends. I am satisfied with the treatment given.  I am good now. Medicine was prescribed by the doctor for one week. There was less waiting time in the hospital. Diet was suggested by doctor and he explained well. *********** *** ***** ",
+                "review_alterations": [
+                    {
+                        "start_index": 54,
+                        "end_index": 69,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 285900
+                    },
+                    {
+                        "start_index": 325,
+                        "end_index": 345,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 285901
+                    }
+                ],
+                "reviewed_on": "2020-08-19 04:22:28",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raju"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 53,
+                "text": "Coronary Angioplasty / Bypass Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 989828,
+            "status": "PUBLISHED",
+            "note": "2018-10-04 12:50:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-04T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38388648,
+                "review_text": "my mother admitted in hospital due to hyper tension.****** *** **** **** **** ********* ** ** ****** the way he explained the problem  n solution it was great. he explained me the problem and gave confidence to our family . thank you very much sir and my mother with healthy and her blood pressure level became normal .*** *** ********* ** **** *** **** **** we are very much thank full to you.",
+                "review_alterations": [
+                    {
+                        "start_index": 52,
+                        "end_index": 99,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 133135
+                    },
+                    {
+                        "start_index": 319,
+                        "end_index": 357,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 133136
+                    }
+                ],
+                "reviewed_on": "2018-10-03 06:06:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "y.chandra renuka"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1722844,
+            "status": "PUBLISHED",
+            "note": "2021-05-15 11:09:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-15T12:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42839124,
+                "review_text": "I had health issue so went to hospital. Consultation was fine by the doctor. I am satisfied with the explanation and treatment\u00a0given by the doctor. BP tablets was suggested. I took reports with me. ECG was done. Doctor was friendly. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-14 04:39:20",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tkirankumar"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1699832,
+            "status": "PUBLISHED",
+            "note": "2021-04-16 08:54:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368618,
+            "practice_id": 663465,
+            "practice_name": "Continental Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-16T09:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42713354,
+                "review_text": "Very experienced and patient friendly doctor. He has gone through my previous medical history patiently and suggested tests. I am very much satisfied with his treatment. Thank you doctor and thank you Continental hospital ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-15 08:31:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "M Fazlur Rahman"
+        },
+        "entity_id": 507326,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

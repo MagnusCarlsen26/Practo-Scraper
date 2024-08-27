@@ -1,0 +1,112 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 184125,
+                "text": "Uterus Removal Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1134202,
+            "status": "PUBLISHED",
+            "note": "2019-04-20 12:55:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 729033,
+            "practice_id": 1050287,
+            "practice_name": "Malar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-20T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39369017,
+                "review_text": "Alright everything ok.\nDoctor  explanation of treatment  method very nice.\nTotally we are full satisfaction.\nThankyou.",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-18 09:59:07",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Viji.S"
+        },
+        "entity_id": 672365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192685,
+                "text": "Gynaecological Problem"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1114767,
+            "status": "PUBLISHED",
+            "note": "2019-03-26 07:46:02",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 729033,
+            "practice_id": 1050287,
+            "practice_name": "Malar Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-26T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39244193,
+                "review_text": "A very friendly doctor! And her explanations were very good and simple. She cleared all my doubts and reassured me. I am fully satisfied with the treatment and would highly recommend this doctor to all. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-24 04:33:12",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Haripriya "
+        },
+        "entity_id": 672365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

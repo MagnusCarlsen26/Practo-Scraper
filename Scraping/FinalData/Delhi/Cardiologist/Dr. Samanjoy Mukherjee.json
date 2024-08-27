@@ -1,0 +1,206 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3591,
+                "text": "Coronary Angiography"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1140434,
+            "status": "PUBLISHED",
+            "note": "2019-04-27 12:03:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 558666,
+            "practice_id": 1123490,
+            "practice_name": "Pushpawati Singhania Research Institute (PSRI Hospital)",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-27T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39408368,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 63,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 171521
+                    }
+                ],
+                "reviewed_on": "2019-04-26 11:57:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 637432,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1151861,
+            "status": "PUBLISHED",
+            "note": "2019-05-14 05:52:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 558666,
+            "practice_id": 1123490,
+            "practice_name": "Pushpawati Singhania Research Institute (PSRI Hospital)",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-14T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39479759,
+                "review_text": "Confirmed appointment given through SMS and Email .  I came from Agra UP and paid consultation fee Rs 900 of Dr Mukherjee (27 year experience ) but Dr Mukherjee was out of station . Management shifted the consultation with Dr Avinash Verma ***** * **** *********** without my willing who charged the consultation fee Rs 700 only . But I paid Rs 900 , I feel bed experience.",
+                "review_alterations": [
+                    {
+                        "start_index": 239,
+                        "end_index": 264,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 175308
+                    }
+                ],
+                "reviewed_on": "2019-05-11 13:44:29",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 637432,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 183104,
+                "text": "Cardiac checkup - General"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1908859,
+            "status": "PUBLISHED",
+            "note": "2022-01-09 06:41:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 558666,
+            "practice_id": 1177288,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-09T07:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43917571,
+                "review_text": "Doctor timing is questionable, no one is ready to update on doctor timing and availability.\nWaiting is more and not satisfied.",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-08 05:34:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 698352,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 688528,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 558666,
+            "practice_id": 659526,
+            "practice_name": "Metro Hospitals & Heart Institute",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-26T12:27:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35713582,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-26 06:19:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "summit sharma"
+        },
+        "entity_id": 530329,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

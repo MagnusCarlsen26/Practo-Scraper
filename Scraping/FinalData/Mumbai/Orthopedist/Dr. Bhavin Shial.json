@@ -1,0 +1,1594 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2425170,
+            "status": "PUBLISHED",
+            "note": "2024-08-07 06:24:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-07T07:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46912390,
+                "review_text": "Dr Bhavin took the time to examine and understand my sister\u2019s issues, her pain levels etc. There was patience and kindness in his manner which put us at ease. Been advised some tests and will go back for the follow-up. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-08-05 14:56:44",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prachi Jain"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 9972,
+                "text": "Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2396811,
+            "status": "PUBLISHED",
+            "note": "2024-06-11 10:48:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-11T11:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46750328,
+                "review_text": "The doctor knows his area of expertise really well. He is friendly which is very important to ease out the patient. Asks a 100+ questions but that helps understand the problem from all possible areas\u2026hence the diagnosis is on point. Treatment- he keeps it fairly simple unless the problem is sinister. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-10 05:44:24",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1869478,
+            "status": "PUBLISHED",
+            "note": "2021-11-10 11:18:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-10T11:05:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 326178,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. We are happy that we could help you.",
+                "replied_at": "2021-11-10T11:05:53+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 43684424,
+                "review_text": "I had developed unbearable back pain some 6 months back and the pain started moving to my feet..it became impossible for me to use stairs or walk even for a short while..Even sitting had become difficult. I met couple of Spine surgeons in Mumbai who gave me like 10 mins of rushed consultation and charged exorbitant fees , told me its Sciatica and suggest injections. But the condition didn't improve and finally surgery was recommended. I came to know about Dr Bhavin from a relative. He gave us enough time to look and understand my condition and clear all my doubts. He also took out time to explain the same once again to my family. I was convinced that I have made the right choice and we went ahead with Dr Bhavin for my Spine surgery. We also would like to mention that he did the surgery at a very nominal cost at a premium hospital like Hinduja Khar. It came out to be half the cost what other doctors has quoted. And I was able to walk and got discharged in 2 days. His post operative care and Followup from his team is also excellent. ** ** *** **** ***** ******* ** ****** *** a Doctor who is there to genuinely care for you.",
+                "review_alterations": [
+                    {
+                        "start_index": 1047,
+                        "end_index": 1088,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 382797
+                    }
+                ],
+                "reviewed_on": "2021-11-09 10:50:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vaishnavi Khopkar"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1409178,
+            "status": "PUBLISHED",
+            "note": "2020-03-31 06:54:56",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-31T07:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 201486,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the review",
+                "replied_at": "2020-04-02T08:30:22+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41182266,
+                "review_text": "Dr Bhavin is very calm and good at explaining. I had come across his clinic when i searched online. I visited him as i was having severe neck pain. He suggested me to wear a cervical collar for few days at work which helped me to get better. In my follow up visit ,he also suggested me to correct my posture at work and raise the height of my laptop. He showed me some back strengthening exercise and to avoid some of the weight lifting exercise that i was doing. My pain was improved in a week's time. I would highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-29 13:44:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish Agarwal"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 2013,
+                "text": "Spine Injury"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2377217,
+            "status": "PUBLISHED",
+            "note": "2024-05-01 02:30:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-01T03:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46637652,
+                "review_text": "Just kept talking in laymen's terms but didn't even recommend one single thing to help. If I know what to do why would I use my time money *** ***** ** **** ** ***** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 139,
+                        "end_index": 169,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 485214
+                    }
+                ],
+                "reviewed_on": "2024-04-29 17:59:36",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Jyoti Jain"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1404909,
+            "status": "PUBLISHED",
+            "note": "2020-03-21 06:27:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 736430,
+            "practice_name": "Criticare Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-21T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 200165,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the review",
+                "replied_at": "2020-03-22T13:48:23+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41156511,
+                "review_text": "I was suffering from slipped disc  at L4-5 level having severe leg pain on my right side  and was very difficult to walk for a month... I was reffered to Dr Bhavin Shial he examined and explained to me about my condition  after a detailed dicussion of various alternative Surgical &  nonsurgical treatment options.. I decided to undergo SURGERY\nDr Bhavin Shial performed a minimally invasive microscopic lumbar discectomy ..\nI was immediately painfree and able to walk normally the very same day dicharged the very next day..\nIt's been 3 yrs since the surgery  doing all regular work since then & scar is hardly noticeable.\nI would highly recommend him .\nHe's very professional and impressed with his   treatment decisions depending on  patient needs..",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-19 15:00:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shilpa Jain"
+        },
+        "entity_id": 653034,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1403839,
+            "status": "PUBLISHED",
+            "note": "2020-03-20 05:48:41",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-19T17:36:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 199717,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the review",
+                "replied_at": "2020-03-19T17:36:55+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41150150,
+                "review_text": "I own a plywood store and my work involves a lot of lifting weights. For past 3 to 4 months, I had very bad lower back pain. I met Dr Bhavin Shial and after checking my reports we realised that my condition is a bit severe . We first tried medicines to get the pain in control and later he suggested me pain reducing injection which is injected in the spine. Within a day itself I felt much better after the injections. Now to maintain my back condition I am following the exercise suggested by him. I am very satisfied with his way of treatment",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-18 13:34:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vinod Tiwari"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1400307,
+            "status": "PUBLISHED",
+            "note": "2020-03-17 09:02:56",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1112889,
+            "practice_name": "Criti Care Multi Speciality Hospital & Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-16T11:18:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 198774,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your review",
+                "replied_at": "2020-03-16T11:18:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41128181,
+                "review_text": "My father (65 years) was having back problem due to which he could not walk and was facing lot of pain and weakness in the leg and was diagnosed with slipped disc. He was suggested spine surgery. We consulted Dr Bhavin Shial for 2nd opinion and he suggested that we can try with Rest & Physiotherapy for some time before going ahead with Surgery. My father was able to walk painfree within a week with his guidance and could manage to avoid surgery. His advice was really helpful.\n\nDr Bhavin Shial gives an honest opinion and understands the suffering of his patients.\n\nI strongly recommend him for any Spine related problems.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-14 17:01:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Payal Ashar "
+        },
+        "entity_id": 168836,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1397685,
+            "status": "PUBLISHED",
+            "note": "2020-03-13 12:55:15",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-12T16:28:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 198286,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Ekta for reviewing us",
+                "replied_at": "2020-03-12T16:28:46+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41111836,
+                "review_text": "I have long working hours in a seated position. Due to my work posture i had developed sharp pain in my neck moving all the way to my right hand.\nI visited Dr Bhavin Shial on my family doctor's recommendation. He explained about the whole spine and the cause of my neck pain. He suggested rest for 2 days and followed it with posture correction at work. My started using laptop stand so that i didnt have to bend my neck and which made a lot of difference. I follow the exercise suggested by him and I am feeling at lot better. Will highly recommend Dr Bhavin Shial",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-12 12:18:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ekta"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1621291,
+            "status": "PUBLISHED",
+            "note": "2021-01-16 06:03:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-16T07:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 295450,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words",
+                "replied_at": "2021-06-21T08:01:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 42281758,
+                "review_text": "*** ****** ** * **** ******* *** ** very friendly with the patients.\nHe listened to everything I had to say, unlike other doctors , we spoke for almost an hour. He heard all the history and issues before even touching the reports. We explained everything in a very clear and easy language. \nIt was a pleaser to have met Dr. Bhavin. Thanks",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 35,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 320375
+                    }
+                ],
+                "reviewed_on": "2021-01-13 17:37:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhijeet Khedgikar"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2425170,
+            "status": "PUBLISHED",
+            "note": "2024-08-07 06:24:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-07T07:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46912390,
+                "review_text": "Dr Bhavin took the time to examine and understand my sister\u2019s issues, her pain levels etc. There was patience and kindness in his manner which put us at ease. Been advised some tests and will go back for the follow-up. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-08-05 14:56:44",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prachi Jain"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 9972,
+                "text": "Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2396811,
+            "status": "PUBLISHED",
+            "note": "2024-06-11 10:48:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-11T11:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46750328,
+                "review_text": "The doctor knows his area of expertise really well. He is friendly which is very important to ease out the patient. Asks a 100+ questions but that helps understand the problem from all possible areas\u2026hence the diagnosis is on point. Treatment- he keeps it fairly simple unless the problem is sinister. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-10 05:44:24",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1869478,
+            "status": "PUBLISHED",
+            "note": "2021-11-10 11:18:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-10T11:05:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 326178,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. We are happy that we could help you.",
+                "replied_at": "2021-11-10T11:05:53+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 43684424,
+                "review_text": "I had developed unbearable back pain some 6 months back and the pain started moving to my feet..it became impossible for me to use stairs or walk even for a short while..Even sitting had become difficult. I met couple of Spine surgeons in Mumbai who gave me like 10 mins of rushed consultation and charged exorbitant fees , told me its Sciatica and suggest injections. But the condition didn't improve and finally surgery was recommended. I came to know about Dr Bhavin from a relative. He gave us enough time to look and understand my condition and clear all my doubts. He also took out time to explain the same once again to my family. I was convinced that I have made the right choice and we went ahead with Dr Bhavin for my Spine surgery. We also would like to mention that he did the surgery at a very nominal cost at a premium hospital like Hinduja Khar. It came out to be half the cost what other doctors has quoted. And I was able to walk and got discharged in 2 days. His post operative care and Followup from his team is also excellent. ** ** *** **** ***** ******* ** ****** *** a Doctor who is there to genuinely care for you.",
+                "review_alterations": [
+                    {
+                        "start_index": 1047,
+                        "end_index": 1088,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 382797
+                    }
+                ],
+                "reviewed_on": "2021-11-09 10:50:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vaishnavi Khopkar"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1409178,
+            "status": "PUBLISHED",
+            "note": "2020-03-31 06:54:56",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-31T07:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 201486,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the review",
+                "replied_at": "2020-04-02T08:30:22+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41182266,
+                "review_text": "Dr Bhavin is very calm and good at explaining. I had come across his clinic when i searched online. I visited him as i was having severe neck pain. He suggested me to wear a cervical collar for few days at work which helped me to get better. In my follow up visit ,he also suggested me to correct my posture at work and raise the height of my laptop. He showed me some back strengthening exercise and to avoid some of the weight lifting exercise that i was doing. My pain was improved in a week's time. I would highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-29 13:44:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish Agarwal"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 2013,
+                "text": "Spine Injury"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2377217,
+            "status": "PUBLISHED",
+            "note": "2024-05-01 02:30:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-01T03:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46637652,
+                "review_text": "Just kept talking in laymen's terms but didn't even recommend one single thing to help. If I know what to do why would I use my time money *** ***** ** **** ** ***** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 139,
+                        "end_index": 169,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 485214
+                    }
+                ],
+                "reviewed_on": "2024-04-29 17:59:36",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Jyoti Jain"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1404909,
+            "status": "PUBLISHED",
+            "note": "2020-03-21 06:27:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 736430,
+            "practice_name": "Criticare Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-21T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 200165,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the review",
+                "replied_at": "2020-03-22T13:48:23+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41156511,
+                "review_text": "I was suffering from slipped disc  at L4-5 level having severe leg pain on my right side  and was very difficult to walk for a month... I was reffered to Dr Bhavin Shial he examined and explained to me about my condition  after a detailed dicussion of various alternative Surgical &  nonsurgical treatment options.. I decided to undergo SURGERY\nDr Bhavin Shial performed a minimally invasive microscopic lumbar discectomy ..\nI was immediately painfree and able to walk normally the very same day dicharged the very next day..\nIt's been 3 yrs since the surgery  doing all regular work since then & scar is hardly noticeable.\nI would highly recommend him .\nHe's very professional and impressed with his   treatment decisions depending on  patient needs..",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-19 15:00:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shilpa Jain"
+        },
+        "entity_id": 653034,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1403839,
+            "status": "PUBLISHED",
+            "note": "2020-03-20 05:48:41",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-19T17:36:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 199717,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the review",
+                "replied_at": "2020-03-19T17:36:55+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41150150,
+                "review_text": "I own a plywood store and my work involves a lot of lifting weights. For past 3 to 4 months, I had very bad lower back pain. I met Dr Bhavin Shial and after checking my reports we realised that my condition is a bit severe . We first tried medicines to get the pain in control and later he suggested me pain reducing injection which is injected in the spine. Within a day itself I felt much better after the injections. Now to maintain my back condition I am following the exercise suggested by him. I am very satisfied with his way of treatment",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-18 13:34:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vinod Tiwari"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1400307,
+            "status": "PUBLISHED",
+            "note": "2020-03-17 09:02:56",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1112889,
+            "practice_name": "Criti Care Multi Speciality Hospital & Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-16T11:18:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 198774,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your review",
+                "replied_at": "2020-03-16T11:18:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41128181,
+                "review_text": "My father (65 years) was having back problem due to which he could not walk and was facing lot of pain and weakness in the leg and was diagnosed with slipped disc. He was suggested spine surgery. We consulted Dr Bhavin Shial for 2nd opinion and he suggested that we can try with Rest & Physiotherapy for some time before going ahead with Surgery. My father was able to walk painfree within a week with his guidance and could manage to avoid surgery. His advice was really helpful.\n\nDr Bhavin Shial gives an honest opinion and understands the suffering of his patients.\n\nI strongly recommend him for any Spine related problems.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-14 17:01:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Payal Ashar "
+        },
+        "entity_id": 168836,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1397685,
+            "status": "PUBLISHED",
+            "note": "2020-03-13 12:55:15",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-12T16:28:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 198286,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Ekta for reviewing us",
+                "replied_at": "2020-03-12T16:28:46+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41111836,
+                "review_text": "I have long working hours in a seated position. Due to my work posture i had developed sharp pain in my neck moving all the way to my right hand.\nI visited Dr Bhavin Shial on my family doctor's recommendation. He explained about the whole spine and the cause of my neck pain. He suggested rest for 2 days and followed it with posture correction at work. My started using laptop stand so that i didnt have to bend my neck and which made a lot of difference. I follow the exercise suggested by him and I am feeling at lot better. Will highly recommend Dr Bhavin Shial",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-12 12:18:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ekta"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1621291,
+            "status": "PUBLISHED",
+            "note": "2021-01-16 06:03:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-16T07:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 295450,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words",
+                "replied_at": "2021-06-21T08:01:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 42281758,
+                "review_text": "*** ****** ** * **** ******* *** ** very friendly with the patients.\nHe listened to everything I had to say, unlike other doctors , we spoke for almost an hour. He heard all the history and issues before even touching the reports. We explained everything in a very clear and easy language. \nIt was a pleaser to have met Dr. Bhavin. Thanks",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 35,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 320375
+                    }
+                ],
+                "reviewed_on": "2021-01-13 17:37:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhijeet Khedgikar"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Spinal Therapy"
+            },
+            {
+                "id": 926,
+                "text": "Spine Mobilization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1586116,
+            "status": "PUBLISHED",
+            "note": "2020-12-02 05:19:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-01T13:15:10+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 251388,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your review. We are happy that we could help.",
+                "replied_at": "2020-12-01T13:15:10+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 42095075,
+                "review_text": "I'm super happy with my appointment with doctor Bhavin. He patiently listened about my problem. Explained the treatment in detail. Felt no rush. 5 stars for cleanliness, location and waiting time.\nJust one friendly advice, you might face difficulty in parking your vehicle so do take cab or a driver. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-30 15:14:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nitanshi"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186426,
+                "text": "Sprain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1527301,
+            "status": "PUBLISHED",
+            "note": "2020-09-22 07:28:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-22T05:13:31+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 235181,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for reviewing us.",
+                "replied_at": "2020-09-22T05:13:31+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41780955,
+                "review_text": "My wife was having shoulder and hand discomfort for which we went to Dr Bhavin. He was very friendly and gave us more than enough time. He discussed problem thoroughly and his advised treatment was minimal medicines and more about life style and experience. Highly recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-20 06:38:08",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anshul"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1489227,
+            "status": "PUBLISHED",
+            "note": "2020-08-12 06:45:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-12T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 227533,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words. ",
+                "replied_at": "2020-08-26T05:51:54+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41585407,
+                "review_text": "I consulted for Neck (Cervical) and Shoulder ache over an online consultation. He was prompt over the chat did not have to wait for him.  He is friendly and makes the patient comfortable and very well versed with his specialty. \nHe understood the problem and gave appropriate solutions.  Surely Thumbs Up to him. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-10 08:46:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gayatri Guliani "
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1410324,
+            "status": "PUBLISHED",
+            "note": "2020-04-03 05:59:13",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-03T06:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41188958,
+                "review_text": "Dr Bhavin Shial is an aboslute gem of a person. He cured my mother who was suffering from spondylitis for 2 years now. ** ****** ** *** **** ***** ********** * **** **** ******* He managed to make my mother all well in just 2 months without any surgery. I wished we had visited him earlier. I would super recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 119,
+                        "end_index": 176,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 260414
+                    }
+                ],
+                "reviewed_on": "2020-04-02 03:20:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanka Ghosh"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1409680,
+            "status": "PUBLISHED",
+            "note": "2020-04-01 05:51:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-01T06:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 201487,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for the review",
+                "replied_at": "2020-04-02T08:30:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41185249,
+                "review_text": "I was having slip disc pain since couple of months and the pain made me unable to do my day to day activities and i was not even able to get out of bed. I was scared that I will have to undergo a spine surgery. I approached spine specialist Dr Bhavin Shial at his Andheri clinic. He was very helpful and gave me good advice. He cured me without surgery and now i am able to go back to normal routine. Thanks doctor for the quick recovery.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-31 05:30:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "kalpita bhirud"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1399902,
+            "status": "PUBLISHED",
+            "note": "2020-03-17 09:03:29",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-16T11:17:24+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 198772,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your review",
+                "replied_at": "2020-03-16T11:17:24+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41125685,
+                "review_text": "I had approached Dr Bhavin Shial for my mother who had back pain. He diagnosed the condition that due to osteoporosis her spine bones have become weak. He suggested to start the treatment with medicines and epidural injections and if need be we would later on go for surgery only if required. My mother has been feeling very well now and is very satisfied with the treatment. I would highly recommend her.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-14 12:57:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Zeel Lagdiwala"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1399518,
+            "status": "PUBLISHED",
+            "note": "2020-03-15 07:49:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-14T08:05:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 198516,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for reviewing us.",
+                "replied_at": "2020-03-14T08:05:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41123171,
+                "review_text": "I had visited Dr Bhavin Shial for my father. He had a severe back pain and was suggested surgery by some other doctor.  We went to meet Dr Bhavin for a 2nd opinion. He explained the condition very properly to me and my father.  He suggested him medicines and exercises after whichever my father is back to normal. We are very happy with his consultation and are thankful to him.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-14 07:16:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shail Doshi"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1410220,
+            "status": "PUBLISHED",
+            "note": "2020-04-03 04:55:20",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-03T05:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41188326,
+                "review_text": "My father was suffering from Spinal stenosis. We approached a couple of doctors who suggested that surgery would be needed post which my father would have to do a 3 to 4 months bed rest. We met Dr Bhavin Shial by the recommendation of our family doctor. We initially feared with the idea of surgery, but Dr Bhavin patiently explained to us why it was needed in our case and what all activities he would not be able to do if surgery is avoided. He recommended us Minimally invasive spine surgery which would ensure early recovery. The surgery was done in a very budget cost and my father was able to walk in just 3 days and he could resume most of his activities within 10 days of surgery. Infact he resumed office in 2 weeks. The entire period of recovery was handled very well by Dr Bhavin and he and his team was always available.\nWe are extremely happy with the outcome and feel he is the best spine specialist we could have asked for.",
+                "review_alterations": [],
+                "reviewed_on": "2020-04-01 14:48:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1400167,
+            "status": "PUBLISHED",
+            "note": "2020-03-17 09:03:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-16T11:17:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 198773,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your review ",
+                "replied_at": "2020-03-16T11:17:41+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 41127209,
+                "review_text": "My uncle aged 76 years old was operated by Dr Bhavin Shial for spondylolisthesis. He had very weak spine due to old age. The doctor first explained us the problem and suggested to try epidural injection and rest. After a couple of weeks the pain still persisted making daily activities like walking and sitting difficult. Doctor then recommended  us for an operation and explained us the whole procedure. He was very much helpful to get over the fear of surgery by explaining all our queries regarding the operation  and post surgery care to be taken . \nWe just celebrated his 77th birthday last month .\n\nWe really appreciate his care and professionalism",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-14 15:03:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 2013,
+                "text": "Spine Injury"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2133242,
+            "status": "PUBLISHED",
+            "note": "2023-01-14 06:33:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 694151,
+            "practice_id": 1261186,
+            "practice_name": "Spine & Sports Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-14T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 402503,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words",
+                "replied_at": "2023-03-23T09:32:27+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4797083,
+                "modified_by_id": 4797083,
+                "replier_name": "Dr. Bhavin Shial",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/694151/dr-bhavin-shial-5d2dc8bd8a5e3.jpg"
+            },
+            "survey_response": {
+                "id": 45199761,
+                "review_text": "Dr. Bhavin was patient, friendly and explained the issue with the discomfort very well. Would definitely recommend for spinal treatment . Thanks, doc. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-12 16:40:44",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nilofer Shaikh"
+        },
+        "entity_id": 685235,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

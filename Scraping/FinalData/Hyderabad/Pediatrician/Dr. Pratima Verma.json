@@ -1,0 +1,980 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2305323,
+            "status": "PUBLISHED",
+            "note": "2023-12-12 05:07:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-12T06:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46226183,
+                "review_text": "**** **** ****** *** examines patients in very detailed way. Have lot of patience and listens to all your problems carefully. Provides best treatment. Also easily reachable any time in case of any emergency care/suggestions needed.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 474803
+                    }
+                ],
+                "reviewed_on": "2023-12-09 13:20:22",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kosuri Pradeep"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1988654,
+            "status": "PUBLISHED",
+            "note": "2022-05-10 12:15:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-10T13:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44366409,
+                "review_text": "Dr. Pratima hears the problem patiently and examines the child with patience. The medicines worked for my son.\nEven she is helping me to cover up the missing vaccines",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-09 12:11:42",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chandan Sharma"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1925545,
+            "status": "PUBLISHED",
+            "note": "2022-02-03 06:25:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-03T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44017681,
+                "review_text": "Doctor is very friendly and answered all my doubts \nI have received very fast replies in the chat window as well ",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-02 05:04:26",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "pallavi"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1924635,
+            "status": "PUBLISHED",
+            "note": "2022-02-02 05:42:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-02T06:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44012633,
+                "review_text": "Highly recommend  the doctor ....she is very calm and listens  thoroughly to all ur problems ....\nOne of the best pediatric  doctor \n",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-31 16:47:29",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Meghana Badiger."
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1848742,
+            "status": "PUBLISHED",
+            "note": "2021-10-10 06:54:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-10T07:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43554765,
+                "review_text": "To start with clinic premises are clean and very hygiene.\nDoctor is very patient and listened to us and explained us in detail.\nShe is very friendly with the kid and helped him feel comfortable.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-09 05:50:48",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mahesh"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1816656,
+            "status": "PUBLISHED",
+            "note": "2021-09-01 09:37:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-01T10:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43357345,
+                "review_text": "**** **** ******, detailed examination of baby no rush and she takes time to explain each and everything in detail.Very professional and caring and proactive intimation for follow-up checkups.Highly recommended..",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 369672
+                    }
+                ],
+                "reviewed_on": "2021-08-31 09:36:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bharath"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1754067,
+            "status": "PUBLISHED",
+            "note": "2021-06-20 07:43:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-20T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43004919,
+                "review_text": "Very friendly and explains the issue very clearly.She do very good follow-up during the course and also suggests what is good for kids.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-19 07:40:51",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Siva Ponnada"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1639142,
+            "status": "PUBLISHED",
+            "note": "2021-02-06 06:36:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-06T07:05:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42379049,
+                "review_text": "Dr Prathima was very friendly and experienced. I found the clinic neat and well established. My experience was pleasant",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-05 06:22:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mamata"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1639130,
+            "status": "PUBLISHED",
+            "note": "2021-02-06 06:33:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-06T07:05:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42378983,
+                "review_text": "Definitely recommend Dr Prathima Verma, i appreciate her patience with which she handled my child. Appointment was on dot without delay.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-05 06:10:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Srinivas"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1638290,
+            "status": "PUBLISHED",
+            "note": "2021-02-05 06:05:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-05T07:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42373997,
+                "review_text": "Dr.Pratima is very friendly and she gave good treatment plan and reassurance to my neice who was the patient. She listened and addressed our concerns patiently. We will definitely recommend her to our relatives and friends.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-04 05:30:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akhila Parimishetti"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2305323,
+            "status": "PUBLISHED",
+            "note": "2023-12-12 05:07:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-12T06:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46226183,
+                "review_text": "**** **** ****** *** examines patients in very detailed way. Have lot of patience and listens to all your problems carefully. Provides best treatment. Also easily reachable any time in case of any emergency care/suggestions needed.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 474803
+                    }
+                ],
+                "reviewed_on": "2023-12-09 13:20:22",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kosuri Pradeep"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1988654,
+            "status": "PUBLISHED",
+            "note": "2022-05-10 12:15:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-10T13:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44366409,
+                "review_text": "Dr. Pratima hears the problem patiently and examines the child with patience. The medicines worked for my son.\nEven she is helping me to cover up the missing vaccines",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-09 12:11:42",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chandan Sharma"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1925545,
+            "status": "PUBLISHED",
+            "note": "2022-02-03 06:25:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-03T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44017681,
+                "review_text": "Doctor is very friendly and answered all my doubts \nI have received very fast replies in the chat window as well ",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-02 05:04:26",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "pallavi"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1924635,
+            "status": "PUBLISHED",
+            "note": "2022-02-02 05:42:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-02T06:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44012633,
+                "review_text": "Highly recommend  the doctor ....she is very calm and listens  thoroughly to all ur problems ....\nOne of the best pediatric  doctor \n",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-31 16:47:29",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Meghana Badiger."
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1848742,
+            "status": "PUBLISHED",
+            "note": "2021-10-10 06:54:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-10T07:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43554765,
+                "review_text": "To start with clinic premises are clean and very hygiene.\nDoctor is very patient and listened to us and explained us in detail.\nShe is very friendly with the kid and helped him feel comfortable.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-09 05:50:48",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mahesh"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1816656,
+            "status": "PUBLISHED",
+            "note": "2021-09-01 09:37:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-01T10:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43357345,
+                "review_text": "**** **** ******, detailed examination of baby no rush and she takes time to explain each and everything in detail.Very professional and caring and proactive intimation for follow-up checkups.Highly recommended..",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 369672
+                    }
+                ],
+                "reviewed_on": "2021-08-31 09:36:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bharath"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1754067,
+            "status": "PUBLISHED",
+            "note": "2021-06-20 07:43:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-20T08:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43004919,
+                "review_text": "Very friendly and explains the issue very clearly.She do very good follow-up during the course and also suggests what is good for kids.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-19 07:40:51",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Siva Ponnada"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1639142,
+            "status": "PUBLISHED",
+            "note": "2021-02-06 06:36:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-06T07:05:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42379049,
+                "review_text": "Dr Prathima was very friendly and experienced. I found the clinic neat and well established. My experience was pleasant",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-05 06:22:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mamata"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1639130,
+            "status": "PUBLISHED",
+            "note": "2021-02-06 06:33:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-06T07:05:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42378983,
+                "review_text": "Definitely recommend Dr Prathima Verma, i appreciate her patience with which she handled my child. Appointment was on dot without delay.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-05 06:10:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Srinivas"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1638290,
+            "status": "PUBLISHED",
+            "note": "2021-02-05 06:05:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 720862,
+            "practice_id": 1319998,
+            "practice_name": "Pravas Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-05T07:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42373997,
+                "review_text": "Dr.Pratima is very friendly and she gave good treatment plan and reassurance to my neice who was the patient. She listened and addressed our concerns patiently. We will definitely recommend her to our relatives and friends.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-04 05:30:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akhila Parimishetti"
+        },
+        "entity_id": 750106,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

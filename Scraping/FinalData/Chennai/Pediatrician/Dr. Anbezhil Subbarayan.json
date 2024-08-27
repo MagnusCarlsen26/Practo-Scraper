@@ -1,0 +1,410 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 905961,
+            "status": "PUBLISHED",
+            "note": "2018-06-24 05:55:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 381071,
+            "practice_id": 1105463,
+            "practice_name": "Kids N Teens  Child Speciality Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-24T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37723864,
+                "review_text": "Highly professional and excellent treatment. ********* ********* *** more importantly explains it clearly to us with a lot of patience which gives us a lot of clarity and assurance. Has always given us simple and perfect advice to keep our child healthy. Fortunate to get the treatment and advise from him for my kid. The best thing is that we get the treatment from such a highly qualified specialist at a very reasonable price at this clinic as there are no overheads of a big hospital. Thank you so much Sir.",
+                "review_alterations": [
+                    {
+                        "start_index": 45,
+                        "end_index": 67,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 113946
+                    }
+                ],
+                "reviewed_on": "2018-06-22 17:24:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510493,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 799284,
+            "status": "PUBLISHED",
+            "note": "2018-02-21 10:13:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 381071,
+            "practice_id": 1105463,
+            "practice_name": "Kids N Teens  Child Speciality Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-20T14:52:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 69734,
+                "reply_status": "PUBLISHED",
+                "reply_text": "THANK YOU VERY MUCH FOR YOUR NICE FEEDBACK",
+                "replied_at": "2018-02-20T14:52:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 907427,
+                "modified_by_id": 907427,
+                "replier_name": "Dr. Anbezhil Subbarayan",
+                "replier_logo": "https://images1-fabric.practo.com/dr-anbezhil-subbarayan-1470043869-579f16dd468c3.jpg"
+            },
+            "survey_response": {
+                "id": 36789698,
+                "review_text": "Very nice doctor *** ********* ********** I am very happy to have found a good paediatrician in Chennai near to my residence. ",
+                "review_alterations": [
+                    {
+                        "start_index": 17,
+                        "end_index": 40,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 92529
+                    }
+                ],
+                "reviewed_on": "2018-02-18 04:53:04",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "mrs. gayathri"
+        },
+        "entity_id": 510493,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1022229,
+            "status": "PUBLISHED",
+            "note": "2018-11-20 11:39:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 381071,
+            "practice_id": 1105463,
+            "practice_name": "Kids N Teens  Child Speciality Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-20T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38619626,
+                "review_text": "Very good consultant and gave needed prescriptions. Gave vaccination for the child too. Observation on child is good.",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-18 08:31:35",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510493,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            },
+            {
+                "id": 193086,
+                "text": "health checkup general"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 879944,
+            "status": "PUBLISHED",
+            "note": "2018-05-23 08:53:39",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 381071,
+            "practice_id": 1105463,
+            "practice_name": "Kids N Teens  Child Speciality Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-23T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 85660,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much for your compliments. We will continue to provide excellent care.",
+                "replied_at": "2018-05-23T12:26:19+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 907427,
+                "modified_by_id": 907427,
+                "replier_name": "Dr. Anbezhil Subbarayan",
+                "replier_logo": "https://images1-fabric.practo.com/dr-anbezhil-subbarayan-1470043869-579f16dd468c3.jpg"
+            },
+            "survey_response": {
+                "id": 37508077,
+                "review_text": "Very good doctor. Very friendly. Explains well about the checkup and follow ups. Reasonable pricing. Very satisfied ",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-21 13:38:51",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510493,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 794809,
+            "status": "PUBLISHED",
+            "note": "2018-02-15 11:02:24",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 381071,
+            "practice_id": 1105463,
+            "practice_name": "Kids N Teens  Child Speciality Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-14T14:12:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 68592,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much for your nice feedback. We will continue to provide excellent care.",
+                "replied_at": "2018-02-14T14:12:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 907427,
+                "modified_by_id": 907427,
+                "replier_name": "Dr. Anbezhil Subbarayan",
+                "replier_logo": "https://images1-fabric.practo.com/dr-anbezhil-subbarayan-1470043869-579f16dd468c3.jpg"
+            },
+            "survey_response": {
+                "id": 36748323,
+                "review_text": "Very excellent tretment. Doctor is very friendly and traeted my kid well. Kneee presciption doctor gave to us and sure i will recommend my frnds. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-13 04:23:48",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510493,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 748716,
+            "status": "PUBLISHED",
+            "note": "2017-12-19 06:31:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 381071,
+            "practice_id": 1105463,
+            "practice_name": "Kids N Teens  Child Speciality Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-18T13:38:22+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 60061,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much for your feedback. We will continue to provide good service for all our patients and their family.",
+                "replied_at": "2017-12-18T13:38:22+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 907427,
+                "modified_by_id": 907427,
+                "replier_name": "Dr. Anbezhil Subbarayan",
+                "replier_logo": "https://images1-fabric.practo.com/dr-anbezhil-subbarayan-1470043869-579f16dd468c3.jpg"
+            },
+            "survey_response": {
+                "id": 36302433,
+                "review_text": "My 10 months old son suddenly affected by meningitis, doctor immediately gave him first aid and admitted in the hospital. He is so friendly, explains everything with patience and I highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-13 15:00:53",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510493,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

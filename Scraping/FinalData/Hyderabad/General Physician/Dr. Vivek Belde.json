@@ -1,0 +1,1152 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 25664,
+                "text": "Medical Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2418442,
+            "status": "PUBLISHED",
+            "note": "2024-07-24 10:00:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-24T10:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46873963,
+                "review_text": "Doctor was good, but tests were costly. Staffs were not so cordial. Doctor is extremely polite and explained all pros and cons neatly. Every one will be cured visiting this doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-23 09:57:38",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 943333,
+            "status": "PUBLISHED",
+            "note": "2018-08-10 07:12:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 894463,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-10T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38037391,
+                "review_text": "\nDr. Vivek is a doctor who treats patients with a lot of courtesy, empathy and compassion. When he\u2019s treating me, it felt like I am his most important patient. The attention to detail that he provided in terms of my health issues is commendable. \n\nHe makes you feel very comfortable to share and discuss the underlying health problems and I am grateful to him *** *** ********* ********* ** ******** **. \n\nTaking the prescribed medications has improved my condition and health so much. Thank you so much doctor!\n",
+                "review_alterations": [
+                    {
+                        "start_index": 359,
+                        "end_index": 401,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 122645
+                    }
+                ],
+                "reviewed_on": "2018-08-08 17:39:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shahnaz Kakati"
+        },
+        "entity_id": 384557,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 814528,
+            "status": "PUBLISHED",
+            "note": "2018-03-09 13:21:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 894463,
+            "practice_name": "Apollo Clinic, S.R. Nagar",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-09T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36932026,
+                "review_text": "Dr.Vivek Belde is the most compassionate Doctor I have ever come across. A brilliant efficient and dedicated Doctor. Appreciate his patience to address all queries. Takes every effort to make you feel comfortable and goes that extra mile to make you smile. He makes sure to explain in detail the treatment offered. You can be rest assured that you are in safe hands. *** ** *** **** ********** ******* ** ***** Would definitely recommend Dr.Vivek Belde to everyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 367,
+                        "end_index": 410,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 95572
+                    }
+                ],
+                "reviewed_on": "2018-03-07 18:38:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aparna S"
+        },
+        "entity_id": 384557,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1403662,
+            "status": "PUBLISHED",
+            "note": "2020-03-19 11:05:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-19T12:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41149187,
+                "review_text": "** ***** ***** ** *** ** *** **** ** *** ***** I mean he\u2019s just exceptional in terms of treating people with his friendly behavior and always make sure to make you feel you\u2019re perfectly alright! \n\nWould definitely recommend all my friends and relatives.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 45,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 258313
+                    }
+                ],
+                "reviewed_on": "2020-03-18 11:03:14",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ananth Narayan Bhatt"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1359086,
+            "status": "PUBLISHED",
+            "note": "2020-02-05 07:47:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-05T08:01:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40858015,
+                "review_text": "Dr Vivek is a good listener and do not indulge in too much medication ..very knowledge and sensitive to patients ..Suggested to all my friends and some of them already consulted him for their issues .. Every one endorse my recommendation . Having a nice physician is also a big issue now a days .. Trust Dr Vivek gulde ..he is a nice with  knowledge and sensitive to patients .",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-03 12:34:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "srinivas"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101998,
+                "text": "Numbness and tingling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1325362,
+            "status": "PUBLISHED",
+            "note": "2019-12-29 05:30:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-29T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40610593,
+                "review_text": "***** *** **** ******, will rate 10/10, explained the problem very well.... full satisfied. Thanks doctor",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 20,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 232788
+                    }
+                ],
+                "reviewed_on": "2019-12-27 14:26:17",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gangadhar"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1288656,
+            "status": "PUBLISHED",
+            "note": "2019-11-13 05:30:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-13T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40356099,
+                "review_text": "***** *** ** *  **** **** ******* \nhe treated me as a family not as a patient, gives clear explanation with friendliness. Treatment is good. After visiting vivek sir you will be satisfy.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 32,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220602
+                    }
+                ],
+                "reviewed_on": "2019-11-11 16:01:14",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Allaysuchitra"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1669427,
+            "status": "PUBLISHED",
+            "note": "2021-03-11 07:53:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-11T08:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42544410,
+                "review_text": "It was a great experience all together. Dr Vivek Belde makes sure to listen very patiently and the level of comfort provide d is really very good. Thankyou so much.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-10 07:05:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1457521,
+            "status": "PUBLISHED",
+            "note": "2020-07-02 06:15:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-02T07:01:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41425950,
+                "review_text": "nice treatment thank you all appolo clinic staff  really  nice thank you doctor my problem was solved",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-01 04:45:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186442,
+                "text": "Wellness checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1384234,
+            "status": "PUBLISHED",
+            "note": "2020-02-29 10:24:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-29T11:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41029637,
+                "review_text": "I don't past interaction for the first time I met him and got good interaction. I felt long  waiting time.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-28 05:23:20",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 25664,
+                "text": "Medical Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2418442,
+            "status": "PUBLISHED",
+            "note": "2024-07-24 10:00:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-24T10:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46873963,
+                "review_text": "Doctor was good, but tests were costly. Staffs were not so cordial. Doctor is extremely polite and explained all pros and cons neatly. Every one will be cured visiting this doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-23 09:57:38",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 943333,
+            "status": "PUBLISHED",
+            "note": "2018-08-10 07:12:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 894463,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-10T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38037391,
+                "review_text": "\nDr. Vivek is a doctor who treats patients with a lot of courtesy, empathy and compassion. When he\u2019s treating me, it felt like I am his most important patient. The attention to detail that he provided in terms of my health issues is commendable. \n\nHe makes you feel very comfortable to share and discuss the underlying health problems and I am grateful to him *** *** ********* ********* ** ******** **. \n\nTaking the prescribed medications has improved my condition and health so much. Thank you so much doctor!\n",
+                "review_alterations": [
+                    {
+                        "start_index": 359,
+                        "end_index": 401,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 122645
+                    }
+                ],
+                "reviewed_on": "2018-08-08 17:39:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shahnaz Kakati"
+        },
+        "entity_id": 384557,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 814528,
+            "status": "PUBLISHED",
+            "note": "2018-03-09 13:21:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 894463,
+            "practice_name": "Apollo Clinic, S.R. Nagar",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-09T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36932026,
+                "review_text": "Dr.Vivek Belde is the most compassionate Doctor I have ever come across. A brilliant efficient and dedicated Doctor. Appreciate his patience to address all queries. Takes every effort to make you feel comfortable and goes that extra mile to make you smile. He makes sure to explain in detail the treatment offered. You can be rest assured that you are in safe hands. *** ** *** **** ********** ******* ** ***** Would definitely recommend Dr.Vivek Belde to everyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 367,
+                        "end_index": 410,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 95572
+                    }
+                ],
+                "reviewed_on": "2018-03-07 18:38:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aparna S"
+        },
+        "entity_id": 384557,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1403662,
+            "status": "PUBLISHED",
+            "note": "2020-03-19 11:05:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-19T12:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41149187,
+                "review_text": "** ***** ***** ** *** ** *** **** ** *** ***** I mean he\u2019s just exceptional in terms of treating people with his friendly behavior and always make sure to make you feel you\u2019re perfectly alright! \n\nWould definitely recommend all my friends and relatives.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 45,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 258313
+                    }
+                ],
+                "reviewed_on": "2020-03-18 11:03:14",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ananth Narayan Bhatt"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1359086,
+            "status": "PUBLISHED",
+            "note": "2020-02-05 07:47:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-05T08:01:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40858015,
+                "review_text": "Dr Vivek is a good listener and do not indulge in too much medication ..very knowledge and sensitive to patients ..Suggested to all my friends and some of them already consulted him for their issues .. Every one endorse my recommendation . Having a nice physician is also a big issue now a days .. Trust Dr Vivek gulde ..he is a nice with  knowledge and sensitive to patients .",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-03 12:34:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "srinivas"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101998,
+                "text": "Numbness and tingling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1325362,
+            "status": "PUBLISHED",
+            "note": "2019-12-29 05:30:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-29T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40610593,
+                "review_text": "***** *** **** ******, will rate 10/10, explained the problem very well.... full satisfied. Thanks doctor",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 20,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 232788
+                    }
+                ],
+                "reviewed_on": "2019-12-27 14:26:17",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gangadhar"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1288656,
+            "status": "PUBLISHED",
+            "note": "2019-11-13 05:30:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-13T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40356099,
+                "review_text": "***** *** ** *  **** **** ******* \nhe treated me as a family not as a patient, gives clear explanation with friendliness. Treatment is good. After visiting vivek sir you will be satisfy.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 32,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220602
+                    }
+                ],
+                "reviewed_on": "2019-11-11 16:01:14",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Allaysuchitra"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1669427,
+            "status": "PUBLISHED",
+            "note": "2021-03-11 07:53:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-11T08:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42544410,
+                "review_text": "It was a great experience all together. Dr Vivek Belde makes sure to listen very patiently and the level of comfort provide d is really very good. Thankyou so much.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-10 07:05:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1457521,
+            "status": "PUBLISHED",
+            "note": "2020-07-02 06:15:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-02T07:01:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41425950,
+                "review_text": "nice treatment thank you all appolo clinic staff  really  nice thank you doctor my problem was solved",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-01 04:45:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186442,
+                "text": "Wellness checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1384234,
+            "status": "PUBLISHED",
+            "note": "2020-02-29 10:24:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 449570,
+            "practice_id": 703528,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-29T11:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41029637,
+                "review_text": "I don't past interaction for the first time I met him and got good interaction. I felt long  waiting time.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-28 05:23:20",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671101,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2407885,
+            "status": "PUBLISHED",
+            "note": "2024-07-03 07:36:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 891272,
+            "practice_id": 1437406,
+            "practice_name": "Toothfully Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-03T08:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46813381,
+                "review_text": "Dr. Manasa very good and knowledgeable doctor . visited for root canal treatment . it was done painless in single sitting ...not much waiting time ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-01 15:12:55",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 878194,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2392849,
+            "status": "PUBLISHED",
+            "note": "2024-06-02 05:45:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 891272,
+            "practice_id": 1437406,
+            "practice_name": "Toothfully Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-01T09:50:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 450526,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thankyou",
+                "replied_at": "2024-06-01T09:50:55+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9141705,
+                "modified_by_id": 9141705,
+                "replier_name": "Dr. Sokkam Manasa",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/891272/ms-dr-sokkam-manasa-663cdf81d0b2d.jpg"
+            },
+            "survey_response": {
+                "id": 46727170,
+                "review_text": "Had a good experience with this hospital and especially Manasamam here.Diagnosis of the long standing issue was done accurately with the root canal treatment.Keep up the good work and i highly recommend this clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-31 19:01:20",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mokshartha "
+        },
+        "entity_id": 878194,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2284463,
+            "status": "PUBLISHED",
+            "note": "2023-10-31 04:58:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 913027,
+            "practice_id": 1324408,
+            "practice_name": "Aashirwad Hospital And Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-31T05:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46108364,
+                "review_text": "Diagnosis of Dr. Aditi is very accurate. Once I had terrible stomach pain, I had consulted a doctor who advised me for an ultrasound. I got the ultrasound done and  there was  nothing that came in ultrasound, The doctor had then prescribed me some medicine as they couldn't understand the problem. My  pain decreased a little bit, but still it was bothering me. Then I visited Dr. Aditi. She asked me in detail when , how and where pain started and now what kind of pain I am feeling. She pressed my stomach from different places and made questions about pain. She had her suspicions for apendix. However there was nothing in ultrasound. She advised me to get another ultrasound from a different place and then Appendix was diagnosed. I had consulted her for other health issues as well. She is so accurate about my problems. She reaches the root cause of the problem and mitigates it from there. Apart from the brilliant diagnosis, Dr. Aditi is very humble and polite. She doesn't only prescribe  medicine for pain relief but focuses more on a healthy routine and diet. She is very considerate with patients and gives enough time to listen to their problems and make them understand.  I highly recommend Dr. Aditi.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-28 12:39:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karuna"
+        },
+        "entity_id": 755476,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2311182,
+            "status": "PUBLISHED",
+            "note": "2023-12-21 06:51:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 913027,
+            "practice_id": 1324408,
+            "practice_name": "Aashirwad Hospital And Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-21T07:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46259206,
+                "review_text": "I would recommend to visit Doctor Aditi, very humble and nice behaviour, would only recommend relevant medication which is needed. Explained the treatment in layman language. She is active  to reply back post treatment as well for any consultation. Excellent treatment!!",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-20 06:35:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ayushi"
+        },
+        "entity_id": 755476,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

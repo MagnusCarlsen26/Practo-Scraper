@@ -1,0 +1,990 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1244111,
+            "status": "PUBLISHED",
+            "note": "2019-09-12 05:50:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-12T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40065204,
+                "review_text": "It was good. My mom was suffering from a chest infection, Since 2 months we are consulting him. He was listening to our problems, very much happy with the doctor's explanation, I would rate 10 out of 10. ** *** * **** **** ******* very empathetic, listened patiently, anticipating, very professional and he is very good.",
+                "review_alterations": [
+                    {
+                        "start_index": 204,
+                        "end_index": 229,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 206489
+                    }
+                ],
+                "reviewed_on": "2019-09-10 14:38:03",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Samreen"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2267055,
+            "status": "PUBLISHED",
+            "note": "2023-09-28 06:27:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-28T07:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46010166,
+                "review_text": "** **** *** ********** **** *** ********* **** ***** ***** * ***** ** * ****** *** ****** **** *******\nDoctor was very friendly and the explanation of the particular illnesses  of the patient is very impressive, specially  viral fevers. Doctor gave us strength . ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 101,
+                        "reason": "NON_COMPLIANT",
+                        "id": 469461
+                    }
+                ],
+                "reviewed_on": "2023-09-26 17:26:40",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2075302,
+            "status": "PUBLISHED",
+            "note": "2022-09-27 07:29:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-27T08:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44871205,
+                "review_text": "Dr. Rahul Gandhi is very empathetic. He understands the issue and does analysis comprehensively. He is very patient-friendly. One of the best physicians to go to  ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-26 07:05:35",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Smayan Adepu"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2321898,
+            "status": "PUBLISHED",
+            "note": "2024-01-09 12:10:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-09T13:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46320485,
+                "review_text": "Doctor was in hurry and didn't do the check up thoroughly. He quickly wrote the medicines and his job was done ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-08 12:08:40",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Gareema"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1748853,
+            "status": "PUBLISHED",
+            "note": "2021-06-15 07:09:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1165921,
+            "practice_name": "Safe Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-15T08:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42976172,
+                "review_text": "Good explanation, patient friendly, good interaction. Clarifications of different doubts and advises that is necessary.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-13 04:45:56",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "N Abid Ali Khan"
+        },
+        "entity_id": 608435,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1674948,
+            "status": "PUBLISHED",
+            "note": "2021-03-17 07:41:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-17T08:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42575350,
+                "review_text": "Covishield vaccination was given with atmost care and according to the guidelines.\nHospital was clean and higenic.\nHospital administration is very good.\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-16 07:34:10",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pranay"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1290855,
+            "status": "PUBLISHED",
+            "note": "2019-11-15 12:55:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-15T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40370374,
+                "review_text": "***** ******* I visited with my wife. he listened to us and mentioned about our reports. he explained  nicely. good job",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 13,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 221325
+                    }
+                ],
+                "reviewed_on": "2019-11-14 12:51:58",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Navratan Sharma"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1343535,
+            "status": "PUBLISHED",
+            "note": "2020-01-19 05:00:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1165921,
+            "practice_name": "Safe Health Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-19T05:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40739822,
+                "review_text": "I went to get idea about one week old knee wound.\nI was expecting Dr will take a look at the wound and probably some professional dressing will be provided.\n\nBut Dr. Didn't even open the bandage and look at the wound... I paid 580(consultation+ medicine).\n\nI felt for 300 rs Dr can at least look at t wound.\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-17 10:14:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 608435,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1257137,
+            "status": "PUBLISHED",
+            "note": "2019-09-28 05:32:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-28T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40149461,
+                "review_text": "The Consultation experience was very good. I had fever. I am satisfied with the explanation of the issue and I got well in 2 days after taking medicines. The doctor was very polite and behaviour was also good. I would recommend the doctor to my friends and family. The hospital facilities were good. The wait time was only 10 minutes. I liked everything there.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-26 16:20:53",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2257175,
+            "status": "PUBLISHED",
+            "note": "2023-09-06 06:52:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1165921,
+            "practice_name": "Safe Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-06T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45946143,
+                "review_text": "He is not only good doctor but really kind and reachable person such a well known doctor but still available to respond and advise in critical time.Thanks @Rahul sir for your advice and tritament for my wife Yamini she is recovering now.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-05 04:36:18",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 608435,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1244111,
+            "status": "PUBLISHED",
+            "note": "2019-09-12 05:50:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-12T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40065204,
+                "review_text": "It was good. My mom was suffering from a chest infection, Since 2 months we are consulting him. He was listening to our problems, very much happy with the doctor's explanation, I would rate 10 out of 10. ** *** * **** **** ******* very empathetic, listened patiently, anticipating, very professional and he is very good.",
+                "review_alterations": [
+                    {
+                        "start_index": 204,
+                        "end_index": 229,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 206489
+                    }
+                ],
+                "reviewed_on": "2019-09-10 14:38:03",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Samreen"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2267055,
+            "status": "PUBLISHED",
+            "note": "2023-09-28 06:27:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-28T07:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46010166,
+                "review_text": "** **** *** ********** **** *** ********* **** ***** ***** * ***** ** * ****** *** ****** **** *******\nDoctor was very friendly and the explanation of the particular illnesses  of the patient is very impressive, specially  viral fevers. Doctor gave us strength . ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 101,
+                        "reason": "NON_COMPLIANT",
+                        "id": 469461
+                    }
+                ],
+                "reviewed_on": "2023-09-26 17:26:40",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2075302,
+            "status": "PUBLISHED",
+            "note": "2022-09-27 07:29:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-27T08:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44871205,
+                "review_text": "Dr. Rahul Gandhi is very empathetic. He understands the issue and does analysis comprehensively. He is very patient-friendly. One of the best physicians to go to  ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-26 07:05:35",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Smayan Adepu"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2321898,
+            "status": "PUBLISHED",
+            "note": "2024-01-09 12:10:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-09T13:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46320485,
+                "review_text": "Doctor was in hurry and didn't do the check up thoroughly. He quickly wrote the medicines and his job was done ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-08 12:08:40",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Gareema"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1748853,
+            "status": "PUBLISHED",
+            "note": "2021-06-15 07:09:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1165921,
+            "practice_name": "Safe Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-15T08:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42976172,
+                "review_text": "Good explanation, patient friendly, good interaction. Clarifications of different doubts and advises that is necessary.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-13 04:45:56",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "N Abid Ali Khan"
+        },
+        "entity_id": 608435,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1674948,
+            "status": "PUBLISHED",
+            "note": "2021-03-17 07:41:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-17T08:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42575350,
+                "review_text": "Covishield vaccination was given with atmost care and according to the guidelines.\nHospital was clean and higenic.\nHospital administration is very good.\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-16 07:34:10",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pranay"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1290855,
+            "status": "PUBLISHED",
+            "note": "2019-11-15 12:55:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-15T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40370374,
+                "review_text": "***** ******* I visited with my wife. he listened to us and mentioned about our reports. he explained  nicely. good job",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 13,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 221325
+                    }
+                ],
+                "reviewed_on": "2019-11-14 12:51:58",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Navratan Sharma"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1343535,
+            "status": "PUBLISHED",
+            "note": "2020-01-19 05:00:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1165921,
+            "practice_name": "Safe Health Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-19T05:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40739822,
+                "review_text": "I went to get idea about one week old knee wound.\nI was expecting Dr will take a look at the wound and probably some professional dressing will be provided.\n\nBut Dr. Didn't even open the bandage and look at the wound... I paid 580(consultation+ medicine).\n\nI felt for 300 rs Dr can at least look at t wound.\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-17 10:14:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 608435,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1257137,
+            "status": "PUBLISHED",
+            "note": "2019-09-28 05:32:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1147216,
+            "practice_name": "Zoi Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-28T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40149461,
+                "review_text": "The Consultation experience was very good. I had fever. I am satisfied with the explanation of the issue and I got well in 2 days after taking medicines. The doctor was very polite and behaviour was also good. I would recommend the doctor to my friends and family. The hospital facilities were good. The wait time was only 10 minutes. I liked everything there.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-26 16:20:53",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 601659,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2257175,
+            "status": "PUBLISHED",
+            "note": "2023-09-06 06:52:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 620655,
+            "practice_id": 1165921,
+            "practice_name": "Safe Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-06T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45946143,
+                "review_text": "He is not only good doctor but really kind and reachable person such a well known doctor but still available to respond and advise in critical time.Thanks @Rahul sir for your advice and tritament for my wife Yamini she is recovering now.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-05 04:36:18",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 608435,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

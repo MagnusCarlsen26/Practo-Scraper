@@ -1,0 +1,375 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101,
+                "text": "Facial Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2396341,
+            "status": "PUBLISHED",
+            "note": "2024-06-11 09:27:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747349,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-11T10:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46747446,
+                "review_text": "Doctor was very good but the staff were not very well organised. I had booked appointment at 8 PM and reached there by 7:40 PM but the made me wait till 9 PM they are giving more priority to offline appointment over the practo bookings",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-08 16:28:50",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aniket sahoo"
+        },
+        "entity_id": 684737,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2351031,
+            "status": "PUBLISHED",
+            "note": "2024-03-05 11:57:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747349,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-05T12:01:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46488731,
+                "review_text": "Very detailed oriented, patient and thorough doctor. Gives ample time to every patient to understand the situation from all angles. Most importantly, her medicines work.\n\nAlong with good professional knowledge, she is also polite and has a nice, calming personality",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-04 07:48:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anubhav Kabra"
+        },
+        "entity_id": 684737,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2329593,
+            "status": "PUBLISHED",
+            "note": "2024-01-25 05:24:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747349,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-25T06:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46364329,
+                "review_text": "Dr came one hour late. I had appointment at 4.30  pm but met dr at 6 pm. We need to respect each other time\n\nDr asked many appropriate questions to get a clear  understanding of the issue.  She asked family history to  get things clear. She kas asked to do some test to clear out certan things \n\nShe has given medicine and we need to see",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-23 14:19:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohan Vakkalari"
+        },
+        "entity_id": 684737,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2208390,
+            "status": "PUBLISHED",
+            "note": "2023-06-02 06:44:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747349,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-02T07:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45642705,
+                "review_text": "** *********** **** *** ********* *** ******.. my husband has been suffering acute diarrhea past 4 days.. we consulted her twice .  took all the medicines as prescribed.****** **** *** ***** ******** *** **** ***** ** *** ******* *** **** ********* ** ***** ****** not at all recommend! ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 43,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 457978
+                    },
+                    {
+                        "start_index": 169,
+                        "end_index": 264,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 457979
+                    }
+                ],
+                "reviewed_on": "2023-06-01 03:27:42",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 684737,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2243588,
+            "status": "PUBLISHED",
+            "note": "2023-08-03 04:44:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747349,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-03T05:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45851383,
+                "review_text": "Superb Doctor , very patient in understanding the problem and effective medication.Went for treatment of food poisioning",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-01 12:53:13",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arjun"
+        },
+        "entity_id": 684737,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            },
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1331350,
+            "status": "PUBLISHED",
+            "note": "2020-01-05 07:32:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747349,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-05T08:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40651936,
+                "review_text": "Great experience. Haven't been to a more detail oriented person before. Dr. Kavita is so patient, caring and keen to understand to complete history of the patient. Definitely recommend her to anyone looking for a quality general physician ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-04 04:46:54",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Deepak"
+        },
+        "entity_id": 684737,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2224796,
+            "status": "PUBLISHED",
+            "note": "2023-07-01 10:18:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747349,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-01T11:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45738485,
+                "review_text": "Extremely thorough doctor. We visited for my father who developed fever due to travel anxiety. She checked all vitals and gave re-assurance to him. Highly recommended physician! Thank you, doctor",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-29 16:05:53",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 684737,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2182938,
+            "status": "PUBLISHED",
+            "note": "2023-04-13 07:23:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747349,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-13T08:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45487794,
+                "review_text": "Gives full attention and time to patient concerns, does a full checkup before giving medicines. Very approachable and seems professionals. Highly recommend. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-12 06:31:26",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 684737,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

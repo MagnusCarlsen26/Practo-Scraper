@@ -1,0 +1,293 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2177143,
+            "status": "PUBLISHED",
+            "note": "2023-04-01 06:28:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544790,
+            "practice_id": 1142515,
+            "practice_name": "SPARSH Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-01T07:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45451226,
+                "review_text": "Dr Naveen A J is GEM of a person, I have got rebirth only bcos of him, he made me to see this world again, he explains the problem with patience, he shows humanity,  he treats everyone same. ** ** *** **** ************ ** **********\nHe has more experience and knowledge, I would suggest every heart patient to take treatment from him,  definitely u will survive, I lost hopes bcos of blockages, bcos of his treatment I'm back to life. \nMy heartly  THANKS to Dr NAVEEN A J\n",
+                "review_alterations": [
+                    {
+                        "start_index": 191,
+                        "end_index": 231,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 450850
+                    }
+                ],
+                "reviewed_on": "2023-03-30 17:06:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Roopa"
+        },
+        "entity_id": 838072,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2088648,
+            "status": "PUBLISHED",
+            "note": "2022-10-22 06:33:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544790,
+            "practice_id": 918580,
+            "practice_name": "SPARSH Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-22T07:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44947171,
+                "review_text": "I like the Dr.Naveen sir very much he is explained every problem very slowly I like it very much and I'm happy thank you.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-20 13:31:19",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Latha"
+        },
+        "entity_id": 838741,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2111808,
+            "status": "PUBLISHED",
+            "note": "2022-12-05 06:33:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544790,
+            "practice_id": 1142515,
+            "practice_name": "SPARSH Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-05T07:01:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45075879,
+                "review_text": "Very well communicated ...very friendly......treated and explained well.....responded us politely....,thanks to Dr....",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-02 16:15:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 838072,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2111070,
+            "status": "PUBLISHED",
+            "note": "2022-12-02 16:11:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544790,
+            "practice_id": 918580,
+            "practice_name": "SPARSH Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-02T17:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45071742,
+                "review_text": "Dear Doctor\nThanks for your support and help in healing my spouse health issues.\n\nWe will revisit...",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-01 13:39:57",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 838741,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1574,
+                "text": "Cardiography"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2104741,
+            "status": "PUBLISHED",
+            "note": "2022-11-21 18:01:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544790,
+            "practice_id": 918580,
+            "practice_name": "SPARSH Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-21T19:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45036895,
+                "review_text": "Doctor explanation very good..very friendly..A lot of experience is enough .He gave the explanation very calmly",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-19 16:55:28",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 838741,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2083498,
+            "status": "PUBLISHED",
+            "note": "2022-10-13 06:01:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 544790,
+            "practice_id": 918580,
+            "practice_name": "SPARSH Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-13T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44918502,
+                "review_text": "**** ********* *** **** . good take care and doctor was good.clearly explain and give good suggestions",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 429138
+                    }
+                ],
+                "reviewed_on": "2022-10-11 13:35:35",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 838741,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

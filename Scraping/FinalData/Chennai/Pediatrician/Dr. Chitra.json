@@ -1,0 +1,120 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1636819,
+            "status": "PUBLISHED",
+            "note": "2021-02-03 10:50:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 560028,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-03T11:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42366096,
+                "review_text": "Dr . Chitra is one of the most important and special person we have ever met .Indeed she is a very experienced doctor and caring doctor. My daughter was diagnosed with scarcoidosis and scleroderma in 2016 .She is the doctor who diagnosed it and started the treatment . Even many doctors of Bangladesh couldn't give their opinion on it but she did a successful treatment **** ** *** **** ****** ** *** ***** * My daughter says that She wants to be like her .sending lots of love and prayers from Bangladesh.",
+                "review_alterations": [
+                    {
+                        "start_index": 370,
+                        "end_index": 408,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 324189
+                    }
+                ],
+                "reviewed_on": "2021-02-02 10:30:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tania Moslem"
+        },
+        "entity_id": 552242,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 777885,
+            "status": "PUBLISHED",
+            "note": "2018-02-02 10:03:44",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 560028,
+            "practice_id": 1105463,
+            "practice_name": "Kids N Teens  Child Speciality Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-02T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 68590,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Madam. We will continue to provide good care",
+                "replied_at": "2018-02-14T14:11:49+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 907427,
+                "modified_by_id": 907427,
+                "replier_name": "Kids N Teens  Child Speciality Clinics",
+                "replier_logo": "https://images1-fabric.practo.com/kids-n-teens-multispeciality-child-clinics-chennai-1488959034-58bfb63aaa17d.jpg"
+            },
+            "survey_response": {
+                "id": 36585234,
+                "review_text": "very friendly doctor and patient in listening to your problems.. me and my kid are extremely comfortable with her. keep up the service. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-22 14:52:03",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MRS.SITALAKSHMI.B"
+        },
+        "entity_id": 532730,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

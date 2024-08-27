@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2375188,
+            "status": "PUBLISHED",
+            "note": "2024-04-26 10:48:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 728641,
+            "practice_id": 1402710,
+            "practice_name": "ART Fertility Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-26T11:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46625674,
+                "review_text": "Doctor has made  us understand the problem very well and guided us to appropriate treatment IVF .Now my wife is 10 weeks pregnant..Thankyou so much doctor..really appreciate your help ",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-25 10:02:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prasad"
+        },
+        "entity_id": 896602,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

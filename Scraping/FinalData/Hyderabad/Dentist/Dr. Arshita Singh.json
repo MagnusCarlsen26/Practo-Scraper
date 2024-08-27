@@ -1,0 +1,246 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2092590,
+            "status": "PUBLISHED",
+            "note": "2022-11-01 04:50:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 750432,
+            "practice_id": 1233337,
+            "practice_name": "Dentaire @ BH",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-01T05:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44969845,
+                "review_text": "Had a great experience at Dentaire@BH. Doctor's are good friendly ,make you feel comfortable.  Best treatment so far.\nHighly recommendable.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-29 13:52:37",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karishma"
+        },
+        "entity_id": 685750,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1926337,
+            "status": "PUBLISHED",
+            "note": "2022-02-04 07:14:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 750432,
+            "practice_id": 1233337,
+            "practice_name": "Dentaire @ BH",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-04T08:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44022107,
+                "review_text": "Nice job done and I feel happy about the treatment done The cleaning was through and painless. Doctor made me comfortable and did a through but good job.",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-03 07:12:06",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vyshnavi"
+        },
+        "entity_id": 685750,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 141,
+                "text": "Zirconia Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2229046,
+            "status": "PUBLISHED",
+            "note": "2023-07-08 05:20:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 750432,
+            "practice_id": 1233337,
+            "practice_name": "Dentaire @ BH",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-08T06:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45763489,
+                "review_text": "Excellent treatment. Amazing service.friendly staff members.overall excellent service by doctors and staff.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-06 15:15:51",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 685750,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2221958,
+            "status": "PUBLISHED",
+            "note": "2023-06-27 04:48:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 750432,
+            "practice_id": 1233337,
+            "practice_name": "Dentaire @ BH",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-27T05:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45721892,
+                "review_text": "Dr Arshita is truly considerate about her patients. *** *** **** ********* ** *** ****** ****** I would truly recommended anyone to visit their clinic if they are facing any dental issues. ",
+                "review_alterations": [
+                    {
+                        "start_index": 52,
+                        "end_index": 95,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 460733
+                    }
+                ],
+                "reviewed_on": "2023-06-24 13:54:47",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 685750,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2057493,
+            "status": "PUBLISHED",
+            "note": "2022-08-30 07:41:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 750432,
+            "practice_id": 1233337,
+            "practice_name": "Dentaire @ BH",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-08-30T08:01:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44767253,
+                "review_text": "It was nice experiences and friendly docter \nExplained very well about the treatment\n...............\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-08-28 14:13:30",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 685750,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

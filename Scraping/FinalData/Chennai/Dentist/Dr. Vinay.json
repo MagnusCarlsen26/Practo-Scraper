@@ -1,0 +1,175 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2036579,
+            "status": "PUBLISHED",
+            "note": "2022-07-26 06:15:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 166095,
+            "practice_id": 649221,
+            "practice_name": "Tooth N Care Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-26T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44638901,
+                "review_text": "** ** *** **** ****** ** service was really good . He is very genuine and explained well when he was doing treatment . ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 419579
+                    }
+                ],
+                "reviewed_on": "2022-07-24 05:56:23",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shyni"
+        },
+        "entity_id": 68374,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 40133,
+                "text": "Surgical Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2009620,
+            "status": "PUBLISHED",
+            "note": "2022-06-14 06:02:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 166095,
+            "practice_id": 649221,
+            "practice_name": "Tooth N Care Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-14T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44485527,
+                "review_text": "He is friendly and good iimmediately got an appoinment and explanation is given perfect in time and comfortable ",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-12 00:51:28",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.Subash"
+        },
+        "entity_id": 68374,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 958323,
+            "status": "PUBLISHED",
+            "note": "2018-08-28 08:06:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 166095,
+            "practice_id": 649221,
+            "practice_name": "Tooth N Care Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-28T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38160019,
+                "review_text": "He was good at what he dose. **** *** ******* ********** Did not feel painful. Will surely recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 28,
+                        "end_index": 55,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 126097
+                    }
+                ],
+                "reviewed_on": "2018-08-26 18:27:24",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 68374,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

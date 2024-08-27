@@ -1,0 +1,479 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1717046,
+            "status": "PUBLISHED",
+            "note": "2021-05-08 05:27:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 703108,
+            "practice_name": "Dev Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-08T06:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42809274,
+                "review_text": "Dr Vineeth Arora is highly experienced physician and I have been getting treatment since 2013. During Covid pandemic, Dr Arora timely treatment over Whatsapp helped me lot and I able to get cured only because of his out of the box treatment. A soft spoken, very humble and treatment with human touch are few of his qualities. He is best doctor in the country. Dr Narender Nagarwal ",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-06 17:50:56",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Narender Nagarwal "
+        },
+        "entity_id": 197675,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192342,
+                "text": "Viral Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 701445,
+            "status": "PUBLISHED",
+            "note": "2017-10-17 09:52:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 703108,
+            "practice_name": "Dev Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-17T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35840380,
+                "review_text": "Dr. Vineet can be called our family doctor now. Anybody that gets sick goes to him. My father was admitted in Max hospital, he had fever and was very week and thanks to Dr. Vineet and the care he got there , he recovered well and got energetic within 6 days. Even I got fever which was not coming down beside medicine and then my husband insisted to visit Dr.Vineet and just in 1 Day dose I got well and got back in action. He is amazing.",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-13 06:27:12",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shree Anand Dembla"
+        },
+        "entity_id": 197675,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162194,
+                "text": "Gastroenteritis Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2013110,
+            "status": "PUBLISHED",
+            "note": "2022-06-19 06:37:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 703108,
+            "practice_name": "Dev Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-19T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44505988,
+                "review_text": "I do not recommend this doctor to anyone. Need to wait Atleast 2-3 hours.\nOne of my relative went there for his stomach pain and continue vomiting with carrying his blood test and ultrasound reports, in which clearly mentioned that he has 6mm stone and  15 mm cyst above on left kidney.\n\nHe gave him medicine for 5 days and asked for to do repeat the test and come again.\nAfter 5 days we again went to his clinic with new report.\nhe said no problem all report are okay **** ** ******** ********** **** ***** *** ******* ** ** ********Even after taking 5 days of medicine no changes.\nWhen i asked him to explain the Report anything is serious or not?\n\nDoctor shouted on me and said I can't explain you every meaning of report and if you want to know more about it go and do costly tests and do other investigations.\n\nWe were amazed with that behaviour \nIf we are patients and we are paying Rs.800 for 5 min consultation after waiting for 2-3 hours.\nWe have right to know about our report our disease.\nSorry but i really disappointed with his behaviour and they way he shouted on me after asking report results.",
+                "review_alterations": [
+                    {
+                        "start_index": 469,
+                        "end_index": 533,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 414574
+                    }
+                ],
+                "reviewed_on": "2022-06-17 17:40:44",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Neha"
+        },
+        "entity_id": 197675,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 373043,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 758837,
+            "practice_name": "Max Superspeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-29T13:16:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 25374980,
+                "review_text": "My mama was admitted in max, shalimar bagh and he was doing fine when they admitted him as he had bp issues and he wasn't able to pass urine which did not seem such an issue to us. We just thought he will be fine as he could walk and talk but weakness was there. He was talking on the day he was admitted that is 12th sep and on 13sep the next day but on 14th at 4ish morning, the entire story was changed. Dr. Arora was looking on to him with his mannerless staff. They all did not work on him well and due to their negligence we lost him in just two days. A happy and playful man had gone in just two days *** ** **** ******** ******** ** * ***** *** ********",
+                "review_alterations": [
+                    {
+                        "start_index": 608,
+                        "end_index": 660,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 8528
+                    }
+                ],
+                "reviewed_on": "2016-09-28 15:25:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Brahmleen"
+        },
+        "entity_id": 275638,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 104,
+                "text": "Swollen Lymph Nodes"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 363467,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 758837,
+            "practice_name": "Max Superspeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-18T07:10:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24786308,
+                "review_text": "***** ****** **** **** He made a fyn pesron to death. He is just their to earn money nothing else. Never attended patient in 2 days while in ward. Never scene such an irresponsible doctor in my lyf. ********* He told us that patient was affected from chiken gunya but i consulted other 5 hospitals and all of them told us patient is not suffering from chicken gunya. Made patient to death who was completely fit and fine while he went to hospital.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 21,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 5171
+                    },
+                    {
+                        "start_index": 199,
+                        "end_index": 207,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 5172
+                    }
+                ],
+                "reviewed_on": "2016-09-17 14:22:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Gaurav Manocha"
+        },
+        "entity_id": 275638,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1702410,
+            "status": "PUBLISHED",
+            "note": "2021-04-20 06:18:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 703108,
+            "practice_name": "Dev Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-20T07:01:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42727281,
+                "review_text": "The way he discuss with the patients is such a relief for patients. Friendly nature helps heal the disease sooner. And also prescribes good",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-18 06:54:57",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vaibhav"
+        },
+        "entity_id": 197675,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 182601,
+                "text": "Sugar Level Check"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1423628,
+            "status": "PUBLISHED",
+            "note": "2020-05-10 07:56:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 703108,
+            "practice_name": "Dev Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-10T08:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41255354,
+                "review_text": "Doctor is not ready to listen the full problem of patient. **** **** **** ****** ** write medicine with out listening the full details of problems of patient. Not good experience.",
+                "review_alterations": [
+                    {
+                        "start_index": 59,
+                        "end_index": 83,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 264813
+                    }
+                ],
+                "reviewed_on": "2020-05-09 07:22:45",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Amit Thakur "
+        },
+        "entity_id": 197675,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            },
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            },
+            {
+                "id": 1034,
+                "text": "Colds"
+            },
+            {
+                "id": 157,
+                "text": "Pain in Left part of Chest"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1299102,
+            "status": "PUBLISHED",
+            "note": "2019-11-26 11:05:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 703108,
+            "practice_name": "Dev Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-26T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40424102,
+                "review_text": "I am visiting this place since 15 years and satisfied with the treatment. He is like a go to person for us in every health issue. Really happy. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-25 04:18:29",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ARPIT SARRAF"
+        },
+        "entity_id": 197675,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 401,
+                "text": "Chikungunya"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 360123,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 296064,
+            "practice_id": 703108,
+            "practice_name": "Dev Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-15T15:07:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24572452,
+                "review_text": "He is a nice doctor *** *** ********** ********* ****** ****** A nice and Experienced doctor he is.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 19,
+                        "end_index": 61,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 3652
+                    }
+                ],
+                "reviewed_on": "2016-09-14 05:14:52",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.Akshay vashishth"
+        },
+        "entity_id": 197675,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

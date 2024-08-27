@@ -1,0 +1,129 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2253973,
+            "status": "PUBLISHED",
+            "note": "2023-08-29 11:13:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 919438,
+            "practice_id": 1329089,
+            "practice_name": "Indira IVF - Fertility and IVF Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-29T12:00:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45923092,
+                "review_text": "**** * ******** ***** *******\nFriendly doctor\nDoctor help the petient carefully and treat the easiest way ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 466604
+                    }
+                ],
+                "reviewed_on": "2023-08-27 01:44:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jeevraj "
+        },
+        "entity_id": 760332,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1826740,
+            "status": "PUBLISHED",
+            "note": "2021-09-14 09:57:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 919438,
+            "practice_id": 1329089,
+            "practice_name": "Indira IVF - Fertility and IVF Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-14T10:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43419255,
+                "review_text": "Dr Rinoy is extremely patient and comforting. His positive attitude makes the process much easier and less stressful for a couple. His treatment is very effective and probability of success is high.\nSuccess is very likely if a couple follows Dr Rinoy's advice completely. \nHe is always reachable and goes out of his way to help his patients.",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-12 13:37:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 760332,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1810307,
+            "status": "PUBLISHED",
+            "note": "2021-08-25 06:19:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 919438,
+            "practice_id": 1329089,
+            "practice_name": "Indira IVF - Fertility and IVF Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-25T07:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43320903,
+                "review_text": "Dr. Rinoy gets it. From his excellent investigative mind and ability to connect, you know where you stand immediately and what next steps look like. He builds a rapport with his patients, which make them comfortable a lot. Dr. Rinoy takes time to explain conditions and the treatment options to each of his patient. His medical expertise and willingness to listen and discuss puts the patients at ease. Highly recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-24 01:58:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 760332,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

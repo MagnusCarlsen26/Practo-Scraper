@@ -1,0 +1,221 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2175508,
+            "status": "PUBLISHED",
+            "note": "2023-03-29 07:30:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 644714,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-29T08:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45442087,
+                "review_text": "I had blood sputum and lung cavity for around 6 years, consulted various doctor everyone suspected TB but TB test failed. No one couldn't find the root cause of the issue. I met sir by God's grace for a consultation on march  27 and on march 28 i got the root of my issue. Very intelligent doctor, he explained me each things in detailed manner step by step as anyone teaches their student. Today i am very happy because of him, he made me smile. I recommend sir to everyone specially people who has more complex unresolved issue. He is also polite and good human being ",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-28 07:15:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kowsik Raj"
+        },
+        "entity_id": 634739,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1513960,
+            "status": "PUBLISHED",
+            "note": "2020-09-08 07:51:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 644714,
+            "practice_id": 1180782,
+            "practice_name": "Kumaran Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-08T08:02:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41711212,
+                "review_text": "My Father had TB we were taking treatment from various hospital and finally  we met Dr. Thirupathi sir.   He did complete check up for my dad and treated him well. TB is completely cured less than the expected time.  ",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-06 13:43:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jayanthi"
+        },
+        "entity_id": 623019,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1822683,
+            "status": "PUBLISHED",
+            "note": "2021-09-08 11:20:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 644714,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-08T12:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43393434,
+                "review_text": "Dr. Thirupathi is very friendly  easy to approach. I had pneumonia attack during 80s. whenever HV discomfort I visit him . For the past 5 years I am with him finding very comfortable. great pulmonolist vasudevan c kkilpauk",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-07 11:16:32",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 634739,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 304,
+                "text": "Wheezing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1821681,
+            "status": "PUBLISHED",
+            "note": "2021-09-07 11:55:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 644714,
+            "practice_id": 1180782,
+            "practice_name": "Kumaran Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-07T12:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43387590,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 274,
+                        "end_index": 309,
+                        "reason": "NON_COMPLIANT",
+                        "id": 371138
+                    }
+                ],
+                "reviewed_on": "2021-09-06 10:50:13",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 623019,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1223604,
+            "status": "PUBLISHED",
+            "note": "2019-08-15 12:59:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 644714,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-15T13:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39934382,
+                "review_text": "My father did lungs treatment in SIMS Hospital.We are consulting Dr. K Thirupathi from last 4 years. He is a good hearted man and explains the problems. He suggested to do an operation for my father. He is good now. Thanks to Dr.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-14 12:56:38",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 634739,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

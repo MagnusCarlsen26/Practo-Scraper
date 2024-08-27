@@ -1,0 +1,231 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2202907,
+            "status": "PUBLISHED",
+            "note": "2023-05-23 07:13:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492015,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-23T08:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45609616,
+                "review_text": "We have visited Dr Sandhya Vasan for our first pregnancy. She is very kind, calm *** **** **** ******* She is very supportive and explained everything about what to do, what to eat. Thank you ma'am.",
+                "review_alterations": [
+                    {
+                        "start_index": 81,
+                        "end_index": 101,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 456751
+                    }
+                ],
+                "reviewed_on": "2023-05-22 04:09:13",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya"
+        },
+        "entity_id": 619796,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4191,
+                "text": "menopause advice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1681630,
+            "status": "PUBLISHED",
+            "note": "2021-03-24 13:18:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492015,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-24T14:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42611933,
+                "review_text": "Very pleasant. Her calm approach to diagnose the issue.her patience in listening to the problem calmly",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-23 13:18:14",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "K.s.umamaheswari"
+        },
+        "entity_id": 619796,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2140796,
+            "status": "PUBLISHED",
+            "note": "2023-01-28 06:05:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492015,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-28T07:01:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45242884,
+                "review_text": "Gynecology department- Dr Sandhya Vasan was a blessing to me during my pregnancy. She was friendly , kind and highly knowledgeable. She explained all important things to manage pregnancy easily and clarified all my doubts patiently. I went through c-section but she was the best person to have in the theater to guide you through the fear and all the new moments with the baby. I walked out of Sims hospital in 2 days feeling totally normal solely because of her.\n\nThank you so much Mam",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-26 18:56:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 619796,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2141559,
+            "status": "PUBLISHED",
+            "note": "2023-01-29 09:22:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492015,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-29T10:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45247383,
+                "review_text": "Visited doctor Sandhya for ovarian cyst problem. Doctor is very friendly and explained all the medical terms clearly. She listened patiently and answered all my questions and doubts. Highly recommend!",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-28 09:11:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 619796,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1601351,
+            "status": "PUBLISHED",
+            "note": "2020-12-20 10:06:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 492015,
+            "practice_id": 1192041,
+            "practice_name": "SIMS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-20T11:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42174576,
+                "review_text": "**** **** ******* She listens to the patient and checks the details very well . She has ensured that we are very comfortable\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 315422
+                    }
+                ],
+                "reviewed_on": "2020-12-19 10:03:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 619796,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

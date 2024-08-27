@@ -1,0 +1,410 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2191025,
+            "status": "PUBLISHED",
+            "note": "2023-04-30 07:00:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 700667,
+            "practice_id": 1176722,
+            "practice_name": "Idea Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-30T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45538540,
+                "review_text": "Doctor was very friendly and good explanation of issue and mostly avoiding surgical procedure unlike most of the present doctors.",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-29 06:56:34",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhavya"
+        },
+        "entity_id": 647672,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1113664,
+            "status": "PUBLISHED",
+            "note": "2019-03-24 06:13:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 700667,
+            "practice_id": 1176722,
+            "practice_name": "Idea Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-24T05:39:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 136016,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2019-03-24T05:39:51+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4933451,
+                "modified_by_id": 4933451,
+                "replier_name": "Dr. Sree Lakshmi Munagala",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/684894/dr-sree-lakshmi-munagala-5b81675f6c2d5.jpg"
+            },
+            "survey_response": {
+                "id": 39237085,
+                "review_text": "It was good it was definitely helpful. There wasn't any pain. The process was done carefully and the doc is pretty friendly.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-22 15:20:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Madhavi"
+        },
+        "entity_id": 647672,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1111194,
+            "status": "PUBLISHED",
+            "note": "2019-03-20 12:07:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 700667,
+            "practice_id": 1176722,
+            "practice_name": "Idea Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-19T13:32:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 135026,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for the feedback",
+                "replied_at": "2019-03-19T13:32:08+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4933451,
+                "modified_by_id": 4933451,
+                "replier_name": "Dr. Sree Lakshmi Munagala",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/684894/dr-sree-lakshmi-munagala-5b81675f6c2d5.jpg"
+            },
+            "survey_response": {
+                "id": 39221151,
+                "review_text": "Came with tooth pain. Doctor explained the condition of tooth and its treatment process .done the treatment without any pain.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-19 07:13:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pavan"
+        },
+        "entity_id": 647672,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1060,
+                "text": "Tooth Sensitivity"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1077963,
+            "status": "PUBLISHED",
+            "note": "2019-02-05 09:30:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 700667,
+            "practice_id": 1176722,
+            "practice_name": "Idea Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-05T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38999736,
+                "review_text": "Went for a check on tooth sensitivity, but realized that enamel over the tooth is completely worn, causing high sensitivity. \nDr. SREE Lakshmi is very patient in explaining the details. Explained the situation and suggested for treatment plan and went for cementation of 4 tooth which enabled me with immediate comfort. *** ** ****** ******* ** ******** *** ***** *** ******** ******** *** **** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 320,
+                        "end_index": 404,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 152866
+                    }
+                ],
+                "reviewed_on": "2019-02-03 11:55:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 647672,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 107,
+                "text": "Tender Gums"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1008581,
+            "status": "PUBLISHED",
+            "note": "2018-10-30 07:46:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 700667,
+            "practice_id": 1176722,
+            "practice_name": "Idea Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-30T08:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38521751,
+                "review_text": "Visited Dentist Dr. Sree Lakshmi as I was feeling itchiness/numb in the gums and Doctor was able to provide all details of the current situation of my oral health. \nShe has suggested for medication and treatment plan which was successful and I was able to recover in no time.\nThe patient appointments was planned properly so the wait time was almost negligible (about 10 Mins). \n",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-28 16:04:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 647672,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1116358,
+            "status": "PUBLISHED",
+            "note": "2019-03-27 09:27:42",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 700667,
+            "practice_id": 1176722,
+            "practice_name": "Idea Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-27T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39254096,
+                "review_text": "We are happy with the treatment. Specially the doctors response. Timely availability of the services are the point to be appreciated.  We would thank the doctor for her cooperative support and treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-26 06:55:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 647672,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1114472,
+            "status": "PUBLISHED",
+            "note": "2019-03-26 05:23:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 700667,
+            "practice_id": 1176722,
+            "practice_name": "Idea Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-26T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39242370,
+                "review_text": "She is friendly..and while doing the treatment she did all treatment carefully without pain..\nHappy..",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-23 14:34:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 647672,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

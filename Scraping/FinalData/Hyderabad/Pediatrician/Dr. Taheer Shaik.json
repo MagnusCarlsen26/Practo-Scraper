@@ -1,0 +1,169 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193477,
+                "text": "Child specialists "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1538127,
+            "status": "PUBLISHED",
+            "note": "2020-10-03 07:24:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 409132,
+            "practice_id": 1159032,
+            "practice_name": "shatayu clinics, kondapur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-03T08:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41838378,
+                "review_text": "Issue was addressed correctly as we see quick change in baby\u2019s health. ********** *** ******** *** the doctor addressed the baby with out any other deviations ",
+                "review_alterations": [
+                    {
+                        "start_index": 71,
+                        "end_index": 98,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 298005
+                    }
+                ],
+                "reviewed_on": "2020-10-02 05:13:03",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lakshmi Gontla"
+        },
+        "entity_id": 601243,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1221450,
+            "status": "PUBLISHED",
+            "note": "2019-08-14 04:50:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 409132,
+            "practice_id": 929201,
+            "practice_name": "Leaf Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-14T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39920337,
+                "review_text": "I have visited Dr. Tahir multiple times in last 4 years for my daughter. For cough and cold to vaccinations. Sir, is too good.. he makes child comfortable and post which he do the check-up. Suggested medicine do work well.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-11 19:06:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 331730,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1433379,
+            "status": "PUBLISHED",
+            "note": "2020-05-29 06:30:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 409132,
+            "practice_id": 929201,
+            "practice_name": "Leaf Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-29T07:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41303826,
+                "review_text": "**** **** ** listens patiently and gives the right medicine.i would definitely recommend for all pediatric purposes.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 12,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 267774
+                    }
+                ],
+                "reviewed_on": "2020-05-27 17:06:14",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 331730,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

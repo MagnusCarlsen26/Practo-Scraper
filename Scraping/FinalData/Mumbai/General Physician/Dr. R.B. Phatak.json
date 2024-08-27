@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1109,
+                "text": "Type 1 Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2420421,
+            "status": "PUBLISHED",
+            "note": "2024-07-28 09:25:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 368108,
+            "practice_id": 692922,
+            "practice_name": "S L Raheja Fortis Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-28T10:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46885069,
+                "review_text": "Amazing experience  very well treated Thankyou to doctor r b pathak sir I am happy & fully satisfied ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-27 07:19:44",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rahul Shah"
+        },
+        "entity_id": 580012,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

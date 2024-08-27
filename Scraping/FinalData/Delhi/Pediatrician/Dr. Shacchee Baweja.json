@@ -1,0 +1,200 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2240630,
+            "status": "PUBLISHED",
+            "note": "2023-07-27 07:58:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 214548,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-27T08:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45831516,
+                "review_text": "Dr. Shachee mam is very polite. She heard out all our issues with a lot of patience. The way she explained all our issues was very thorough and comprehensive. After arriving at an appropriate diagnosis , she explained everything very well.  I am very satisfied after her advice. Highly recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-26 07:28:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "DR TARUN TYAGI"
+        },
+        "entity_id": 101351,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2098041,
+            "status": "PUBLISHED",
+            "note": "2022-11-09 09:12:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 214548,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-09T10:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45000211,
+                "review_text": "Doctor was very polite she gives proper time to diagnose and guidance. Good lactation consult i must say.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-08 08:36:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rahul Kumar gautam"
+        },
+        "entity_id": 101351,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193870,
+                "text": "lactational"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1340033,
+            "status": "PUBLISHED",
+            "note": "2020-01-17 06:42:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 214548,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-17T07:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40713949,
+                "review_text": "She is really very experienced .. I was facing the issue for 3 months .. she came to conclusion in 5 Minz .. she solved my problem .. I was in so much pain .. but she gave me the right advice .. she gave me her 1 hr to check the problem ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-13 11:02:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101351,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193870,
+                "text": "lactational"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1145533,
+            "status": "PUBLISHED",
+            "note": "2019-05-04 09:20:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 214548,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-04T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39440348,
+                "review_text": "Very informative and positive spirited\nExplained everything with pros and cons\nInformed about different measures related to my issue",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-03 09:16:06",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101351,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

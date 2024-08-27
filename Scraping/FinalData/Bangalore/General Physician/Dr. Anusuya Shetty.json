@@ -1,0 +1,2380 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2360300,
+            "status": "PUBLISHED",
+            "note": "2024-03-23 09:47:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-23T10:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46541281,
+                "review_text": "it was good consultation with doctor and so far good afternoon taking medication.. thanks to the doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-22 08:34:34",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1038,
+                "text": "Flu"
+            },
+            {
+                "id": 304,
+                "text": "Wheezing"
+            },
+            {
+                "id": 286,
+                "text": "Food Poisoning"
+            },
+            {
+                "id": 301,
+                "text": "Stuffy Nose"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1478462,
+            "status": "PUBLISHED",
+            "note": "2020-07-28 10:27:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-28T11:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41530691,
+                "review_text": "Our entire family of 2 adults and 2 very senior citizens have been visiting her for the past 10 years. We are very satisfied with the quality of treatment and general approach of doctor to the problems ",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-27 04:31:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nageswara Rao"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2424178,
+            "status": "PUBLISHED",
+            "note": "2024-08-04 10:45:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-04T11:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46906634,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 14,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 492527
+                    },
+                    {
+                        "start_index": 71,
+                        "end_index": 148,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 492528
+                    }
+                ],
+                "reviewed_on": "2024-08-03 10:42:15",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2398178,
+            "status": "PUBLISHED",
+            "note": "2024-06-14 06:36:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-14T07:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46758174,
+                "review_text": "Very rude doctor. always in a hurry. Never again. Not ready to listen what we are trying to say.come  to a conclusion quickly.",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-13 02:55:55",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 868545,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1237030,
+            "status": "PUBLISHED",
+            "note": "2019-09-04 11:09:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-04T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40019704,
+                "review_text": "DO NOT CONSULT HER*  ********** *** ** * **** *** ****** ** **** ******\n\nI consulted her for dengue fever. Booked appointment and when I visited on time, was informed that she is late by 1hr.\n\nAnd she being late and not available during the consultation timings is v.common with her.\n\nShe is not interested to hear the patient. She will ask questions and you have to reply.\nIf you share your symptoms or problems, she will give weird expressions and will not hear.\n\nIf doctor is not willing to listen to patient, understand the patient problem , **** *** *** *** ********* ******** *** *********** ** *** ********** *** ************** ********* * ******** ***** ******** *** now undergoing treatment with other doctor.**** ****** ******* **** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 18,
+                        "end_index": 70,
+                        "reason": "NON_COMPLIANT",
+                        "id": 204192
+                    },
+                    {
+                        "start_index": 545,
+                        "end_index": 673,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 204193
+                    },
+                    {
+                        "start_index": 718,
+                        "end_index": 748,
+                        "reason": "NON_COMPLIANT",
+                        "id": 204194
+                    }
+                ],
+                "reviewed_on": "2019-09-01 06:49:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Richa J"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2395417,
+            "status": "PUBLISHED",
+            "note": "2024-06-08 08:10:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-08T09:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46742129,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 488104
+                    }
+                ],
+                "reviewed_on": "2024-06-07 04:44:11",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhishek"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1108,
+                "text": "Thyroid Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1394628,
+            "status": "PUBLISHED",
+            "note": "2020-03-10 10:31:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-10T11:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41092282,
+                "review_text": "As soon as I entered, she made a wierd face. When I started describing the issue, she was giving wierd expressions. She was in a hurry, I don't know why! She was not ready to listen. This is the first time I met such an arrogant doctor. Wouldn't recommend her to anyone. Now even if I get a free follow up, I am not going! ",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-09 05:19:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Anandi Chakraborty"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 994785,
+            "status": "PUBLISHED",
+            "note": "2018-10-11 05:05:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-11T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38422913,
+                "review_text": "She is not ready to listen properly and without that she got into conclusion\nI clearly told her am allergic to antibiotic, without listening to that properly she made a conclusion that am not and she prescribed me antibiotic.***** ** **************** *** *** ******* **** *** ******** ** ********* ****** ***********",
+                "review_alterations": [
+                    {
+                        "start_index": 225,
+                        "end_index": 315,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 134268
+                    }
+                ],
+                "reviewed_on": "2018-10-09 06:06:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rajan R"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2331388,
+            "status": "PUBLISHED",
+            "note": "2024-01-28 07:58:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-28T08:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46374567,
+                "review_text": "The doctor spent less than 10 seconds to examine the issue. She seemed in a rush. She ended up prescribing me steroids. The problem has exacerbated and I am now struggling a lot. Consulting with a specialist now.  According to the specialist, steroids shouldn't have been prescribed. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-27 07:19:59",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2206806,
+            "status": "PUBLISHED",
+            "note": "2023-06-01 07:51:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-01T08:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45633051,
+                "review_text": "Doctor was not at all friendly. She seemed very disconnected from what she was doing. She was too impatient to listen all concerns carefully or to explain back us about the situation or line of treatment.\n\nNot at all reliable. ****** ****** ****** * ******* ***** ** ** *** **** ******* When we had asked on our own , then she asked us to get all sorts of teats done vendors including the ones which she had already asked us to do , which proves that how ignorant is she.\n\n** ** **** *** ********* ********** ** ***** **** **** **** ******** ****** ***** ******* ** ****** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 227,
+                        "end_index": 286,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 457920
+                    },
+                    {
+                        "start_index": 473,
+                        "end_index": 578,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 457921
+                    }
+                ],
+                "reviewed_on": "2023-05-29 03:00:09",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2360300,
+            "status": "PUBLISHED",
+            "note": "2024-03-23 09:47:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-23T10:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46541281,
+                "review_text": "it was good consultation with doctor and so far good afternoon taking medication.. thanks to the doctor ",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-22 08:34:34",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1038,
+                "text": "Flu"
+            },
+            {
+                "id": 304,
+                "text": "Wheezing"
+            },
+            {
+                "id": 286,
+                "text": "Food Poisoning"
+            },
+            {
+                "id": 301,
+                "text": "Stuffy Nose"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1478462,
+            "status": "PUBLISHED",
+            "note": "2020-07-28 10:27:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-28T11:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41530691,
+                "review_text": "Our entire family of 2 adults and 2 very senior citizens have been visiting her for the past 10 years. We are very satisfied with the quality of treatment and general approach of doctor to the problems ",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-27 04:31:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nageswara Rao"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2424178,
+            "status": "PUBLISHED",
+            "note": "2024-08-04 10:45:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-04T11:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46906634,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 14,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 492527
+                    },
+                    {
+                        "start_index": 71,
+                        "end_index": 148,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 492528
+                    }
+                ],
+                "reviewed_on": "2024-08-03 10:42:15",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2398178,
+            "status": "PUBLISHED",
+            "note": "2024-06-14 06:36:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-14T07:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46758174,
+                "review_text": "Very rude doctor. always in a hurry. Never again. Not ready to listen what we are trying to say.come  to a conclusion quickly.",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-13 02:55:55",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 868545,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1237030,
+            "status": "PUBLISHED",
+            "note": "2019-09-04 11:09:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-04T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40019704,
+                "review_text": "DO NOT CONSULT HER*  ********** *** ** * **** *** ****** ** **** ******\n\nI consulted her for dengue fever. Booked appointment and when I visited on time, was informed that she is late by 1hr.\n\nAnd she being late and not available during the consultation timings is v.common with her.\n\nShe is not interested to hear the patient. She will ask questions and you have to reply.\nIf you share your symptoms or problems, she will give weird expressions and will not hear.\n\nIf doctor is not willing to listen to patient, understand the patient problem , **** *** *** *** ********* ******** *** *********** ** *** ********** *** ************** ********* * ******** ***** ******** *** now undergoing treatment with other doctor.**** ****** ******* **** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 18,
+                        "end_index": 70,
+                        "reason": "NON_COMPLIANT",
+                        "id": 204192
+                    },
+                    {
+                        "start_index": 545,
+                        "end_index": 673,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 204193
+                    },
+                    {
+                        "start_index": 718,
+                        "end_index": 748,
+                        "reason": "NON_COMPLIANT",
+                        "id": 204194
+                    }
+                ],
+                "reviewed_on": "2019-09-01 06:49:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Richa J"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2395417,
+            "status": "PUBLISHED",
+            "note": "2024-06-08 08:10:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-08T09:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46742129,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 488104
+                    }
+                ],
+                "reviewed_on": "2024-06-07 04:44:11",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhishek"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1108,
+                "text": "Thyroid Disorders"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1394628,
+            "status": "PUBLISHED",
+            "note": "2020-03-10 10:31:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-10T11:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41092282,
+                "review_text": "As soon as I entered, she made a wierd face. When I started describing the issue, she was giving wierd expressions. She was in a hurry, I don't know why! She was not ready to listen. This is the first time I met such an arrogant doctor. Wouldn't recommend her to anyone. Now even if I get a free follow up, I am not going! ",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-09 05:19:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Anandi Chakraborty"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 994785,
+            "status": "PUBLISHED",
+            "note": "2018-10-11 05:05:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-11T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38422913,
+                "review_text": "She is not ready to listen properly and without that she got into conclusion\nI clearly told her am allergic to antibiotic, without listening to that properly she made a conclusion that am not and she prescribed me antibiotic.***** ** **************** *** *** ******* **** *** ******** ** ********* ****** ***********",
+                "review_alterations": [
+                    {
+                        "start_index": 225,
+                        "end_index": 315,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 134268
+                    }
+                ],
+                "reviewed_on": "2018-10-09 06:06:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rajan R"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2331388,
+            "status": "PUBLISHED",
+            "note": "2024-01-28 07:58:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-28T08:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46374567,
+                "review_text": "The doctor spent less than 10 seconds to examine the issue. She seemed in a rush. She ended up prescribing me steroids. The problem has exacerbated and I am now struggling a lot. Consulting with a specialist now.  According to the specialist, steroids shouldn't have been prescribed. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-27 07:19:59",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2206806,
+            "status": "PUBLISHED",
+            "note": "2023-06-01 07:51:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-01T08:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45633051,
+                "review_text": "Doctor was not at all friendly. She seemed very disconnected from what she was doing. She was too impatient to listen all concerns carefully or to explain back us about the situation or line of treatment.\n\nNot at all reliable. ****** ****** ****** * ******* ***** ** ** *** **** ******* When we had asked on our own , then she asked us to get all sorts of teats done vendors including the ones which she had already asked us to do , which proves that how ignorant is she.\n\n** ** **** *** ********* ********** ** ***** **** **** **** ******** ****** ***** ******* ** ****** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 227,
+                        "end_index": 286,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 457920
+                    },
+                    {
+                        "start_index": 473,
+                        "end_index": 578,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 457921
+                    }
+                ],
+                "reviewed_on": "2023-05-29 03:00:09",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2319567,
+            "status": "PUBLISHED",
+            "note": "2024-01-05 09:26:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-05T10:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46306877,
+                "review_text": "The doc was  unfriendly, didn\u2019t seem cordial. She kept looking at me So weirdly throughout the appointment and I felt so uncomfortable. And she seemed in a hurry. I was explaining my issues to her and before I could complete or tell more symptoms she jotted down medicines already without any further clarification or explanation. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-04 08:06:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1209736,
+            "status": "PUBLISHED",
+            "note": "2019-07-28 05:34:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-28T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39845467,
+                "review_text": "Today , I visited the doctor *  ***** ***** *** ** *** ** ** * ****** * *** ********** ******** *** **** ******** *** ** ******** . She was in so much hurry that she didn't see listen to my wife problem and told her to go out side the room and consult other doctor. *** ** *** *** ** ** * ****** *** ** ***** **** ********** *** ******* ** ****** * ****** ** ******** . I strongly not advice that people should go for consultation from her. ****** ****** ** ****** ******* *** ***** ******** *** *** ** ***** **** *** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 28,
+                        "end_index": 129,
+                        "reason": "NON_COMPLIANT",
+                        "id": 195316
+                    },
+                    {
+                        "start_index": 266,
+                        "end_index": 367,
+                        "reason": "NON_COMPLIANT",
+                        "id": 195317
+                    },
+                    {
+                        "start_index": 441,
+                        "end_index": 524,
+                        "reason": "NON_COMPLIANT",
+                        "id": 195318
+                    }
+                ],
+                "reviewed_on": "2019-07-26 15:58:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2303517,
+            "status": "PUBLISHED",
+            "note": "2023-12-07 11:21:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-07T12:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46215936,
+                "review_text": "One visits the doctor when things are not in control.  The doctor is least bothered about patient's mental state. I felt it was not worth of time and money visiting her. She did seem to be in a hurry to wrap up the appointment quickly . When asked what precautions to take, she asked rudely What precautions..Will never visit her again!",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-06 11:19:18",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 868545,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 637342,
+            "status": "PUBLISHED",
+            "note": "2017-08-01 07:11:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "The Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-01T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35192642,
+                "review_text": "Doc doesn't listen to the problem ** ******** ********** ********** ** *********** ************* ***** ******* ************ ** ******* Would suggest to go to a better and more reputed doc.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 34,
+                        "end_index": 55,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 59381
+                    },
+                    {
+                        "start_index": 57,
+                        "end_index": 134,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 59382
+                    }
+                ],
+                "reviewed_on": "2017-07-29 14:33:32",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "RANJAN LUTHRA"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1038,
+                "text": "Flu"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1391126,
+            "status": "PUBLISHED",
+            "note": "2020-03-07 04:57:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-07T05:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41070700,
+                "review_text": "simple, straight forward. didn't have to wait. get prescription. took medicines from pharmacy and left within 20 mins ",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-05 13:43:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tanvi Singh"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1338034,
+            "status": "PUBLISHED",
+            "note": "2020-01-12 06:36:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-12T07:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40698011,
+                "review_text": "Most experienced.  Availability at the appointment time given.  She has explained the problem and suggested investigations required.",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-11 01:00:37",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "R Ramakrishna Rao"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1269973,
+            "status": "PUBLISHED",
+            "note": "2019-10-16 07:13:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-16T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40233345,
+                "review_text": "Doctor was very helpful in explaining the issue. Her suggested treatment worked like magic. Thanks again ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-15 05:07:40",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhijit Kumar"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193990,
+                "text": "ARTHRITIS"
+            },
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            },
+            {
+                "id": 279,
+                "text": "Knee Osteotomy"
+            },
+            {
+                "id": 186441,
+                "text": "Joint pains Adult Vaccination"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1233791,
+            "status": "PUBLISHED",
+            "note": "2019-08-29 07:42:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-29T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39999410,
+                "review_text": "I was worried after going through the feedbacks and at the same time I was looking for ladies doctor for my sister. But good experience I had and found she recognised the issues and patient is recovering. Thnx doc.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-28 04:40:39",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Waseem Akthar"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1040207,
+            "status": "PUBLISHED",
+            "note": "2018-12-14 06:02:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-14T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38747555,
+                "review_text": "the doctor is very much experienced and diagnoses the disease easily. ********* ** **** ********** recommended.",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 97,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 144175
+                    }
+                ],
+                "reviewed_on": "2018-12-13 03:06:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sajan Machingal"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2202080,
+            "status": "PUBLISHED",
+            "note": "2023-05-21 07:42:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-21T07:56:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45604331,
+                "review_text": "We had a 2:30 pm appointment but before us some family entered her cabin without informing reception. She talked to them for 45 mins while all her patients were waiting. Once we got it she was in a very foul mood, didn\u2019t listen to our concerns and just wrote medication for each concern.\n\nUsually she\u2019s good at her job, but often in a hurry and sometimes just doesn\u2019t listen to the patient. \n\nAnd we pay for the appointment, ***** *** ********* ** ** *** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 424,
+                        "end_index": 459,
+                        "reason": "NON_COMPLIANT",
+                        "id": 456592
+                    }
+                ],
+                "reviewed_on": "2023-05-20 07:36:22",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2152983,
+            "status": "PUBLISHED",
+            "note": "2023-02-18 05:06:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-18T06:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45312507,
+                "review_text": "The apollo doctor prescribed an injection, the apollo pharmacy didn't have the injection so they asked me to skip it. *** ***** **** **** ***** ****** *** **** *** the doctor was very rude *** ***** I was not helped and I definately did not recieve the ***** treatment. ",
+                "review_alterations": [
+                    {
+                        "start_index": 118,
+                        "end_index": 162,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 444899
+                    },
+                    {
+                        "start_index": 189,
+                        "end_index": 197,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 444900
+                    },
+                    {
+                        "start_index": 253,
+                        "end_index": 257,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 444901
+                    }
+                ],
+                "reviewed_on": "2023-02-17 03:27:46",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2098014,
+            "status": "PUBLISHED",
+            "note": "2022-11-09 08:19:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-09T09:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45000072,
+                "review_text": "I visited her on a Friday and she didn't even give enough time to listen to what I had to say. It was like go do these tests and then come back. If someone is paying you 750rs, they do deserve your time. Empathize with your patients. Even the staffs were really rude and not supportive.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-08 07:57:25",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192789,
+                "text": "Physcian"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2095181,
+            "status": "PUBLISHED",
+            "note": "2022-11-04 09:26:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-04T10:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44984212,
+                "review_text": "Horrible experience I ever had with any doctor. She was very unfriendly. She was not rude but she had a lot of attitude. Didn\u2019t even bother to spend 5 mins for listening to my issue and treating it\n Didn\u2019t even check my report\u2019s properly and without checking she was confident about my issue. Did not provide any proper medicine. Hated it. Will never recommend and visit again ",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-03 08:57:51",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1597394,
+            "status": "PUBLISHED",
+            "note": "2020-12-16 04:45:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-16T05:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42154409,
+                "review_text": "I consulted the doctor for allergy. She was so rude, she didn\u2019t let me explain the problem. *** **** **** ***** ********* *********** **** * **** *** * *** ****** ** ******** *** ***** ******* ********* She seemed to be some kind of hurry, was not respectful to me and my husband. I hope this review reaches her and it is helpful for others. ",
+                "review_alterations": [
+                    {
+                        "start_index": 91,
+                        "end_index": 174,
+                        "reason": "NON_COMPLIANT",
+                        "id": 314237
+                    },
+                    {
+                        "start_index": 175,
+                        "end_index": 201,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 314236
+                    }
+                ],
+                "reviewed_on": "2020-12-14 17:03:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 813123,
+            "status": "PUBLISHED",
+            "note": "2018-03-08 07:40:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 920071,
+            "practice_name": "The Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-08T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36920394,
+                "review_text": "I am very happy with the doctor... My wife recommended the doctor as she is taking the thyroid treatment from her.. I have some back strain and that's the reason i consulted with her.. She has given the suitable medicine and feeling much better now.. Thanks for consultation..",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-06 12:15:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1699146,
+            "status": "PUBLISHED",
+            "note": "2021-04-15 12:38:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-15T13:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42709727,
+                "review_text": "this was a follow up visit after getting my test results back. she quickly and effectively explained the meaning of the results and that was that. she was professional, warm and clear in her explanation.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-14 12:37:47",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4180,
+                "text": "managing acute medical conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1633488,
+            "status": "PUBLISHED",
+            "note": "2021-01-30 10:43:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-30T11:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42347711,
+                "review_text": "Happy with the treatment and consultation .Doctor guidence to deal with the allergy is helpful in the long run \n",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-29 10:40:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1618764,
+            "status": "PUBLISHED",
+            "note": "2021-01-12 07:20:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 712236,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-12T08:01:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42268138,
+                "review_text": "she was rude and was in so much hurry not ready to listen anything... she was like I am doing sime charity work I have no time...",
+                "review_alterations": [],
+                "reviewed_on": "2021-01-10 15:13:37",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 723992,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1040,
+                "text": "Light Headedness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1604286,
+            "status": "PUBLISHED",
+            "note": "2020-12-24 06:54:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 712236,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-24T07:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42190128,
+                "review_text": "not recommended. was having bad headache, doesnt listens properly *** *********** **** ******** ***** ** ******* **** ****** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 65,
+                        "end_index": 131,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 316229
+                    }
+                ],
+                "reviewed_on": "2020-12-23 06:52:46",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 723992,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 104,
+                "text": "Swollen Lymph Nodes"
+            },
+            {
+                "id": 59,
+                "text": "Cramping"
+            },
+            {
+                "id": 248,
+                "text": "Muscle Cramps"
+            },
+            {
+                "id": 1046,
+                "text": "Swelling Of Legs"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1379698,
+            "status": "PUBLISHED",
+            "note": "2020-02-26 06:52:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 255146,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-26T07:01:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41003801,
+                "review_text": "Well she said that the patient should be first checked by some neurologist. There is no   or - feedback from my end",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-24 07:27:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386322,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

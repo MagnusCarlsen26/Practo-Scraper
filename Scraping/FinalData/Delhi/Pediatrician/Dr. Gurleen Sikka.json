@@ -1,0 +1,438 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2388044,
+            "status": "PUBLISHED",
+            "note": "2024-05-23 07:46:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-23T08:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46700005,
+                "review_text": "I recently got my daughter treated by Dr. Gurleen Sikka. She is a truly exceptional doctor, combining a sweet and compassionate demeanour with a highly objective and effective approach to treatment. From the moment we walked into the office, we felt welcomed and at ease. Dr. Gurleen took the time to thoroughly understand my daughter's condition and provided clear, concise explanations of the treatment plan. The results were outstanding, and my daughter is now feeling much better. I highly recommend Dr. Gurleen to anyone seeking a caring and skilled healthcare professional. Thank you, Dr. Gurleen, for your wonderful care!",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-22 04:33:29",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saurabh"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2411096,
+            "status": "PUBLISHED",
+            "note": "2024-07-10 08:03:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-10T09:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46831667,
+                "review_text": "Dr Gurleen is a nice doctor, explains to each and every concern a parent can have.  Specially if you are new to motherhood there are numerous questions in your mind when it comes to baby care and wellbeing. Would highly recommend to others. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-08 13:43:25",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2129,
+                "text": "Paediatric Critical Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2425125,
+            "status": "PUBLISHED",
+            "note": "2024-08-07 05:44:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-07T06:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46912166,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2024-08-05 14:04:25",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2370625,
+            "status": "PUBLISHED",
+            "note": "2024-04-17 10:23:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-17T11:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46600272,
+                "review_text": "Dr. Gurleen Sikka is a remarkable pediatrician known for her exceptional qualities. Patients consistently praise her for her warm and friendly demeanor, which instantly puts children and parents at ease. Dr. Sikka takes the time to truly understand each patient's concerns, listening attentively and asking insightful questions to ensure she grasps the full scope of the problem. Her dedication to understanding her patients' needs fosters trust and confidence, making her a beloved figure in the pediatric community.",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-16 10:11:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2350290,
+            "status": "PUBLISHED",
+            "note": "2024-03-05 10:25:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-05T11:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46484322,
+                "review_text": "Very friendly doctor get such positive vibes from her \nAnd explains everThing so nicely that u leave all your tension in doctors office and come back happy",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-02 13:15:46",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Disha Rajpal"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2135,
+                "text": "Growth & Development Evaluation / Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2281316,
+            "status": "PUBLISHED",
+            "note": "2023-10-24 07:25:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-24T08:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46090282,
+                "review_text": "The doctor is excellent in nature and listens carefully. She is giving the best advice as always. Would recommend ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-21 13:56:56",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jaskirat Singh"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2210587,
+            "status": "PUBLISHED",
+            "note": "2023-06-06 12:12:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-06T13:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45656291,
+                "review_text": "Doctor is really patient and listen carefully always available on call highly recommended\nAlways give best possible solution for all health Concern ",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-05 09:51:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kamna"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2210563,
+            "status": "PUBLISHED",
+            "note": "2023-06-06 12:06:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-06T13:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45656143,
+                "review_text": "Friendly, politer, explained well and effective treatment would highly refer to anyone looking for paediatrician",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-05 09:05:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Simran Monga"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2211719,
+            "status": "PUBLISHED",
+            "note": "2023-06-08 08:08:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 771485,
+            "practice_id": 1355000,
+            "practice_name": "CK Birla Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-08T09:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45662789,
+                "review_text": " Dr Gurleen is Very polite and knowledge doctor will always recommend her to other patients. She has always examine the child properly.",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-07 06:52:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 786711,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

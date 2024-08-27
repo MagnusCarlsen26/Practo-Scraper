@@ -1,0 +1,101 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2298387,
+            "status": "PUBLISHED",
+            "note": "2023-11-28 07:00:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 633788,
+            "practice_id": 1171571,
+            "practice_name": "Ortho Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-28T07:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46187055,
+                "review_text": "Super talented, full of knowledge and a very kind generous human being. A doctor with immense tricks, suggestions, a solution to all ortho problems, full of experience, available at odd times too, fabulous person.\nWe suggest Dr. nargesh Agarwal to all the people with ortho related issues.",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-27 05:30:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ekta Sharma"
+        },
+        "entity_id": 613536,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 754,
+                "text": "Congenital Disorders Evaluation / Treatment"
+            },
+            {
+                "id": 852,
+                "text": "Limb Deformities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1239052,
+            "status": "PUBLISHED",
+            "note": "2019-09-05 11:56:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 633788,
+            "practice_id": 1171571,
+            "practice_name": "Ortho Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-05T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40032801,
+                "review_text": "Very friendly and experienced, Tell each and everything about your problems deeply and explain it. I felt relax and satisfied after meeting him",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-04 10:35:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 613536,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

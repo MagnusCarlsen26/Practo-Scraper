@@ -1,0 +1,1606 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 166635,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 686799,
+            "practice_name": "Hansaa Healthcare and Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-16T04:52:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 11156908,
+                "review_text": "Dr. Harish is one of the most effective doctor i ever meet. I have visited Hansa Clinic since it opened and satisfy with Doctor Harish treatment and his advises. First we consulted with him in 2010 when my diabetic father had to gone under surgery but sugar level was not in control- Dr. Harish made it possible with good combination of medicine and surgery was performed without Insulin.\r\nAny one visiting to dr. Harish have to ready for many lab test as he never prescribed any medicine / treatment in absence of reliable information. Sometime it is costly and cross our budget but it is very much required.   ",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-15 15:49:55",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": " nitin jain"
+        },
+        "entity_id": 150323,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 941486,
+            "status": "PUBLISHED",
+            "note": "2018-08-08 12:30:17",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-08T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38022652,
+                "review_text": "The doctor is good *** *** ********* *** ***** he prescribed a good antibiotic, steam, gargles and diet plan which helped me recover faster. He even answered queries on call, though he recommended one medicine which was out of stock at all chemists since 6 months and my cough took a very long time to heal. One sour point was that I paid Rs 600 for the follow up visit as well, I was told on first day follow up visit will be at 400. also the tests at Hansaa clinic are quite expensive and I paid more than I was expecting.",
+                "review_alterations": [
+                    {
+                        "start_index": 18,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 122230
+                    }
+                ],
+                "reviewed_on": "2018-08-06 17:57:02",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2239779,
+            "status": "PUBLISHED",
+            "note": "2023-07-26 05:30:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 940113,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-26T06:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45826199,
+                "review_text": "I had a disappointing experience at Dr. Harish Hansaa Clinic in Bangalore. The consultation fees approach was unsatisfactory, as I had to pay an additional fee for showing the reports. The doctor seemed disappointed because I didn't do the blood test at his recommended lab. * ******* ****** ************* *** ************* **** *** ****** ***** **** **** *** ***** **** ********* I'll be seeking alternative healthcare providers in the future.",
+                "review_alterations": [
+                    {
+                        "start_index": 275,
+                        "end_index": 379,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 464082
+                    }
+                ],
+                "reviewed_on": "2023-07-24 13:46:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Aasif"
+        },
+        "entity_id": 813385,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 578160,
+            "status": "PUBLISHED",
+            "note": "2017-06-02 09:59:29",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-02T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34592083,
+                "review_text": "It was good howeevr, would have appreciated a much more detailed diagnosis and suggestions. Otherwise, the doc seems fine. Only thing is little details would have helped",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-01 09:48:06",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "chandrima choudhury"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 585348,
+            "status": "PUBLISHED",
+            "note": "2017-06-09 13:02:26",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-09T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34662402,
+                "review_text": "Dr. Harish does not give you unnecessary tablets. He may recommend you to do some tests to narrow down on your illness, which i think is good rather than taking unnecessary tablets. I really appreciate the way he diagnoses issues. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-08 08:03:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Binu Peedikakandy"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192342,
+                "text": "Viral Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 456963,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-27T10:12:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30524568,
+                "review_text": "***** ********** Ruled out dengue. Cautioned about infectious nature of the fever. Explained dos and donts and diet\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 24444
+                    }
+                ],
+                "reviewed_on": "2017-01-25 01:12:20",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Paul P. Kuriyan"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 431044,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-12-21T05:53:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 28946152,
+                "review_text": "I visit Dr.Harish sir whenever I have any kind of medical problem. ** ** ** ********* ****** *** he diagonizes any medical problem while talking to the patient. I always recommend him as I  never need to go to any orher doctor from past few years.",
+                "review_alterations": [
+                    {
+                        "start_index": 66,
+                        "end_index": 95,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 18489
+                    }
+                ],
+                "reviewed_on": "2016-12-21 05:30:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chaitanya Kumar S"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1540112,
+            "status": "PUBLISHED",
+            "note": "2020-10-06 06:08:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-06T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41848925,
+                "review_text": "Doctor had explained the issue in a very detailed manner and gave some great tips which I could follow  to ensure a quick recovery. He also checked up on me a few days later to see how I had come along. Would definitely recommend :)",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-04 03:43:49",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neeraj Mohan"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186437,
+                "text": " Hepatitis"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1440790,
+            "status": "PUBLISHED",
+            "note": "2020-06-10 06:39:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-10T07:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41342108,
+                "review_text": "He is most competent with very fast response . Before test results, he prescribed and told to hold till results are available .no charge in prescription after results are available .",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-08 13:44:43",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sagar Kumar Mitra"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            },
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1280225,
+            "status": "PUBLISHED",
+            "note": "2019-11-01 06:44:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-01T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 203184,
+                "reply_status": "PUBLISHED",
+                "reply_text": "If  you all can decide the doctor degree\nYou should introspect you.whether you can comment on a docter",
+                "replied_at": "2020-04-18T12:53:12+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 212961,
+                "modified_by_id": 212961,
+                "replier_name": "Dr. Harish K V",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/258903/dr-harish-k-v-5d431056f1611.jpeg"
+            },
+            "survey_response": {
+                "id": 40300642,
+                "review_text": "no direct interaction doctor and assistant interaction is more, no reasons blood check up and cost more than 2000",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-31 06:02:03",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Prasad Solingaram"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 166635,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 686799,
+            "practice_name": "Hansaa Healthcare and Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-01-16T04:52:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 11156908,
+                "review_text": "Dr. Harish is one of the most effective doctor i ever meet. I have visited Hansa Clinic since it opened and satisfy with Doctor Harish treatment and his advises. First we consulted with him in 2010 when my diabetic father had to gone under surgery but sugar level was not in control- Dr. Harish made it possible with good combination of medicine and surgery was performed without Insulin.\r\nAny one visiting to dr. Harish have to ready for many lab test as he never prescribed any medicine / treatment in absence of reliable information. Sometime it is costly and cross our budget but it is very much required.   ",
+                "review_alterations": [],
+                "reviewed_on": "2016-01-15 15:49:55",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": " nitin jain"
+        },
+        "entity_id": 150323,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 941486,
+            "status": "PUBLISHED",
+            "note": "2018-08-08 12:30:17",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-08T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38022652,
+                "review_text": "The doctor is good *** *** ********* *** ***** he prescribed a good antibiotic, steam, gargles and diet plan which helped me recover faster. He even answered queries on call, though he recommended one medicine which was out of stock at all chemists since 6 months and my cough took a very long time to heal. One sour point was that I paid Rs 600 for the follow up visit as well, I was told on first day follow up visit will be at 400. also the tests at Hansaa clinic are quite expensive and I paid more than I was expecting.",
+                "review_alterations": [
+                    {
+                        "start_index": 18,
+                        "end_index": 46,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 122230
+                    }
+                ],
+                "reviewed_on": "2018-08-06 17:57:02",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2239779,
+            "status": "PUBLISHED",
+            "note": "2023-07-26 05:30:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 940113,
+            "practice_name": "Fortis Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-26T06:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45826199,
+                "review_text": "I had a disappointing experience at Dr. Harish Hansaa Clinic in Bangalore. The consultation fees approach was unsatisfactory, as I had to pay an additional fee for showing the reports. The doctor seemed disappointed because I didn't do the blood test at his recommended lab. * ******* ****** ************* *** ************* **** *** ****** ***** **** **** *** ***** **** ********* I'll be seeking alternative healthcare providers in the future.",
+                "review_alterations": [
+                    {
+                        "start_index": 275,
+                        "end_index": 379,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 464082
+                    }
+                ],
+                "reviewed_on": "2023-07-24 13:46:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Aasif"
+        },
+        "entity_id": 813385,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 578160,
+            "status": "PUBLISHED",
+            "note": "2017-06-02 09:59:29",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-02T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34592083,
+                "review_text": "It was good howeevr, would have appreciated a much more detailed diagnosis and suggestions. Otherwise, the doc seems fine. Only thing is little details would have helped",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-01 09:48:06",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "chandrima choudhury"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 585348,
+            "status": "PUBLISHED",
+            "note": "2017-06-09 13:02:26",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-09T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34662402,
+                "review_text": "Dr. Harish does not give you unnecessary tablets. He may recommend you to do some tests to narrow down on your illness, which i think is good rather than taking unnecessary tablets. I really appreciate the way he diagnoses issues. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-08 08:03:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Binu Peedikakandy"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192342,
+                "text": "Viral Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 456963,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-27T10:12:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30524568,
+                "review_text": "***** ********** Ruled out dengue. Cautioned about infectious nature of the fever. Explained dos and donts and diet\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 24444
+                    }
+                ],
+                "reviewed_on": "2017-01-25 01:12:20",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Paul P. Kuriyan"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 431044,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-12-21T05:53:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 28946152,
+                "review_text": "I visit Dr.Harish sir whenever I have any kind of medical problem. ** ** ** ********* ****** *** he diagonizes any medical problem while talking to the patient. I always recommend him as I  never need to go to any orher doctor from past few years.",
+                "review_alterations": [
+                    {
+                        "start_index": 66,
+                        "end_index": 95,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 18489
+                    }
+                ],
+                "reviewed_on": "2016-12-21 05:30:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chaitanya Kumar S"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1540112,
+            "status": "PUBLISHED",
+            "note": "2020-10-06 06:08:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-06T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41848925,
+                "review_text": "Doctor had explained the issue in a very detailed manner and gave some great tips which I could follow  to ensure a quick recovery. He also checked up on me a few days later to see how I had come along. Would definitely recommend :)",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-04 03:43:49",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neeraj Mohan"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186437,
+                "text": " Hepatitis"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1440790,
+            "status": "PUBLISHED",
+            "note": "2020-06-10 06:39:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-10T07:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41342108,
+                "review_text": "He is most competent with very fast response . Before test results, he prescribed and told to hold till results are available .no charge in prescription after results are available .",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-08 13:44:43",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sagar Kumar Mitra"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            },
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1280225,
+            "status": "PUBLISHED",
+            "note": "2019-11-01 06:44:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-01T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 203184,
+                "reply_status": "PUBLISHED",
+                "reply_text": "If  you all can decide the doctor degree\nYou should introspect you.whether you can comment on a docter",
+                "replied_at": "2020-04-18T12:53:12+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 212961,
+                "modified_by_id": 212961,
+                "replier_name": "Dr. Harish K V",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/258903/dr-harish-k-v-5d431056f1611.jpeg"
+            },
+            "survey_response": {
+                "id": 40300642,
+                "review_text": "no direct interaction doctor and assistant interaction is more, no reasons blood check up and cost more than 2000",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-31 06:02:03",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Prasad Solingaram"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1256910,
+            "status": "PUBLISHED",
+            "note": "2019-09-27 12:49:27",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-27T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40148025,
+                "review_text": "Very prompt and accurate diagnosis has by Dr. Harish helped in alleviating the pain caused by my medical issue. Dr. Harish's calm and assured demeanour is a big plus !!!!!!!!!!!!!!!!!",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-26 12:48:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Satish Rao"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186436,
+                "text": "High cholesterol"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 983834,
+            "status": "PUBLISHED",
+            "note": "2018-09-27 06:16:31",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-27T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38346104,
+                "review_text": "Doctor is very friendly,\nStaff is very friendly,\nHospital facility is clean and nice. \nOnline booking facility is very friendly and book in advance.\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-26 03:10:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Devendra Kuppala"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144561,
+                "text": "Thyroid Disorder Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 902765,
+            "status": "PUBLISHED",
+            "note": "2018-06-20 07:09:59",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-20T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37697775,
+                "review_text": "We were fortunate to consult Dr. Harish.. He is very positive person and never scares or panic the patient.. I went in a very depressed state but he made me come out of that situation... The Clinic also generates positive vibes.. The patient feels better just by going there... I strongly recommend to visit Dr. Harish . he is very good at giving advices regarding other health issues. The staff around are also very polite and cordial.",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-19 05:10:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 806903,
+            "status": "PUBLISHED",
+            "note": "2018-02-28 09:15:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-28T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36859636,
+                "review_text": "Clean room. Quick diagnosis which seems to be correct as I felt better day after. Same for my son as we were both infected. Good explanations. I think I will go back if needed.",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-26 15:09:34",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Christophe Lecocq"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 642976,
+            "status": "PUBLISHED",
+            "note": "2017-08-06 09:12:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-06T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35251455,
+                "review_text": "Great ezperience. Informative. Good atmosphere. Clean and tidy. Easily accessible. Transparent. Good natured.\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-05 04:01:24",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 304803,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 686799,
+            "practice_name": "Hansaa Healthcare and Research Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-12T05:54:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 20818622,
+                "review_text": "Dr Harish is the best doctor. I had never seen such a nice doctor in my life. A great treatment. He was the one who identify the the patient problem ang suggest and within days he make patient normal.",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-05 19:55:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 150323,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1962548,
+            "status": "PUBLISHED",
+            "note": "2022-03-31 06:09:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-31T07:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44219227,
+                "review_text": "Doctor wait time is more because he busy with his phone always  and very rude to stuffs around, doctors should be friendly .",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-29 18:15:56",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 813385,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            },
+            {
+                "id": 1695,
+                "text": "Well Woman Healthcheck"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1945141,
+            "status": "PUBLISHED",
+            "note": "2022-03-04 07:21:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-04T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44123309,
+                "review_text": "Dr explained medication well and identified what was wrong and gave the right medication.. happy with the doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-03 07:16:06",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 813385,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1245180,
+            "status": "PUBLISHED",
+            "note": "2019-09-13 06:26:13",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-13T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40071961,
+                "review_text": "I went there for a routine check up, doctor was very patient in explaining some of the blood test parameters, and gave a balanced approach to the treatment.\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-12 03:31:52",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 794807,
+            "status": "PUBLISHED",
+            "note": "2018-02-15 11:01:38",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 258903,
+            "practice_id": 1132985,
+            "practice_name": "Hansaa Health Care and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-15T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36748311,
+                "review_text": "Dr. Harish quickly diagnosed the problem.  He explained the issue very clearly and also explained the medicines prescribed, the effects of each one, etc.\nVery satisfied with his professionalism.\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-13 04:22:55",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 558373,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

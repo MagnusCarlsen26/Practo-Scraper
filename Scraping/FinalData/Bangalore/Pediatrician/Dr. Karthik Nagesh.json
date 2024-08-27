@@ -1,0 +1,235 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1343193,
+            "status": "PUBLISHED",
+            "note": "2020-01-19 06:34:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297038,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-19T07:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40737507,
+                "review_text": "We almost had three consultations with him in the last two months. At first, we waited for more than an hour to consult the doctor but the follow up sessions took only 15 minutes. He suggested some important tests only. *** ********* *** ********* *** **** ** *** ******* *******",
+                "review_alterations": [
+                    {
+                        "start_index": 220,
+                        "end_index": 278,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 238853
+                    }
+                ],
+                "reviewed_on": "2020-01-17 04:02:23",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Oindrila"
+        },
+        "entity_id": 268190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 598878,
+            "status": "PUBLISHED",
+            "note": "2017-06-22 08:42:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297038,
+            "practice_id": 614665,
+            "practice_name": "Mother & Child Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-22T09:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34798751,
+                "review_text": "He is like our family doctor...from the beginning we are consulting him only..He is very experienced..\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-21 04:04:00",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanjana G C"
+        },
+        "entity_id": 20231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1120,
+                "text": "Cough In Children"
+            },
+            {
+                "id": 967,
+                "text": "Colic"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 578414,
+            "status": "PUBLISHED",
+            "note": "2017-06-03 05:14:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297038,
+            "practice_id": 614665,
+            "practice_name": "Mother & Child Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-03T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34594930,
+                "review_text": "Backed with so many years of experience and research, one can be rest assured that you are in safe hands. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-01 13:58:24",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MS Anumita"
+        },
+        "entity_id": 20231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 533376,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297038,
+            "practice_id": 614665,
+            "practice_name": "Mother & Child Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-20T13:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34123169,
+                "review_text": "****** ** ***** Listening & suggest good.I had gone for my baby not feeding at all. He wants always for play.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 14,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 40647
+                    }
+                ],
+                "reviewed_on": "2017-04-20 12:51:51",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Partha Sarathi"
+        },
+        "entity_id": 20231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 493518,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297038,
+            "practice_id": 614665,
+            "practice_name": "Mother & Child Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-11T04:53:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32729631,
+                "review_text": "Good. Very experienced and qualified professional.  He can be little patient to hear our questions. \n\n",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-11 02:56:19",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Patturaja M"
+        },
+        "entity_id": 20231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

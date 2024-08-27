@@ -1,0 +1,3575 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 519331,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1057045,
+            "practice_name": "Ovum Woman & Child Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-08T11:14:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33970935,
+                "review_text": "Dr Vidheya is an extremely ******** *** **** kind person. He was the neonatologist and pediatric for a just born baby. Our baby since being a preterm had weight and infant jondice issues. The doctor took the baby through her initial days after birth and made sure that the our baby was given the ***** treatment and care. \nHe is not only very approachable and professional in his consultation but he is also quite friendly in advising the right way of bringing up the kid. \nIt was our first child and we had very little idea how to go about, Dr Vidheya helped us understand our baby girl better. Our baby is gaining weight now and her jondice is reducing. Thank you doctor!! \nI would highly recommend the doc to my friends and their babies. ",
+                "review_alterations": [
+                    {
+                        "start_index": 27,
+                        "end_index": 43,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 37828
+                    },
+                    {
+                        "start_index": 296,
+                        "end_index": 300,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 37829
+                    }
+                ],
+                "reviewed_on": "2017-04-08 07:25:10",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tufale Ashai"
+        },
+        "entity_id": 547975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1401769,
+            "status": "PUBLISHED",
+            "note": "2020-03-18 09:24:00",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-18T10:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41137428,
+                "review_text": "Dr Vidheya Venkatesh was assigned to us as the Paediatrician for our child born in cloudnine hospital.Ever since we are consulting him.My son had jaundice for around 6-8 weeks n his bilrubin levels were around 16 initially.Dr Vidheya did not scare us and did not recommend phototherapy unnecessarily.i have heard some doctors scare even when the levels are around 10.He doesn't scare us n doesn't suggest big treatments unnecessarily as against what we would expect from doctors in big hospitals.He is very patient and answers our queries well.He also responds to queries on WhatsApp which is highly appreciable.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-16 13:41:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Thejaswi S R"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 779854,
+            "status": "PUBLISHED",
+            "note": "2018-02-04 06:27:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-04T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36606060,
+                "review_text": "Doctor was good. He was friendly and genuinely taking care of problem.\nWhat I did not like is interference from nurse who discouraged us from asking more questions which were concerning us. Doctor was fine wit it but she interfered and said no more questions and other patient is waiting outside. It was hardly less than 5 mins we met the doctor. This experience was bad for us. Nurse wanted to finish of the appointment as quickly ad possible. Please ask nurses to wait outside when consulting with patients and doctors can call them whenever required.",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-25 04:37:35",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Baby.Abdulla Ahammed"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2154336,
+            "status": "PUBLISHED",
+            "note": "2023-02-20 11:33:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1362746,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-20T12:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45320247,
+                "review_text": "I do believe he is a good doctor but I was truly disappointed with the vaccination experience for my baby. I am not sure if this should be attributed to the doctor or the hospital. If there is a way I can give thumbs up to my consultation experience separately, I would have done so.I went for 7th month vaccination which was just influenza shot. Even before consultation, nurse came with the prescription to buy vaccine which was surprising as up until then, vaccine is prescribed only after clearing the baby. When the vaccine amount was high, we were surprised as it was only supposed to be influenza. But with vaccine bought, we went to see the doc where we asked if it\u2019s just influenza and he said no we are doing typhoid as well. He said your book is outdated (trust me it\u2019s been only 7 months since the baby was born), now typhoid should be given btw 6-12 months and we at cloud nine give it at 7th month..we weren\u2019t too sure abt it but we are not experts and doctor is saying this and he has not given us an option to think about it coz we were told to buy the vaccination before consultation. So this is my problem here. We are coming here for our baby\u2019s immunisation and we want the best for her but there is a level of trust that needs to be established and that was not there. If doctor is going outside the book, shouldn\u2019t the parents be aware of it before purchasing the vaccination. Then the parents can actually digest that information and probably ask for time to wait on this particular vaccine, just saying. I went ahead and checked couple of my relatives *** ******** *********** **** *** ********* *** ***** *** ******* ******* ** **** ****** * **** ***** *** ******** *** ******** ******* ************ ***** *** ******* ******* ** ** **** ****** ** *** ******** ********** **** *** ** ***** ***** ******* ** **** * **** ******* **** ** ******** ******* ******* ******** *** **** ********* ** ***** ******** **** * *** ****, atleast we need to be informed of the decision. Now my baby never had fever after vaccinations before *** **** **** *** *** **** **** ****** ******** *** ******* ********* *** ***** ******* ****** **** ***** **** * ******* ** ***** *** ***** But I am sensible enough not to write a bad review bcos of common side effects of vaccine but I truly believe if he had consulted first and told she needs typhoid vaccine now as opposed to the immunisation chart of India and convinced us, it would have been a different story. No this they told while they were opening the vacc medicines. I kind of feel buying the medicine before consultation was a way for them to expedite the consultation but with kind of premium consultation charges they levy on us, though ours might be a straight forward vaccination consultation, we really wish it was handled better.",
+                "review_alterations": [
+                    {
+                        "start_index": 1574,
+                        "end_index": 1825,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 445332
+                    },
+                    {
+                        "start_index": 1827,
+                        "end_index": 1943,
+                        "reason": "NON_COMPLIANT",
+                        "id": 445333
+                    },
+                    {
+                        "start_index": 2048,
+                        "end_index": 2186,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 445334
+                    }
+                ],
+                "reviewed_on": "2023-02-19 07:01:48",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Halit Telveenus"
+        },
+        "entity_id": 797218,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2355598,
+            "status": "PUBLISHED",
+            "note": "2024-03-14 07:14:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-14T08:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46514831,
+                "review_text": "Not very good, works for hospital,, not for wellness of Patients. \nHe is like a robot, reading all the instructions step by step as mentioned on his iPad. \nDoesn\u2019t give any personalised advice. \n\nGot my newborn admitted for Jaundice, ** ****** ***** ** *** *** *** **** **** ** *** ***** *** *** *** **** admitted right away.  \nWhich we did, but at the time of discharge he never tells you how to take care of the same \nHe will just tell you that u might need to admit the baby again, Jaundice might reappear \nDoes give you preventive actions. Not at all recommended.",
+                "review_alterations": [
+                    {
+                        "start_index": 233,
+                        "end_index": 287,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 481432
+                    },
+                    {
+                        "start_index": 288,
+                        "end_index": 303,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 481433
+                    }
+                ],
+                "reviewed_on": "2024-03-13 03:41:07",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shweta"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1532,
+                "text": "Neonatal Nursing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1510198,
+            "status": "PUBLISHED",
+            "note": "2020-09-04 05:07:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-04T06:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41691915,
+                "review_text": "Cloud 9 facility is overall good in terms cleanliness and hygiene. They have great team of gynecologist.\n*** ** **** ******* **** *** ************ ********* ** **** ****** ****** ** *** ****** **** ***** **** ***** **Dr Prashant and Dr Vidya at HRBR layout are arrogant insensitive *** ******** ******** They don't even bother to update the parents with child health status and you need to chase them for the updates. *** *** *** **** **** **** ** **** ****** ** **** ** ****  ***** ****** Dr Vidya words \" if we feel that mother is confident enough then only we will discharge the baby. They will boost up mother confidence by keeping child in NICU * * **** ** *** ****** ***** *** *** *** *** ****** ** ********* ***** * ****** *** *** ************ *** ****** ******* ******* *** *** *** ****\n\nI know this comment will not make much difference *** ********** **** **** **** ****** ******** **** *** ********* ",
+                "review_alterations": [
+                    {
+                        "start_index": 105,
+                        "end_index": 216,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290041
+                    },
+                    {
+                        "start_index": 282,
+                        "end_index": 303,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290042
+                    },
+                    {
+                        "start_index": 417,
+                        "end_index": 488,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290043
+                    },
+                    {
+                        "start_index": 650,
+                        "end_index": 793,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290044
+                    },
+                    {
+                        "start_index": 845,
+                        "end_index": 909,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290045
+                    }
+                ],
+                "reviewed_on": "2020-09-02 17:39:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "TUSHAR"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193999,
+                "text": " Consultation provided for all pediatric disease"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2025039,
+            "status": "PUBLISHED",
+            "note": "2022-07-08 06:29:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-08T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44573543,
+                "review_text": "We took our kid to Dr Vidheya Venkatesh for cold, dry cough and fever and doctor suggested some syrups.. \nThough we have used syrups for 2 days ** ********* ***** ** ** ****** ******* we see our kid is coughing more.. **** * ******* ***** ***** ***** *** **** ** **** **** *** ***** **** *** ***** **** ******* ******** ****** **** ********* ***** *** *** ***** ******* ** *** ******* \n\nAs everyone thinks that health is more important and we prefer best hospital by paying 850 rupees for consulting doctor.. But we had bad experience.* **** ********** ** ** ****** ******** ******** ********* *** ******* ******** *********** \n\nThank you! ",
+                "review_alterations": [
+                    {
+                        "start_index": 144,
+                        "end_index": 182,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 417174
+                    },
+                    {
+                        "start_index": 218,
+                        "end_index": 384,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 417175
+                    },
+                    {
+                        "start_index": 535,
+                        "end_index": 625,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 417176
+                    }
+                ],
+                "reviewed_on": "2022-07-06 17:47:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Venkateswara"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1120,
+                "text": "Cough In Children"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 960896,
+            "status": "PUBLISHED",
+            "note": "2018-08-31 05:34:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-31T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38179973,
+                "review_text": "Dr Vidheya Venkatesh is very good Doctors in terms of knowledge and behaviour. He has done great job when our baby delivered pre term (around 3 months before due date) and when baby was in NICU for 2 months. Drs given us hope and did all good along with Nurses on duty. I highly recommend Dr Vidheya to any parents for their kids.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-29 20:12:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandeep Anand"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1221350,
+            "status": "PUBLISHED",
+            "note": "2019-08-13 13:13:54",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-13T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39919680,
+                "review_text": "Dr Vidheya Venkatesh has been monitoring our baby since our baby's birth. The  baby was diagnosed with neonatal jaundice and the doctor explained the situation well, answered all our questions and treated the condition well. He was kind, polite and patienlty listened to our queries. He responded to our questions on WhatsApp even after discharge which reduced our anxiety. I recommend the doctor",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-11 14:14:30",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mahesh"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1532,
+                "text": "Neonatal Nursing"
+            },
+            {
+                "id": 26255,
+                "text": "Paediatric Intensive Care"
+            },
+            {
+                "id": 193480,
+                "text": "Neonatology -preterm follow up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1073331,
+            "status": "PUBLISHED",
+            "note": "2019-01-30 05:10:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-30T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38969014,
+                "review_text": "Dr. Vidhya was our primary doctor at Cloudnine Bangalore. Our extreme premature babies was under his treatment and intensive care. He is very friendly, sincere and polite. He explain the problem and situation very well. Most amazing part was he is always available over message in case of any situation; helped and guided us in case of emergency situations...\n\nOverall he is an excellent doctor... We r very much thankful to him for all his efforts to save my babies...",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-28 17:10:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mithun Saha"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 519331,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1057045,
+            "practice_name": "Ovum Woman & Child Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-08T11:14:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33970935,
+                "review_text": "Dr Vidheya is an extremely ******** *** **** kind person. He was the neonatologist and pediatric for a just born baby. Our baby since being a preterm had weight and infant jondice issues. The doctor took the baby through her initial days after birth and made sure that the our baby was given the ***** treatment and care. \nHe is not only very approachable and professional in his consultation but he is also quite friendly in advising the right way of bringing up the kid. \nIt was our first child and we had very little idea how to go about, Dr Vidheya helped us understand our baby girl better. Our baby is gaining weight now and her jondice is reducing. Thank you doctor!! \nI would highly recommend the doc to my friends and their babies. ",
+                "review_alterations": [
+                    {
+                        "start_index": 27,
+                        "end_index": 43,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 37828
+                    },
+                    {
+                        "start_index": 296,
+                        "end_index": 300,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 37829
+                    }
+                ],
+                "reviewed_on": "2017-04-08 07:25:10",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tufale Ashai"
+        },
+        "entity_id": 547975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1401769,
+            "status": "PUBLISHED",
+            "note": "2020-03-18 09:24:00",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-18T10:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41137428,
+                "review_text": "Dr Vidheya Venkatesh was assigned to us as the Paediatrician for our child born in cloudnine hospital.Ever since we are consulting him.My son had jaundice for around 6-8 weeks n his bilrubin levels were around 16 initially.Dr Vidheya did not scare us and did not recommend phototherapy unnecessarily.i have heard some doctors scare even when the levels are around 10.He doesn't scare us n doesn't suggest big treatments unnecessarily as against what we would expect from doctors in big hospitals.He is very patient and answers our queries well.He also responds to queries on WhatsApp which is highly appreciable.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-16 13:41:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Thejaswi S R"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 779854,
+            "status": "PUBLISHED",
+            "note": "2018-02-04 06:27:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-04T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36606060,
+                "review_text": "Doctor was good. He was friendly and genuinely taking care of problem.\nWhat I did not like is interference from nurse who discouraged us from asking more questions which were concerning us. Doctor was fine wit it but she interfered and said no more questions and other patient is waiting outside. It was hardly less than 5 mins we met the doctor. This experience was bad for us. Nurse wanted to finish of the appointment as quickly ad possible. Please ask nurses to wait outside when consulting with patients and doctors can call them whenever required.",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-25 04:37:35",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Baby.Abdulla Ahammed"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2154336,
+            "status": "PUBLISHED",
+            "note": "2023-02-20 11:33:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1362746,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-20T12:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45320247,
+                "review_text": "I do believe he is a good doctor but I was truly disappointed with the vaccination experience for my baby. I am not sure if this should be attributed to the doctor or the hospital. If there is a way I can give thumbs up to my consultation experience separately, I would have done so.I went for 7th month vaccination which was just influenza shot. Even before consultation, nurse came with the prescription to buy vaccine which was surprising as up until then, vaccine is prescribed only after clearing the baby. When the vaccine amount was high, we were surprised as it was only supposed to be influenza. But with vaccine bought, we went to see the doc where we asked if it\u2019s just influenza and he said no we are doing typhoid as well. He said your book is outdated (trust me it\u2019s been only 7 months since the baby was born), now typhoid should be given btw 6-12 months and we at cloud nine give it at 7th month..we weren\u2019t too sure abt it but we are not experts and doctor is saying this and he has not given us an option to think about it coz we were told to buy the vaccination before consultation. So this is my problem here. We are coming here for our baby\u2019s immunisation and we want the best for her but there is a level of trust that needs to be established and that was not there. If doctor is going outside the book, shouldn\u2019t the parents be aware of it before purchasing the vaccination. Then the parents can actually digest that information and probably ask for time to wait on this particular vaccine, just saying. I went ahead and checked couple of my relatives *** ******** *********** **** *** ********* *** ***** *** ******* ******* ** **** ****** * **** ***** *** ******** *** ******** ******* ************ ***** *** ******* ******* ** ** **** ****** ** *** ******** ********** **** *** ** ***** ***** ******* ** **** * **** ******* **** ** ******** ******* ******* ******** *** **** ********* ** ***** ******** **** * *** ****, atleast we need to be informed of the decision. Now my baby never had fever after vaccinations before *** **** **** *** *** **** **** ****** ******** *** ******* ********* *** ***** ******* ****** **** ***** **** * ******* ** ***** *** ***** But I am sensible enough not to write a bad review bcos of common side effects of vaccine but I truly believe if he had consulted first and told she needs typhoid vaccine now as opposed to the immunisation chart of India and convinced us, it would have been a different story. No this they told while they were opening the vacc medicines. I kind of feel buying the medicine before consultation was a way for them to expedite the consultation but with kind of premium consultation charges they levy on us, though ours might be a straight forward vaccination consultation, we really wish it was handled better.",
+                "review_alterations": [
+                    {
+                        "start_index": 1574,
+                        "end_index": 1825,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 445332
+                    },
+                    {
+                        "start_index": 1827,
+                        "end_index": 1943,
+                        "reason": "NON_COMPLIANT",
+                        "id": 445333
+                    },
+                    {
+                        "start_index": 2048,
+                        "end_index": 2186,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 445334
+                    }
+                ],
+                "reviewed_on": "2023-02-19 07:01:48",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Halit Telveenus"
+        },
+        "entity_id": 797218,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2355598,
+            "status": "PUBLISHED",
+            "note": "2024-03-14 07:14:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-14T08:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46514831,
+                "review_text": "Not very good, works for hospital,, not for wellness of Patients. \nHe is like a robot, reading all the instructions step by step as mentioned on his iPad. \nDoesn\u2019t give any personalised advice. \n\nGot my newborn admitted for Jaundice, ** ****** ***** ** *** *** *** **** **** ** *** ***** *** *** *** **** admitted right away.  \nWhich we did, but at the time of discharge he never tells you how to take care of the same \nHe will just tell you that u might need to admit the baby again, Jaundice might reappear \nDoes give you preventive actions. Not at all recommended.",
+                "review_alterations": [
+                    {
+                        "start_index": 233,
+                        "end_index": 287,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 481432
+                    },
+                    {
+                        "start_index": 288,
+                        "end_index": 303,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 481433
+                    }
+                ],
+                "reviewed_on": "2024-03-13 03:41:07",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shweta"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1532,
+                "text": "Neonatal Nursing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1510198,
+            "status": "PUBLISHED",
+            "note": "2020-09-04 05:07:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-04T06:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41691915,
+                "review_text": "Cloud 9 facility is overall good in terms cleanliness and hygiene. They have great team of gynecologist.\n*** ** **** ******* **** *** ************ ********* ** **** ****** ****** ** *** ****** **** ***** **** ***** **Dr Prashant and Dr Vidya at HRBR layout are arrogant insensitive *** ******** ******** They don't even bother to update the parents with child health status and you need to chase them for the updates. *** *** *** **** **** **** ** **** ****** ** **** ** ****  ***** ****** Dr Vidya words \" if we feel that mother is confident enough then only we will discharge the baby. They will boost up mother confidence by keeping child in NICU * * **** ** *** ****** ***** *** *** *** *** ****** ** ********* ***** * ****** *** *** ************ *** ****** ******* ******* *** *** *** ****\n\nI know this comment will not make much difference *** ********** **** **** **** ****** ******** **** *** ********* ",
+                "review_alterations": [
+                    {
+                        "start_index": 105,
+                        "end_index": 216,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290041
+                    },
+                    {
+                        "start_index": 282,
+                        "end_index": 303,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290042
+                    },
+                    {
+                        "start_index": 417,
+                        "end_index": 488,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290043
+                    },
+                    {
+                        "start_index": 650,
+                        "end_index": 793,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290044
+                    },
+                    {
+                        "start_index": 845,
+                        "end_index": 909,
+                        "reason": "NON_COMPLIANT",
+                        "id": 290045
+                    }
+                ],
+                "reviewed_on": "2020-09-02 17:39:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "TUSHAR"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193999,
+                "text": " Consultation provided for all pediatric disease"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2025039,
+            "status": "PUBLISHED",
+            "note": "2022-07-08 06:29:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-08T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44573543,
+                "review_text": "We took our kid to Dr Vidheya Venkatesh for cold, dry cough and fever and doctor suggested some syrups.. \nThough we have used syrups for 2 days ** ********* ***** ** ** ****** ******* we see our kid is coughing more.. **** * ******* ***** ***** ***** *** **** ** **** **** *** ***** **** *** ***** **** ******* ******** ****** **** ********* ***** *** *** ***** ******* ** *** ******* \n\nAs everyone thinks that health is more important and we prefer best hospital by paying 850 rupees for consulting doctor.. But we had bad experience.* **** ********** ** ** ****** ******** ******** ********* *** ******* ******** *********** \n\nThank you! ",
+                "review_alterations": [
+                    {
+                        "start_index": 144,
+                        "end_index": 182,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 417174
+                    },
+                    {
+                        "start_index": 218,
+                        "end_index": 384,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 417175
+                    },
+                    {
+                        "start_index": 535,
+                        "end_index": 625,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 417176
+                    }
+                ],
+                "reviewed_on": "2022-07-06 17:47:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Venkateswara"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1120,
+                "text": "Cough In Children"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 960896,
+            "status": "PUBLISHED",
+            "note": "2018-08-31 05:34:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-31T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38179973,
+                "review_text": "Dr Vidheya Venkatesh is very good Doctors in terms of knowledge and behaviour. He has done great job when our baby delivered pre term (around 3 months before due date) and when baby was in NICU for 2 months. Drs given us hope and did all good along with Nurses on duty. I highly recommend Dr Vidheya to any parents for their kids.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-29 20:12:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sandeep Anand"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1221350,
+            "status": "PUBLISHED",
+            "note": "2019-08-13 13:13:54",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-13T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39919680,
+                "review_text": "Dr Vidheya Venkatesh has been monitoring our baby since our baby's birth. The  baby was diagnosed with neonatal jaundice and the doctor explained the situation well, answered all our questions and treated the condition well. He was kind, polite and patienlty listened to our queries. He responded to our questions on WhatsApp even after discharge which reduced our anxiety. I recommend the doctor",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-11 14:14:30",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mahesh"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1532,
+                "text": "Neonatal Nursing"
+            },
+            {
+                "id": 26255,
+                "text": "Paediatric Intensive Care"
+            },
+            {
+                "id": 193480,
+                "text": "Neonatology -preterm follow up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1073331,
+            "status": "PUBLISHED",
+            "note": "2019-01-30 05:10:01",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-30T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38969014,
+                "review_text": "Dr. Vidhya was our primary doctor at Cloudnine Bangalore. Our extreme premature babies was under his treatment and intensive care. He is very friendly, sincere and polite. He explain the problem and situation very well. Most amazing part was he is always available over message in case of any situation; helped and guided us in case of emergency situations...\n\nOverall he is an excellent doctor... We r very much thankful to him for all his efforts to save my babies...",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-28 17:10:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mithun Saha"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2129,
+                "text": "Paediatric Critical Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1006192,
+            "status": "PUBLISHED",
+            "note": "2018-10-26 09:08:30",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-26T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38504993,
+                "review_text": "More than a good doctor, we value the fact tat you were a good listener. More than being just professionals , we value the fact that your caring attitude towards our baby\u2019s health concern was exceptional and our baby had faster recovery. We will be thankful to you always Dr. Vidheya.. your doing a great job!!",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-25 08:26:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sajil"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1532,
+                "text": "Neonatal Nursing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 963168,
+            "status": "PUBLISHED",
+            "note": "2018-09-02 11:42:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-02T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38196251,
+                "review_text": "Dr vidhya venketesh welcomes you with wide smile and spend quality time to understand parents concern and explain the problem. He looks in to small things in baby and provide positive solutions. Was pretty satisfied with doctors approach and would like to always come back to him for my children's issues. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-01 11:42:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanga"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1226959,
+            "status": "PUBLISHED",
+            "note": "2019-08-22 06:22:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-22T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39955239,
+                "review_text": "** ** * ***** ******. He doesn\u2019t stress you out with complex medical teems. Am considering to make him as my child\u2019s primary paediatric. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 200716
+                    }
+                ],
+                "reviewed_on": "2019-08-19 10:31:30",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jay Prakash Singh"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193477,
+                "text": "Child specialists "
+            },
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1199111,
+            "status": "PUBLISHED",
+            "note": "2019-07-14 11:57:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-14T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39779941,
+                "review_text": "We liked the Dr very much, he's very friendly n explained everything very clearly. whatever we asked he's ready to answer very patiently. n also in emergency he's ready to answer our query in mail n watsapp. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-13 11:48:52",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jothi Priya V"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2135,
+                "text": "Growth & Development Evaluation / Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1138832,
+            "status": "PUBLISHED",
+            "note": "2019-04-25 13:32:23",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-25T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39398247,
+                "review_text": "Doctor checked the baby very nicely. He was very patience and discussed everything what we wish to. Kind and polite.",
+                "review_alterations": [],
+                "reviewed_on": "2019-04-24 13:31:24",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neha Dhawan"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1078769,
+            "status": "PUBLISHED",
+            "note": "2019-02-06 05:57:34",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-06T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39006050,
+                "review_text": "He is an excellent doctor. He gives adequate time to every one and listens to all queries and answers them adequately. Really liked the way he handles everything. His experience *** ********* speaks for itself.",
+                "review_alterations": [
+                    {
+                        "start_index": 177,
+                        "end_index": 190,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 152988
+                    }
+                ],
+                "reviewed_on": "2019-02-04 15:30:26",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nirmalya Sanyal"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1078642,
+            "status": "PUBLISHED",
+            "note": "2019-02-06 05:39:03",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-06T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39005266,
+                "review_text": "The doctor kept us waiting for long time. It was more than 1 hour of wait.  The cloud nine staff doesn't care about time of patient or kid. Not recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-04 14:02:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Dhyana"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1073598,
+            "status": "PUBLISHED",
+            "note": "2019-01-30 06:23:37",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-30T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38970619,
+                "review_text": "Very friendly. Makes the kid comfortable. Very sweet to kids and has a good gesture towards his patients.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-29 06:14:25",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rathna Bharathi Ramamoorthy"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1007737,
+            "status": "PUBLISHED",
+            "note": "2018-10-28 12:31:03",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-28T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38516118,
+                "review_text": "He is very friendly and never make you afraid or mandate anything during the process. we are satisfied with the consultation.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-27 12:25:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arul"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 195268,
+                "text": "Pediatrics Critical Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1006389,
+            "status": "PUBLISHED",
+            "note": "2018-10-27 05:13:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-27T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38506511,
+                "review_text": "We were worried for the high CRP ratio with constant fevers for my daughter. Doctor gave a timely advice to get her admitted and treat her with IV antibiotics.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-25 13:53:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harish"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193997,
+                "text": "All Pediatric Problems "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 964823,
+            "status": "PUBLISHED",
+            "note": "2018-09-05 06:52:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-05T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38207701,
+                "review_text": "A doctor, specially Paediatric, should hear patiently the baby's parents, and explains all the queries a mother have. And this doctor has all these qualities, *** ***** ****** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 159,
+                        "end_index": 185,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 127635
+                    }
+                ],
+                "reviewed_on": "2018-09-03 13:54:44",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vivek Kumar"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 960851,
+            "status": "PUBLISHED",
+            "note": "2018-08-31 05:29:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-31T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38179654,
+                "review_text": "Doctor did a through check up and assured all is well with baby. Checked reports online and helped us with quick health check.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-29 17:18:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Divya M R"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 842291,
+            "status": "PUBLISHED",
+            "note": "2018-04-08 10:05:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 761099,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-08T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37180644,
+                "review_text": "The way he communicates and explains the disease is not satisfactory. He should improve the way he speak and check the child and be more patient and friendly.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-07 07:57:52",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Jamuna Bhuwalka"
+        },
+        "entity_id": 616455,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 194000,
+                "text": "Consultation provided for newborns "
+            },
+            {
+                "id": 195179,
+                "text": "Nutritional"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1007304,
+            "status": "PUBLISHED",
+            "note": "2018-10-28 06:09:17",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-28T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38512938,
+                "review_text": "Very happy with the treatment provided doctor.  Dr did a detailed examination of the baby and explained everything to us. Dr also answered all our queries regarding our new born baby's health. Would definitely recommend Dr Vidheya to all first time parents who are anxious about their baby's well being.  ",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-26 19:40:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1072353,
+            "status": "PUBLISHED",
+            "note": "2019-01-29 09:57:20",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-29T10:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38962716,
+                "review_text": "Our appointment was at 4.45 pm and we met the doctor at 6 pm.\nSame was the story for all paitents there.\nAlso the receptionist's and nurse's casual attitude about the issue did not help.\nExpected more...from cloudnine and esp for peadiatric care.\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-27 05:50:24",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193997,
+                "text": "All Pediatric Problems "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 958236,
+            "status": "PUBLISHED",
+            "note": "2018-08-28 07:46:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-28T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38159450,
+                "review_text": "Doctor is friendly, listens to all the queries patiently and responds politely to all the queries. Incase of any urgent queries or looking for any clarification, always reachable in WhatsApp and can expect response soon. Always suggests relevant medication. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-26 14:40:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 958022,
+            "status": "PUBLISHED",
+            "note": "2018-08-28 08:10:56",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-28T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38157749,
+                "review_text": "I recommend Dr. Vidheya venkatesh. Has consulted him for my childs jaundice, he explains the issue clearly and he do not recommend unnecessary medications if not required. The best thing is he will be available anytime to reply calls/messages. His treatment looks very simple but gives fruitfull result. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-26 07:27:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 935438,
+            "status": "PUBLISHED",
+            "note": "2018-08-01 06:58:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-01T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37974129,
+                "review_text": "No problem with the doctor. But the vaccination was very expensive which is all because of branding and standard. I have gone through this vaccination process for my elder kid and vaccination was not expensive two years back though hospital was different for him. I ll try not to visit cloudnine again for the vaccination. Thanks for reaching out to me for feedback. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-31 05:21:29",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 901316,
+            "status": "PUBLISHED",
+            "note": "2018-06-19 06:16:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-19T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37686037,
+                "review_text": "The doctor is quite friendly and patiently hears put all your queries on your newborn and gives very direct relevant answers... No unnecessary medicines recommended by him... Also the cloud nine administration is good which ensures less wait time which is so important with a newborn. Definitely recommend this pediatrician to others who are looking for a good doc.",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-17 03:12:26",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1042304,
+            "status": "PUBLISHED",
+            "note": "2018-12-17 12:31:40",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-17T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38761741,
+                "review_text": "Very good doctor... Explain the things very well post understanding health issues... Very satisfied ",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-15 17:17:03",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Swati Saxena"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1016508,
+            "status": "PUBLISHED",
+            "note": "2018-11-13 04:39:20",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-13T05:00:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38578539,
+                "review_text": "Doctor is very friendly, explains everything nicely in detail and hear all the concerns patiently . ",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-10 13:55:52",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "charu"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 960894,
+            "status": "PUBLISHED",
+            "note": "2018-08-31 05:33:49",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-31T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38179928,
+                "review_text": "We visited doctor for our newborn.. He explained every bit to us patiently. Answered our question Abt baby health in length and detail.\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-29 19:13:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2129,
+                "text": "Paediatric Critical Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1510683,
+            "status": "PUBLISHED",
+            "note": "2020-09-04 09:58:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-04T10:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41694448,
+                "review_text": "Great listening skills and the treatment works perfectly. Natural remedies are an addition. Dr. Vidheya\u2019s friendliness and quick response is a gift to the parents.",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-03 09:34:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1171451,
+            "status": "PUBLISHED",
+            "note": "2019-06-08 07:56:35",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-08T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39603269,
+                "review_text": "Doctor treatment experiences behind my expectation. Explaind  process and procedures to be followed on the newborn jaundice",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-06 15:55:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1171446,
+            "status": "PUBLISHED",
+            "note": "2019-06-08 07:56:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-08T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39603240,
+                "review_text": "Doctor is very friendly and very patient.would like to Recommend this doctor**** ********* ***** **** **** **********Thank you for all the support.",
+                "review_alterations": [
+                    {
+                        "start_index": 76,
+                        "end_index": 116,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 181991
+                    }
+                ],
+                "reviewed_on": "2019-06-06 15:45:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1073252,
+            "status": "PUBLISHED",
+            "note": "2019-01-30 04:56:33",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-30T05:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38968480,
+                "review_text": "doctor explains everything and gives every possible solutions of  baby health issues. Overall extremely pleasant experience visiting doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-28 15:07:00",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1051027,
+            "status": "PUBLISHED",
+            "note": "2018-12-30 04:59:09",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital - Bellandur",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-30T05:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38821840,
+                "review_text": "**** ************** thorough and friendly\n\nHe is always ready to discuss and has very good suggestions",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 146686
+                    }
+                ],
+                "reviewed_on": "2018-12-28 15:12:37",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 998972,
+            "status": "PUBLISHED",
+            "note": "2018-10-16 06:33:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-16T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38453153,
+                "review_text": "Great experience with doctor Vidya. After getting consultation with him as a mother I feel that my child is  in a safe hand.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-14 08:13:43",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 987509,
+            "status": "PUBLISHED",
+            "note": "2018-10-02 10:24:57",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-02T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38372234,
+                "review_text": "Dr vidheya is really god forme.i tookmy son in very bad condition, I cldnt understand wht happened to my son,but as soon as I went in he immediately explained Abt my son's health...I wld always be very thankful to him..",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-30 05:03:47",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 982612,
+            "status": "PUBLISHED",
+            "note": "2018-09-26 07:04:31",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-26T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38337557,
+                "review_text": "Has lots of patience and answered all our queries for our baby.  Consulting him since our child birth. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-24 14:27:12",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 969641,
+            "status": "PUBLISHED",
+            "note": "2018-09-11 06:02:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-09-11T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38241683,
+                "review_text": "He is an amazing doctor. He examines and clarifies even minute details.\nHe clarified all my doubts about the baby's health.\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-09-08 18:07:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 958712,
+            "status": "PUBLISHED",
+            "note": "2018-08-28 12:42:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-28T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38163304,
+                "review_text": "Doctor explains the diagnosis and line of treatment details quite well. He joyful mood calms down the tense parents.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-27 12:39:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2131,
+                "text": "Childhood Infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 956107,
+            "status": "PUBLISHED",
+            "note": "2018-08-25 06:47:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-25T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38142030,
+                "review_text": "Friendliness and always ready to extend support offline care. Beyond the duty call is highly appreciated",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-24 03:22:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193997,
+                "text": "All Pediatric Problems "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 956003,
+            "status": "PUBLISHED",
+            "note": "2018-08-25 06:07:54",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-25T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38141041,
+                "review_text": "**** ************* *** caring doctor. Very practical in all the approach. Gives heads up on whats to come and what to do",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 21,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 125527
+                    }
+                ],
+                "reviewed_on": "2018-08-23 17:07:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 955971,
+            "status": "PUBLISHED",
+            "note": "2018-08-25 06:00:16",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-25T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38140750,
+                "review_text": "Friendly caring takes time to explain the problem. Understands the needs of first time parents. Responds to queries on WhatsApp at any point of time. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-23 16:03:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 885180,
+            "status": "PUBLISHED",
+            "note": "2018-05-30 05:31:50",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-30T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37550886,
+                "review_text": "Very friendly, polite, puts patients at ease. Explains the problem / ailment / solution / treatment in simple layman terms, not too big on prescribing medicines for every single cough or sneeze. Handles children and babies extremely well. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-28 04:54:00",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 854688,
+            "status": "PUBLISHED",
+            "note": "2018-04-24 05:18:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-24T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37292133,
+                "review_text": "Excellent doctor. Answers all my queries diligently \nFriendly nature.waiting time was less. Takes Care of baby well ",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-21 14:45:44",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 776726,
+            "status": "PUBLISHED",
+            "note": "2018-02-01 06:39:45",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-01T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36575310,
+                "review_text": "Doctor was courteous & informative. He had clearly explained the relevance of the vaccination & possible side effect for daughter. Luckily our daughter didn\u2019t fever. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-21 04:45:25",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 772142,
+            "status": "PUBLISHED",
+            "note": "2018-01-24 11:24:48",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1106241,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-24T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36530888,
+                "review_text": "Very good experience. The doctor is very calm and gives good time to patients. He listened to our problem and explained properly",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-15 13:45:57",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 615807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 467246,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569752,
+            "practice_id": 1057045,
+            "practice_name": "Ovum Woman & Child Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-09T07:37:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31149871,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-07 07:46:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Raj"
+        },
+        "entity_id": 547975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

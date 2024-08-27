@@ -1,0 +1,958 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2338780,
+            "status": "PUBLISHED",
+            "note": "2024-02-11 06:20:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-11T07:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46417195,
+                "review_text": "*** ** *** ** *** **** ************** * **** **** **** so friendly with kids, handles them nicely and my kids feel quite comfortable with her. I am very thankful to Dr. Sakshi for all the support she has shown to my kids. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 54,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 478621
+                    }
+                ],
+                "reviewed_on": "2024-02-10 05:22:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sonal"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2338644,
+            "status": "PUBLISHED",
+            "note": "2024-02-11 05:38:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-11T06:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46416405,
+                "review_text": "Dr.  Sakshi is extremely patient, informative and friendly with kids. She will listen to the information provided to her with all earnestness and provides excellent medical attention and care to the children. I would definitely recommend her! ",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-09 17:48:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Supriya Gupta"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2366677,
+            "status": "PUBLISHED",
+            "note": "2024-04-09 09:49:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-09T10:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46577040,
+                "review_text": "Generic Consultation -Just wanted to discuss the progress of my child, overall history plus the best way forward with the respective to building better immunity. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-08 08:14:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2364071,
+            "status": "PUBLISHED",
+            "note": "2024-04-03 07:54:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-03T08:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46562376,
+                "review_text": "Very good doctor they take care very well and educated.we gone  to the doctor they  give to us best medicine and treatment we will recommend to others  in our circle",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-02 02:13:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1804648,
+            "status": "PUBLISHED",
+            "note": "2021-08-17 12:31:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-16T13:56:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 308719,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanku so much\ud83d\ude0a",
+                "replied_at": "2021-08-16T13:56:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8715300,
+                "modified_by_id": 8715300,
+                "replier_name": "Dr. Sakshi Goyal",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/882200/ms-sakshi-goyal-5f705b3de4c8c.jpg"
+            },
+            "survey_response": {
+                "id": 43287709,
+                "review_text": "Dr.Sakshi was terrific* ************** sensitive, informative. I immediately felt at ease and felt confident about my kid receiving expert medical care.very impressed with the overall experience.I highly recommend her to anyone looking for a pediatrician.",
+                "review_alterations": [
+                    {
+                        "start_index": 22,
+                        "end_index": 37,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 366470
+                    }
+                ],
+                "reviewed_on": "2021-08-16 12:24:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Athul Reghu"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2354725,
+            "status": "PUBLISHED",
+            "note": "2024-03-12 12:11:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-12T13:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46510048,
+                "review_text": "Doctor is very friendly. Treats baby with care and explains everything in depth.She is proactive in addressing any concerns we have about child's health and development.",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-11 12:06:28",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2339272,
+            "status": "PUBLISHED",
+            "note": "2024-02-13 06:22:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-13T07:01:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46420273,
+                "review_text": "She hears the patient's problem with great patience. Expert professional in her field.  She really cares for her patient.",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-11 02:06:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1792225,
+            "status": "PUBLISHED",
+            "note": "2021-08-03 09:53:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-03T10:01:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43216087,
+                "review_text": "Dr.Sakshi Goyal is an extremely polite and intelligent doctor.she takes care of her patients very well .will definitely come again to visit .",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-01 10:07:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ekta"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1791518,
+            "status": "PUBLISHED",
+            "note": "2021-08-03 06:59:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-03T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43212035,
+                "review_text": "Very gentle and well informed doctor. Treating babies like her own. Surely recommend her. \nThank you Dr. Sakshi! ",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-31 13:34:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akshay Narula"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1791291,
+            "status": "PUBLISHED",
+            "note": "2021-08-01 13:09:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-01T14:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43210613,
+                "review_text": "**** ********* ************* punctual experienced friendly caring doctor, moreover she's our neighbour in geetanjali enclave Malviya Nagar. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 27,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 362881
+                    }
+                ],
+                "reviewed_on": "2021-07-31 09:00:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Santhosh Nair"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2338780,
+            "status": "PUBLISHED",
+            "note": "2024-02-11 06:20:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-11T07:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46417195,
+                "review_text": "*** ** *** ** *** **** ************** * **** **** **** so friendly with kids, handles them nicely and my kids feel quite comfortable with her. I am very thankful to Dr. Sakshi for all the support she has shown to my kids. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 54,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 478621
+                    }
+                ],
+                "reviewed_on": "2024-02-10 05:22:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sonal"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2338644,
+            "status": "PUBLISHED",
+            "note": "2024-02-11 05:38:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-11T06:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46416405,
+                "review_text": "Dr.  Sakshi is extremely patient, informative and friendly with kids. She will listen to the information provided to her with all earnestness and provides excellent medical attention and care to the children. I would definitely recommend her! ",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-09 17:48:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Supriya Gupta"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2366677,
+            "status": "PUBLISHED",
+            "note": "2024-04-09 09:49:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-09T10:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46577040,
+                "review_text": "Generic Consultation -Just wanted to discuss the progress of my child, overall history plus the best way forward with the respective to building better immunity. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-08 08:14:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2364071,
+            "status": "PUBLISHED",
+            "note": "2024-04-03 07:54:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-03T08:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46562376,
+                "review_text": "Very good doctor they take care very well and educated.we gone  to the doctor they  give to us best medicine and treatment we will recommend to others  in our circle",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-02 02:13:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1804648,
+            "status": "PUBLISHED",
+            "note": "2021-08-17 12:31:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-16T13:56:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 308719,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanku so much\ud83d\ude0a",
+                "replied_at": "2021-08-16T13:56:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 8715300,
+                "modified_by_id": 8715300,
+                "replier_name": "Dr. Sakshi Goyal",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/882200/ms-sakshi-goyal-5f705b3de4c8c.jpg"
+            },
+            "survey_response": {
+                "id": 43287709,
+                "review_text": "Dr.Sakshi was terrific* ************** sensitive, informative. I immediately felt at ease and felt confident about my kid receiving expert medical care.very impressed with the overall experience.I highly recommend her to anyone looking for a pediatrician.",
+                "review_alterations": [
+                    {
+                        "start_index": 22,
+                        "end_index": 37,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 366470
+                    }
+                ],
+                "reviewed_on": "2021-08-16 12:24:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Athul Reghu"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2354725,
+            "status": "PUBLISHED",
+            "note": "2024-03-12 12:11:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-12T13:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46510048,
+                "review_text": "Doctor is very friendly. Treats baby with care and explains everything in depth.She is proactive in addressing any concerns we have about child's health and development.",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-11 12:06:28",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2339272,
+            "status": "PUBLISHED",
+            "note": "2024-02-13 06:22:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-13T07:01:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46420273,
+                "review_text": "She hears the patient's problem with great patience. Expert professional in her field.  She really cares for her patient.",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-11 02:06:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1792225,
+            "status": "PUBLISHED",
+            "note": "2021-08-03 09:53:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-03T10:01:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43216087,
+                "review_text": "Dr.Sakshi Goyal is an extremely polite and intelligent doctor.she takes care of her patients very well .will definitely come again to visit .",
+                "review_alterations": [],
+                "reviewed_on": "2021-08-01 10:07:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ekta"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1791518,
+            "status": "PUBLISHED",
+            "note": "2021-08-03 06:59:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-03T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43212035,
+                "review_text": "Very gentle and well informed doctor. Treating babies like her own. Surely recommend her. \nThank you Dr. Sakshi! ",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-31 13:34:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akshay Narula"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1791291,
+            "status": "PUBLISHED",
+            "note": "2021-08-01 13:09:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 882200,
+            "practice_id": 1264621,
+            "practice_name": "Healing Vibes Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-01T14:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43210613,
+                "review_text": "**** ********* ************* punctual experienced friendly caring doctor, moreover she's our neighbour in geetanjali enclave Malviya Nagar. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 27,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 362881
+                    }
+                ],
+                "reviewed_on": "2021-07-31 09:00:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Santhosh Nair"
+        },
+        "entity_id": 731365,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

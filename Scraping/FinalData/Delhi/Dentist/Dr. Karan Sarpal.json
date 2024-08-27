@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2125951,
+            "status": "PUBLISHED",
+            "note": "2022-12-31 04:42:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1034216,
+            "practice_id": 1407231,
+            "practice_name": "Amit Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-31T05:01:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45157929,
+                "review_text": "have a great connect with doctor he is helpful and friendly with paitents now i am completely fine due to him",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-29 12:58:39",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 844714,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

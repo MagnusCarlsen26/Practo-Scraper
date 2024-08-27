@@ -1,0 +1,236 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2383249,
+            "status": "PUBLISHED",
+            "note": "2024-05-14 09:41:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 705315,
+            "practice_id": 939499,
+            "practice_name": "Cloudnine Hospital - Old Airport Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-14T10:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46672442,
+                "review_text": "Dr Vinita is a very good doctor,  very patient,  does not give extra medicines to the kids.  I have been consulting for all my kids and their cousins since very many years and continue to do till date.  Highly recommended \ud83d\udc4c ",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-12 06:25:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 659331,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2358839,
+            "status": "PUBLISHED",
+            "note": "2024-03-20 11:33:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 705315,
+            "practice_id": 939499,
+            "practice_name": "Cloudnine Hospital - Old Airport Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-20T12:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46533268,
+                "review_text": "Excellent, marvellous doctor .....she listen to our problem so calmly n gv us the best solution......even she responds to our msgs ....at night times all of sudden some issues with our kids madam replies always .........\n",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-19 08:31:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mayan"
+        },
+        "entity_id": 659331,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2356304,
+            "status": "PUBLISHED",
+            "note": "2024-03-15 09:28:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 705315,
+            "practice_id": 939499,
+            "practice_name": "Cloudnine Hospital - Old Airport Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-15T10:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46518737,
+                "review_text": "She is an extremely patient and friendly doctor , always available on phone .Very good diagonisis, have been consulting since last 5+ years.",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-14 08:05:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arindam Kar"
+        },
+        "entity_id": 659331,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193418,
+                "text": "stomach and intestinal infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1104455,
+            "status": "PUBLISHED",
+            "note": "2019-03-12 11:54:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 705315,
+            "practice_id": 939499,
+            "practice_name": "Cloudnine Hospital - Old Airport Road",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-12T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39178194,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 64,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 160604
+                    }
+                ],
+                "reviewed_on": "2019-03-11 05:31:22",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Damodar usirekayala"
+        },
+        "entity_id": 659331,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1189157,
+            "status": "PUBLISHED",
+            "note": "2019-07-03 04:51:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 705315,
+            "practice_id": 939499,
+            "practice_name": "Cloudnine Hospital - Old Airport Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-03T05:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39716318,
+                "review_text": "It was good, properly explain the all the issues nd understand the problem. Guide for what to feed baby etc. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-01 04:25:33",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akrosh Agarwal"
+        },
+        "entity_id": 659331,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

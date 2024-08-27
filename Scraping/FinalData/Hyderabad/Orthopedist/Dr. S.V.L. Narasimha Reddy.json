@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1817990,
+            "status": "PUBLISHED",
+            "note": "2021-09-03 05:48:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 814915,
+            "practice_id": 1283766,
+            "practice_name": "Pragnya Ortho Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-03T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43365063,
+                "review_text": "It's good experience , treatment is good , examined in detail and explained my problem patiently in easily understandable language,much satisfied.",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-01 17:16:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "S.PRAGNYA DEEPIKA"
+        },
+        "entity_id": 713523,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

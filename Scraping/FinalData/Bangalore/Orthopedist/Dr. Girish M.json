@@ -1,0 +1,177 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2412343,
+            "status": "PUBLISHED",
+            "note": "2024-07-12 09:44:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 923289,
+            "practice_id": 1422280,
+            "practice_name": "Marrow Clinic And Bone Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-12T10:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46838867,
+                "review_text": "Very friendly, Understood the issue and helped with recovery. Had consulted him for my fractured wrist. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-11 04:54:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Parthasarthy Chowdhary"
+        },
+        "entity_id": 860767,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101942,
+                "text": "Muscle release"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2387928,
+            "status": "PUBLISHED",
+            "note": "2024-05-23 07:33:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 923289,
+            "practice_id": 1422280,
+            "practice_name": "Marrow Clinic And Bone Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-23T08:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46699284,
+                "review_text": "It was a nice experience . The doctor was very friendly,and listen my problems \nHe helped me, Thank you so much ",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-21 15:50:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Josyfus MS"
+        },
+        "entity_id": 860767,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 184013,
+                "text": "Ligament and Tendon Repair"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2223421,
+            "status": "PUBLISHED",
+            "note": "2023-06-28 11:22:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 923289,
+            "practice_id": 1422280,
+            "practice_name": "Marrow Clinic And Bone Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-28T12:00:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45730555,
+                "review_text": "I had visited for my ankle injury. Doctor was friendly and explained the problen and solution in detail. Would recommend him. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-27 10:48:55",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prateek Ghosh"
+        },
+        "entity_id": 860767,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 169773,
+                "text": "Cervical Spondylitis Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2313784,
+            "status": "PUBLISHED",
+            "note": "2023-12-27 05:23:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 923289,
+            "practice_id": 1422280,
+            "practice_name": "Marrow Clinic And Bone Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-27T06:01:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46274256,
+                "review_text": "Explained the issue and the treatment very well. Very friendly doctor and staff.  Would recommend this place. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-25 07:29:39",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 860767,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 542170,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 365987,
+            "practice_id": 754748,
+            "practice_name": "Ganesh Heart Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-29T06:40:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34220467,
+                "review_text": "********* ******** *** ********** He is very good find out the problem and treating it. He is very friendly. the only drawback is the wait time. You have to wait at least 2 to 3 hours every time you visit.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 33,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 42467
+                    }
+                ],
+                "reviewed_on": "2017-04-28 11:15:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 277834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 157,
+                "text": "Pain in Left part of Chest"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1383554,
+            "status": "PUBLISHED",
+            "note": "2020-02-28 12:39:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 365987,
+            "practice_id": 754748,
+            "practice_name": "Ganesh Heart Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-28T13:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41025782,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-27 12:21:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 277834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

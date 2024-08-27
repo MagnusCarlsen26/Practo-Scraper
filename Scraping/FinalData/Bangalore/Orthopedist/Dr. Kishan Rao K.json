@@ -1,0 +1,175 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1541,
+                "text": "Hand Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1247207,
+            "status": "PUBLISHED",
+            "note": "2019-09-18 05:50:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 410110,
+            "practice_id": 793521,
+            "practice_name": "Bhagwan Mahaveer Jain Hospital - Vasanthnagar",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-18T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40085306,
+                "review_text": "2 surgeries have been done by dr kishan rao and we are waiting for another 2 surgeries to be done for my elder sister.\nWE have heard a lot about the dr and the best part about him which i feel is, he believes in himself and always explains the problem accurately.\nHe shares only the necessary information.\nI am sure he will rock the next 2 surgeries also.\nHoping to see my sister's hand setting in the next few days under his control.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-14 12:34:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "haripriya"
+        },
+        "entity_id": 333127,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1541,
+                "text": "Hand Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 665479,
+            "status": "PUBLISHED",
+            "note": "2017-09-01 08:58:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 410110,
+            "practice_id": 690033,
+            "practice_name": "Rajashri Grandhim Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-01T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35482197,
+                "review_text": "** ** *** ** *** **** **** *** ***** ******* ** ********* *** ****** *** ****** ** ****** *** ********** ****** ******* ** **** *** ***** ** ********* *** ******* **** ********* * Dr. Kishan Rao motivates and boosts the confidence level of the patient whenever the patients is lying low and in pain. Thank You Dr. Kishan Rao.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 89,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 63953
+                    },
+                    {
+                        "start_index": 90,
+                        "end_index": 179,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 63954
+                    }
+                ],
+                "reviewed_on": "2017-08-30 11:00:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 163728,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1333835,
+            "status": "PUBLISHED",
+            "note": "2020-01-08 10:53:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 410110,
+            "practice_id": 1131824,
+            "practice_name": "Nano Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-08T11:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40669902,
+                "review_text": "My husband got operated by Dr. Kishan Rao. ** ** ** ********* ******* I would like to recommend this doctor. Treatment was good, everything went well. He is quite friendly, I was really very scared when was in operation, he calmed me down and he is really good. I am quite happy with the explanation of health issue, we are quite satisfied with the doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 43,
+                        "end_index": 68,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 235610
+                    }
+                ],
+                "reviewed_on": "2020-01-06 17:17:18",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 502808,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

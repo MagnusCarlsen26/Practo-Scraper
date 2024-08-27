@@ -1,0 +1,968 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2374005,
+            "status": "PUBLISHED",
+            "note": "2024-04-24 07:51:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-24T08:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46619233,
+                "review_text": "Doctor was on time and explained the medication well  also gave me a patient hearing over all experience was good . ",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-23 06:07:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harsh Joshi"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2380801,
+            "status": "PUBLISHED",
+            "note": "2024-05-08 10:15:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-08T11:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46658461,
+                "review_text": "I was satisfied with the treatment. The wait time was less than 5 mins. The doctor patiently listened to my query .",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-07 10:15:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2271531,
+            "status": "PUBLISHED",
+            "note": "2023-10-06 07:43:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-06T08:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46035861,
+                "review_text": " Satisfied by the right  advice and consultation with the doctor.  Had initial trouble login on the Practo site for the consultation, needs improvement there.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-05 04:57:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanat Choudhury"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2235463,
+            "status": "PUBLISHED",
+            "note": "2023-07-18 09:57:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-18T10:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45800733,
+                "review_text": "Great, best physician .\nThank you for being the deciated.\nWonderful experience.\nThank you for being such a caring doctor\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-17 06:33:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish Jha"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1378690,
+            "status": "PUBLISHED",
+            "note": "2020-02-25 07:26:13",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-25T08:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40997506,
+                "review_text": "Really helpful advice, started feeling better after a couple of days. Explains the issues really well, would highly recommend. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-22 20:19:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya Basumatary"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1714682,
+            "status": "PUBLISHED",
+            "note": "2021-05-05 09:09:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-05T10:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42797077,
+                "review_text": "The experience was great...I was very meticulous with the explanation of my father's Covid symptoms and she listened to everything very carefully and guided me in every aspect.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-04 07:55:02",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manas Dhaundiyal"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1348670,
+            "status": "PUBLISHED",
+            "note": "2020-01-24 09:43:04",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-24T10:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40777990,
+                "review_text": " I was very sick and this doctor gave me right medicines which help me to reduce my pain within a couple of hours now i m feeling good and healthy.i   have been here for past fews days suddenly i  was under the weather. I was worried about my health but the lady doctor treated me wisely and diagonise me ***** ********* Even though she didn't take much charge....  ",
+                "review_alterations": [
+                    {
+                        "start_index": 305,
+                        "end_index": 320,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 240910
+                    }
+                ],
+                "reviewed_on": "2020-01-23 04:47:02",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101903,
+                "text": "Medications"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1832756,
+            "status": "PUBLISHED",
+            "note": "2021-09-21 07:26:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-21T08:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43455895,
+                "review_text": "Good knowledge and communication. Doctor shared the prescription immediately and guided for the medications.",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-19 13:08:48",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1793647,
+            "status": "PUBLISHED",
+            "note": "2021-08-04 09:42:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-04T10:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43224484,
+                "review_text": "she is vry nice doctor.she  listen all the matter vry carefully  she is very soft spoken**** *** ********* ***** ******** ** ***",
+                "review_alterations": [
+                    {
+                        "start_index": 88,
+                        "end_index": 127,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 363533
+                    }
+                ],
+                "reviewed_on": "2021-08-03 06:51:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1711558,
+            "status": "PUBLISHED",
+            "note": "2021-05-01 05:57:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-01T06:01:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42779986,
+                "review_text": "I am Satisfied after consulting doctor Arpita Madum feedback regarding medicine advised. I am recovering my health perfectly. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-30 05:29:39",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2374005,
+            "status": "PUBLISHED",
+            "note": "2024-04-24 07:51:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-24T08:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46619233,
+                "review_text": "Doctor was on time and explained the medication well  also gave me a patient hearing over all experience was good . ",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-23 06:07:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harsh Joshi"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2380801,
+            "status": "PUBLISHED",
+            "note": "2024-05-08 10:15:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-08T11:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46658461,
+                "review_text": "I was satisfied with the treatment. The wait time was less than 5 mins. The doctor patiently listened to my query .",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-07 10:15:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2271531,
+            "status": "PUBLISHED",
+            "note": "2023-10-06 07:43:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-06T08:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46035861,
+                "review_text": " Satisfied by the right  advice and consultation with the doctor.  Had initial trouble login on the Practo site for the consultation, needs improvement there.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-05 04:57:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sanat Choudhury"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2235463,
+            "status": "PUBLISHED",
+            "note": "2023-07-18 09:57:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-18T10:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45800733,
+                "review_text": "Great, best physician .\nThank you for being the deciated.\nWonderful experience.\nThank you for being such a caring doctor\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-17 06:33:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish Jha"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1378690,
+            "status": "PUBLISHED",
+            "note": "2020-02-25 07:26:13",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-25T08:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40997506,
+                "review_text": "Really helpful advice, started feeling better after a couple of days. Explains the issues really well, would highly recommend. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-22 20:19:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya Basumatary"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1714682,
+            "status": "PUBLISHED",
+            "note": "2021-05-05 09:09:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-05T10:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42797077,
+                "review_text": "The experience was great...I was very meticulous with the explanation of my father's Covid symptoms and she listened to everything very carefully and guided me in every aspect.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-04 07:55:02",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manas Dhaundiyal"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1348670,
+            "status": "PUBLISHED",
+            "note": "2020-01-24 09:43:04",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-24T10:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40777990,
+                "review_text": " I was very sick and this doctor gave me right medicines which help me to reduce my pain within a couple of hours now i m feeling good and healthy.i   have been here for past fews days suddenly i  was under the weather. I was worried about my health but the lady doctor treated me wisely and diagonise me ***** ********* Even though she didn't take much charge....  ",
+                "review_alterations": [
+                    {
+                        "start_index": 305,
+                        "end_index": 320,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 240910
+                    }
+                ],
+                "reviewed_on": "2020-01-23 04:47:02",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101903,
+                "text": "Medications"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1832756,
+            "status": "PUBLISHED",
+            "note": "2021-09-21 07:26:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-21T08:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43455895,
+                "review_text": "Good knowledge and communication. Doctor shared the prescription immediately and guided for the medications.",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-19 13:08:48",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1793647,
+            "status": "PUBLISHED",
+            "note": "2021-08-04 09:42:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-04T10:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43224484,
+                "review_text": "she is vry nice doctor.she  listen all the matter vry carefully  she is very soft spoken**** *** ********* ***** ******** ** ***",
+                "review_alterations": [
+                    {
+                        "start_index": 88,
+                        "end_index": 127,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 363533
+                    }
+                ],
+                "reviewed_on": "2021-08-03 06:51:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1711558,
+            "status": "PUBLISHED",
+            "note": "2021-05-01 05:57:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 751103,
+            "practice_id": 708453,
+            "practice_name": "Dr. Yatin Sethi ENT Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-01T06:01:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42779986,
+                "review_text": "I am Satisfied after consulting doctor Arpita Madum feedback regarding medicine advised. I am recovering my health perfectly. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-30 05:29:39",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 686146,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

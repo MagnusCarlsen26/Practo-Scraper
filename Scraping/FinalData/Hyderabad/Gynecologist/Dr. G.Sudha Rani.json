@@ -1,0 +1,91 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 13,
+                "text": "Pregnant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 377996,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 232665,
+            "practice_id": 640115,
+            "practice_name": "G.B.R. Hospital Multispeciality",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-05T06:18:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 25633705,
+                "review_text": "Before that we went to one hospital in uppal.. but my wife and family members aren't happy. Because she may be well experienced but she wasn't tell anything till we ask.. So, started pressure from family to change tha doctor. Then we have been visiting the doctor. Doctor is good. She is take care  of my wife.. and giving a lot bars to me .. now I am also feel good..\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-05 01:31:39",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs  Roopa"
+        },
+        "entity_id": 185615,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1021650,
+            "status": "PUBLISHED",
+            "note": "2018-11-20 07:22:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 232665,
+            "practice_id": 675893,
+            "practice_name": "Parvathi Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-20T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38615824,
+                "review_text": "The Doctor I booked an appointment for was not available. I had to either come back on a weekday or see another Doctor. The visit was not at all as per I expected. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-17 13:37:56",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 121148,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

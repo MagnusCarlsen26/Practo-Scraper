@@ -1,0 +1,378 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2169324,
+            "status": "PUBLISHED",
+            "note": "2023-03-18 14:57:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 65343,
+            "practice_id": 1070042,
+            "practice_name": "Prism Children & Chest Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-18T15:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45406095,
+                "review_text": "** ******* ** *** **** ************* * **** **** ******* *** ********* ********* *** prescribing medicines specially antibiotics to the minimum is what keeps him stand apart. HIGHLY RECOMMENDED ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 83,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449040
+                    }
+                ],
+                "reviewed_on": "2023-03-17 13:51:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saumya krishnan"
+        },
+        "entity_id": 493614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2131,
+                "text": "Childhood Infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1170084,
+            "status": "PUBLISHED",
+            "note": "2019-06-07 07:46:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 65343,
+            "practice_id": 1070042,
+            "practice_name": "Prism Children & Chest Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-07T08:00:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39594562,
+                "review_text": "** ** *** ** *** **** ****** ** ***** *** ********* His experience and knowledge about pediatrics is phenomenal.\nWe visited many doctors before him but we are very satisfied with his way of treatment.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 50,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 181575
+                    }
+                ],
+                "reviewed_on": "2019-06-05 06:33:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhuwan Chandola"
+        },
+        "entity_id": 493614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2066456,
+            "status": "PUBLISHED",
+            "note": "2022-09-13 11:35:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 65343,
+            "practice_id": 1070042,
+            "practice_name": "Prism Children & Chest Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-13T12:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44820449,
+                "review_text": "****** ** **** **** ***** **** **** ******* *********** ***** ******** ******* ***** No three days validity in the fees structure.\n\nIf you visited doctor at morning time, next by the evening if you have any small/big concern about your child to query to doctor they will charged money Rs 500 for that. but when you surprise of this fees structure, receptionist will allow you to go to the doctor chamber rather to give any clarifications. \n\nAny way your meeting started with doctor, but surprisingly doctor will behave awkwardly with you, his patience and behavior both are unpractical and unprofessional.     \n\nUnfortunately all these happen with me.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 84,
+                        "reason": "NON_COMPLIANT",
+                        "id": 425785
+                    }
+                ],
+                "reviewed_on": "2022-09-12 08:28:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 493614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 930652,
+            "status": "PUBLISHED",
+            "note": "2018-07-28 06:20:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 65343,
+            "practice_id": 1070042,
+            "practice_name": "Prism Children & Chest Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-28T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37933852,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-26 14:42:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 493614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 884888,
+            "status": "PUBLISHED",
+            "note": "2018-05-29 12:34:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 65343,
+            "practice_id": 1070042,
+            "practice_name": "Prism Children & Chest Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-29T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37548827,
+                "review_text": "Doctor explains everything very well with proper justifications and advice. Tries to explain everything in a very layman way to make us understand what he wants to say. \nI have heard his name at lots of places and from lots of other doctors. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-27 10:45:43",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 493614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193997,
+                "text": "All Pediatric Problems "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1034692,
+            "status": "PUBLISHED",
+            "note": "2018-12-06 09:57:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 65343,
+            "practice_id": 1070042,
+            "practice_name": "Prism Children & Chest Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-06T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38709186,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-05 09:55:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 493614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1014948,
+            "status": "PUBLISHED",
+            "note": "2018-11-10 04:34:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 65343,
+            "practice_id": 1070042,
+            "practice_name": "Prism Children & Chest Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-10T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38567627,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-08 02:55:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 493614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

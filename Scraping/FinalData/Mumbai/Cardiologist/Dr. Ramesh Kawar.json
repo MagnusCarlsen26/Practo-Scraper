@@ -1,0 +1,1132 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1266817,
+            "status": "PUBLISHED",
+            "note": "2019-10-12 05:18:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-12T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40212502,
+                "review_text": "Consultation experience was quite good, he was very experienced he didn't go for many tests he understood the problem only with one medication it worked, visited for some hypothetical issues, he was very polite and friendly. I would like to recommend the doctor. I got to know about the doctor from Practo. The waiting time was more it can me improve.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-10 15:57:25",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashit Rakshit"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1256364,
+            "status": "PUBLISHED",
+            "note": "2019-09-27 06:04:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-27T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40144527,
+                "review_text": "Consultation experience was good, Doctor is very good, he was very helpful and kind, got to know about the doctor from Practo, he did listen to my problems, I definitely like to recommend the doctor Overall it was good, I am satisfied with the doctor's treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-25 17:30:53",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish Jain"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1458689,
+            "status": "PUBLISHED",
+            "note": "2020-07-03 11:25:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-03T12:01:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41431872,
+                "review_text": "***** *** **** ****** ******* **** *** ** *** ***** * ***** ******* **** ** *** **** ** ** *** *** ** ** ******* ** ***** ** **** ** **** **** **** * *** ** ***** *** *** ** ******* ***** **** ****** ** ******** ** ***** *** *** ******** **** Recently, I visited him after getting a full body checkup for my parents and wanted to know what the reports read and what changes were needed in the medications as my mom was also suffering from severe ankle pain which was the main reason to visit him. According to the reports her BP was high, pre-diabetic, and thyroid which is usually high for her was less when asked reason and remedies for the same his answer was \u201cit happens\u201d no explanation just this.\n******* **** ****** ******* he prescribed medications. And when asked about the ankle pain and whether it is arthritis he said no, just no, no further explanation to what it is. And here it is written 1200rs for consultation and he charged 1500 for my mother and 1200 for father which is wrong as if you have metioned the consultancy fees than why there are changes while treating every other patients\n*** ****** ** *** **** ****** ** **** **** he can\u2019t even answer our basic questions *** **** ******* *********** *** ***\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 128,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 274501
+                    },
+                    {
+                        "start_index": 129,
+                        "end_index": 242,
+                        "reason": "NON_COMPLIANT",
+                        "id": 274502
+                    },
+                    {
+                        "start_index": 702,
+                        "end_index": 728,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 274503
+                    },
+                    {
+                        "start_index": 1104,
+                        "end_index": 1146,
+                        "reason": "NON_COMPLIANT",
+                        "id": 274505
+                    },
+                    {
+                        "start_index": 1188,
+                        "end_index": 1223,
+                        "reason": "NON_COMPLIANT",
+                        "id": 274504
+                    }
+                ],
+                "reviewed_on": "2020-07-02 11:17:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Vibhuti nandha"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1485304,
+            "status": "PUBLISHED",
+            "note": "2020-08-06 11:01:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 1174914,
+            "practice_name": "Riddhi Vinayak Critical Care & Cardiac Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-06T12:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41565770,
+                "review_text": "**** ****** ****** ***** ************* ******** ***** ****** **** *** ******* *** ******** ********* ******** ********** ******** ***** *** ****** * **** ******* ****** *** **** *** ***** *** ****** ******** *** *** *********** *** ********* ***** ********* *** kept patient in ICU saying due to breathing problems.\n******* **** **** ** **** ******* ****** ***** ** ***** *** **** ** *** ** ***** ************* *** ****** ******* *** ** ****** ******* ****** **** ** *** *** ****** **** **** ****** ******* ******\n\nThen in the evening, he said water is in lungs and balloon install in body but still breathing problem and said condition is not normal.\nAfter 2 days when I asked when we shift to normal ward then hee started arguing.... Doctor said,  Which hospital you want to shift *** ** *** ******* **** ** *** **********\nFrom that he and his staff was continuing saying patient condition critical, deposit some amount. We need to treat with medicine or some other. **** *** ******** **** **** *** ***** *** **** **** ******** **\nThen they  gave some medicine and injected something through salian bottle and that time patient himself told start paining body.. *** ****** ****** *******\nThen we plan for discharge but due to unavailability of bed in other hospital we have continued in same hospital.\nThen he said kidney needs to be checked and one time dailies required to perform for two day.\n\nAfter that asked for some more amount to deposit and asked he you have Mediclaim let us know so it would be easy for us and after that  patient was no more.\n\n***** **** **** *****  ********* ** ****  ****** *** ****** ** ******* **** ** **** **** **** ** **** ******** ***** **** ******* ** **** ******** ****** *** *** ********** ********* *** ******** **** *** ***** ** ** * **** ************* ******** ***** ****** ** **** **** ***** **** ***** ******* **** ******** ******* **** **** * *****",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 99,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282624
+                    },
+                    {
+                        "start_index": 100,
+                        "end_index": 260,
+                        "reason": "NON_COMPLIANT",
+                        "id": 282625
+                    },
+                    {
+                        "start_index": 316,
+                        "end_index": 512,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282626
+                    },
+                    {
+                        "start_index": 783,
+                        "end_index": 823,
+                        "reason": "NON_COMPLIANT",
+                        "id": 282627
+                    },
+                    {
+                        "start_index": 969,
+                        "end_index": 1031,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282628
+                    },
+                    {
+                        "start_index": 1163,
+                        "end_index": 1188,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282629
+                    },
+                    {
+                        "start_index": 1557,
+                        "end_index": 1645,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282630
+                    },
+                    {
+                        "start_index": 1646,
+                        "end_index": 1893,
+                        "reason": "NON_COMPLIANT",
+                        "id": 282631
+                    }
+                ],
+                "reviewed_on": "2020-08-05 06:33:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 617010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1493535,
+            "status": "PUBLISHED",
+            "note": "2020-08-16 10:14:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-16T11:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41606986,
+                "review_text": "first of all Surana Hospital has no sitting facility so patient has to stand and wait for their turn. Docter gave us less than 2 minutes. we were still in cabin asking  some doubt but docter left the cabin left us alone in cabin. we paid 1200 rs. 2nd evening docter didn't come 3 day we reched Hospital 7pm but docter reached Hospital 10 pm we had to wait for 3 hours. docter seen the report in 1 minute asking fee 1000 .. strictly not recommended ",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-15 09:42:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shyam mistry thakur"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 905224,
+            "status": "PUBLISHED",
+            "note": "2018-06-23 05:45:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 708747,
+            "practice_name": "Surana Sethia Hospital and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-23T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37717523,
+                "review_text": "Very nice experience. Doctors  give Sufficient time to patient for explanation. And the way he adviced that was very good. \nNursing staff also managed crowd  properly. \nAgain  tomorrow  visit for pathology test as doctors advice.  \n\nWith best wishes. \n",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-21 17:26:47",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs.Laxmidevi"
+        },
+        "entity_id": 597986,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2238279,
+            "status": "PUBLISHED",
+            "note": "2023-07-23 06:22:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-23T07:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45816998,
+                "review_text": "Dr.Ramesh Kawar is thorough gentleman and the person whom you can Trust 100 %.\nVery patiencely seen our Reports ,heard us and suggested best remedies.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-21 17:53:30",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rakesh Shah"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1342203,
+            "status": "PUBLISHED",
+            "note": "2020-01-18 11:36:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-18T12:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40730263,
+                "review_text": "********* *** ***** the doctor listened to our problem. Doctor prescribed medicines which suited to my body and very helpful because I took some medicines from outside which were not suitable for my body. I visited for a BP check up because after my pregnancy blood pressure was not controlled and I took outside medicines which were not suitable for my body. There was a long waiting time and the staff were not supportive and they did not give importance to appointment booked patients and there was no queue for patients other than that doctor was very good and I would like to recommend this doctor and they have improve staff and appointment system.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 238539
+                    }
+                ],
+                "reviewed_on": "2020-01-15 19:31:09",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1984330,
+            "status": "PUBLISHED",
+            "note": "2022-05-04 07:16:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-04T08:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44342179,
+                "review_text": "Doctor is friendly. I recommend everyone to include him in his/her list of consultants. But time management needs improvement. We reached as per appointment time of 7 pm. \nIt took an hour and 40 minutes for consultation and simple ECG & 2D Echo",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-02 15:10:43",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arun"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1315058,
+            "status": "PUBLISHED",
+            "note": "2019-12-18 05:53:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-18T06:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40541236,
+                "review_text": "Couldn't meet.....as he said he is unavailable for at least two and a half hour...so I waited for some time and came back.... you should not recommend such unprofessionals",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-15 06:54:21",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Samit Banerjee"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1266817,
+            "status": "PUBLISHED",
+            "note": "2019-10-12 05:18:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-12T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40212502,
+                "review_text": "Consultation experience was quite good, he was very experienced he didn't go for many tests he understood the problem only with one medication it worked, visited for some hypothetical issues, he was very polite and friendly. I would like to recommend the doctor. I got to know about the doctor from Practo. The waiting time was more it can me improve.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-10 15:57:25",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashit Rakshit"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1256364,
+            "status": "PUBLISHED",
+            "note": "2019-09-27 06:04:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-27T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40144527,
+                "review_text": "Consultation experience was good, Doctor is very good, he was very helpful and kind, got to know about the doctor from Practo, he did listen to my problems, I definitely like to recommend the doctor Overall it was good, I am satisfied with the doctor's treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-25 17:30:53",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish Jain"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1458689,
+            "status": "PUBLISHED",
+            "note": "2020-07-03 11:25:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-03T12:01:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41431872,
+                "review_text": "***** *** **** ****** ******* **** *** ** *** ***** * ***** ******* **** ** *** **** ** ** *** *** ** ** ******* ** ***** ** **** ** **** **** **** * *** ** ***** *** *** ** ******* ***** **** ****** ** ******** ** ***** *** *** ******** **** Recently, I visited him after getting a full body checkup for my parents and wanted to know what the reports read and what changes were needed in the medications as my mom was also suffering from severe ankle pain which was the main reason to visit him. According to the reports her BP was high, pre-diabetic, and thyroid which is usually high for her was less when asked reason and remedies for the same his answer was \u201cit happens\u201d no explanation just this.\n******* **** ****** ******* he prescribed medications. And when asked about the ankle pain and whether it is arthritis he said no, just no, no further explanation to what it is. And here it is written 1200rs for consultation and he charged 1500 for my mother and 1200 for father which is wrong as if you have metioned the consultancy fees than why there are changes while treating every other patients\n*** ****** ** *** **** ****** ** **** **** he can\u2019t even answer our basic questions *** **** ******* *********** *** ***\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 128,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 274501
+                    },
+                    {
+                        "start_index": 129,
+                        "end_index": 242,
+                        "reason": "NON_COMPLIANT",
+                        "id": 274502
+                    },
+                    {
+                        "start_index": 702,
+                        "end_index": 728,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 274503
+                    },
+                    {
+                        "start_index": 1104,
+                        "end_index": 1146,
+                        "reason": "NON_COMPLIANT",
+                        "id": 274505
+                    },
+                    {
+                        "start_index": 1188,
+                        "end_index": 1223,
+                        "reason": "NON_COMPLIANT",
+                        "id": 274504
+                    }
+                ],
+                "reviewed_on": "2020-07-02 11:17:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Vibhuti nandha"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1485304,
+            "status": "PUBLISHED",
+            "note": "2020-08-06 11:01:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 1174914,
+            "practice_name": "Riddhi Vinayak Critical Care & Cardiac Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-06T12:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41565770,
+                "review_text": "**** ****** ****** ***** ************* ******** ***** ****** **** *** ******* *** ******** ********* ******** ********** ******** ***** *** ****** * **** ******* ****** *** **** *** ***** *** ****** ******** *** *** *********** *** ********* ***** ********* *** kept patient in ICU saying due to breathing problems.\n******* **** **** ** **** ******* ****** ***** ** ***** *** **** ** *** ** ***** ************* *** ****** ******* *** ** ****** ******* ****** **** ** *** *** ****** **** **** ****** ******* ******\n\nThen in the evening, he said water is in lungs and balloon install in body but still breathing problem and said condition is not normal.\nAfter 2 days when I asked when we shift to normal ward then hee started arguing.... Doctor said,  Which hospital you want to shift *** ** *** ******* **** ** *** **********\nFrom that he and his staff was continuing saying patient condition critical, deposit some amount. We need to treat with medicine or some other. **** *** ******** **** **** *** ***** *** **** **** ******** **\nThen they  gave some medicine and injected something through salian bottle and that time patient himself told start paining body.. *** ****** ****** *******\nThen we plan for discharge but due to unavailability of bed in other hospital we have continued in same hospital.\nThen he said kidney needs to be checked and one time dailies required to perform for two day.\n\nAfter that asked for some more amount to deposit and asked he you have Mediclaim let us know so it would be easy for us and after that  patient was no more.\n\n***** **** **** *****  ********* ** ****  ****** *** ****** ** ******* **** ** **** **** **** ** **** ******** ***** **** ******* ** **** ******** ****** *** *** ********** ********* *** ******** **** *** ***** ** ** * **** ************* ******** ***** ****** ** **** **** ***** **** ***** ******* **** ******** ******* **** **** * *****",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 99,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282624
+                    },
+                    {
+                        "start_index": 100,
+                        "end_index": 260,
+                        "reason": "NON_COMPLIANT",
+                        "id": 282625
+                    },
+                    {
+                        "start_index": 316,
+                        "end_index": 512,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282626
+                    },
+                    {
+                        "start_index": 783,
+                        "end_index": 823,
+                        "reason": "NON_COMPLIANT",
+                        "id": 282627
+                    },
+                    {
+                        "start_index": 969,
+                        "end_index": 1031,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282628
+                    },
+                    {
+                        "start_index": 1163,
+                        "end_index": 1188,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282629
+                    },
+                    {
+                        "start_index": 1557,
+                        "end_index": 1645,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 282630
+                    },
+                    {
+                        "start_index": 1646,
+                        "end_index": 1893,
+                        "reason": "NON_COMPLIANT",
+                        "id": 282631
+                    }
+                ],
+                "reviewed_on": "2020-08-05 06:33:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 617010,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1493535,
+            "status": "PUBLISHED",
+            "note": "2020-08-16 10:14:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-16T11:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41606986,
+                "review_text": "first of all Surana Hospital has no sitting facility so patient has to stand and wait for their turn. Docter gave us less than 2 minutes. we were still in cabin asking  some doubt but docter left the cabin left us alone in cabin. we paid 1200 rs. 2nd evening docter didn't come 3 day we reched Hospital 7pm but docter reached Hospital 10 pm we had to wait for 3 hours. docter seen the report in 1 minute asking fee 1000 .. strictly not recommended ",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-15 09:42:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Shyam mistry thakur"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 905224,
+            "status": "PUBLISHED",
+            "note": "2018-06-23 05:45:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 708747,
+            "practice_name": "Surana Sethia Hospital and Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-23T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37717523,
+                "review_text": "Very nice experience. Doctors  give Sufficient time to patient for explanation. And the way he adviced that was very good. \nNursing staff also managed crowd  properly. \nAgain  tomorrow  visit for pathology test as doctors advice.  \n\nWith best wishes. \n",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-21 17:26:47",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mrs.Laxmidevi"
+        },
+        "entity_id": 597986,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2238279,
+            "status": "PUBLISHED",
+            "note": "2023-07-23 06:22:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-23T07:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45816998,
+                "review_text": "Dr.Ramesh Kawar is thorough gentleman and the person whom you can Trust 100 %.\nVery patiencely seen our Reports ,heard us and suggested best remedies.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-21 17:53:30",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rakesh Shah"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1342203,
+            "status": "PUBLISHED",
+            "note": "2020-01-18 11:36:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-18T12:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40730263,
+                "review_text": "********* *** ***** the doctor listened to our problem. Doctor prescribed medicines which suited to my body and very helpful because I took some medicines from outside which were not suitable for my body. I visited for a BP check up because after my pregnancy blood pressure was not controlled and I took outside medicines which were not suitable for my body. There was a long waiting time and the staff were not supportive and they did not give importance to appointment booked patients and there was no queue for patients other than that doctor was very good and I would like to recommend this doctor and they have improve staff and appointment system.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 238539
+                    }
+                ],
+                "reviewed_on": "2020-01-15 19:31:09",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1984330,
+            "status": "PUBLISHED",
+            "note": "2022-05-04 07:16:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-04T08:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44342179,
+                "review_text": "Doctor is friendly. I recommend everyone to include him in his/her list of consultants. But time management needs improvement. We reached as per appointment time of 7 pm. \nIt took an hour and 40 minutes for consultation and simple ECG & 2D Echo",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-02 15:10:43",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arun"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1315058,
+            "status": "PUBLISHED",
+            "note": "2019-12-18 05:53:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 308781,
+            "practice_id": 778301,
+            "practice_name": "Surana Hospital And Research Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-18T06:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40541236,
+                "review_text": "Couldn't meet.....as he said he is unavailable for at least two and a half hour...so I waited for some time and came back.... you should not recommend such unprofessionals",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-15 06:54:21",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Samit Banerjee"
+        },
+        "entity_id": 650219,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

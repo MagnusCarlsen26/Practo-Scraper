@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2327351,
+            "status": "PUBLISHED",
+            "note": "2024-01-20 06:31:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1074698,
+            "practice_id": 1431395,
+            "practice_name": "Zen Align Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-20T07:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46351509,
+                "review_text": "I consulted Dr. Maithreyii for my 6 year old daughter's treatment for pulpectomy. Doctor had done the treatment with support of child specialist for one of the 3 sittings.\n\nVery satisfied with doctor's patience and entire experience.\nClinic is very hygienically and neatly maintained.\nStrongly refer this doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-19 05:14:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pranita"
+        },
+        "entity_id": 871304,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

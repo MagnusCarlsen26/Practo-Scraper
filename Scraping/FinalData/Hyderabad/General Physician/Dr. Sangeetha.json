@@ -1,0 +1,200 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2327945,
+            "status": "PUBLISHED",
+            "note": "2024-01-21 09:37:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 541249,
+            "practice_id": 895537,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-21T10:00:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46354959,
+                "review_text": "We have been consulting Dr. Sangitha frequently at Chandanagar Apollo clinic, and found her very compassionate and kind. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-20 08:14:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gopinath Gopal"
+        },
+        "entity_id": 874802,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186436,
+                "text": "High cholesterol"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2335881,
+            "status": "PUBLISHED",
+            "note": "2024-02-06 06:50:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 541249,
+            "practice_id": 895537,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-06T07:01:12+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46400544,
+                "review_text": "**** **** ******* listen the problems patiently and explained the solution.  Explained the clear scenarios to my mother about precautions and measures.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 478356
+                    }
+                ],
+                "reviewed_on": "2024-02-04 14:59:37",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 874802,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 761768,
+            "status": "PUBLISHED",
+            "note": "2018-01-26 12:40:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 541249,
+            "practice_id": 669073,
+            "practice_name": "Mythri Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-26T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36429181,
+                "review_text": "*** ** **** ** *********\ni had pink eye - red eye - she asked to do CBP - platelet count on first day its not related\nother instance i had no fever only cold and cough - was asked same platelet count CBP - come on cant do this to people as common people can not afford this",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 87356
+                    }
+                ],
+                "reviewed_on": "2018-01-01 15:43:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 494518,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 729199,
+            "status": "PUBLISHED",
+            "note": "2017-11-20 15:50:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 541249,
+            "practice_id": 669073,
+            "practice_name": "Mythri Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-19T15:50:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36110824,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-18 06:42:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Chendra"
+        },
+        "entity_id": 494518,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

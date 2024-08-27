@@ -1,0 +1,103 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1280505,
+            "status": "PUBLISHED",
+            "note": "2019-11-01 12:21:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 494782,
+            "practice_id": 1132595,
+            "practice_name": "Apollo Spectra Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-01T13:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40302305,
+                "review_text": "I have just started the treatment and will know the whole experience once I am completed all the treatments ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-31 12:13:19",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ali Naseer Hussain"
+        },
+        "entity_id": 584046,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 722027,
+            "status": "PUBLISHED",
+            "note": "2017-11-11 05:38:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 494782,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-11T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36043871,
+                "review_text": "Doctor\nKindly please advise us my family female person suffering for dengue fever treatment at Meenakshi Hospital at Thanjavur....\nHer report saying WBC very low level 2000 only \nsolu medrol 1gms injection given \nstill not improvement\nI hopefully look for your kind information..... shall come to your side    ",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-09 08:29:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584044,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

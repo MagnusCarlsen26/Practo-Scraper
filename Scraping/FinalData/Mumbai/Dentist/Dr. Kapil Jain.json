@@ -1,0 +1,140 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2360127,
+            "status": "PUBLISHED",
+            "note": "2024-03-23 07:05:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 698663,
+            "practice_id": 1233233,
+            "practice_name": "Smile World Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-23T08:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46540327,
+                "review_text": "Visited the clinic for a root canal treatment. Dr kapil attended me and was very thorough with explaining the treatment to me. After a detailed examination the treatment was done by a specialist in Dr Kapils presence. The treatment was comfortable with minimal aftercare. Definitely recommend ",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-21 17:36:56",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vinod Jain"
+        },
+        "entity_id": 656138,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2244942,
+            "status": "PUBLISHED",
+            "note": "2023-08-05 12:23:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 698663,
+            "practice_id": 1233233,
+            "practice_name": "Smile World  Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-05T13:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45860427,
+                "review_text": "Came with my nephew kabir who was just 1 year old when he had fallen off the bed and had bleeding and trauma to front tooth . Dr.Kapil checked him thoroughly and very calmly handled him . overall a very good experience and on  top of it the clinic   is very kid friendly ...would definitely come again ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-04 12:17:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nitisha reddy "
+        },
+        "entity_id": 656138,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2244926,
+            "status": "PUBLISHED",
+            "note": "2023-08-05 11:57:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 698663,
+            "practice_id": 1233233,
+            "practice_name": "Smile World  Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-05T12:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45860321,
+                "review_text": "Went to Dr.Kapil for treatment of my small one \u2026 had a really bad experience with the previous dentist and later on was suggested by a friend of mine to visit Dr.Kapil who is a pediatric dentist . The appt went  really smoothly , things were explained and the complete focus was not just on treatment but on the preventive aspect too . My kid is free of pain all thanks to him ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-04 11:51:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mukesh Gusain "
+        },
+        "entity_id": 656138,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

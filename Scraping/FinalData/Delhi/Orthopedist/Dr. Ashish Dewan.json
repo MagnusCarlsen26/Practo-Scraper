@@ -1,0 +1,224 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            },
+            {
+                "id": 717,
+                "text": "Orthopedic Physiotherapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1237744,
+            "status": "PUBLISHED",
+            "note": "2019-09-05 05:58:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 570241,
+            "practice_id": 1129353,
+            "practice_name": "IBS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-05T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40024206,
+                "review_text": "Hospital charged me Rs.1000/- instead Rs. 500/- as informed by practo. Doctor was very good. Practo should give right information regarding fees",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-02 13:10:38",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pralay Dey"
+        },
+        "entity_id": 554640,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 5,
+                "text": "Knee replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 759149,
+            "status": "PUBLISHED",
+            "note": "2018-01-04 09:04:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 570241,
+            "practice_id": 1129353,
+            "practice_name": "IBS Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-04T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36403840,
+                "review_text": "We appreciate the services we received from your end. We are fully satisfied with the surgery and would like to thank the doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-28 11:57:07",
+                "channel": "web-gmf",
+                "source": "GMF",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554640,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1216329,
+            "status": "PUBLISHED",
+            "note": "2019-08-08 06:15:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 570241,
+            "practice_id": 1129353,
+            "practice_name": "IBS Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-08T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39888097,
+                "review_text": "Different fee on Practo vs actual charged. Ask to pay through Practo but no option was available. Diagnostic x-rays no. can be reduced initially by doctor judgement. Elevator in IBS was not operational. It was a real tough time for patients going downstairs for x-rays having leg injury. Elevator should not be non operational for a min in hospital. In nutshell my no is for the IBS hospital and not for doctor. Dr can be consulted at other location for surgery.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-05 05:20:51",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 554640,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 68,
+                "text": "Foot Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1328002,
+            "status": "PUBLISHED",
+            "note": "2020-01-03 05:30:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 570241,
+            "practice_id": 838840,
+            "practice_name": "Dewan's Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-03T06:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40628780,
+                "review_text": "Different fee on Practo vs actual charged. Ask to paythrough Practo but no option was available. ****** ********* ********  don't visit",
+                "review_alterations": [
+                    {
+                        "start_index": 96,
+                        "end_index": 121,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233734
+                    }
+                ],
+                "reviewed_on": "2019-12-30 17:07:58",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 537956,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

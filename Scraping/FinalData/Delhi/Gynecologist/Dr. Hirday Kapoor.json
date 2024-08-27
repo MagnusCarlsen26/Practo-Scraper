@@ -1,0 +1,276 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1422959,
+            "status": "PUBLISHED",
+            "note": "2020-05-09 05:28:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 9145,
+            "practice_id": 649774,
+            "practice_name": "Dr. Hirday Kapoor Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-09T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41252072,
+                "review_text": "My egg wasn\u2019t attached to my uterus and thereby the future of my pregnancy could not be predicted. While most of the doctors told me that my situation was such that there is a very little chance to continue with my pregnancy, Dr Hirday handled my case very well. Not only i delivered a healthy baby, but i delivered my daughter vaginally(since she always pushed me to prefer vaginal delivery than caesarean). Meeting her has been God\u2019s blessing for me. She is extremely kind and sweet. Always have a smiling face and available on call whenever required.\n\nWish the best for her always!",
+                "review_alterations": [],
+                "reviewed_on": "2020-05-07 15:00:03",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Megha Shivansh Dandona"
+        },
+        "entity_id": 195102,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193360,
+                "text": "Gynae advice"
+            },
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            },
+            {
+                "id": 183114,
+                "text": "Labor and Delivery"
+            },
+            {
+                "id": 27,
+                "text": "Normal Delivery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1723790,
+            "status": "PUBLISHED",
+            "note": "2021-05-16 07:23:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 9145,
+            "practice_id": 649774,
+            "practice_name": "Dr. Hirday Kapoor Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-16T08:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42843989,
+                "review_text": "*** ** ***** **** **** ! The way she works on critical case with her brilliance is commendable. My good wishes are always with her . Thank you DR. HIRDAY KAPOOR.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 345379
+                    }
+                ],
+                "reviewed_on": "2021-05-15 07:04:10",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sahil Kalra"
+        },
+        "entity_id": 195102,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1885936,
+            "status": "PUBLISHED",
+            "note": "2021-12-04 12:08:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 9145,
+            "practice_id": 649774,
+            "practice_name": "Dr. Hirday Kapoor Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-04T13:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43781418,
+                "review_text": "Hlo\u2026\u2026.\n\nMy sister consulted Dr Hriday for both her pregnancies & it was a joyful experience write from consultantaion till delivery & recently she is blessed with her second baby \ud83d\udc76 Me Found her very professional, caring & patient i would always recommend her everyone who are pregnant & want a good experience and we are happy with her. I hd a Joyful experience \nAlways Gooo To Dr Hriday Kapoor  \u2026\u2026\u2026..\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-12-03 11:54:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 195102,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1270927,
+            "status": "PUBLISHED",
+            "note": "2019-10-17 09:17:09",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 9145,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-17T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40239871,
+                "review_text": "She is polite and has good experience but the things which I didn't like is.. she recommended lots of *********** medical tests costing more than 25000 **** **** * *** ** ************** Though I visited her for my pregnancy consultations many times (paid 1000 rs consultation fee every time) but when I called her on phone for some medical suggestion she absolutely denied saying that if I can suggest you on phone how all these hospitals will run.. which was very rude.. **** **** ***** *** ****** **** **** ******** ******* *** *** *** ** **** ******** *** **** ** **** **** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 102,
+                        "end_index": 112,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 215015
+                    },
+                    {
+                        "start_index": 152,
+                        "end_index": 184,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 215016
+                    },
+                    {
+                        "start_index": 472,
+                        "end_index": 582,
+                        "reason": "NON_COMPLIANT",
+                        "id": 215017
+                    }
+                ],
+                "reviewed_on": "2019-10-16 07:40:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Bhavna Tanwar"
+        },
+        "entity_id": 635593,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 694955,
+            "status": "PUBLISHED",
+            "note": "2017-10-07 11:17:33",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 9145,
+            "practice_id": 649774,
+            "practice_name": "Dr. Hirday Kapoor Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-07T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35777634,
+                "review_text": "Extremely polite and patient to hear and to advice. Family like support during consultation. Very approachable doctor for all sorts of queries. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-05 09:36:01",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanshi Jain"
+        },
+        "entity_id": 195102,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

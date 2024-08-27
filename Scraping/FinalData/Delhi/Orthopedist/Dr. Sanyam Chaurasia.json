@@ -1,0 +1,210 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 345723,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 353036,
+            "practice_id": 744598,
+            "practice_name": "Knee & Shoulder Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-27T07:17:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 23636933,
+                "review_text": "It was very nice consulting Dr Sanyam. He gave proper time and explained everything about possible options for my treatment. I recommend people to visit his clinic if they have any orthopaedic problem. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-26 14:40:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhishek Tyagi"
+        },
+        "entity_id": 263717,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 356012,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 353036,
+            "practice_id": 744598,
+            "practice_name": "Knee & Shoulder Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-16T07:28:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24298659,
+                "review_text": "Awesome experience at clinic. Doctor listens to the problem very carefully and is very experiencd. I was treated for back pain and the result  was very good. Will recommend Dr. Sanyam to everyone",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-08 14:02:45",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nishant Sharma"
+        },
+        "entity_id": 263717,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1187145,
+            "status": "PUBLISHED",
+            "note": "2019-06-29 06:07:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 353036,
+            "practice_id": 795898,
+            "practice_name": "Mata Roop Rani Maggo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-29T07:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39703266,
+                "review_text": "It was a opd case but they admitted urgently at 10:30 am in morning and done lots of test, x-ray, MRI ***** *** *** ********* After admitted in room, no doctor came to check the reason for severe back pain till 7 in evening despite patient was unable to sit or stand or to move. In evening he came to tell for physiotherapy for some days.\n\nNext day we decided to leave and take physiotherapy at home knowing the huge amount of bill\n\nWouldn't recommend this hospital at all ** **** *** **** **** ** ****** *** ******* ** ****** **** ****\n",
+                "review_alterations": [
+                    {
+                        "start_index": 102,
+                        "end_index": 124,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 187378
+                    },
+                    {
+                        "start_index": 473,
+                        "end_index": 535,
+                        "reason": "NON_COMPLIANT",
+                        "id": 187379
+                    }
+                ],
+                "reviewed_on": "2019-06-28 04:05:50",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 658132,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1281392,
+            "status": "PUBLISHED",
+            "note": "2019-11-05 10:13:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 353036,
+            "practice_id": 744598,
+            "practice_name": "Knee & Shoulder Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-05T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40307833,
+                "review_text": "Extremely unprofessional doctor\nShouts and gets angry if u asks questions.\nOrdered repeated investigations and MRI, \n*************** ** ************ * ***** ******** *** ***** *** ***** **** ****** ***** ** ** ********************* ****",
+                "review_alterations": [
+                    {
+                        "start_index": 117,
+                        "end_index": 235,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 218384
+                    }
+                ],
+                "reviewed_on": "2019-11-01 13:39:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 263717,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

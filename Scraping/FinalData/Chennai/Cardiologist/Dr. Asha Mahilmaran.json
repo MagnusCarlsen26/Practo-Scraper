@@ -1,0 +1,328 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1667976,
+            "status": "PUBLISHED",
+            "note": "2021-03-10 05:08:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 236516,
+            "practice_id": 947298,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-10T06:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42536732,
+                "review_text": "Doctor is helpful with her advice. She was polite to respond to our questions and did give enough time to solve our doubts. Staffs were helpful too with us but I did notice some non co-operation of nursing staff with other patients. My experience was good with the doctor. I will recommend to my known ones.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-08 17:21:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bharat Rajpurohit"
+        },
+        "entity_id": 448299,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183104,
+                "text": "Cardiac checkup - General"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1258262,
+            "status": "PUBLISHED",
+            "note": "2019-09-29 08:23:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 236516,
+            "practice_id": 947298,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-29T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40156485,
+                "review_text": "Very Patient listening,\nVery friendly,\nWonderful diagnosis and suggested very simple and  good changes in day today activities\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-28 07:19:24",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saravanan P T"
+        },
+        "entity_id": 448299,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1728723,
+            "status": "PUBLISHED",
+            "note": "2021-05-22 06:23:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 236516,
+            "practice_id": 1006874,
+            "practice_name": "Apollo First Med Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-22T07:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42869213,
+                "review_text": "My dad had been to hospital and it was for heart blockage. Consultation was fine by the doctor. I would like to recommend the doctor to other people. My father is satisfied with the explanation given by the doctor. We consulted related to surgery. Doctor checked old reports. There was no waiting time in the hospital. His health is improved. My dad had fatigue. Diet chart was suggested to follow and his health is improved. We have plans to do surgery soon and it's getting delayed.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-21 05:55:54",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 449929,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2301884,
+            "status": "PUBLISHED",
+            "note": "2023-12-05 06:01:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 236516,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-05T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46206640,
+                "review_text": "Ma'am is very friendly and listens to all your problems and her experience is really reflecting in her work.  I would definitely recommend her to everyone for cardiology. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-03 08:02:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 437262,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1592,
+                "text": "Cardiac Invasive Procedures"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 799114,
+            "status": "PUBLISHED",
+            "note": "2018-02-21 09:20:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 236516,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-21T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36788457,
+                "review_text": "Dr Asha Mahilmaran is friendly and very approachable. She treats the patient with positivity and comfort. This is very rare among senior most doctors. I would highly recommend Dr Asha Mahilmaran to my friends with cardiac problem.",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-17 17:34:22",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 437262,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1568288,
+            "status": "PUBLISHED",
+            "note": "2020-11-07 06:17:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 236516,
+            "practice_id": 947298,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-07T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41999456,
+                "review_text": "I know her for the past 7 years. She treated my mom for her heart problems. She is very patient in listening to patients. She is positive and friendly. The most important thing is she always answers whenever I call for emergency. Most doctors don't.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-06 06:12:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 448299,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1547866,
+            "status": "PUBLISHED",
+            "note": "2020-10-13 12:58:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 236516,
+            "practice_id": 947298,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-13T13:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41890482,
+                "review_text": "Very Nice. **** *********. Very patient and practical.  Very much satisfied. Explained well. Will surely recommend others too.\n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 11,
+                        "end_index": 24,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 300828
+                    }
+                ],
+                "reviewed_on": "2020-10-12 12:56:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 448299,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

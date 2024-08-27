@@ -1,0 +1,251 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1733732,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 04:56:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581906,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T05:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42894788,
+                "review_text": "Dr is highly experienced and listen to your issues And diagnose the problem in minutes, I highly recommend the doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-26 16:37:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 703915,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1355416,
+            "status": "PUBLISHED",
+            "note": "2020-01-31 09:26:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581906,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-31T10:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40829365,
+                "review_text": "Kind and friendly. Very patient.Listens to the patient's problem complety before prescribing medicine.",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-30 09:23:29",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 703915,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2133274,
+            "status": "PUBLISHED",
+            "note": "2023-01-14 06:43:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581906,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-14T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45199948,
+                "review_text": "Went to see the doctor due to my pain in abdomen, he did not seem interested much, not so friendly. He was keeping the meeting very short as if he dint have time, and we were the first patient. He was answering only if we are having some questions. *** ***** *** ****** *** ********* *** ***** *** ** ******* ",
+                "review_alterations": [
+                    {
+                        "start_index": 249,
+                        "end_index": 307,
+                        "reason": "NON_COMPLIANT",
+                        "id": 439575
+                    }
+                ],
+                "reviewed_on": "2023-01-12 18:26:39",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 703915,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2067975,
+            "status": "PUBLISHED",
+            "note": "2022-09-15 13:17:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581906,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-15T14:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44829445,
+                "review_text": "A very bad experience I have ever experienced. Before listening to all the symptoms starts prescribing medicines. And a general physician without a stethoscope who claims I am having symptoms of bronchitis without examining chest. When I asked him to examine my chest he requested staff to get a stethoscope and post examination tells my chest is clear and I have no congestion.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-14 13:13:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 703915,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1442358,
+            "status": "PUBLISHED",
+            "note": "2020-06-12 09:01:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 581906,
+            "practice_id": 1141637,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-12T10:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41349969,
+                "review_text": "Over all not happy and even he has not listened what we are telling and the issues, directly he said get the COVID test done. **** * ***** **** ***** *** *********\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 126,
+                        "end_index": 162,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 270166
+                    }
+                ],
+                "reviewed_on": "2020-06-10 14:23:27",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 703915,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

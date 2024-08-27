@@ -1,0 +1,326 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1092,
+                "text": "Fissure"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 338783,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 341706,
+            "practice_id": 734892,
+            "practice_name": "SLR Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-18T13:06:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 23166811,
+                "review_text": "Consulted this doc for the first time and I am touched with the way he diagnosed my issue. Explained me clearly why and how this problem would have occurred  , he infact drew it on a notepad. Very down to earth doctor without any ego or attitude he interacts with patients. I will give a five star rating for his service.",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-17 16:01:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Imran Ulla Baig"
+        },
+        "entity_id": 251264,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192486,
+                "text": "Complete Heart And Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 930567,
+            "status": "PUBLISHED",
+            "note": "2018-07-26 04:53:09",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 341706,
+            "practice_id": 1130731,
+            "practice_name": "SLR Speciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-26T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37933189,
+                "review_text": "Excellent doctor. My mother had a very high Blood Sugar in the past which was not controlled. However after treatment started under Dr. Hareesh, the Blood sugar is fully under control.",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-24 14:29:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sourav Mukherjee"
+        },
+        "entity_id": 553977,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2086142,
+            "status": "PUBLISHED",
+            "note": "2022-10-18 06:39:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 341706,
+            "practice_id": 1130731,
+            "practice_name": "SLR Speciality Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-18T07:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44932911,
+                "review_text": "I went to Dr. Hareesh whom I have always trusted for treatment of fever (possibly viral). I recommend that Dr. Hareesh sticks to his own expertise and does not judge and lecture patients on their psychiatric/mental health. He was very insensitive and didn't listen to my issue of low grade fever for a week and lectured me without any reason for my elitism in taking covid tests suggesting vegetable vendors don't go around taking tests. I am dealing with mental health issues and multiple long covid health effects and the doctor was not willing to listen to my issue of fever and problem that I had come for. He had the impertinence to trigger off a panic attack through his rude questions. ******* *** ****** ***** ** **** **** ** ********* ** *** *** *** * ************ *** *** ***** **** *** ** **** **** ******** *** *** ****** ******** ************** **** ** ***** ** ******** ** ****** ** **** ** ***** ** ********* ** ****** ****** ***** *** **** ** **** ***** *** I came to you for helping me understand the cause for my fever and cold and treatment for it. NOT some uncalled for lecture on why I have taken covid tests in the past and questioning my faith in God and my mental health. So far I trusted you. Now I cannot.",
+                "review_alterations": [
+                    {
+                        "start_index": 693,
+                        "end_index": 851,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 429764
+                    },
+                    {
+                        "start_index": 852,
+                        "end_index": 972,
+                        "reason": "NON_COMPLIANT",
+                        "id": 429765
+                    }
+                ],
+                "reviewed_on": "2022-10-15 16:42:44",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Maya"
+        },
+        "entity_id": 553977,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2344773,
+            "status": "PUBLISHED",
+            "note": "2024-02-23 10:18:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 341706,
+            "practice_id": 1352521,
+            "practice_name": "Trust-In  Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-23T11:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46452195,
+                "review_text": "Had a very harrowing experience at Trust In hospital under Dr. Hareesh. under his in charge my father was admitted for a 24 hour observation which got extended ************* for another day as they delayed the test without information to the family. ************ *** ******* **** *** **** *** ** **** ** ******** ** ******* he arrived more than an hour later for opd consultation without any information of delay to his staff members and ********* denied  to see my father because my brother called his number after an hour of waiting. *** ****** *** ****** ** ***** *** ******* ** *** ********* ** ** **** he demanded respect just because he by profession is a doctor. His overall conversation has a lot of sarcastic comments even while treatment. I do not recommed him at all. ",
+                "review_alterations": [
+                    {
+                        "start_index": 159,
+                        "end_index": 173,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 479477
+                    },
+                    {
+                        "start_index": 250,
+                        "end_index": 322,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 479478
+                    },
+                    {
+                        "start_index": 437,
+                        "end_index": 447,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 479479
+                    },
+                    {
+                        "start_index": 536,
+                        "end_index": 606,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 479480
+                    }
+                ],
+                "reviewed_on": "2024-02-21 10:29:00",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 860616,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 772682,
+            "status": "PUBLISHED",
+            "note": "2018-01-28 05:16:03",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 341706,
+            "practice_id": 1150205,
+            "practice_name": "North Bangalore Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-28T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36535801,
+                "review_text": "Doctor is experienced and caring, suggests unnecessary tests. Also fees mentioned on Practo is not uptodate. I was charged 500 for first day consultation and on second visit within 3 days again I had to pay 250. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-16 08:48:42",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neha"
+        },
+        "entity_id": 588072,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192342,
+                "text": "Viral Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 580889,
+            "status": "PUBLISHED",
+            "note": "2017-06-06 07:37:41",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 341706,
+            "practice_id": 1130731,
+            "practice_name": "SLR Speciality Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-06T08:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34621271,
+                "review_text": "He listens to the patient carefully and treats with mildest antibiotic and safe medicines. I would certainly recommend him to my family and friends.",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-04 03:03:42",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 553977,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2413770,
+            "status": "PUBLISHED",
+            "note": "2024-07-16 07:49:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1117921,
+            "practice_id": 1458282,
+            "practice_name": "Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-16T08:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46847027,
+                "review_text": "Excellent service, Superb Clinic Ambience, Friendly Doctor and Staff. \nHighly recommended  to all living in this area.\n",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-13 15:55:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 906262,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2416190,
+            "status": "PUBLISHED",
+            "note": "2024-07-20 08:02:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1080184,
+            "practice_id": 1444335,
+            "practice_name": "PVR Polyclinic & Day Care Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-20T09:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46860841,
+                "review_text": "Fantastic dr rather than going into big hospitals like cloudnine do consult excellent n amazing dr she is.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-18 15:19:07",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Trupti Vishwakarma"
+        },
+        "entity_id": 889856,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

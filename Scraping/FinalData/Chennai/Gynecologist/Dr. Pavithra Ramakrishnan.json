@@ -1,0 +1,157 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1818794,
+            "status": "PUBLISHED",
+            "note": "2021-09-04 05:58:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 543273,
+            "practice_id": 1110069,
+            "practice_name": "Sri Sarada Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-04T06:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43369683,
+                "review_text": "I recommended my sister*** **** ****** ******* ** solve her health problems.... she's always response at  anytime....Now my sister is alright.. thank you mam for your lovable service",
+                "review_alterations": [
+                    {
+                        "start_index": 23,
+                        "end_index": 49,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 370339
+                    }
+                ],
+                "reviewed_on": "2021-09-02 14:57:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sujatha"
+        },
+        "entity_id": 520060,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1818793,
+            "status": "PUBLISHED",
+            "note": "2021-09-04 05:58:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 543273,
+            "practice_id": 1110069,
+            "practice_name": "Sri Sarada Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-04T06:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43369675,
+                "review_text": "Pavi Mam I so nice to me..when I met her first I felt like talking to my friend. Her advice makes me recover soon.she is very polite..thank you Mam..love you Mam \ud83e\udd70",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-02 14:55:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kala kameswaran"
+        },
+        "entity_id": 520060,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1411,
+                "text": "Obstetrics Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1707816,
+            "status": "PUBLISHED",
+            "note": "2021-04-27 06:26:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 543273,
+            "practice_id": 1110069,
+            "practice_name": "Sri Sarada Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-27T07:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42758805,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 47,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 341587
+                    }
+                ],
+                "reviewed_on": "2021-04-25 05:48:40",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sureka"
+        },
+        "entity_id": 520060,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

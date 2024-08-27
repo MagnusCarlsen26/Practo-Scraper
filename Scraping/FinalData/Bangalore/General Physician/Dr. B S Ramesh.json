@@ -1,0 +1,552 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4192,
+                "text": "bioidentical hormone therapies for men and women"
+            },
+            {
+                "id": 162194,
+                "text": "Gastroenteritis Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 916131,
+            "status": "PUBLISHED",
+            "note": "2018-07-07 07:35:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-07T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37812663,
+                "review_text": "Experience was good and diagnosed with proper tests. Happy with the treatment. Thanks to the Doctor and his assistant... ",
+                "review_alterations": [],
+                "reviewed_on": "2018-07-06 07:33:26",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sivachandra"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2215262,
+            "status": "PUBLISHED",
+            "note": "2023-06-15 05:51:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-15T06:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45683563,
+                "review_text": "I DO NOT recommend this doc. * ****** ******* ****** *** *** ** * ****** ******* ********** Took my father for leg pain related to diabetes and stroke and when asked how to reverse diabetes or manage it in the best way, he was extremely discouraging and negative and said diabetes can no way be reversed inspite of my father saying he has immense willpower and is willing to do anything to improve his quality of life. The doctor said he is just being honest and ****** ** **** *** ********* **** need which was to get guidance for a healthy life that is beyond just medicines. \n\nPatients often need encouragement and advise on their lifestyles and are willing to listen only to professionals like doctors instead of their own family. ******* **** *** ******* **** **** ***** *********** ********* *** *** ********* ** ** ****** ** ********** *** ***** ******* I hope they realize they are dealing with a more educated generation now and we expect deep care and quality in their services. ",
+                "review_alterations": [
+                    {
+                        "start_index": 28,
+                        "end_index": 90,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459600
+                    },
+                    {
+                        "start_index": 463,
+                        "end_index": 495,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459601
+                    },
+                    {
+                        "start_index": 734,
+                        "end_index": 859,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459602
+                    }
+                ],
+                "reviewed_on": "2023-06-13 11:22:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2257566,
+            "status": "PUBLISHED",
+            "note": "2023-09-07 06:06:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-07T07:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45948515,
+                "review_text": "I had a bad experience and i do not recommend him to anyone. He is not even ready to listen what the patient wants to speak, just suggesting end test *** ***** *****.\nInstead of calming the patients he was shouting. ***** ************** *** rude behaviour.",
+                "review_alterations": [
+                    {
+                        "start_index": 149,
+                        "end_index": 164,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 467682
+                    },
+                    {
+                        "start_index": 215,
+                        "end_index": 239,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 467683
+                    }
+                ],
+                "reviewed_on": "2023-09-05 16:01:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 848,
+                "text": "Vaccination/ Immunization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2124115,
+            "status": "PUBLISHED",
+            "note": "2022-12-28 06:05:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-28T07:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45147258,
+                "review_text": "Very un-friendly. ** *** ****** * ************ ** *** ******** **** **** **** \nShowed no openness or patience to listen to the health issue. He was suggesting symptoms that do not match the issue. The associate doctor in the room was better at grasping what was said. \nWill need to get a second opinion if you're going to him. \nVisited at Apollo hospitals, Bannerghatta. ",
+                "review_alterations": [
+                    {
+                        "start_index": 17,
+                        "end_index": 76,
+                        "reason": "NON_COMPLIANT",
+                        "id": 437615
+                    }
+                ],
+                "reviewed_on": "2022-12-26 09:26:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162194,
+                "text": "Gastroenteritis Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1276033,
+            "status": "PUBLISHED",
+            "note": "2019-10-24 11:42:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-24T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40273448,
+                "review_text": "I have visited on 22/10, the doctor is not interested to listen to patient, pls don't loose ur money & time, **** *** ******** ** *** ******** ** **** ****** ************ ****** ****** **** ****** **** *** ******** ** ** ** ******** *** ******** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 109,
+                        "end_index": 250,
+                        "reason": "NON_COMPLIANT",
+                        "id": 216588
+                    }
+                ],
+                "reviewed_on": "2019-10-23 11:40:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1695,
+                "text": "Well Woman Healthcheck"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1262421,
+            "status": "PUBLISHED",
+            "note": "2019-10-05 06:06:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-05T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40183505,
+                "review_text": "Went to Apollo hospital Bannerghatta took appointment of doctor B S Ramesh .went I entered in his room I saw i lady doctor is sitting beside him , and in a minute after entering into the room he left and ask that lady doctor to see .\n**** **** ** ****** ** ** **** ** ******* **** **** ******** *** ******* ** **** *** **** ** ******** *** **** ********** *** ***** **** ** ******** ** ** ********* **** *  **** **** ** ******** ** **** **** ** *** **** **** **** ** **** **** ** ******** *",
+                "review_alterations": [
+                    {
+                        "start_index": 234,
+                        "end_index": 261,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 212315
+                    },
+                    {
+                        "start_index": 262,
+                        "end_index": 404,
+                        "reason": "NON_COMPLIANT",
+                        "id": 212316
+                    },
+                    {
+                        "start_index": 405,
+                        "end_index": 489,
+                        "reason": "NON_COMPLIANT",
+                        "id": 212317
+                    }
+                ],
+                "reviewed_on": "2019-10-03 17:42:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1256374,
+            "status": "PUBLISHED",
+            "note": "2019-09-27 06:32:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-27T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40144576,
+                "review_text": "He is a terrible. I visited hime for my brother's health issue with high fever and blood issue...he told if you have blood in ur body then it will come out...it's not a problem....he also told everyday lot of accident happens in bangalore and lot of people die...it's normal****** *** ** ** * ************* *** **** ******* * ******* ****** *** *** ****** **** *********** ********* ** *** ***********I strongly don't recommend this doctor to anyone",
+                "review_alterations": [
+                    {
+                        "start_index": 274,
+                        "end_index": 400,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 210572
+                    }
+                ],
+                "reviewed_on": "2019-09-25 17:46:54",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1292349,
+            "status": "PUBLISHED",
+            "note": "2019-11-17 09:28:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-17T10:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40379836,
+                "review_text": "Doctor is not ready to listen. Experience is not good. will think of visit again. We go good for advise to doctor",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-16 08:05:33",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            },
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1265771,
+            "status": "PUBLISHED",
+            "note": "2019-10-10 13:08:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 504386,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-10T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40205385,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "NON_COMPLIANT",
+                        "id": 213274
+                    },
+                    {
+                        "start_index": 39,
+                        "end_index": 111,
+                        "reason": "NON_COMPLIANT",
+                        "id": 213275
+                    }
+                ],
+                "reviewed_on": "2019-10-09 07:35:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 450645,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

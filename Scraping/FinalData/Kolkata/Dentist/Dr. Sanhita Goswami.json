@@ -1,0 +1,95 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1554534,
+            "status": "PUBLISHED",
+            "note": "2020-10-21 06:22:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747520,
+            "practice_id": 1259865,
+            "practice_name": "Pulp-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-21T07:01:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41924957,
+                "review_text": "Very dignified, no pain at all .. very sound in her field.Adheres to all Covid precautions in the best possible way. Fees and charges are very nominal compared to market standards.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-20 03:59:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajjyoti Datta"
+        },
+        "entity_id": 683623,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            },
+            {
+                "id": 84,
+                "text": "Broken Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1271615,
+            "status": "PUBLISHED",
+            "note": "2019-10-18 06:16:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747520,
+            "practice_id": 1259865,
+            "practice_name": "Pulp-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-18T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40244351,
+                "review_text": "Had visited the doctor for my broken tooth and my daughter's toothache issue. Both issues were diagonised and taken care by the doctor nicely",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-17 05:12:52",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683623,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 875,
+                "text": "Hip Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2067230,
+            "status": "PUBLISHED",
+            "note": "2022-09-14 12:08:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900587,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-14T13:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44825190,
+                "review_text": "The doctor was friendly and to the point. Did not talk about random stuff. Just the problem in hand.",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-13 11:53:42",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 754411,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2099160,
+            "status": "PUBLISHED",
+            "note": "2022-11-11 07:05:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 900587,
+            "practice_id": 735842,
+            "practice_name": "AMRI Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-11T08:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45005999,
+                "review_text": "I was mislead into getting screws in my mother's knee...whereas i was told we are going for knee replacement.\n\nNow my mother's knee is worse than before and no ownership is taken by the doctor and the hospital.\n\nHe has a very annoying assistant and both are not interested in patients.\n\nI will never recommend him ** **** *** **** ** *** *************** *** don't think about patient.\nVery bad experience. Please see any other doctor apart from him.",
+                "review_alterations": [
+                    {
+                        "start_index": 314,
+                        "end_index": 357,
+                        "reason": "NON_COMPLIANT",
+                        "id": 432352
+                    }
+                ],
+                "reviewed_on": "2022-11-09 22:47:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Ranju Srivastava "
+        },
+        "entity_id": 754411,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

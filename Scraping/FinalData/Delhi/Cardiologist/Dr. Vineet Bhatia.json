@@ -1,0 +1,362 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1749781,
+            "status": "PUBLISHED",
+            "note": "2021-06-15 11:25:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 384502,
+            "practice_id": 677542,
+            "practice_name": "Fortis Hospital Noida",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-15T12:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42981624,
+                "review_text": "I have booked an appointment and I had visited the hospital. ****** *** ****** **** **** *** he had done the check up. I had a surgery done before so I had visited for just normal check up. I am over all satisfied with the treatment provided by the doctor and I would like to recommend this doctor for my friends and family members also.",
+                "review_alterations": [
+                    {
+                        "start_index": 61,
+                        "end_index": 91,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 351935
+                    }
+                ],
+                "reviewed_on": "2021-06-14 11:24:13",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "user V SEENAIAHSE"
+        },
+        "entity_id": 515476,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1309623,
+            "status": "PUBLISHED",
+            "note": "2019-12-12 06:32:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 384502,
+            "practice_id": 677542,
+            "practice_name": "Fortis Hospital Noida",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-12T07:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40501693,
+                "review_text": "I visited to Doctor to take opinion regarding implantation of Pacemaker as other Doctor suggested for it but he had not explained the reason and other things. Dr Vineet carefully listen the issue and explained us for requirement of the pacemaker and further he implanted Pacemaker on 05th Nov 2019. Post implantation father discharged and he was fine, on 18th Nov he complained for fever Doctor immediately attended us and suggest for admission. During admission a lot of investigation done but no infection noticed. His overall support during entire investigation was excellent. First time I had seen that a doctor is taking so much step at their own and totally concern about his patient. His behavior is very polite and he is always contactable to his patient.\nThank you Dr Vineet for all your support during admission till discharge of my Father.\n\nI recommend to everyone for any Cardio issue to Dr Vineet Bhatia.\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-08 14:13:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 515476,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183104,
+                "text": "Cardiac checkup - General"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1856697,
+            "status": "PUBLISHED",
+            "note": "2021-10-21 09:02:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 384502,
+            "practice_id": 1241700,
+            "practice_name": "CN HealthCare",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-21T10:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43604119,
+                "review_text": "It was a good experience. Dr. Bhatia is very attentive and appears to be very concerned about his patients.  He enquire thourouly about the problem.  ",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-20 08:43:21",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "N D Thapliyal "
+        },
+        "entity_id": 668432,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 156,
+                "text": "Reconstructive Middle Ear Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1090749,
+            "status": "PUBLISHED",
+            "note": "2019-02-21 07:19:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 384502,
+            "practice_id": 677542,
+            "practice_name": "Fortis Hospital Noida",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-21T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39086058,
+                "review_text": "Even after several tests worth tens of thousands of rupees and several days of follow-ups, ******** ****** *** *** ***** ** *** ***** **** *********** **** ****** Had to switch to another doctor. ",
+                "review_alterations": [
+                    {
+                        "start_index": 90,
+                        "end_index": 161,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 156388
+                    }
+                ],
+                "reviewed_on": "2019-02-20 04:38:01",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 515476,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1739580,
+            "status": "PUBLISHED",
+            "note": "2021-06-03 11:15:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 384502,
+            "practice_id": 677542,
+            "practice_name": "Fortis Hospital Noida",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-03T12:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42925967,
+                "review_text": "I have taken appointment for my routine check up and visited the hospital. Doctor was  quite good and he had done the check up, there was no wait time for in hospital as it was on time. I am completely 100% satisfied with his treatment and any one needs consultation means I would like to recommend this doctor only.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-02 11:06:24",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 515476,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 15424,
+                "text": "BP Monitoring"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1296994,
+            "status": "PUBLISHED",
+            "note": "2019-11-23 06:22:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 384502,
+            "practice_id": 677542,
+            "practice_name": "Fortis Hospital Noida",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-23T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40410081,
+                "review_text": "The doctor is very friendly with positive attitude . He made me feel comfortable and explained the necessity for fitness through wright loss. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-22 04:46:27",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 515476,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1036996,
+            "status": "PUBLISHED",
+            "note": "2018-12-11 06:53:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 384502,
+            "practice_id": 677542,
+            "practice_name": "Fortis Hospital Noida",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-11T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38725426,
+                "review_text": "He is a very good doctor with good listening and patience level. very very friendly approach..I am very satisfied",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-08 13:06:03",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 515476,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

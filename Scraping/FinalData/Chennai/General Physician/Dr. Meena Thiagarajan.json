@@ -1,0 +1,49 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2177176,
+            "status": "PUBLISHED",
+            "note": "2023-04-01 06:46:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619020,
+            "practice_id": 1158583,
+            "practice_name": "Apollo Children's Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-01T07:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45451433,
+                "review_text": "*** ** *** **** ************* ** ***** she is amazing. in her work, she is not over modern like most doctors are these days. Nor is she age old traditional in her practice. she is practical and 200% reliable. A doctor who is good at heart too. genuinely cares about the baby and parents. gives very honest advice and practical tips",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 37,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 450863
+                    }
+                ],
+                "reviewed_on": "2023-03-30 21:40:10",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 599926,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

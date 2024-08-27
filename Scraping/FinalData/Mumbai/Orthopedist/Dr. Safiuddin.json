@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2394568,
+            "status": "PUBLISHED",
+            "note": "2024-06-07 10:38:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 421800,
+            "practice_id": 1134529,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-07T11:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46737528,
+                "review_text": "Good , friendly , soft spoken , reassuring . Took time to explain ,  and ample time to treat the illness ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-05 08:38:27",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saurav mukherjee"
+        },
+        "entity_id": 643812,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

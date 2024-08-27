@@ -1,0 +1,306 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2349227,
+            "status": "PUBLISHED",
+            "note": "2024-03-02 06:29:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 335867,
+            "practice_id": 729803,
+            "practice_name": "Rutheek Children Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-02T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46478035,
+                "review_text": "Very good doctor and treatment I am visiting from last 8 years I suggest this doctor to everyone\n\nHappy with service and he will respond immediately on our doubt",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-29 14:41:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 244604,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2162634,
+            "status": "PUBLISHED",
+            "note": "2023-03-06 11:26:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 335867,
+            "practice_id": 729803,
+            "practice_name": "Rutheek Children Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-06T12:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45367526,
+                "review_text": "Doctor answers all your doubts and spends enough time with patient.. ** ** *** ** *** **** ****** ** ** ******.. I would strongly recommend him for newborn parents.. ",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 109,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 447441
+                    }
+                ],
+                "reviewed_on": "2023-03-05 08:51:10",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vijayalakshmi Rag"
+        },
+        "entity_id": 244604,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1437960,
+            "status": "PUBLISHED",
+            "note": "2020-06-05 08:53:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 335867,
+            "practice_id": 729803,
+            "practice_name": "Rutheek Children Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-05T09:03:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41327548,
+                "review_text": "Very friendly doctor. My kid was so happy with him. Waiying time was minimum. They took utmost care during this Covid period. Very nice doctor and good clinic. I recommend you to go there and meet him and experience",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-04 08:30:41",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sudev Nair"
+        },
+        "entity_id": 244604,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2015048,
+            "status": "PUBLISHED",
+            "note": "2022-06-22 10:24:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 335867,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-22T11:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44517815,
+                "review_text": "When we booked appointment through Practo, doctors, fee was showing 700 and when we visited hospital they charged 850 doctors consultation and 200 for registration.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-21 08:54:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rajesh "
+        },
+        "entity_id": 585592,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3680,
+                "text": "Paediatrics - Chest"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1289628,
+            "status": "PUBLISHED",
+            "note": "2019-11-14 06:50:19",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 335867,
+            "practice_id": 729803,
+            "practice_name": "Rutheek Children Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-14T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40362306,
+                "review_text": "I am going to this doctor from last 5 years. I stay in Bellandur but still I will go for his treatment. For my kids any Health issues then Dr.Ramesh will be the solution. He listen our words carefully and patiently, then suggest for the medications.",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-12 18:59:07",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 244604,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1041887,
+            "status": "PUBLISHED",
+            "note": "2018-12-16 09:11:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 335867,
+            "practice_id": 729803,
+            "practice_name": "Rutheek Children Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-16T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38759019,
+                "review_text": "It was an excellent experience, very friendly Doctor with superb advice and  having good experience in vaccination,very near to my home, timing is quite comfortable ",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-15 08:56:46",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 244604,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

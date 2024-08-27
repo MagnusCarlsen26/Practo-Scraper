@@ -1,0 +1,428 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 818604,
+            "status": "PUBLISHED",
+            "note": "2018-03-14 05:39:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 215309,
+            "practice_id": 668194,
+            "practice_name": "Life Line Poly Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-14T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36969184,
+                "review_text": "My 14 year old daughter was treated by Dr. Rao at Remedy Hospital, Kukatpally. He was very thorough and straightforward in his approach. Most importantly, we found him very competent and, a man of high integrity. The medications and investigations were all appropriate. His explanation was also clear and precise. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-12 11:18:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 377738,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 743897,
+            "status": "PUBLISHED",
+            "note": "2017-12-09 06:50:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 215309,
+            "practice_id": 668194,
+            "practice_name": "Life Line Poly Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-09T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36253447,
+                "review_text": "couple weeks later after i met with an accident, I felt uneasy and week frequently. he analyzed all past reports, and suggested me to consult neuro physician once again and come back.  ********* ** ********** unlike all other doctors he did not prescribed unwanted tests and medicine. very prompt . very much satisfied.    ",
+                "review_alterations": [
+                    {
+                        "start_index": 185,
+                        "end_index": 207,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 80613
+                    }
+                ],
+                "reviewed_on": "2017-12-07 08:13:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 377738,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1840308,
+            "status": "PUBLISHED",
+            "note": "2021-09-29 10:04:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 215309,
+            "practice_id": 1027841,
+            "practice_name": "OMNI Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-29T11:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43502623,
+                "review_text": "He is not patient friendly. He does not try to understand the feelings of the patient. A doctor's way of speaking to the patient is more important than treating itself. A doctor should instil confidence in the patient that nothing will hamper his recovery. Prescribing tests and based on the reports, prescribing medicines **** * **** without proper interaction with the patient ** *** *** ************** ** ** ********* ******* **** ** **** ***** ** ************* *** ** Therefore,  I don't want to  recommend his name to any of my friends. ",
+                "review_alterations": [
+                    {
+                        "start_index": 323,
+                        "end_index": 334,
+                        "reason": "NON_COMPLIANT",
+                        "id": 375939
+                    },
+                    {
+                        "start_index": 378,
+                        "end_index": 428,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 375940
+                    },
+                    {
+                        "start_index": 429,
+                        "end_index": 471,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 375941
+                    }
+                ],
+                "reviewed_on": "2021-09-28 09:56:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 786981,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2279783,
+            "status": "PUBLISHED",
+            "note": "2023-10-21 05:33:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 215309,
+            "practice_id": 1027841,
+            "practice_name": "OMNI Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-21T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46081810,
+                "review_text": "************** ******* ** ** ******* ****** ****** *** ************. He doesnt even have the interest in listening to the patients symptoms. Chose him because of his experience, but these are the reason why people are showing interest in self- treatment.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 66,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 471397
+                    }
+                ],
+                "reviewed_on": "2023-10-19 05:36:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 786981,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1606372,
+            "status": "PUBLISHED",
+            "note": "2020-12-27 07:45:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 215309,
+            "practice_id": 668194,
+            "practice_name": "Life Line Poly Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-27T08:01:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42201018,
+                "review_text": "Critical cases not able to handle, if critical cases goes at this covid time dead body will be handed over to us",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-25 20:05:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Mahendar"
+        },
+        "entity_id": 377738,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186434,
+                "text": "Diabetes complications"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 616742,
+            "status": "PUBLISHED",
+            "note": "2017-07-11 10:38:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 215309,
+            "practice_id": 668194,
+            "practice_name": "Life Line Poly Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-11T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34980330,
+                "review_text": "Very nice doctor with good explanation of issues and no additional medicines recommended, he suggested to continue with same medicines ",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-08 08:12:17",
+                "channel": "sapphire",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 377738,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2076910,
+            "status": "PUBLISHED",
+            "note": "2022-09-30 06:42:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 215309,
+            "practice_id": 1027841,
+            "practice_name": "OMNI Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-30T07:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44880359,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 82,
+                        "reason": "NON_COMPLIANT",
+                        "id": 427823
+                    },
+                    {
+                        "start_index": 140,
+                        "end_index": 176,
+                        "reason": "NON_COMPLIANT",
+                        "id": 427824
+                    },
+                    {
+                        "start_index": 217,
+                        "end_index": 232,
+                        "reason": "NON_COMPLIANT",
+                        "id": 427825
+                    },
+                    {
+                        "start_index": 407,
+                        "end_index": 543,
+                        "reason": "NON_COMPLIANT",
+                        "id": 427826
+                    },
+                    {
+                        "start_index": 596,
+                        "end_index": 685,
+                        "reason": "NON_COMPLIANT",
+                        "id": 427827
+                    },
+                    {
+                        "start_index": 723,
+                        "end_index": 826,
+                        "reason": "NON_COMPLIANT",
+                        "id": 427828
+                    },
+                    {
+                        "start_index": 827,
+                        "end_index": 872,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 427829
+                    },
+                    {
+                        "start_index": 873,
+                        "end_index": 910,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 427830
+                    },
+                    {
+                        "start_index": 911,
+                        "end_index": 953,
+                        "reason": "NON_COMPLIANT",
+                        "id": 427831
+                    },
+                    {
+                        "start_index": 994,
+                        "end_index": 1015,
+                        "reason": "NON_COMPLIANT",
+                        "id": 427832
+                    }
+                ],
+                "reviewed_on": "2022-09-29 02:15:06",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 786981,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

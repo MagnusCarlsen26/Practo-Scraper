@@ -1,0 +1,87 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 169773,
+                "text": "Cervical Spondylitis Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2404444,
+            "status": "PUBLISHED",
+            "note": "2024-06-26 11:06:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1109270,
+            "practice_id": 1452373,
+            "practice_name": "V9 Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-26T12:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46794067,
+                "review_text": "No showoff, approachable, gentle, relaxed and provides relaxed atmosphere to the patient,listens, good patience, gives assurance about the solution of\ndisease, builds confidence in the patient. This is my experience n I thank the doctor n appreciate the management of the hospital for employing good staff members (most of them),also for its very good ambience and mirror like cleanliness.",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-25 08:37:53",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "N Chinnaiah"
+        },
+        "entity_id": 898482,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2356315,
+            "status": "PUBLISHED",
+            "note": "2024-03-15 09:31:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1109270,
+            "practice_id": 1452373,
+            "practice_name": "V9 Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-15T10:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46518815,
+                "review_text": "We visited V9 hospital for a muscle injury, the hospitality was good & staff are very good at receiving & Dr. Satish Kumar was expert in the ortho. He\u2019s very friendly & I honestly suggest Dr. K. Satish for any orthopadic problems.",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-14 08:37:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rahul"
+        },
+        "entity_id": 898482,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

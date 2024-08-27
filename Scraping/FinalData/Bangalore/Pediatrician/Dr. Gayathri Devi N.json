@@ -1,0 +1,70 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1556473,
+            "status": "PUBLISHED",
+            "note": "2020-10-23 07:14:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 693392,
+            "practice_id": 1223907,
+            "practice_name": "Niranth Kiran Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-23T08:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41935086,
+                "review_text": "Doctor *** **** ****** ** ********* *** ******** *** gave tips to overcome, which gave good results in just one day. Thanks... Keep up the good work Doctor... All the Best... \n\nThanks \ud83c\udf39\ud83c\udf39\ud83c\udf39\nC. Sathish Kumar",
+                "review_alterations": [
+                    {
+                        "start_index": 7,
+                        "end_index": 52,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 303255
+                    }
+                ],
+                "reviewed_on": "2020-10-22 06:22:29",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vaishnavi V S"
+        },
+        "entity_id": 652715,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

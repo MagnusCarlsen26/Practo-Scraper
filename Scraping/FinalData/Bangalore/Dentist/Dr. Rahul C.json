@@ -1,0 +1,129 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2366404,
+            "status": "PUBLISHED",
+            "note": "2024-04-09 06:37:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1034388,
+            "practice_id": 1407519,
+            "practice_name": "Origin Dental Implant Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-09T07:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46575342,
+                "review_text": "****** ***** ** **** ****** ****** * ** **** ***** I was suffering from tooth infection from 20 days doctor Rahul treated me so well all my pain n infection was gone in two days ,I'm breastfeeding mother so he gave mild tablets he is very knowledgeable n soft spoken ,polite as well ,i would definitely recommend Rahul sir for  tooth patients",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 49,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 483237
+                    }
+                ],
+                "reviewed_on": "2024-04-07 13:10:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhavani pandith"
+        },
+        "entity_id": 845104,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2366998,
+            "status": "PUBLISHED",
+            "note": "2024-04-10 04:27:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1034388,
+            "practice_id": 1407519,
+            "practice_name": "Origin Dental Implant Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-10T05:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46578946,
+                "review_text": "I am happy customer. I got root canal treatment by Dr Rahul sir. It was a good experience.Thank you sir\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-08 17:31:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Parvathamma "
+        },
+        "entity_id": 845104,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2366492,
+            "status": "PUBLISHED",
+            "note": "2024-04-09 07:23:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1034388,
+            "practice_id": 1407519,
+            "practice_name": "Origin Dental Implant Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-09T08:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46575856,
+                "review_text": "I got Full mouth cleaning (scaling) and fillings by Dr Rahul sir. Thank you sir\ud83d\ude0a i will definitely informe my family and friends to visit your clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-07 17:32:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 845104,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2098341,
+            "status": "PUBLISHED",
+            "note": "2022-11-10 05:06:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 301727,
+            "practice_id": 706826,
+            "practice_name": "New Born And Child Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-10T06:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45001739,
+                "review_text": "Super excellent diagnosis and medication.. Behaviour is too good... Following her from last 14 yrs for my son. \nTried many doctors of my location but never satisfied... *** ** *** **** ****** *** **** * ****** *** **** ** *** ** *** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 169,
+                        "end_index": 236,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 432181
+                    }
+                ],
+                "reviewed_on": "2022-11-08 14:58:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ruchika Modi"
+        },
+        "entity_id": 204900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193418,
+                "text": "stomach and intestinal infections"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1089220,
+            "status": "PUBLISHED",
+            "note": "2019-02-20 06:43:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 301727,
+            "practice_id": 706826,
+            "practice_name": "New Born And Child Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-20T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39074397,
+                "review_text": "Overall very good experience. Her friendly approach kept the child comfortable during diagnosis. He was well within 2 days of time.",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-18 09:08:40",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 204900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

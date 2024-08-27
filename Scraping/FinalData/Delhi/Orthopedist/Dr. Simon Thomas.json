@@ -1,0 +1,410 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2261438,
+            "status": "PUBLISHED",
+            "note": "2023-09-15 06:13:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297103,
+            "practice_id": 749227,
+            "practice_name": "Sant Parmanand Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-15T07:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45972852,
+                "review_text": "I went for a second opinion about my dad\u2019s leg surgery. He is a well versed doctor, keeping patience and endurance with patient\u2019s concern and queries. \nHe thoroughly explains the exercises and the cause of ailment, comforting the patient on the go.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-13 15:36:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neha Kapoor"
+        },
+        "entity_id": 269594,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1734321,
+            "status": "PUBLISHED",
+            "note": "2021-05-28 10:42:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297103,
+            "practice_id": 632324,
+            "practice_name": "Sant Parmanand Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-28T11:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42897735,
+                "review_text": "*** ***** ****** ** *** **** ********** ******* ** ***** *** * ** ******* **** ***** ** **** ************ **** ***** **** ********** ******** My Mother was suffering from both knee pain from last 20 years and she even could not walk as her leg was bend by 30 degree. On 2016 my mother was operated by Dr. Simon Thomas. Now she can walk 500 mtrs easily and climb stair till 3rd floor. Dr. Simon is very nice and co-operative with all patient and family. \nGreat doctor  ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 141,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 347905
+                    }
+                ],
+                "reviewed_on": "2021-05-27 10:40:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "chandan Kumar"
+        },
+        "entity_id": 543623,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1786338,
+            "status": "PUBLISHED",
+            "note": "2021-07-27 09:51:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297103,
+            "practice_id": 632324,
+            "practice_name": "Sant Parmanand Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-27T10:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43182930,
+                "review_text": "I visited Dr Simon for pain in wrist. He explained me the reason behind the paid extremely well and also make me understand the course of treatment need to be done.\n\nHe hear me out properly and cleared my all doubts ",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-25 17:08:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vikash Mohpal"
+        },
+        "entity_id": 543623,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 102064,
+                "text": "Wrist problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1171783,
+            "status": "PUBLISHED",
+            "note": "2019-06-08 11:22:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297103,
+            "practice_id": 749227,
+            "practice_name": "Sant Parmanand Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-08T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39605247,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 26,
+                        "reason": "NON_COMPLIANT",
+                        "id": 182122
+                    },
+                    {
+                        "start_index": 120,
+                        "end_index": 169,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 182123
+                    },
+                    {
+                        "start_index": 170,
+                        "end_index": 258,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 182124
+                    }
+                ],
+                "reviewed_on": "2019-06-07 07:06:47",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 269594,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1602643,
+            "status": "PUBLISHED",
+            "note": "2020-12-22 08:21:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297103,
+            "practice_id": 749227,
+            "practice_name": "Sant Parmanand Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-22T09:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42181615,
+                "review_text": "Consulted him for back pain problem, got really satisfactory answers to my questions. What I really liked that he did not ask me to for any unnecessary tests which really saved time and money.",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-21 07:59:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lokesh Gupta"
+        },
+        "entity_id": 269594,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 37,
+                "text": "Joint Mobilization"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1546928,
+            "status": "PUBLISHED",
+            "note": "2020-10-13 07:41:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297103,
+            "practice_id": 749227,
+            "practice_name": "Sant Parmanand Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-13T08:01:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41885354,
+                "review_text": "I never met doctor like him who is so dwn to earth n understand his patients prblm. ** *********** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 84,
+                        "end_index": 104,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 300556
+                    }
+                ],
+                "reviewed_on": "2020-10-11 08:02:45",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shalini Aggarwal"
+        },
+        "entity_id": 269594,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Knee Osteotomy"
+            },
+            {
+                "id": 383,
+                "text": "Hip Replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1211901,
+            "status": "PUBLISHED",
+            "note": "2019-07-31 11:12:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297103,
+            "practice_id": 632324,
+            "practice_name": "Sant Parmanand Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-31T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39859792,
+                "review_text": "I met with an accident on 2july in night and he is such a owsm doc with 2 weeks I was again walking and bed rest to but the damage my body was facing I don't think nun of any another doc could help me up.\nI am 115kg boy with a age of 24 only he not only saves my present but saved my whole life also\n\nSo kind heart doc. And a guy with all facts care about my money that I won't get any additional charges\n\nThanks doc \nU r best",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-29 16:26:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 543623,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1691435,
+            "status": "PUBLISHED",
+            "note": "2021-04-06 09:26:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 297103,
+            "practice_id": 632324,
+            "practice_name": "Sant Parmanand Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-06T10:01:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42666854,
+                "review_text": "Met Dr Simon for pain in legs and and feet. Docter is very friendly and approachable. He in depth explained the problem and treatment. Gave more emphasis on excersises and avoided unnecessary tests. HIGHLY RECOMMEND.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-05 03:25:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 543623,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

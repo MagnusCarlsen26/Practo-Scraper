@@ -1,0 +1,153 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 190,
+                "text": "Adiana System"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2365644,
+            "status": "PUBLISHED",
+            "note": "2024-04-07 05:26:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 748776,
+            "practice_id": 1260479,
+            "practice_name": "Janani Women's Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-07T06:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46570867,
+                "review_text": "Very nice  doctor. The doctor was very friendly and caring nature. She had provided very useful suggestions and valuable information.",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-05 14:12:32",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 684542,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1999235,
+            "status": "PUBLISHED",
+            "note": "2022-05-27 08:12:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 748776,
+            "practice_id": 1260479,
+            "practice_name": "Janani Women's Care Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-27T09:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44425587,
+                "review_text": "There are some people in the world whose assurance and explanation will give you a lot of confidence and your half treatment is done. Madam is one of them. She is extremely helpful and caring. Visited for my wife for poly cystic ovarian syndrome . She explained clearly about what has to be done. Thanks ma'am and God bless you ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-26 08:06:02",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "TANIA SULTANA"
+        },
+        "entity_id": 684542,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 5365,
+                "text": "Vaginal Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2286310,
+            "status": "PUBLISHED",
+            "note": "2023-11-02 06:37:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 748776,
+            "practice_id": 1260479,
+            "practice_name": "Janani Women's Care Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-02T07:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46118650,
+                "review_text": "****** ****** **** ********* ***** ********* ** **** ******* . She was in a hurry to finish the call and leave. I had scheduled a video consult , but even without asking me she changed it to in Clinic visit. A discussion would have helped",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 60,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 472305
+                    }
+                ],
+                "reviewed_on": "2023-11-01 04:38:45",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 684542,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

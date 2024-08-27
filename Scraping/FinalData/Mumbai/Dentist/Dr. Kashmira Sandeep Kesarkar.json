@@ -1,0 +1,930 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2252909,
+            "status": "PUBLISHED",
+            "note": "2023-08-30 07:49:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-30T08:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45915716,
+                "review_text": "Had visited for a root canal and DMLS crown must say, very professional and skilled, top to bottom. Cannot recommend them more highly. Dr. Kashmira is so thorough and informative and let's you know every step of the way what's going on so there are no surprises. Very calming as well.\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-24 06:56:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sangeeta Chemburkar "
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2250711,
+            "status": "PUBLISHED",
+            "note": "2023-08-20 06:34:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-20T07:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45900494,
+                "review_text": ". ******** ** *** ** *** **** ******** Very empathetic and understands patients very well. I got my tooth extraction done here. Dr. Kashmira did an excellent job. It was painless and took place very easily. I would highly recommend this clinic for such a professional and impeccable service. \u2764\ufe0f\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 2,
+                        "end_index": 37,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 465851
+                    }
+                ],
+                "reviewed_on": "2023-08-18 17:58:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anita Santosh khairwar "
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2169652,
+            "status": "PUBLISHED",
+            "note": "2023-03-19 06:42:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-18T14:36:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 401915,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words ma\u2019am.",
+                "replied_at": "2023-03-18T14:36:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 12565985,
+                "modified_by_id": 12565985,
+                "replier_name": "Dr. Kashmira Sandeep Kesarkar",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/993422/dr-kashmira-sandeep-kesarkar-6248192ec9f93.jpg"
+            },
+            "survey_response": {
+                "id": 45408001,
+                "review_text": "I wanted to get my tooth extracted and was little apprehensive but Dr. Kashmira helped me to get over that fear.  She is very empathetic. The treatment went very smoothly. Dr. Kashmira and Dr. Navneet did an excellent job. I would recommend this clinic for any of your dental problems/treatments. Thanks for a seamless experience! ",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-18 06:25:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Reshma Sharma"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2339346,
+            "status": "PUBLISHED",
+            "note": "2024-02-13 06:39:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-13T07:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46420702,
+                "review_text": "good communication , friendly with patients , excellent experience, quality treatment,  regularly follow up remainders ",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-11 06:12:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2192706,
+            "status": "PUBLISHED",
+            "note": "2023-05-04 07:14:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-04T08:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45549349,
+                "review_text": "Got a clean up done for tea stains on my teeth. Kashmira ma'am was very comforting and explained how I can prevent getting the stains again. I would highly recommend her for any type of dental issue.",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-03 06:17:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Amey Shetye"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2273546,
+            "status": "PUBLISHED",
+            "note": "2023-10-10 05:47:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-10T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46046354,
+                "review_text": "Dr. Kashmira removed my wisdom tooth, and she is a very skilled and experienced dentist. Before treatment, she will explain every step to make sure you are comfortable, and most importantly, she won't rush through the procedure to make sure it is less painful. Highly Recommended!",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-07 17:00:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2144210,
+            "status": "PUBLISHED",
+            "note": "2023-02-03 06:38:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-03T07:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45262202,
+                "review_text": "Visited Dr Kashmira's clinic for root canal treatment.*** **********  ********* *** ********* ****** *** ***********The root canal treatment was completed in single session.\nClinic is very hygeinic and very close from Andheri est Metro station.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 54,
+                        "end_index": 115,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 442272
+                    }
+                ],
+                "reviewed_on": "2023-02-01 19:34:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sushil Jain"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2263550,
+            "status": "PUBLISHED",
+            "note": "2023-09-21 05:35:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-21T06:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45986904,
+                "review_text": "I had visited Dr. Kashmira for tooth pain and pain in gums. She diagnosed my problem well and initiated root canal with my tooth . She finished my root canal in one sitting. She made feel comfortable and treated my tooth painlessly. Post root canal she put a cap on my tooth which matches my tooth. I highly recommend Dr. Kashmira as a dentist.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-18 16:16:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 193835,
+                "text": "Painless Single visit root canal treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2250682,
+            "status": "PUBLISHED",
+            "note": "2023-08-20 06:27:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-20T07:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45900287,
+                "review_text": "I visited Dr. Kashmira Kesarkar for root canal and zirconium crown placement. I had a very painless experience with the root canal. She used modern techniques to deliver my tooth cap. She is very ************* *** * professional in her work. The clinic is neat and tidy and the staff is courteous. I would recommend Dr. Kashmira for painless dental treatment. ",
+                "review_alterations": [
+                    {
+                        "start_index": 196,
+                        "end_index": 214,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 465846
+                    }
+                ],
+                "reviewed_on": "2023-08-18 16:08:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2152873,
+            "status": "PUBLISHED",
+            "note": "2023-02-17 16:08:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-17T17:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45311864,
+                "review_text": "I came to remove my wisdom tooth. It was a great experience as Dr kashmira kesarkar is very well-versed.\nNeither did I feel any pain while removing it nor after removing it. I did not even take any painkiller after my tooth extraction as I felt no pain at all. Dr kashmira kesarkar is a very smooth operator. She also explained me all the after steps clearly and carefully which I should follow to heal quickly. I highly recommend Dr. kashmira kesarkar to everyone as you will be in safe hands.",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-16 15:27:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2252909,
+            "status": "PUBLISHED",
+            "note": "2023-08-30 07:49:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-30T08:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45915716,
+                "review_text": "Had visited for a root canal and DMLS crown must say, very professional and skilled, top to bottom. Cannot recommend them more highly. Dr. Kashmira is so thorough and informative and let's you know every step of the way what's going on so there are no surprises. Very calming as well.\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-24 06:56:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sangeeta Chemburkar "
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2250711,
+            "status": "PUBLISHED",
+            "note": "2023-08-20 06:34:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-20T07:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45900494,
+                "review_text": ". ******** ** *** ** *** **** ******** Very empathetic and understands patients very well. I got my tooth extraction done here. Dr. Kashmira did an excellent job. It was painless and took place very easily. I would highly recommend this clinic for such a professional and impeccable service. \u2764\ufe0f\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 2,
+                        "end_index": 37,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 465851
+                    }
+                ],
+                "reviewed_on": "2023-08-18 17:58:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anita Santosh khairwar "
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2169652,
+            "status": "PUBLISHED",
+            "note": "2023-03-19 06:42:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-18T14:36:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 401915,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words ma\u2019am.",
+                "replied_at": "2023-03-18T14:36:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 12565985,
+                "modified_by_id": 12565985,
+                "replier_name": "Dr. Kashmira Sandeep Kesarkar",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/993422/dr-kashmira-sandeep-kesarkar-6248192ec9f93.jpg"
+            },
+            "survey_response": {
+                "id": 45408001,
+                "review_text": "I wanted to get my tooth extracted and was little apprehensive but Dr. Kashmira helped me to get over that fear.  She is very empathetic. The treatment went very smoothly. Dr. Kashmira and Dr. Navneet did an excellent job. I would recommend this clinic for any of your dental problems/treatments. Thanks for a seamless experience! ",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-18 06:25:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Reshma Sharma"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2339346,
+            "status": "PUBLISHED",
+            "note": "2024-02-13 06:39:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-13T07:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46420702,
+                "review_text": "good communication , friendly with patients , excellent experience, quality treatment,  regularly follow up remainders ",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-11 06:12:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2192706,
+            "status": "PUBLISHED",
+            "note": "2023-05-04 07:14:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-04T08:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45549349,
+                "review_text": "Got a clean up done for tea stains on my teeth. Kashmira ma'am was very comforting and explained how I can prevent getting the stains again. I would highly recommend her for any type of dental issue.",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-03 06:17:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Amey Shetye"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2273546,
+            "status": "PUBLISHED",
+            "note": "2023-10-10 05:47:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-10T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46046354,
+                "review_text": "Dr. Kashmira removed my wisdom tooth, and she is a very skilled and experienced dentist. Before treatment, she will explain every step to make sure you are comfortable, and most importantly, she won't rush through the procedure to make sure it is less painful. Highly Recommended!",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-07 17:00:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2144210,
+            "status": "PUBLISHED",
+            "note": "2023-02-03 06:38:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-03T07:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45262202,
+                "review_text": "Visited Dr Kashmira's clinic for root canal treatment.*** **********  ********* *** ********* ****** *** ***********The root canal treatment was completed in single session.\nClinic is very hygeinic and very close from Andheri est Metro station.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 54,
+                        "end_index": 115,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 442272
+                    }
+                ],
+                "reviewed_on": "2023-02-01 19:34:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sushil Jain"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2263550,
+            "status": "PUBLISHED",
+            "note": "2023-09-21 05:35:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-21T06:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45986904,
+                "review_text": "I had visited Dr. Kashmira for tooth pain and pain in gums. She diagnosed my problem well and initiated root canal with my tooth . She finished my root canal in one sitting. She made feel comfortable and treated my tooth painlessly. Post root canal she put a cap on my tooth which matches my tooth. I highly recommend Dr. Kashmira as a dentist.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-18 16:16:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            },
+            {
+                "id": 193835,
+                "text": "Painless Single visit root canal treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2250682,
+            "status": "PUBLISHED",
+            "note": "2023-08-20 06:27:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-20T07:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45900287,
+                "review_text": "I visited Dr. Kashmira Kesarkar for root canal and zirconium crown placement. I had a very painless experience with the root canal. She used modern techniques to deliver my tooth cap. She is very ************* *** * professional in her work. The clinic is neat and tidy and the staff is courteous. I would recommend Dr. Kashmira for painless dental treatment. ",
+                "review_alterations": [
+                    {
+                        "start_index": 196,
+                        "end_index": 214,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 465846
+                    }
+                ],
+                "reviewed_on": "2023-08-18 16:08:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2152873,
+            "status": "PUBLISHED",
+            "note": "2023-02-17 16:08:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 993422,
+            "practice_id": 1382490,
+            "practice_name": "Kashmira's Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-17T17:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45311864,
+                "review_text": "I came to remove my wisdom tooth. It was a great experience as Dr kashmira kesarkar is very well-versed.\nNeither did I feel any pain while removing it nor after removing it. I did not even take any painkiller after my tooth extraction as I felt no pain at all. Dr kashmira kesarkar is a very smooth operator. She also explained me all the after steps clearly and carefully which I should follow to heal quickly. I highly recommend Dr. kashmira kesarkar to everyone as you will be in safe hands.",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-16 15:27:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 817618,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

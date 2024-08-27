@@ -1,0 +1,49 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1586701,
+            "status": "PUBLISHED",
+            "note": "2020-12-02 12:54:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 594420,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-02T13:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42098130,
+                "review_text": "We visited Dr. Swati for our 2 year old kid who has SRNS. For initial 3 months it's been a painful journey for my kid and us too. Dr. Swati not just treated our kid but also helped we parents to deal with the situation. She is well qualified doctor with good experience, she knows her job very well and followed treatment as required. My kid has now shown improvement and he is doing better. She understand children's desease very well. She is kind, sensetive to children, counsel parents in best manner. *** ** *** ** *** *** ** *** ****** ****** I STRONGLY recommend her for renal issue in kids.",
+                "review_alterations": [
+                    {
+                        "start_index": 504,
+                        "end_index": 546,
+                        "reason": "NON_COMPLIANT",
+                        "id": 311320
+                    }
+                ],
+                "reviewed_on": "2020-12-01 12:44:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vishal Jain"
+        },
+        "entity_id": 635643,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

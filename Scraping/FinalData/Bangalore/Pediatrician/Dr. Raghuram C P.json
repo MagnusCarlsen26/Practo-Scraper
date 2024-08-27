@@ -1,0 +1,1014 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1673226,
+            "status": "PUBLISHED",
+            "note": "2021-03-16 06:38:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1322148,
+            "practice_name": "Aster Women & Children Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-16T07:01:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42565580,
+                "review_text": "*** ******** ** *** ** *** ****** ******* * **** **** **** He is such a humble, kind, ************** experienced n down to earth person that, i feel so satisfied after consulting him for my son. this Dr. is treating my son since 2017, n i feel extremely happy that my son is in safe hands. Thank you.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 57,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 332860
+                    },
+                    {
+                        "start_index": 86,
+                        "end_index": 99,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 332861
+                    }
+                ],
+                "reviewed_on": "2021-03-14 05:21:21",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "THANUJA P/ GAHAN NARTAN"
+        },
+        "entity_id": 752579,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1178004,
+            "status": "PUBLISHED",
+            "note": "2019-07-09 12:52:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-09T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39644050,
+                "review_text": "We are consulting with Dr. Raghuram C.P sir for my ten years old. He is very caring doctor we ever came across. He patiently listens everything what we say and does great counselling. Overall, we always feel that our health (my daughter's) is in good hands. We are very thankful to Dr. Raghuram Sir and to Aster CMI.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-15 07:46:10",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naidu. S"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 479244,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1132620,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-22T11:29:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31878847,
+                "review_text": "He is very nice and easy to approachable, and he doesn't give any unnecessary medicines. ** *** **** **** ********* *** ******** ",
+                "review_alterations": [
+                    {
+                        "start_index": 89,
+                        "end_index": 127,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 28828
+                    }
+                ],
+                "reviewed_on": "2017-02-21 15:58:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Srinivas"
+        },
+        "entity_id": 557459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 495,
+                "text": "Cancer Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176426,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:39:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39634076,
+                "review_text": "*********** ** * **** *******he taken care of the patient very nicely.is like a our family doctor know",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183674
+                    }
+                ],
+                "reviewed_on": "2019-06-13 07:39:03",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hritosmit"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 705535,
+            "status": "PUBLISHED",
+            "note": "2017-10-23 10:40:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1132620,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-23T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35881796,
+                "review_text": "If your child has normal cold and cough, or vaccination then this doctor is OK *** ** *** **** ** ********** ***** *** *************** Let me explain my child case. Since first 3 month after his birth we used to go to him in Rainbow Marathalli and our child is little bit on thinner side. He suffered from cold and cough frequently. His mother told several time about this and doctor after examining his chest give Sinarest AF. Always assure about my baby that she is a smaller weight - everything is OK. But as cold and cough is not reducing we went (just after his visit) to another doctor who gave some blood test to the child by seeing his development and D3 deficiency was enormous. The new specialist with his equipment found child has suffering from ear infection gave antibiotic and advice Tympanometry after 2 month. After doing the test we found even after the medicine the ear infection is still there. Even the new ped found issue in teeth. We are scared if my wife didn't insist and we put our child under this doctor!",
+                "review_alterations": [
+                    {
+                        "start_index": 79,
+                        "end_index": 133,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 71374
+                    }
+                ],
+                "reviewed_on": "2017-10-19 06:56:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 557459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176384,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:41:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39633826,
+                "review_text": "My son was diagnosed with ALL B type, *** *** ** ******** ***** ** ******* * They consolidated very well.one thing I can say my son is getting treatment from a very good hand .\n",
+                "review_alterations": [
+                    {
+                        "start_index": 38,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183677
+                    }
+                ],
+                "reviewed_on": "2019-06-13 07:07:05",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prashanth"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176371,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:28:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39633733,
+                "review_text": "Dr. Raghuram isgood doctor cell experience doctor and he will explain all the doubts and problems.good hearted ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-13 06:52:45",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Adivith b m"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176274,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:21:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39633184,
+                "review_text": "Dr.Raghuram ,he is very friendly,down to earth,listens to the problems patiently and gives advise in hard times.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-13 05:08:32",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bibz"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 545144,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1132620,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-03T11:58:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34254610,
+                "review_text": "**** **** ************ ******, **** you can trust and safely rely upon.\" \n\nVery honest, thoroughly professional and you can truly experience the treet ment satisfaction when you consult him. He's never a person of money minded which makes us to rely on him.\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 43277
+                    },
+                    {
+                        "start_index": 30,
+                        "end_index": 35,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 43278
+                    }
+                ],
+                "reviewed_on": "2017-05-01 14:14:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 557459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2005363,
+            "status": "PUBLISHED",
+            "note": "2022-06-07 06:28:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1322148,
+            "practice_name": "Aster Women & Children Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-07T07:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44460775,
+                "review_text": "We were given a time of 4:10pm and were told that maximum we may need to wait 5-10mins.However on reaching there we realised that we had to wait more than 2 hours. Utterly bad service. Management is not proper. They give hollow commitments and assurances and keep you waiting for hours.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-05 03:06:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752579,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1673226,
+            "status": "PUBLISHED",
+            "note": "2021-03-16 06:38:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1322148,
+            "practice_name": "Aster Women & Children Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-16T07:01:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42565580,
+                "review_text": "*** ******** ** *** ** *** ****** ******* * **** **** **** He is such a humble, kind, ************** experienced n down to earth person that, i feel so satisfied after consulting him for my son. this Dr. is treating my son since 2017, n i feel extremely happy that my son is in safe hands. Thank you.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 57,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 332860
+                    },
+                    {
+                        "start_index": 86,
+                        "end_index": 99,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 332861
+                    }
+                ],
+                "reviewed_on": "2021-03-14 05:21:21",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "THANUJA P/ GAHAN NARTAN"
+        },
+        "entity_id": 752579,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1178004,
+            "status": "PUBLISHED",
+            "note": "2019-07-09 12:52:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-09T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39644050,
+                "review_text": "We are consulting with Dr. Raghuram C.P sir for my ten years old. He is very caring doctor we ever came across. He patiently listens everything what we say and does great counselling. Overall, we always feel that our health (my daughter's) is in good hands. We are very thankful to Dr. Raghuram Sir and to Aster CMI.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-15 07:46:10",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naidu. S"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 479244,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1132620,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-22T11:29:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31878847,
+                "review_text": "He is very nice and easy to approachable, and he doesn't give any unnecessary medicines. ** *** **** **** ********* *** ******** ",
+                "review_alterations": [
+                    {
+                        "start_index": 89,
+                        "end_index": 127,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 28828
+                    }
+                ],
+                "reviewed_on": "2017-02-21 15:58:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Srinivas"
+        },
+        "entity_id": 557459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 495,
+                "text": "Cancer Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176426,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:39:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39634076,
+                "review_text": "*********** ** * **** *******he taken care of the patient very nicely.is like a our family doctor know",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183674
+                    }
+                ],
+                "reviewed_on": "2019-06-13 07:39:03",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hritosmit"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 705535,
+            "status": "PUBLISHED",
+            "note": "2017-10-23 10:40:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1132620,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-23T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35881796,
+                "review_text": "If your child has normal cold and cough, or vaccination then this doctor is OK *** ** *** **** ** ********** ***** *** *************** Let me explain my child case. Since first 3 month after his birth we used to go to him in Rainbow Marathalli and our child is little bit on thinner side. He suffered from cold and cough frequently. His mother told several time about this and doctor after examining his chest give Sinarest AF. Always assure about my baby that she is a smaller weight - everything is OK. But as cold and cough is not reducing we went (just after his visit) to another doctor who gave some blood test to the child by seeing his development and D3 deficiency was enormous. The new specialist with his equipment found child has suffering from ear infection gave antibiotic and advice Tympanometry after 2 month. After doing the test we found even after the medicine the ear infection is still there. Even the new ped found issue in teeth. We are scared if my wife didn't insist and we put our child under this doctor!",
+                "review_alterations": [
+                    {
+                        "start_index": 79,
+                        "end_index": 133,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 71374
+                    }
+                ],
+                "reviewed_on": "2017-10-19 06:56:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 557459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176384,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:41:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39633826,
+                "review_text": "My son was diagnosed with ALL B type, *** *** ** ******** ***** ** ******* * They consolidated very well.one thing I can say my son is getting treatment from a very good hand .\n",
+                "review_alterations": [
+                    {
+                        "start_index": 38,
+                        "end_index": 76,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 183677
+                    }
+                ],
+                "reviewed_on": "2019-06-13 07:07:05",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prashanth"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176371,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:28:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39633733,
+                "review_text": "Dr. Raghuram isgood doctor cell experience doctor and he will explain all the doubts and problems.good hearted ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-13 06:52:45",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Adivith b m"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1176274,
+            "status": "PUBLISHED",
+            "note": "2019-06-14 07:21:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1146253,
+            "practice_name": "Aster CMI Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-14T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39633184,
+                "review_text": "Dr.Raghuram ,he is very friendly,down to earth,listens to the problems patiently and gives advise in hard times.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-13 05:08:32",
+                "channel": "web",
+                "source": "DoctorPracticeObjectiveFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bibz"
+        },
+        "entity_id": 662795,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 545144,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1132620,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-03T11:58:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34254610,
+                "review_text": "**** **** ************ ******, **** you can trust and safely rely upon.\" \n\nVery honest, thoroughly professional and you can truly experience the treet ment satisfaction when you consult him. He's never a person of money minded which makes us to rely on him.\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 28,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 43277
+                    },
+                    {
+                        "start_index": 30,
+                        "end_index": 35,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 43278
+                    }
+                ],
+                "reviewed_on": "2017-05-01 14:14:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 557459,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2005363,
+            "status": "PUBLISHED",
+            "note": "2022-06-07 06:28:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569434,
+            "practice_id": 1322148,
+            "practice_name": "Aster Women & Children Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-07T07:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44460775,
+                "review_text": "We were given a time of 4:10pm and were told that maximum we may need to wait 5-10mins.However on reaching there we realised that we had to wait more than 2 hours. Utterly bad service. Management is not proper. They give hollow commitments and assurances and keep you waiting for hours.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-05 03:06:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 752579,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

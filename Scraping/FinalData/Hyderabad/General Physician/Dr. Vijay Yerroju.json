@@ -1,0 +1,4005 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2426517,
+            "status": "PUBLISHED",
+            "note": "2024-08-09 09:45:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-09T10:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46919913,
+                "review_text": "One of the most friendliest doctors. Wait time is very less . Explanation of medicine intake was explained impeccably. Thanks You Sir ",
+                "review_alterations": [],
+                "reviewed_on": "2024-08-08 06:53:11",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajan Kumar"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2419042,
+            "status": "PUBLISHED",
+            "note": "2024-07-25 11:15:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-25T12:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 456563,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir.\n\nWishing you Good Health.",
+                "replied_at": "2024-07-29T05:36:33+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 46877302,
+                "review_text": "First and foremost, Dr. Vijay is very approachable and friendly. He listens with a lot of patience and explains in a detailed manner.Highly recommend. Thanks ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-24 10:33:33",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192789,
+                "text": "Physcian"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2406279,
+            "status": "PUBLISHED",
+            "note": "2024-06-30 05:09:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-30T06:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 456022,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.\n\nWishing you Good Health.",
+                "replied_at": "2024-07-23T07:26:57+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 46804102,
+                "review_text": "Excellent counselling! Thanks a lot to Dr.Vijay Yerroju. He was very patient in understanding my issue and also to have resolved my queries through chat as well.  ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-28 13:17:46",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2178033,
+            "status": "PUBLISHED",
+            "note": "2023-04-02 14:21:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-02T15:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 403984,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-04-02T15:56:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45456643,
+                "review_text": "Doctor Vijay is very supportive and carefully diagnose the issue a patient is facing. The line of treatment was clear and on spot. Even queries during follow up were answered without any delay.\n\nThanks so much for your care and support. Highly recommend anyone dealing with fever and concerned issues to get abled guidance from Dr Vijay",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-01 14:18:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2075181,
+            "status": "PUBLISHED",
+            "note": "2022-09-27 07:16:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-27T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 378509,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you VARALAKSHMI garu.",
+                "replied_at": "2022-09-28T02:16:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44870423,
+                "review_text": "We can reach the Doctor without hesitation, he made us so comfortable. All our questions were taken and replied. \n\nHe also took lot of interest in resolving the health issue. \n\nHe advised us time to time to come out of the dengue fever. \n\nHis medication worked very well.\n\nI strongly recommend this Doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-26 02:29:05",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Varalakshmi Thummoju"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192753,
+                "text": "TB "
+            },
+            {
+                "id": 193748,
+                "text": "Normal Health Problems"
+            },
+            {
+                "id": 1046,
+                "text": "Swelling Of Legs"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1939176,
+            "status": "PUBLISHED",
+            "note": "2022-02-23 06:29:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-22T18:17:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 344177,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. ",
+                "replied_at": "2022-02-22T18:17:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44090704,
+                "review_text": "I will recommend Dr.Vijay sir .I had video consultaion with doctor  and I liked the way he listened the history of illness with all patience and guided me right treatment with valuable advice .He was cool and friendly .**** ****** * *** *** ******* ****** .Thanks sir .",
+                "review_alterations": [
+                    {
+                        "start_index": 219,
+                        "end_index": 255,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 398006
+                    }
+                ],
+                "reviewed_on": "2022-02-22 05:46:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vikram"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1740230,
+            "status": "PUBLISHED",
+            "note": "2021-06-04 06:45:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-04T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399491,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:11:24+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 42929192,
+                "review_text": "Dr. Vijay Yerroju, \n\nUnderstood the problems in detail during the consultation over the call , very polite and humble.\nHe was quick enough to queries on chat \u2026 and suggested  do\u2019s don't as well \u2026 thorough professional with immense knowledge \u2026 \n",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-03 05:55:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ajay kumar K "
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2129911,
+            "status": "PUBLISHED",
+            "note": "2023-01-07 09:25:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-07T05:42:10+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 392497,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir.",
+                "replied_at": "2023-01-07T05:42:10+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45180601,
+                "review_text": "I was suffering from severe cough which wasn't controllable,I was unable to go to hospital,that day in late hours I luckily got the online consultation with Dr. vijay yerroju.He patiently listened my concern and gave the prescription. previously I tried medication from the local medical store recommendation but it didn't helped me . only the doctor given medication helped me to get rid of cough with in one day. Its felt good when doctor asked me about the health condition every day after consultation.",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-06 08:09:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 319,
+                "text": "Diarrhoea"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2285365,
+            "status": "PUBLISHED",
+            "note": "2023-10-31 11:26:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-31T12:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 428257,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.\n\nWishing you good health.",
+                "replied_at": "2023-10-31T13:45:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 46113623,
+                "review_text": "Recommend the Doctor.  \n\nFriendly behavior and attention to details of the complaints.  Explained the ailment and treatment thoroughly. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-30 11:23:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kalyan"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 1034,
+                "text": "Colds"
+            },
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            },
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2253584,
+            "status": "PUBLISHED",
+            "note": "2023-08-30 09:47:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-30T10:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 422655,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-08-31T14:40:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45920310,
+                "review_text": "Very much friendly, even though we visited late night around 10 pm still he was patient waiting for us. Gave us an excellent solution to the problems we faced. Overall excellent experience.",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-26 05:13:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2426517,
+            "status": "PUBLISHED",
+            "note": "2024-08-09 09:45:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-09T10:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46919913,
+                "review_text": "One of the most friendliest doctors. Wait time is very less . Explanation of medicine intake was explained impeccably. Thanks You Sir ",
+                "review_alterations": [],
+                "reviewed_on": "2024-08-08 06:53:11",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajan Kumar"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2419042,
+            "status": "PUBLISHED",
+            "note": "2024-07-25 11:15:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-25T12:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 456563,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir.\n\nWishing you Good Health.",
+                "replied_at": "2024-07-29T05:36:33+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 46877302,
+                "review_text": "First and foremost, Dr. Vijay is very approachable and friendly. He listens with a lot of patience and explains in a detailed manner.Highly recommend. Thanks ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-24 10:33:33",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192789,
+                "text": "Physcian"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2406279,
+            "status": "PUBLISHED",
+            "note": "2024-06-30 05:09:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-30T06:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 456022,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.\n\nWishing you Good Health.",
+                "replied_at": "2024-07-23T07:26:57+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 46804102,
+                "review_text": "Excellent counselling! Thanks a lot to Dr.Vijay Yerroju. He was very patient in understanding my issue and also to have resolved my queries through chat as well.  ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-28 13:17:46",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2178033,
+            "status": "PUBLISHED",
+            "note": "2023-04-02 14:21:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-02T15:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 403984,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-04-02T15:56:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45456643,
+                "review_text": "Doctor Vijay is very supportive and carefully diagnose the issue a patient is facing. The line of treatment was clear and on spot. Even queries during follow up were answered without any delay.\n\nThanks so much for your care and support. Highly recommend anyone dealing with fever and concerned issues to get abled guidance from Dr Vijay",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-01 14:18:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2075181,
+            "status": "PUBLISHED",
+            "note": "2022-09-27 07:16:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-27T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 378509,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you VARALAKSHMI garu.",
+                "replied_at": "2022-09-28T02:16:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44870423,
+                "review_text": "We can reach the Doctor without hesitation, he made us so comfortable. All our questions were taken and replied. \n\nHe also took lot of interest in resolving the health issue. \n\nHe advised us time to time to come out of the dengue fever. \n\nHis medication worked very well.\n\nI strongly recommend this Doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-26 02:29:05",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Varalakshmi Thummoju"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192753,
+                "text": "TB "
+            },
+            {
+                "id": 193748,
+                "text": "Normal Health Problems"
+            },
+            {
+                "id": 1046,
+                "text": "Swelling Of Legs"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1939176,
+            "status": "PUBLISHED",
+            "note": "2022-02-23 06:29:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-22T18:17:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 344177,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. ",
+                "replied_at": "2022-02-22T18:17:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44090704,
+                "review_text": "I will recommend Dr.Vijay sir .I had video consultaion with doctor  and I liked the way he listened the history of illness with all patience and guided me right treatment with valuable advice .He was cool and friendly .**** ****** * *** *** ******* ****** .Thanks sir .",
+                "review_alterations": [
+                    {
+                        "start_index": 219,
+                        "end_index": 255,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 398006
+                    }
+                ],
+                "reviewed_on": "2022-02-22 05:46:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vikram"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1740230,
+            "status": "PUBLISHED",
+            "note": "2021-06-04 06:45:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-04T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399491,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:11:24+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 42929192,
+                "review_text": "Dr. Vijay Yerroju, \n\nUnderstood the problems in detail during the consultation over the call , very polite and humble.\nHe was quick enough to queries on chat \u2026 and suggested  do\u2019s don't as well \u2026 thorough professional with immense knowledge \u2026 \n",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-03 05:55:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ajay kumar K "
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2129911,
+            "status": "PUBLISHED",
+            "note": "2023-01-07 09:25:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-07T05:42:10+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 392497,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir.",
+                "replied_at": "2023-01-07T05:42:10+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45180601,
+                "review_text": "I was suffering from severe cough which wasn't controllable,I was unable to go to hospital,that day in late hours I luckily got the online consultation with Dr. vijay yerroju.He patiently listened my concern and gave the prescription. previously I tried medication from the local medical store recommendation but it didn't helped me . only the doctor given medication helped me to get rid of cough with in one day. Its felt good when doctor asked me about the health condition every day after consultation.",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-06 08:09:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 319,
+                "text": "Diarrhoea"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2285365,
+            "status": "PUBLISHED",
+            "note": "2023-10-31 11:26:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-31T12:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 428257,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.\n\nWishing you good health.",
+                "replied_at": "2023-10-31T13:45:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 46113623,
+                "review_text": "Recommend the Doctor.  \n\nFriendly behavior and attention to details of the complaints.  Explained the ailment and treatment thoroughly. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-30 11:23:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kalyan"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 1034,
+                "text": "Colds"
+            },
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            },
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2253584,
+            "status": "PUBLISHED",
+            "note": "2023-08-30 09:47:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-30T10:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 422655,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-08-31T14:40:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45920310,
+                "review_text": "Very much friendly, even though we visited late night around 10 pm still he was patient waiting for us. Gave us an excellent solution to the problems we faced. Overall excellent experience.",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-26 05:13:57",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101903,
+                "text": "Medications"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2210163,
+            "status": "PUBLISHED",
+            "note": "2023-06-06 06:35:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-06T06:26:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 412192,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-06-06T06:26:41+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45653455,
+                "review_text": "Awesome experience and he was able to clarify all my doubts. The medicine he prescribed cured in a day.",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-04 07:37:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Zakir Hussain S K"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2205686,
+            "status": "PUBLISHED",
+            "note": "2023-05-28 06:12:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-27T08:03:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 411054,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-05-27T08:03:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45625809,
+                "review_text": "Dr. Vijay Yerroju Was really helpful to me and he provided the **** medicine for my illness. It was way to easy to have a word with him regarding my illness i felt really very comfortable.",
+                "review_alterations": [
+                    {
+                        "start_index": 62,
+                        "end_index": 67,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 457356
+                    }
+                ],
+                "reviewed_on": "2023-05-26 14:01:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vishal rana"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2205258,
+            "status": "PUBLISHED",
+            "note": "2023-05-27 07:12:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-27T08:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 411053,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-05-27T08:03:24+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45623470,
+                "review_text": "Quite lucid and helpful. Very  approachable and extremely prompt. Would highly recommend the Doctor to all. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-26 04:25:05",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ravi"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2204470,
+            "status": "PUBLISHED",
+            "note": "2023-05-26 06:10:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-25T13:35:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 410844,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir.\n\nWishing You Good Health.",
+                "replied_at": "2023-05-25T13:35:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45618832,
+                "review_text": "Doctor has answered my all questions, I'm really satisfied with his all responses. he has guided me with all suggestions that I can include in my daily life to improve my fitness and health.",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-24 14:09:46",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Inderjit Choudhary"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 318,
+                "text": "Constipation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2186456,
+            "status": "PUBLISHED",
+            "note": "2023-04-20 11:33:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-20T01:59:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 406227,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-04-20T01:59:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45510106,
+                "review_text": "Doctor is so kind and understood my problem. My problem has got cured now. So I am very much happy on my treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-19 11:15:50",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr.MUTHUKUMARAN"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1038,
+                "text": "Flu"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2180618,
+            "status": "PUBLISHED",
+            "note": "2023-04-08 12:05:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-08T13:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 405323,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-04-11T18:25:48+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45472933,
+                "review_text": "I had 102 fever and body pains and severe headache. Dr Vijay listened to my concerns patiently and didn't suggest anti biotics for treatment. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-07 09:26:26",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hemanth"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2179357,
+            "status": "PUBLISHED",
+            "note": "2023-04-06 06:27:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-06T07:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 404490,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-04-06T08:41:28+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45465191,
+                "review_text": "It was a good experience. Doctor did the analysis and suggested prescribed medication and tests. Post test results came in further precautions and medication was given. Satisfied with the consultation ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-04 16:00:35",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Preeti Banerjee"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1051,
+                "text": "Vertigo"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2170346,
+            "status": "PUBLISHED",
+            "note": "2023-03-20 11:19:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-19T18:51:21+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 402023,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-03-19T18:51:21+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45412177,
+                "review_text": "Had a very useful session with Dr. Vijay for my grand mother for her vertigo and partial paralysis disease. Doctor explained the treatment with lot of patience. My grand mother has recovered from her ailment and continuing medication. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-19 10:09:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Charitha"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2158553,
+            "status": "PUBLISHED",
+            "note": "2023-02-27 14:38:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-27T10:09:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399485,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:09:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45344629,
+                "review_text": "********* ******* He personally checked ofline my health status and even responded on Sunday. much appreciate.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 446436
+                    },
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 446437
+                    },
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 446438
+                    }
+                ],
+                "reviewed_on": "2023-02-26 12:30:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ameer ali"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2144677,
+            "status": "PUBLISHED",
+            "note": "2023-02-03 16:39:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-03T17:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 396242,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Wishing you good health.",
+                "replied_at": "2023-02-04T02:28:58+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45264754,
+                "review_text": "we are very satisfied with consultation and docor gave detailed explanation. answered all our questions. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-02 14:37:03",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Surekha Puli"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2265853,
+            "status": "PUBLISHED",
+            "note": "2023-09-26 06:17:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-26T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 425081,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. \n\nWishing you good health.",
+                "replied_at": "2023-09-28T11:58:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 46002189,
+                "review_text": "Dr. Vijay treated me for viral fever . He prescribed a very efficient medication plan and I got cured within a week. He was very responsive on messages and suggested medication for newer symptoms that I reported. I highly recommend Dr. Vijay for his kindness, friendliness and effective treatment that he provides.",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-24 03:51:30",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2130424,
+            "status": "PUBLISHED",
+            "note": "2023-01-08 06:55:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-08T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 396165,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-02-03T09:18:44+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45183637,
+                "review_text": "Doctor followed up until the illness is recovered. He will message daily and check the symptoms and ensure that we are recovering.",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-07 06:53:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karthik Taduvai"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2114504,
+            "status": "PUBLISHED",
+            "note": "2022-12-09 06:32:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-09T07:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 391477,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Nibedita.",
+                "replied_at": "2022-12-30T18:17:34+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45091474,
+                "review_text": "Easy to understand,appropiate diagnosis and treatment.Timely response,good follow up,caring nature for patient.Thank u doctor Vijay.Hope you will releif pain and discomfort of upcoming patients with ease.",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-08 01:19:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nibedita Choudhary"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2078047,
+            "status": "PUBLISHED",
+            "note": "2022-10-01 15:39:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-01T16:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 396788,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.\n\nWishing you good health ",
+                "replied_at": "2023-02-07T13:59:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44886521,
+                "review_text": "I really want to appreciate Dr Vijay he is very approachable and talented, given proper treatment and prescribed medicine accordingly ,recommended doctor from my end..",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-30 15:04:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Josiah Engti Katharpi"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1917386,
+            "status": "PUBLISHED",
+            "note": "2022-01-22 05:55:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-22T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 338850,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. ",
+                "replied_at": "2022-01-24T14:27:19+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 43970115,
+                "review_text": "He patiently listened to the problems. Also followedup next day. . Also prestiption was clear and self explanatory. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-20 23:52:21",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vyakaranam Durga Malleswara Babu"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2024424,
+            "status": "PUBLISHED",
+            "note": "2022-07-07 06:35:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-07T07:01:19+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399487,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:10:14+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44570151,
+                "review_text": "Dr. Vijay has provided excellent consultation, he followed up personally about my condition. Moreover, my spouse also got affected by fever after the consultation, he suggested medication with utmost professionalism. Highly recommended! ",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-06 04:32:08",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shraddha Jain"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 194204,
+                "text": "Examination of fluids \u2013 Pleural fluid, Ascitic fluid, Urine for malignant cells, CSF "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1983604,
+            "status": "PUBLISHED",
+            "note": "2022-05-02 16:54:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-02T17:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 357139,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Darshna Jain. ",
+                "replied_at": "2022-05-10T18:09:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44337475,
+                "review_text": "Overall nice experience with doctor. He suggested some remedies and medications , it was easy and quick",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-01 06:48:15",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Darshna Jain"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1982078,
+            "status": "PUBLISHED",
+            "note": "2022-04-30 06:52:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-29T11:11:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 355412,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. ",
+                "replied_at": "2022-04-29T11:11:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44329035,
+                "review_text": "The doctor was extremely friendly and understood the core of the problem immediately and gave me apt advice and something that gave me relief immediately in the middle of the night.",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-29 04:38:20",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ANISHA MISHRA"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1932259,
+            "status": "PUBLISHED",
+            "note": "2022-02-13 05:18:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-13T06:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399488,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:10:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44053575,
+                "review_text": "absolutely recommended... doctor was so supportive throughout till I get the negative report. his medication also absolutely useful,.thank u so much for ur support doctor",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-11 13:29:57",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aarif Shaik"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1920848,
+            "status": "PUBLISHED",
+            "note": "2022-01-28 06:35:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-28T07:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399498,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:12:49+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 43990382,
+                "review_text": "Doctor asked questions about my health condition and tried his best to identify the issue. Recommended for sure",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-26 04:28:03",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prasad"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1920120,
+            "status": "PUBLISHED",
+            "note": "2022-01-26 06:47:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-25T11:29:23+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 339046,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. ",
+                "replied_at": "2022-01-25T11:29:23+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 43986191,
+                "review_text": "Friendly doctor, listened to my problem very patiently. He knows his stuff. Medicine that doctor has prescribed started showing results as soon as I took the first dose itself. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-25 04:29:46",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raghuveer P"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1920029,
+            "status": "PUBLISHED",
+            "note": "2022-01-26 06:33:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-25T11:29:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 339047,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. ",
+                "replied_at": "2022-01-25T11:29:46+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 43985671,
+                "review_text": "I would highly recommend Doctor Vijay. He is always available to answer his patients query and always provide detail treatment to his patients. I'm really impressed with the Doctors prompt reply to his patients queries.",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-24 18:19:08",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anurag Srivastava"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1918584,
+            "status": "PUBLISHED",
+            "note": "2022-01-25 04:38:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-25T05:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43977182,
+                "review_text": "Dr Vijay has patiently listened to all the health queries and replied back properly. Very much satisfied with the treatment. I would recommend Dr vijay to everybody with general health issues. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-22 13:22:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Supratim Sinha"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1737318,
+            "status": "PUBLISHED",
+            "note": "2021-06-01 10:20:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-01T11:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399494,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:12:04+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 42913727,
+                "review_text": "The services I received from Dr. Vijay is good.. here services means the way of responding... and also frequently I got reply from him.. Thank you very much to taking care of me...",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-31 04:08:16",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "D Kayalvizhi"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1736093,
+            "status": "PUBLISHED",
+            "note": "2021-05-30 10:54:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-30T11:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399493,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:11:48+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 42907220,
+                "review_text": "** ***** ** ********* ************** He understands the patients problem and enquires the complaint in detail.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 36,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 348317
+                    }
+                ],
+                "reviewed_on": "2021-05-29 10:46:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1728928,
+            "status": "PUBLISHED",
+            "note": "2021-05-22 09:26:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-22T10:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399492,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:11:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 42870276,
+                "review_text": "Great Doctor and prescribed **** medicine for my post covid symptoms and he is not recommend for any lab test. ",
+                "review_alterations": [
+                    {
+                        "start_index": 28,
+                        "end_index": 31,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 346656
+                    }
+                ],
+                "reviewed_on": "2021-05-21 09:21:54",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "gopal pramod"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2253581,
+            "status": "PUBLISHED",
+            "note": "2023-08-27 05:31:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-27T06:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 422076,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-08-27T08:02:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45920289,
+                "review_text": "Very good doctor.  He suggested medicines as well as home remedies for our problem that I liked the most. He did the follow up regularly.  If we are facing any problem he suggested the remedy then n there only. I definitely suggest Dr. Vijay to everyone.\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-26 05:09:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 155700,
+                "text": "Acute Diarrhea Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2301272,
+            "status": "PUBLISHED",
+            "note": "2023-12-03 06:52:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-03T07:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 456021,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you.\n\nWishing you Good Health.",
+                "replied_at": "2024-07-23T07:26:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 46203058,
+                "review_text": "My mom has an issue all of a sudden and she can\u2019t go out due to her age so took an appointment online and it is hassle free and less time consuming. Very effective with medication given she is fit within an hour again,thank you Doctor",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-02 05:41:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186436,
+                "text": "High cholesterol"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2264865,
+            "status": "PUBLISHED",
+            "note": "2023-09-23 06:51:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-23T04:25:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 424606,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-09-23T04:25:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45995466,
+                "review_text": "Clear explanation of the issue , very patiently doctor explained the problem and how we can avoid it by following good diet ",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-21 15:34:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2243913,
+            "status": "PUBLISHED",
+            "note": "2023-08-03 07:42:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-03T08:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420880,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir. Wishing you good health.",
+                "replied_at": "2023-08-12T08:52:50+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45853516,
+                "review_text": "Simple, down to earth with excellent communication and very friendly.  Has great knowledge of pharmacology.Always available and quicky responsive.Highly recommended ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-02 07:01:54",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2212735,
+            "status": "PUBLISHED",
+            "note": "2023-06-10 07:29:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-09T08:07:26+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 412696,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-06-09T08:07:26+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45668391,
+                "review_text": "good man with excellent Communication and response. excellent in handling with patience. god bless him. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-08 17:11:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2185885,
+            "status": "PUBLISHED",
+            "note": "2023-04-19 09:39:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-19T10:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 406226,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-04-20T01:58:44+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45506593,
+                "review_text": "Very thorough and professional. Had consulted doctor for altitude sickness. Besides the regular prescription he also prescribed medicines to be taken in case of severe sickness. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-18 08:45:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2178378,
+            "status": "PUBLISHED",
+            "note": "2023-04-04 07:00:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-04T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 404207,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-04-04T11:10:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45459080,
+                "review_text": "Good response and diagnosis by Dr. Vijay. He  understood the problem very calmly and medicines prescribed by him are very effective.",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-02 16:56:29",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193657,
+                "text": "Gastric troubles"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2173992,
+            "status": "PUBLISHED",
+            "note": "2023-03-26 12:53:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-26T13:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 403024,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-03-27T14:19:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45433222,
+                "review_text": "I consulted the doctor for my mother gastric problem.Doctor is really helpful and advices given are very nice and the way of questioning to understand the problem is based on situations and giving the right solution to end the problem in right time.i",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-25 12:52:19",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 286,
+                "text": "Food Poisoning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2158326,
+            "status": "PUBLISHED",
+            "note": "2023-02-27 06:54:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-27T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399484,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Wishing you good health.",
+                "replied_at": "2023-02-27T10:09:12+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45343185,
+                "review_text": "* **** **** ****** * He kept in regular contact till I was fully cured. His concern for patient was anazing",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 446371
+                    }
+                ],
+                "reviewed_on": "2023-02-26 01:10:54",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2157606,
+            "status": "PUBLISHED",
+            "note": "2023-02-26 05:06:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-26T06:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399486,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:09:47+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 45338938,
+                "review_text": "thank you sir. even I got heavy fever with your correct treatment it just resolve with going any where. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-24 17:08:39",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2096949,
+            "status": "PUBLISHED",
+            "note": "2022-11-08 08:10:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-07T23:52:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 383731,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir.",
+                "replied_at": "2022-11-07T23:52:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44994041,
+                "review_text": "He is very polite and addressed the issue with professionalism.\nTook follow-up and diagnosed the problem in the start.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-06 09:05:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101903,
+                "text": "Medications"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093434,
+            "status": "PUBLISHED",
+            "note": "2022-11-01 12:21:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-31T13:49:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382789,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Sir.",
+                "replied_at": "2022-10-31T13:49:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44974533,
+                "review_text": "** *** * **** ******* I have consulted him for fever and pain problem. He has explained the reason and prescribed the medicines.  ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 20,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 431288
+                    }
+                ],
+                "reviewed_on": "2022-10-31 11:21:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1414,
+                "text": "Health Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2076294,
+            "status": "PUBLISHED",
+            "note": "2022-09-29 06:11:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-29T07:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44876915,
+                "review_text": "Doctor is so good cool with patience good treatment we satistisfied with doctor treatment finally we satisfied ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-28 02:16:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1923623,
+            "status": "PUBLISHED",
+            "note": "2022-02-01 06:23:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 598186,
+            "practice_id": 1148270,
+            "practice_name": "Dr. Vijay's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-01T07:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 399489,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. Wishing you good health.",
+                "replied_at": "2023-02-27T10:10:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2417293,
+                "modified_by_id": 2417293,
+                "replier_name": "Dr. Vijay Yerroju",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598186/dr-vijay-yerroju-59552a0a2a41b.jpg"
+            },
+            "survey_response": {
+                "id": 44006549,
+                "review_text": "Good treat ment given by the doctor. She was been recovered . I will recommend this doctor. Thank you ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-30 04:25:58",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 584315,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2323501,
+            "status": "PUBLISHED",
+            "note": "2024-01-12 09:27:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 625709,
+            "practice_id": 853078,
+            "practice_name": "Sagar Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-12T10:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46329476,
+                "review_text": "Long wait time. Timings on practo dont match with the doctor's schedule. Staff not helpful, wont answer any questions after taking the money",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-11 09:19:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 854200,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

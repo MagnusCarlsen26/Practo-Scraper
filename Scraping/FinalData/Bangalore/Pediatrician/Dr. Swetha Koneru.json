@@ -1,0 +1,63 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193418,
+                "text": "stomach and intestinal infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1286423,
+            "status": "PUBLISHED",
+            "note": "2019-11-10 05:23:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 687003,
+            "practice_id": 1101366,
+            "practice_name": "Ankura Hospital For Women & Children Madinaguda.",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-10T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40341215,
+                "review_text": "My baby had severe infection which got spread in to the blood.Got admitted in the hospital and the case was handled by a Dr.Swetha Koneru garu. Doctor kept clear track of the situation on timely basis and gave us the clear feedback of the baby's condition in daily basis.My baby recovered as committed by the Doctor..I have no words to thank you.",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-08 13:44:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 689158,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

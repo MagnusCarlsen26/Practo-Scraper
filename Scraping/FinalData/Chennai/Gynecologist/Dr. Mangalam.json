@@ -1,0 +1,60 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1286402,
+            "status": "PUBLISHED",
+            "note": "2019-11-09 13:30:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 618358,
+            "practice_id": 695487,
+            "practice_name": "Jananam Fertility",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-09T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40341067,
+                "review_text": "Calm and pleasant ambience  ....quick response from nurses and doc Monisha was so kind enough to listen to problems and then explained the consequences.....Doc Vani was extremely talented to handle patients ",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-08 13:25:27",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 599274,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

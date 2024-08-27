@@ -1,0 +1,1216 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 449619,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-17T05:52:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30103932,
+                "review_text": "I and my wife have been consulting with Dr Shilpa for last one year. * **** ***** **** *** ** **** *******\nShe gives enough time to each patient in not only understanding problem and symptoms but also to understand \"The Patient\", his/her psychology, concerns.This goes a long way in establishing a Doctor- Patient bond. Also she does not believe in prescribing unnecessary and lots of medicines, tests etc. Believes in a very targeted minimalist medicines approach which avoids all side effects.\nMy wife has been suffering from stomach problems for over 20 years. We consulted dozens of very senior Gastro specialists in Delhi and Bangalore without any success. But Dr Shilpa was able to diagnose problem (after almost an hour long talk with my wife) and prescribed only one medicine which has worked so well like a miracle.\nThanks a lot Dr Shilpa. May we get many more doctors like you. ",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 105,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 22751
+                    }
+                ],
+                "reviewed_on": "2017-01-15 05:50:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "H.K Agrawal"
+        },
+        "entity_id": 373231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1584131,
+            "status": "PUBLISHED",
+            "note": "2020-11-29 07:20:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-29T08:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42084782,
+                "review_text": "It\u2019s been 3 months for me under the consultation of Dr. Shilpa Singi. I met her when I was diagnosed with Diabetes and was really tensed because of getting diagnosed in my early 30s. Dr. Shilpa instantly made me comfortable and had a great empathy. She gives enough time to patients and develops a great bond. After 3 months of treatment and significant improvement in my health be it my noticeable weight loss as a result of diet and workout suggested by her or be it my diabetes being in control, I want to heartily thank Dr. Shilpa for her treatment, help and instilling confidence in me. I wish we have more such calm, patient and understanding doctors around.  This is my warm recommendation for Dr. Shilpa",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-28 06:59:55",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manish Kumar"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 41886,
+                "text": "Diabetic Services"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2417544,
+            "status": "PUBLISHED",
+            "note": "2024-07-23 08:08:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-23T09:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46868584,
+                "review_text": "Better if Dr. Shilpa listen properly to my father. I went for some diabetic issue. The doctor talking to my parent very sarcastically* ******** **** ** *** *********** **** ***** Being a sr citizen, my father, never expected such a behaviour. ** ****** ***** ** **** ******* *** ******* I won\u2019t recommend Dr Shilpa Singi to anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 133,
+                        "end_index": 178,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 491635
+                    },
+                    {
+                        "start_index": 242,
+                        "end_index": 285,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 491636
+                    }
+                ],
+                "reviewed_on": "2024-07-21 09:11:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1807049,
+            "status": "PUBLISHED",
+            "note": "2021-08-20 07:54:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-20T08:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43301419,
+                "review_text": " I strictly do not recommended Dr. Shilpa Singi. I have informed to all my friends and family and neighbor not to consult for her services [@Apollo clinic Kundalahalli]. First of, she is very arrogant and won't listen to patient. *** ********** ***** ***** ** ******** ******* ********** *** ******* ** **** ******* ***** ******** **** ********** ***** ****** *** ******* ** ********** **** *** **** *** ********** ******** ** *** ******* *** ******** **** ******* *** *** *** *** **** *** *****  Moreover, she started shouting and falsely claiming that we are giving her threat. How can that be because entire Apollo clinic staff was there, no one said anything to us.  Above all, Apollo clinic manager took the complain and was quite silent and sorry when he heard our story. *** ********* *** **** ***** ** ******** ***** ******* *********** When we asked, \"Why she didn't prescribed ante acids?\" Her reaction was to deny the service to the patient which is against the practices. * ****** **** *** ***** ******** ******* *** ******* * *** ******** **** **** **** ***** ** ** ****** ** ***** ***** *** ******** I hope no one else should go through what we have gone through at the time of need. Utterly, upsetting  and unpleasant experience. ",
+                "review_alterations": [
+                    {
+                        "start_index": 229,
+                        "end_index": 371,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 367082
+                    },
+                    {
+                        "start_index": 372,
+                        "end_index": 495,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 367083
+                    },
+                    {
+                        "start_index": 778,
+                        "end_index": 844,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 367084
+                    },
+                    {
+                        "start_index": 984,
+                        "end_index": 1112,
+                        "reason": "NON_COMPLIANT",
+                        "id": 367085
+                    }
+                ],
+                "reviewed_on": "2021-08-19 07:44:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "umang"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 199625,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 861318,
+            "practice_name": "Narayana Multispecilality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-02-25T05:32:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 13294757,
+                "review_text": "My mother has been suffering with few problems like joint pains and weakness. Visited in Dr Shilpa along with my mother. Doctor has patience in listing to patient\u2019s health problems. Took all details about the problems and suggested few diagnostic tests. Visited with reports, she explained what was the reason for her problems after going through reports and prescribed a course. Two weeks passed and continuing the medication. Now my mother is very happy given she is feeling much better. Thanks to the doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-02-24 18:32:29",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gopi Krishna Uppala"
+        },
+        "entity_id": 373231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 395712,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-28T06:16:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26627769,
+                "review_text": "** ****** ** ******** she has this adorable caring attitude that makes you instantly comfortable. \nShe cured me of dengue with complete attention to detail, I could have died it was so bad. \nShe helped me there on to recover with regular visits and advise, she is always available on message for anything urgent. \nOff late I had a stomach bug, she gave me a solution on the phone and after consultation I was fine after a day post a weeks suffering. \n\n*** ** *** ***** total Fan coming from some one who faints at the sight of doctors and hospitals... ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 21,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 12813
+                    },
+                    {
+                        "start_index": 452,
+                        "end_index": 468,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 12814
+                    }
+                ],
+                "reviewed_on": "2016-10-28 04:27:24",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 373231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2156523,
+            "status": "PUBLISHED",
+            "note": "2023-02-24 09:17:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-23T13:42:58+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 398947,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Dear Deepti we did discuss about your viral flu symptoms and the time it might take ,you also wanted to discuss about taking calcium supplements which also was discussed and I prescribed it for three months !\nIt is not technically correct to write multiple medicines irrelevant in a clinical scenario. \nThe focus has to be \nfor a priority problem that in your case is fever and cold cough \nThere is one more follow up \u201cfree\u201d when you can again come and discuss your issues !!\nMedically  the problem at hand has to be taken care and it should not be mixed with many months long and year long issues it makes the treatment process and understanding easier for the patient !",
+                "replied_at": "2023-02-23T13:42:58+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 336384,
+                "modified_by_id": 336384,
+                "replier_name": "Dr. Shilpa Singi",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/397156/dr-shilpa-singi-5e6f528edbc2e.jpg"
+            },
+            "survey_response": {
+                "id": 45332938,
+                "review_text": "Doctor did not give enough time to explain my problems. After hearing fevervthroat pain, directly advised antibiotic. She was reluntant to jear about other issues/problem.I feel doctors friendly nature help patients to recover soon,which I did not experience today!",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-23 06:09:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Deepti Talukder"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 392410,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-10T05:39:16+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 18322,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Mr Pankaj your problem were two \n1.type 2 diabetes and \n2. plantar fascitis \nand you wanted to know whether the two are connected \nmedically speaking they are not connected and the blood tests were done to assess your diabetic status and confirm that the feet pain was not because of other problems like raised uric acid .\nPrescribing pain killers over a longer period can lead to complications like renal damage as the problem of fascitis is a long term problem and can last for many months to years .\nThe other alternate treatment like physiotherapy and ortho advise was suggested to you .",
+                "replied_at": "2017-02-15T05:30:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 336384,
+                "modified_by_id": 336384,
+                "replier_name": "Dr. Shilpa Singi",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/397156/dr-shilpa-singi-5e6f528edbc2e.jpg"
+            },
+            "survey_response": {
+                "id": 26462034,
+                "review_text": "She doesn't respond properly, after doing blood and urine tests suggested by her, just checked my resports. But not prescribed any medicines or anything.  My problems still exist.\n\n*** ***** **** ***** ********** *** *** ***** ** ****** **** ******* ******* ***  **** ** ***** ************\nThough I had asked hospital to give me name of most experience doctor but they recommended her.\n\nIt's completely a waste of money and time.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 181,
+                        "end_index": 288,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 26457
+                    }
+                ],
+                "reviewed_on": "2016-10-23 07:53:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Pankaj Singh"
+        },
+        "entity_id": 373231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2112093,
+            "status": "PUBLISHED",
+            "note": "2022-12-05 07:00:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-05T07:02:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45077657,
+                "review_text": "My experience with Dr Silpa Singhi is more than five years..An excellent phycisian to the core..Madam always was guiding me and my family with utmost care, perfection and Empathy.. \n\nAyyagari Srinivas\nYoutuber\nBangalore ",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-03 10:17:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Madhuri"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2073544,
+            "status": "PUBLISHED",
+            "note": "2022-09-24 06:34:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-24T07:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44861129,
+                "review_text": "She patiently addressed my issue. Felt confident in her diagnosis. \nI will recommend this doctor for sure.",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-22 17:11:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "neha david"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 449619,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-17T05:52:30+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30103932,
+                "review_text": "I and my wife have been consulting with Dr Shilpa for last one year. * **** ***** **** *** ** **** *******\nShe gives enough time to each patient in not only understanding problem and symptoms but also to understand \"The Patient\", his/her psychology, concerns.This goes a long way in establishing a Doctor- Patient bond. Also she does not believe in prescribing unnecessary and lots of medicines, tests etc. Believes in a very targeted minimalist medicines approach which avoids all side effects.\nMy wife has been suffering from stomach problems for over 20 years. We consulted dozens of very senior Gastro specialists in Delhi and Bangalore without any success. But Dr Shilpa was able to diagnose problem (after almost an hour long talk with my wife) and prescribed only one medicine which has worked so well like a miracle.\nThanks a lot Dr Shilpa. May we get many more doctors like you. ",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 105,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 22751
+                    }
+                ],
+                "reviewed_on": "2017-01-15 05:50:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "H.K Agrawal"
+        },
+        "entity_id": 373231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1584131,
+            "status": "PUBLISHED",
+            "note": "2020-11-29 07:20:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-29T08:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42084782,
+                "review_text": "It\u2019s been 3 months for me under the consultation of Dr. Shilpa Singi. I met her when I was diagnosed with Diabetes and was really tensed because of getting diagnosed in my early 30s. Dr. Shilpa instantly made me comfortable and had a great empathy. She gives enough time to patients and develops a great bond. After 3 months of treatment and significant improvement in my health be it my noticeable weight loss as a result of diet and workout suggested by her or be it my diabetes being in control, I want to heartily thank Dr. Shilpa for her treatment, help and instilling confidence in me. I wish we have more such calm, patient and understanding doctors around.  This is my warm recommendation for Dr. Shilpa",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-28 06:59:55",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manish Kumar"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 41886,
+                "text": "Diabetic Services"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2417544,
+            "status": "PUBLISHED",
+            "note": "2024-07-23 08:08:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-23T09:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46868584,
+                "review_text": "Better if Dr. Shilpa listen properly to my father. I went for some diabetic issue. The doctor talking to my parent very sarcastically* ******** **** ** *** *********** **** ***** Being a sr citizen, my father, never expected such a behaviour. ** ****** ***** ** **** ******* *** ******* I won\u2019t recommend Dr Shilpa Singi to anyone.",
+                "review_alterations": [
+                    {
+                        "start_index": 133,
+                        "end_index": 178,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 491635
+                    },
+                    {
+                        "start_index": 242,
+                        "end_index": 285,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 491636
+                    }
+                ],
+                "reviewed_on": "2024-07-21 09:11:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1807049,
+            "status": "PUBLISHED",
+            "note": "2021-08-20 07:54:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-20T08:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43301419,
+                "review_text": " I strictly do not recommended Dr. Shilpa Singi. I have informed to all my friends and family and neighbor not to consult for her services [@Apollo clinic Kundalahalli]. First of, she is very arrogant and won't listen to patient. *** ********** ***** ***** ** ******** ******* ********** *** ******* ** **** ******* ***** ******** **** ********** ***** ****** *** ******* ** ********** **** *** **** *** ********** ******** ** *** ******* *** ******** **** ******* *** *** *** *** **** *** *****  Moreover, she started shouting and falsely claiming that we are giving her threat. How can that be because entire Apollo clinic staff was there, no one said anything to us.  Above all, Apollo clinic manager took the complain and was quite silent and sorry when he heard our story. *** ********* *** **** ***** ** ******** ***** ******* *********** When we asked, \"Why she didn't prescribed ante acids?\" Her reaction was to deny the service to the patient which is against the practices. * ****** **** *** ***** ******** ******* *** ******* * *** ******** **** **** **** ***** ** ** ****** ** ***** ***** *** ******** I hope no one else should go through what we have gone through at the time of need. Utterly, upsetting  and unpleasant experience. ",
+                "review_alterations": [
+                    {
+                        "start_index": 229,
+                        "end_index": 371,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 367082
+                    },
+                    {
+                        "start_index": 372,
+                        "end_index": 495,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 367083
+                    },
+                    {
+                        "start_index": 778,
+                        "end_index": 844,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 367084
+                    },
+                    {
+                        "start_index": 984,
+                        "end_index": 1112,
+                        "reason": "NON_COMPLIANT",
+                        "id": 367085
+                    }
+                ],
+                "reviewed_on": "2021-08-19 07:44:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "umang"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 199625,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 861318,
+            "practice_name": "Narayana Multispecilality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-02-25T05:32:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 13294757,
+                "review_text": "My mother has been suffering with few problems like joint pains and weakness. Visited in Dr Shilpa along with my mother. Doctor has patience in listing to patient\u2019s health problems. Took all details about the problems and suggested few diagnostic tests. Visited with reports, she explained what was the reason for her problems after going through reports and prescribed a course. Two weeks passed and continuing the medication. Now my mother is very happy given she is feeling much better. Thanks to the doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-02-24 18:32:29",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Gopi Krishna Uppala"
+        },
+        "entity_id": 373231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 395712,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-28T06:16:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26627769,
+                "review_text": "** ****** ** ******** she has this adorable caring attitude that makes you instantly comfortable. \nShe cured me of dengue with complete attention to detail, I could have died it was so bad. \nShe helped me there on to recover with regular visits and advise, she is always available on message for anything urgent. \nOff late I had a stomach bug, she gave me a solution on the phone and after consultation I was fine after a day post a weeks suffering. \n\n*** ** *** ***** total Fan coming from some one who faints at the sight of doctors and hospitals... ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 21,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 12813
+                    },
+                    {
+                        "start_index": 452,
+                        "end_index": 468,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 12814
+                    }
+                ],
+                "reviewed_on": "2016-10-28 04:27:24",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 373231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2156523,
+            "status": "PUBLISHED",
+            "note": "2023-02-24 09:17:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-02-23T13:42:58+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 398947,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Dear Deepti we did discuss about your viral flu symptoms and the time it might take ,you also wanted to discuss about taking calcium supplements which also was discussed and I prescribed it for three months !\nIt is not technically correct to write multiple medicines irrelevant in a clinical scenario. \nThe focus has to be \nfor a priority problem that in your case is fever and cold cough \nThere is one more follow up \u201cfree\u201d when you can again come and discuss your issues !!\nMedically  the problem at hand has to be taken care and it should not be mixed with many months long and year long issues it makes the treatment process and understanding easier for the patient !",
+                "replied_at": "2023-02-23T13:42:58+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 336384,
+                "modified_by_id": 336384,
+                "replier_name": "Dr. Shilpa Singi",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/397156/dr-shilpa-singi-5e6f528edbc2e.jpg"
+            },
+            "survey_response": {
+                "id": 45332938,
+                "review_text": "Doctor did not give enough time to explain my problems. After hearing fevervthroat pain, directly advised antibiotic. She was reluntant to jear about other issues/problem.I feel doctors friendly nature help patients to recover soon,which I did not experience today!",
+                "review_alterations": [],
+                "reviewed_on": "2023-02-23 06:09:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Deepti Talukder"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 392410,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 861318,
+            "practice_name": "NH - Narayana Hrudhayalaya Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-10T05:39:16+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 18322,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Mr Pankaj your problem were two \n1.type 2 diabetes and \n2. plantar fascitis \nand you wanted to know whether the two are connected \nmedically speaking they are not connected and the blood tests were done to assess your diabetic status and confirm that the feet pain was not because of other problems like raised uric acid .\nPrescribing pain killers over a longer period can lead to complications like renal damage as the problem of fascitis is a long term problem and can last for many months to years .\nThe other alternate treatment like physiotherapy and ortho advise was suggested to you .",
+                "replied_at": "2017-02-15T05:30:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 336384,
+                "modified_by_id": 336384,
+                "replier_name": "Dr. Shilpa Singi",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/397156/dr-shilpa-singi-5e6f528edbc2e.jpg"
+            },
+            "survey_response": {
+                "id": 26462034,
+                "review_text": "She doesn't respond properly, after doing blood and urine tests suggested by her, just checked my resports. But not prescribed any medicines or anything.  My problems still exist.\n\n*** ***** **** ***** ********** *** *** ***** ** ****** **** ******* ******* ***  **** ** ***** ************\nThough I had asked hospital to give me name of most experience doctor but they recommended her.\n\nIt's completely a waste of money and time.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 181,
+                        "end_index": 288,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 26457
+                    }
+                ],
+                "reviewed_on": "2016-10-23 07:53:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Pankaj Singh"
+        },
+        "entity_id": 373231,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2112093,
+            "status": "PUBLISHED",
+            "note": "2022-12-05 07:00:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-05T07:02:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45077657,
+                "review_text": "My experience with Dr Silpa Singhi is more than five years..An excellent phycisian to the core..Madam always was guiding me and my family with utmost care, perfection and Empathy.. \n\nAyyagari Srinivas\nYoutuber\nBangalore ",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-03 10:17:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Madhuri"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2073544,
+            "status": "PUBLISHED",
+            "note": "2022-09-24 06:34:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 397156,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-24T07:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44861129,
+                "review_text": "She patiently addressed my issue. Felt confident in her diagnosis. \nI will recommend this doctor for sure.",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-22 17:11:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "neha david"
+        },
+        "entity_id": 738202,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,378 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1881274,
+            "status": "PUBLISHED",
+            "note": "2021-11-27 09:40:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593388,
+            "practice_id": 939499,
+            "practice_name": "Cloudnine Hospital - Old Airport Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-27T10:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43755499,
+                "review_text": "Very patient and compassionate. My daughter's echo test done personally by her. Minimum medicines and always felt comfortable",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-26 04:32:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ranjan"
+        },
+        "entity_id": 467454,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1230718,
+            "status": "PUBLISHED",
+            "note": "2019-08-25 06:41:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593388,
+            "practice_id": 939499,
+            "practice_name": "Cloudnine Hospital - Old Airport Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-25T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39979815,
+                "review_text": "**** **** ********* explain the problem very well...very friendly nature....she looks like her own son or daughter...not has a patient",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 19,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 201949
+                    }
+                ],
+                "reviewed_on": "2019-08-24 05:20:44",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kishore"
+        },
+        "entity_id": 467454,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 673635,
+            "status": "PUBLISHED",
+            "note": "2017-09-19 09:50:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593388,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-19T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35563900,
+                "review_text": "We had pre booked appointment i.e 8 sep 10 AM  for 22 month old baby Boy with Dr Maitri Chaudhuri @ Manipal Old airport hospital. Dr Maitri Chaudhuri  came(or Hiding some where in hospital. we don't know) around 11.45AM  but we were waited for more then 1 and half an Hours .We paid 750 consultant Fess for Dr Maitri chowdary.\nDr. Maitri Chaudhuri  asked us to consult with one of her Junior Dr. Yogesh. While he was taking input about my KID  in between Dr Maitri Chaudhuri  asked him to take our Kid to ECHO scanning.\nWe got surprised that Dr Maitri Chaudhuri  she not even seen my KID and simply took us to scanning room.\nWe spoke to Dr. Maitri Chaudhuri  saying that you not even see the reports of my  kid and directly asking us for ECHO scanning. Then she asked what is the problem your Kid having.\nI told her one of our kid dr pediatric physician asked to consult with  Pediatric Cardiologist specialist  so we googled and found ur name for Murmur sound detect on our kid.\nThen she asked me to show report i told we don;t have any report this is the first time showing pediatric Cardiologist specialist so we are expecting report from you.\nThen she asked us you didn't Gogole about Murmur Sound .Yes i did But how that will help here .\nThen she checked my kid like she is not even interest  and asked Jr Dr to fill the details.\n \nWe still not convinced with her consultation hence we are planning to take my KID to some other good prediatric Cardiologist specialist.",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-08 14:31:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 268436,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 761373,
+            "status": "PUBLISHED",
+            "note": "2018-01-26 10:57:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593388,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-26T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36425002,
+                "review_text": "I have bad experience with the doctor, she didn't explain the things with patience she will show her attitude.\n\nshe didn't react immediately when the things are critical, she had explained different and she had reacted different when the situations are serious, she directed us for few tests/procedures ***** *** *** ********* and finally we lost the amount, we lost our kid and valuable time. She may not be completely responsible to loss my kid however if she would have reacted little advance my kid would have been survived that's what we feel, that was our hope.",
+                "review_alterations": [
+                    {
+                        "start_index": 303,
+                        "end_index": 325,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 87329
+                    }
+                ],
+                "reviewed_on": "2017-12-31 14:44:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 268436,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1401759,
+            "status": "PUBLISHED",
+            "note": "2020-03-18 05:56:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593388,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-18T06:01:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41137381,
+                "review_text": "*** ********* ***** *** *********she will ask to come many times **** ** ***** ***** ** *********I went to meet her in manipal at 10am and came back at 4pm.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 32,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 257566
+                    },
+                    {
+                        "start_index": 64,
+                        "end_index": 96,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 257565
+                    }
+                ],
+                "reviewed_on": "2020-03-16 13:40:10",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Richa"
+        },
+        "entity_id": 268436,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3680,
+                "text": "Paediatrics - Chest"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1369786,
+            "status": "PUBLISHED",
+            "note": "2020-02-16 05:15:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593388,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-16T06:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40937169,
+                "review_text": "She is a good and experienced doctor.she is not only a doctor but also a living God.I have visited many doctor for my child chest pain but they are not able to diogonished actual.Doctor diogonished without any test. Her behaviour unquestionable. *** * **** *** ***** **** ** * ****** *****.......Kinkar Ghosal.kamarpukur.Hooghly.712612",
+                "review_alterations": [
+                    {
+                        "start_index": 246,
+                        "end_index": 288,
+                        "reason": "NON_COMPLIANT",
+                        "id": 248226
+                    }
+                ],
+                "reviewed_on": "2020-02-14 14:06:38",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 268436,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 782354,
+            "status": "PUBLISHED",
+            "note": "2018-02-07 06:28:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 593388,
+            "practice_id": 630200,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-07T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36630548,
+                "review_text": "I  was referred for fetal tachycardia by my gynecologist. Dr did a thorough fetal scan over 45 minutes and told me everything was OK. We took our child back after delivery and my son is now 3 years old. I appreciate her sincerity and dedication",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-28 15:55:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 268436,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

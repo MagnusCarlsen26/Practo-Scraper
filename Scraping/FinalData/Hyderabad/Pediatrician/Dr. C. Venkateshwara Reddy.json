@@ -1,0 +1,114 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1785952,
+            "status": "PUBLISHED",
+            "note": "2021-07-27 09:24:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 559101,
+            "practice_id": 837416,
+            "practice_name": "Satyasree Clinics & Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-26T16:16:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 304058,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanq ...Its my duty ..",
+                "replied_at": "2021-07-26T16:16:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1210902,
+                "modified_by_id": 1210902,
+                "replier_name": "Dr. C. Venkateshwara Reddy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/784108/dr-venkateshwara-reddy-c-5dcffcc6b9032.jpeg"
+            },
+            "survey_response": {
+                "id": 43180530,
+                "review_text": "Highly recommended . Hear all problem and then prescribe medicine with limited quantity. Had good experience.",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-25 06:25:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Surojit Nag"
+        },
+        "entity_id": 698614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1328533,
+            "status": "PUBLISHED",
+            "note": "2020-01-03 06:58:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 559101,
+            "practice_id": 837416,
+            "practice_name": "Satyasree Speciality Clinics & Diagnostic Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-03T07:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 286509,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanq for ur review...hope u n ur family members are doing well in this pandemic time",
+                "replied_at": "2021-05-14T05:04:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 1210902,
+                "modified_by_id": 1210902,
+                "replier_name": "Dr. C. Venkateshwara Reddy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/784108/dr-venkateshwara-reddy-c-5dcffcc6b9032.jpeg"
+            },
+            "survey_response": {
+                "id": 40632203,
+                "review_text": "Very nice doctor. Always ready to listen to all complains. Very limited medicine prescribed based on complaints.",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-31 10:42:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sudha"
+        },
+        "entity_id": 698614,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

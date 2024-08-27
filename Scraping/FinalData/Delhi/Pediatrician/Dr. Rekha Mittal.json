@@ -1,0 +1,107 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1744,
+                "text": "Neuro Developmental Therapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2030587,
+            "status": "PUBLISHED",
+            "note": "2022-07-16 09:06:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 687225,
+            "practice_id": 1171509,
+            "practice_name": "Rainbow Hospitals - Malviya Nagar",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-16T10:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44604908,
+                "review_text": "Very thorough, ********* ************** Did not rush us. Suggested tests, will definitely go back for further assessments and tests.",
+                "review_alterations": [
+                    {
+                        "start_index": 14,
+                        "end_index": 38,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 418332
+                    }
+                ],
+                "reviewed_on": "2022-07-15 08:34:15",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 810953,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1069371,
+            "status": "PUBLISHED",
+            "note": "2019-01-24 08:51:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 687225,
+            "practice_id": 1171143,
+            "practice_name": "Madhukar Rainbow Children's Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-24T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38943641,
+                "review_text": "Doctor went for LP on my kid to diagnose Eyeball not rotating due to brain and Neuro issue. Dr did intense testing and everything turned out to be normal.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-23 07:47:49",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 663420,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

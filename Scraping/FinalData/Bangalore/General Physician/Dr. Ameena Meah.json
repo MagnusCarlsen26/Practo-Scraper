@@ -1,0 +1,4248 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1032,
+                "text": "Annual Check-Up"
+            },
+            {
+                "id": 442,
+                "text": "Dizziness"
+            },
+            {
+                "id": 193276,
+                "text": "Anaemia & blood disorders "
+            },
+            {
+                "id": 1036,
+                "text": "Fatigue"
+            },
+            {
+                "id": 1052,
+                "text": "Weight Loss"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2421857,
+            "status": "PUBLISHED",
+            "note": "2024-07-31 09:43:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-31T10:01:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46893435,
+                "review_text": "Excellent knowledge of disease and medicine. very friendly. Explain the situations very well and give mental comfort to patients. The doctor is Just magical. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-30 04:48:29",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2404097,
+            "status": "PUBLISHED",
+            "note": "2024-06-26 07:11:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-26T08:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46792124,
+                "review_text": "Dr Ameena is friendly *** ************** The staff were cordial, share information about appointment and ensure that patient don't have to wait long at the clinic.",
+                "review_alterations": [
+                    {
+                        "start_index": 22,
+                        "end_index": 39,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 489523
+                    }
+                ],
+                "reviewed_on": "2024-06-24 13:57:42",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohammed Shad Jamal"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2363954,
+            "status": "PUBLISHED",
+            "note": "2024-04-03 06:33:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-03T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449510,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u",
+                "replied_at": "2024-05-21T09:26:14+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46561729,
+                "review_text": "I consulted Dr Ameena for help with managing the bug (fever cold) I had caught. I liked that I wasn't just prescribed a course of antibiotics and even with the prescribed medication, she suggested the smallest dosage possible and that increase in dosage will be done if need be. I got better in no time and she was available for follow up consultation too. I'd definitely recommend that others go to her too! ",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-01 15:15:32",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sagar"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101486,
+                "text": "Type 2 Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2393131,
+            "status": "PUBLISHED",
+            "note": "2024-06-02 12:25:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-02T13:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46728875,
+                "review_text": "Great experience, Dr give lot of time for examination and I am already feeling better from the treatment she has given .",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-01 12:10:10",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2371371,
+            "status": "PUBLISHED",
+            "note": "2024-04-19 05:28:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-19T06:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449509,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u",
+                "replied_at": "2024-05-21T09:26:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46604433,
+                "review_text": "Doctor Ammena is very polite and listens to problems and explained hem very well. Recommend her for everyone",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-17 17:30:02",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shivam Kumar"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2371370,
+            "status": "PUBLISHED",
+            "note": "2024-04-19 05:28:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-19T06:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449508,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u",
+                "replied_at": "2024-05-21T09:25:54+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46604424,
+                "review_text": "Doctor is very patient *** ************** I went her clinic with my parents they seem very satisfied with her guidance.",
+                "review_alterations": [
+                    {
+                        "start_index": 23,
+                        "end_index": 40,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 484156
+                    }
+                ],
+                "reviewed_on": "2024-04-17 17:25:04",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bharti Singh"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2303852,
+            "status": "PUBLISHED",
+            "note": "2023-12-08 06:29:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-08T03:12:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 432485,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you :)",
+                "replied_at": "2023-12-08T03:12:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46217752,
+                "review_text": "The doctor is exceptional, closely monitoring your progress and genuinely caring about your well-being. She diligently conducts thorough checks to rule out any serious issues, and her medication advice is beneficial. I highly recommend this doctor for those seeking a reliable General Physician. It's important to note that the wait time may be longer due to the thorough examination, lasting around 30 minutes per patient. Patience is key, and scheduling appointments can help alleviate the wait. Be prepared and understanding during your visit, as the quality of care is worth the time invested.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-07 03:57:05",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "AKSHIL DASTURE"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144561,
+                "text": "Thyroid Disorder Treatment"
+            },
+            {
+                "id": 170,
+                "text": "Insulin Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2299913,
+            "status": "PUBLISHED",
+            "note": "2023-12-01 06:39:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-01T07:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 432486,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u:)",
+                "replied_at": "2023-12-08T03:12:26+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46195549,
+                "review_text": "I am writing this review so that other patients in search of good physician for Diabetes can benefit. Dr Ameena was very patient and diagnosed step by step with description of the problem. She is very knowledgable and intelligent. Knows how to pin point/isolate  the root cause and provide treatment accordingly. She doesn't recommend unnecessary tests or have you run around and provides medication  for the targeted problem after isolating the issue. Worth the money and satisfied with the service !!! Definitely recommend her for any Thyroid or Diabetes problems.",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-29 15:18:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anika S"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            },
+            {
+                "id": 144561,
+                "text": "Thyroid Disorder Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2267796,
+            "status": "PUBLISHED",
+            "note": "2023-09-30 04:49:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-30T05:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 425816,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u madam",
+                "replied_at": "2023-10-07T18:01:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46015055,
+                "review_text": "I and my family have been consulting Dr Ameena Meah for the last two years. We find her a very intelligent, considerate and caring doctor.  She possesses in-depth knowledge of internal medicine and provides complete care to the patient. \n\nDuring Covid period, we were consulting her online and she was very prompt in responding to our needs. We have immensely benefited by taking treatment from her.\n\nShe treats and cares for us like a family member. We appreciate her efforts and highly recommend her for family medicine needs.\n\nWe wish her a bright and successful future and are confident that she will make a mark in her professional practice.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-28 14:36:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "804039"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2321946,
+            "status": "PUBLISHED",
+            "note": "2024-01-10 05:13:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-10T06:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449505,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2024-05-21T09:25:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46320776,
+                "review_text": "I visited Dr. Amena a few days back as I was suffering from fever, cold and cough in my 33 weeks of pregnancy.\nShe patiently heard me and her advice and medicines helped me greatly. She personally followed up on my health and really helped me in this difficult time. Big Thank you to Dr. Ameena. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-08 13:21:27",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harpreet Marwah"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1032,
+                "text": "Annual Check-Up"
+            },
+            {
+                "id": 442,
+                "text": "Dizziness"
+            },
+            {
+                "id": 193276,
+                "text": "Anaemia & blood disorders "
+            },
+            {
+                "id": 1036,
+                "text": "Fatigue"
+            },
+            {
+                "id": 1052,
+                "text": "Weight Loss"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2421857,
+            "status": "PUBLISHED",
+            "note": "2024-07-31 09:43:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-31T10:01:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46893435,
+                "review_text": "Excellent knowledge of disease and medicine. very friendly. Explain the situations very well and give mental comfort to patients. The doctor is Just magical. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-30 04:48:29",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2404097,
+            "status": "PUBLISHED",
+            "note": "2024-06-26 07:11:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-26T08:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46792124,
+                "review_text": "Dr Ameena is friendly *** ************** The staff were cordial, share information about appointment and ensure that patient don't have to wait long at the clinic.",
+                "review_alterations": [
+                    {
+                        "start_index": 22,
+                        "end_index": 39,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 489523
+                    }
+                ],
+                "reviewed_on": "2024-06-24 13:57:42",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohammed Shad Jamal"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2363954,
+            "status": "PUBLISHED",
+            "note": "2024-04-03 06:33:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-03T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449510,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u",
+                "replied_at": "2024-05-21T09:26:14+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46561729,
+                "review_text": "I consulted Dr Ameena for help with managing the bug (fever cold) I had caught. I liked that I wasn't just prescribed a course of antibiotics and even with the prescribed medication, she suggested the smallest dosage possible and that increase in dosage will be done if need be. I got better in no time and she was available for follow up consultation too. I'd definitely recommend that others go to her too! ",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-01 15:15:32",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sagar"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101486,
+                "text": "Type 2 Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2393131,
+            "status": "PUBLISHED",
+            "note": "2024-06-02 12:25:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-02T13:00:29+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46728875,
+                "review_text": "Great experience, Dr give lot of time for examination and I am already feeling better from the treatment she has given .",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-01 12:10:10",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2371371,
+            "status": "PUBLISHED",
+            "note": "2024-04-19 05:28:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-19T06:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449509,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u",
+                "replied_at": "2024-05-21T09:26:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46604433,
+                "review_text": "Doctor Ammena is very polite and listens to problems and explained hem very well. Recommend her for everyone",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-17 17:30:02",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shivam Kumar"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2371370,
+            "status": "PUBLISHED",
+            "note": "2024-04-19 05:28:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-19T06:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449508,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u",
+                "replied_at": "2024-05-21T09:25:54+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46604424,
+                "review_text": "Doctor is very patient *** ************** I went her clinic with my parents they seem very satisfied with her guidance.",
+                "review_alterations": [
+                    {
+                        "start_index": 23,
+                        "end_index": 40,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 484156
+                    }
+                ],
+                "reviewed_on": "2024-04-17 17:25:04",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bharti Singh"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2303852,
+            "status": "PUBLISHED",
+            "note": "2023-12-08 06:29:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-08T03:12:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 432485,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you :)",
+                "replied_at": "2023-12-08T03:12:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46217752,
+                "review_text": "The doctor is exceptional, closely monitoring your progress and genuinely caring about your well-being. She diligently conducts thorough checks to rule out any serious issues, and her medication advice is beneficial. I highly recommend this doctor for those seeking a reliable General Physician. It's important to note that the wait time may be longer due to the thorough examination, lasting around 30 minutes per patient. Patience is key, and scheduling appointments can help alleviate the wait. Be prepared and understanding during your visit, as the quality of care is worth the time invested.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-07 03:57:05",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "AKSHIL DASTURE"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144561,
+                "text": "Thyroid Disorder Treatment"
+            },
+            {
+                "id": 170,
+                "text": "Insulin Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2299913,
+            "status": "PUBLISHED",
+            "note": "2023-12-01 06:39:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-01T07:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 432486,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u:)",
+                "replied_at": "2023-12-08T03:12:26+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46195549,
+                "review_text": "I am writing this review so that other patients in search of good physician for Diabetes can benefit. Dr Ameena was very patient and diagnosed step by step with description of the problem. She is very knowledgable and intelligent. Knows how to pin point/isolate  the root cause and provide treatment accordingly. She doesn't recommend unnecessary tests or have you run around and provides medication  for the targeted problem after isolating the issue. Worth the money and satisfied with the service !!! Definitely recommend her for any Thyroid or Diabetes problems.",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-29 15:18:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anika S"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            },
+            {
+                "id": 144561,
+                "text": "Thyroid Disorder Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2267796,
+            "status": "PUBLISHED",
+            "note": "2023-09-30 04:49:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-30T05:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 425816,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u madam",
+                "replied_at": "2023-10-07T18:01:03+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46015055,
+                "review_text": "I and my family have been consulting Dr Ameena Meah for the last two years. We find her a very intelligent, considerate and caring doctor.  She possesses in-depth knowledge of internal medicine and provides complete care to the patient. \n\nDuring Covid period, we were consulting her online and she was very prompt in responding to our needs. We have immensely benefited by taking treatment from her.\n\nShe treats and cares for us like a family member. We appreciate her efforts and highly recommend her for family medicine needs.\n\nWe wish her a bright and successful future and are confident that she will make a mark in her professional practice.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-09-28 14:36:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "804039"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2321946,
+            "status": "PUBLISHED",
+            "note": "2024-01-10 05:13:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-10T06:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449505,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2024-05-21T09:25:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46320776,
+                "review_text": "I visited Dr. Amena a few days back as I was suffering from fever, cold and cough in my 33 weeks of pregnancy.\nShe patiently heard me and her advice and medicines helped me greatly. She personally followed up on my health and really helped me in this difficult time. Big Thank you to Dr. Ameena. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-08 13:21:27",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harpreet Marwah"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193361,
+                "text": "Diabetic Neuropathy"
+            },
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            },
+            {
+                "id": 186384,
+                "text": "Fasting blood sugar"
+            },
+            {
+                "id": 192789,
+                "text": "Physcian"
+            },
+            {
+                "id": 186436,
+                "text": "High cholesterol"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2092759,
+            "status": "PUBLISHED",
+            "note": "2022-11-01 06:10:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-31T08:07:23+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382674,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you :) ",
+                "replied_at": "2022-10-31T08:07:23+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44970722,
+                "review_text": "Had met Dr. Ameena for consultation of my mom and she had too many health complications like diabetes,BP, lung infection and she was very weak and had tiredness the whole day. She understood her problems very patiently and counselled her not only medically but also told her few habitual changes which has definitely worked for her as her health has improved a lot. She is one of those rare Doctors who are practicing for the welfare and wellbeing of people with a very affordable treatment. Huge respect for her\ud83d\ude0a.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-29 16:43:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Piyush Singh "
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186431,
+                "text": "Respiratory tract infection"
+            },
+            {
+                "id": 192258,
+                "text": "Ladies Problems"
+            },
+            {
+                "id": 104,
+                "text": "Swollen Lymph Nodes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091614,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:28:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382683,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:) ",
+                "replied_at": "2022-10-31T08:08:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44964269,
+                "review_text": "Whenever I have any health issue that I cannot manage on my own, I always consult Dr. Ameena ma'am. Recently I had unusual symptoms like joint pain and painful lymphadenitis and couldn't figure out any particular reason for it. So I seeked to her for advice. I immediately started getting better. \nShe listens to all your questions and answers them patiently. After taking her advice and medications, you will definitely start feeling better.She is highly knowledgeable, sincere as well as super friendly doctor, the best combination.  Since she was my professor, I always loved her way of counseling patients. That's why I consult her and consider her as my family doctor. Thank you so much ma'am.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-27 19:25:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shibaani Patade"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091725,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:39:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382679,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you :) ",
+                "replied_at": "2022-10-31T08:08:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44964938,
+                "review_text": "When I first met Dr. Amena, the vibrations itself were very positive and very comfortable.  She listened very patiently and answered all my doubts. More than half of the illness went off after meeting her as she allowed me to explain my problem and gave the medicines accordingly.  \nSecond time I went for throat infection and cough.  She really made me feel comfortable to tell my problems and checked physically properly and gave medicines. As I already mentioned her vibrations are powerful to cure us both physically and emotionally.  \nEven I used ask some questions through what's app.  She used to reply for them also. Very rarely we get such doctors now a days. Thank you so very much  doctor for everything U did.  Please remain same as it is the immense benefit for the mankind.  I highly recommend Dr.Ameena. Thank you again\ud83d\ude4f\ud83d\ude4f",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-28 06:17:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vanitha BT"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            },
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2283312,
+            "status": "PUBLISHED",
+            "note": "2023-10-28 04:38:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-28T05:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46101818,
+                "review_text": "I have been suffering from diabetes for the last ten years and have been consulting so many doctors with no improvement,Finally from excellent reviews from Practo ,I have visited Dr Ameena,she is a gem of person ,From the moment of visit to Dr Ameena,she very  well diagnosed and described not only the problem ,but whole course of treatment was excellent.I am really thankful to Dr Ameena  for kind and generous advice.I strongly recommend Dr Ameena for diabetes patients",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-26 12:41:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Fuzzy"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 1034,
+                "text": "Colds"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2332433,
+            "status": "PUBLISHED",
+            "note": "2024-01-31 05:21:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-31T06:00:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449507,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you",
+                "replied_at": "2024-05-21T09:25:44+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46380773,
+                "review_text": "good explanation about health was good she is a good doctor kindly way of approach  she treats goodwell addressed",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-29 13:10:11",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vijayalakshmi"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1226,
+                "text": "Type 1 Diabetes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2245577,
+            "status": "PUBLISHED",
+            "note": "2023-08-08 06:21:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-08T07:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45865050,
+                "review_text": "I went to visit her for my mother\u2019s health checkup. Very friendly doctor and the staffs. Dr. Ameena explained health issues in detailed and also instructed what steps to follow when, in fact she mentioned which medicine for diabetes, which medicine for thyroid all in details. I would recommend her.",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-06 04:45:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Payel Jana"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2320250,
+            "status": "PUBLISHED",
+            "note": "2024-01-06 10:21:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-06T11:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 435910,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Ty for ur kind words",
+                "replied_at": "2024-01-06T18:01:47+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46310613,
+                "review_text": "I had consulted her for fever and headache ,she listen to your issue carefully and suggest the right medicine, Dr. Ameena meah is a great dr.I highly recommend her.",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-05 10:17:46",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abin A"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186383,
+                "text": "hba1c"
+            },
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 186436,
+                "text": "High cholesterol"
+            },
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2114726,
+            "status": "PUBLISHED",
+            "note": "2022-12-09 09:30:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-09T10:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45092784,
+                "review_text": "Dr. Ameena is a very friendly and approachable person. She listens patiently and then explains to the patient accordingly regarding the ailment.\nShe believes in prevention is better than cure.\nShe has solved all my ailments whenever i have reached out to her. \nThanks Dr. Ameena and may god bless you. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-08 09:18:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Noorain"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2106796,
+            "status": "PUBLISHED",
+            "note": "2022-11-25 06:09:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-25T07:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45048163,
+                "review_text": "Dr. Ameena was very attentive, she heard the whole issues, cross verified the relative symptoms. She explained her findings very well and explained the medication cycle. The best part is the follow up and quick response for all the queries. Very happy with this consultation. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-23 16:25:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vishnu Kurup M K"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            },
+            {
+                "id": 297,
+                "text": "Sinusitis"
+            },
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091594,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:38:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:01:05+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382680,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:) ",
+                "replied_at": "2022-10-31T08:08:27+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44964118,
+                "review_text": "Dr Ameena is our family doctor now. She takes great care of her patients and is very through with her investigation. Dr Ameena is very conservative in her prescription and does not believe in giving more or unnecessary medicines.  Dr Ameena is very warm in her interaction and u feel safe in free hands.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-27 17:21:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ritam sharma"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091564,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:25:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382686,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:) ",
+                "replied_at": "2022-10-31T08:09:19+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44963991,
+                "review_text": "I consulted dr Ameena for my fever, she was extremely patient with me, gave me enough time to understand my ailment and did only a few tests which led to the correct diagnosis, i felt relieved that finally a good physician could diagnose in time that i had dengue fever and was given the right treatment in the right time, I am thankful to the Almighty that i met Dr Ameena! I would definitely recommend her to all my friends and relatives ",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-27 16:45:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harshvardhan Bhamare"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091548,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:22:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382688,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:) ",
+                "replied_at": "2022-10-31T08:09:33+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44963923,
+                "review_text": "Met doctor Ameena for my general check up. She always provides detailed explanation of the health issues that are present and even gives the right advice to avoid any issues in the future. I am fully satisfied with her treatment. Most of my family members also have consulted Dr. Ameena for various health issues and are very happy with her service.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-27 16:27:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Noorain Santhosh C"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1915240,
+            "status": "PUBLISHED",
+            "note": "2022-01-19 09:17:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-19T10:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 338731,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u:) ",
+                "replied_at": "2022-01-24T08:08:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 43957861,
+                "review_text": "I visited Dr. Ameena for my daughter's typhoid treatment. The way she explained about each test and procedures, really helped us a lot. She showed her concern for the patient in her way of talking. she was compassionate and i really appreciate that about her. my daughter is completely fine now. I thank Dr. Ameena from the bottom of my heart. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-17 19:02:12",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anushka Sarkar"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1928457,
+            "status": "PUBLISHED",
+            "note": "2022-02-08 05:48:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-08T06:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 342136,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u:) ",
+                "replied_at": "2022-02-11T13:43:10+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44033581,
+                "review_text": "We visited Dr. Ameenah for post covid issues.She was patient enough to listen to every problem and provided us with good medicines only for stamina build and vitamins.She did not prescribe any antibiotics which I really appreciated.Also, she was available on watsapp for any queries related to our health.Thank you Doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-06 09:10:09",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Devaleena Choudhury"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1927639,
+            "status": "PUBLISHED",
+            "note": "2022-02-06 10:03:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-06T02:15:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 340996,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanku:) ",
+                "replied_at": "2022-02-06T02:15:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44029192,
+                "review_text": "I went to Dr Meah to get my fitness and Vaccination certificates done before moving abroad. *** *** **** ************* ***** *** ********** ******** *** clearly answered any questions I had. The entire process was efficient and smooth. I highly recommend Dr Meah!",
+                "review_alterations": [
+                    {
+                        "start_index": 92,
+                        "end_index": 151,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 395447
+                    }
+                ],
+                "reviewed_on": "2022-02-05 05:22:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lakshmi Srinivasan"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1916663,
+            "status": "PUBLISHED",
+            "note": "2022-01-21 05:48:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-21T06:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 338730,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u:) ",
+                "replied_at": "2022-01-24T08:08:27+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 43965985,
+                "review_text": "I contacted Dr. Ameena when I got tested positive last week. She is so polite and caring. When I first spoke to her, she was so supportive and understood all my issues properly. She took my previous prescriptions and treat me accordingly. She was continuously following up with me about my health, saturation, fever etc. Now I am all fine and will definitely going to consult her in future when required. Thank you so much ma'am",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-19 18:25:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumi"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1912193,
+            "status": "PUBLISHED",
+            "note": "2022-01-14 07:09:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-14T08:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 337770,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for ure kind words ",
+                "replied_at": "2022-01-17T08:26:14+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 43939078,
+                "review_text": "We contacted Dr Ameena when my son started with a fever and tested positive for Covid. She is incredible. Not only has she taken great care of my son's health, but also she was approachable and easy to speak with. It\u2019s rare to find a doctor who follows up with the patient and combines such a personal touch with quality medical care. I highly recommend consulting her!",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-13 06:13:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arshad"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1038,
+                "text": "Flu"
+            },
+            {
+                "id": 319,
+                "text": "Diarrhoea"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            },
+            {
+                "id": 297,
+                "text": "Sinusitis"
+            },
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093338,
+            "status": "PUBLISHED",
+            "note": "2022-11-01 09:50:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-01T08:02:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382858,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your motivation",
+                "replied_at": "2022-11-01T08:02:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44974004,
+                "review_text": "I have know Dr. Ameena for 10 years now & she is my go to doctor for any issues that I face. Right from having the flu to even getting an opinion on certain medical conditions her suggestions and recommendations are accurate and healing.\nDr. Ameena played a vital role in the diagnosis and second opinion of my mother breast cancer and father's stroke conditions. \nAll her recommendations to other specialist doctors are extremely good as well. \nI do reside in Canada as of now but I still consult with her for all my issues. \n\nThe best thing I like about her is that she listens to the issue, asks questions and then suggests good medication. In cases where further investigation is needed she recommends the same and does not unnecessarily give medication.\nI 100% recommend her.\nYou will not be disappointed\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-31 08:50:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 295,
+                "text": "Pneumonia"
+            },
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            },
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            },
+            {
+                "id": 304,
+                "text": "Wheezing"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093206,
+            "status": "PUBLISHED",
+            "note": "2022-11-01 09:19:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-01T08:02:28+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382859,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. \nMeans a lot",
+                "replied_at": "2022-11-01T08:02:28+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44973269,
+                "review_text": "I consulted Dr.Ameena Meah at Diagnostic affairs, Kagadasapura for fever and chest pain. She immediately noted the recurring nature of it and advised me to run few tests and found that i had pneumonia. She then referred me for intensive care at hospital and  then I got recovered. Thanks to the timely intervention of Dr.Ameena. She extended her help through calls & whatsapp , she reviewed the lab results online and even offered second opinion about the diagnosis and treatment management. These were one step ahead in doctor-patient relationship which helped me at the receiving end. She takes enough time to listen to our queries, actively listens to our issues at hand and suggests better options available. I strongly recommend Dr Ameena. She is approachable on emergencies. Thanks, Doc.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-31 05:15:59",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2093180,
+            "status": "PUBLISHED",
+            "note": "2022-11-01 09:13:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-01T08:02:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382860,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:) ",
+                "replied_at": "2022-11-01T08:02:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44973053,
+                "review_text": "I have met Dr Ameena for several issues starting from cold , headache, my diets some unusual symptoms to even advises during my pregnancy. All that I have received from her is the right medication or the direction for the right contact.\nThe medication she has been advising me through the years not has given me  relief not for a short term but for a long term.  Dr Ameena has always been available in addressing emergencies rather my anxieties and gives me the right advise and assurance  with no delay. She always goes out of her of way to ensure you are doing well. Her follow up on how well you are doing is something very personal to me, running on such a tight schedule , she still makes time to check on your progress.\nThank you so much Doctor.  ",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-31 03:10:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            },
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2021779,
+            "status": "PUBLISHED",
+            "note": "2022-07-03 05:50:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-02T08:49:46+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 365042,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank s a lot for your kind words",
+                "replied_at": "2022-07-02T08:49:46+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44555056,
+                "review_text": "I was not sure if online consultation would address my issue but wanted to urgently get some relief,so  contacted Dr Ameena who is a wonderful Dr she really listens carefully and does not rush and super friendly goes out of her way to guide you and suggests the right medicines and treatment which will relieve ur problem.totally satisfied with her consultation and would highly recommend anyone to talk to her once.she Wil definitely solve your health issue.she is highly qualified and you will feel much much better post her guidance. thank you Dr Ameena ",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-01 17:03:48",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1695,
+                "text": "Well Woman Healthcheck"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2290062,
+            "status": "PUBLISHED",
+            "note": "2023-11-10 05:40:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-10T06:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 432487,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u:)",
+                "replied_at": "2023-12-08T03:12:37+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46140205,
+                "review_text": "This is my second visit to Dr Ameena, it has always been a wonderful experience visiting her. The way she diagnoses and interacts and explains the issue is simply awesome. She is my go to doctor anytime I need a consultation for any health issue. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-08 15:18:16",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anant Pratap"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2287436,
+            "status": "PUBLISHED",
+            "note": "2023-11-04 09:43:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-04T10:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46125056,
+                "review_text": "She is very friendly and give details explanation about reports.\nExplanation about diet for my cholesterol.",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-03 08:53:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Uday Kiran Reddy Kona "
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2276980,
+            "status": "PUBLISHED",
+            "note": "2023-10-15 06:22:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-15T07:00:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46065816,
+                "review_text": "Awesome experience with the doctor. She is knowledgeable and didn't get any unwanted tests or spends. Highly recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-14 02:32:05",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arya Saffar"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192118,
+                "text": "Cholestrol Diseases"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2276467,
+            "status": "PUBLISHED",
+            "note": "2023-10-14 07:04:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-14T08:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46062898,
+                "review_text": "Dr was patient in listening and has given medication and good advice to my mother for treatment,she explained well about the problem and suggested ways to control the problem ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-13 05:04:11",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "nishath sultana"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 144561,
+                "text": "Thyroid Disorder Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2272946,
+            "status": "PUBLISHED",
+            "note": "2023-10-08 09:45:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-07T18:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 425815,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:)",
+                "replied_at": "2023-10-07T18:00:53+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46042865,
+                "review_text": "Dr. Ameena is very friendly and provided me suggestions for my weight loss and diet. She will not prescribe any unnecessary medications. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-07 04:07:04",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Obulakshmi"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2266947,
+            "status": "PUBLISHED",
+            "note": "2023-09-28 04:52:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-28T05:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 425073,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u for ur kind words \ud83d\ude4f",
+                "replied_at": "2023-09-28T10:27:24+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46009396,
+                "review_text": "The doctor\u2019s behaviour is very good. She suggested the **** treatment for me. I am very satisfied.\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 55,
+                        "end_index": 59,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 469445
+                    }
+                ],
+                "reviewed_on": "2023-09-26 13:13:57",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Souvik Mitra"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2254636,
+            "status": "PUBLISHED",
+            "note": "2023-08-31 05:43:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-31T06:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45927886,
+                "review_text": "Very kind doctor have ever seen before such a kind person \n\nHappy to get treatment from Dr.Ameena.\n\nThe procedure of treatment is good ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-29 02:58:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "User"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2252806,
+            "status": "PUBLISHED",
+            "note": "2023-08-25 06:42:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-25T07:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45915043,
+                "review_text": "Consultation was helpful. Suggested Medicine has been worked. And overall experience along with reasonable charge was good.\n Thank you",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-24 01:25:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pawan"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192789,
+                "text": "Physcian"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2246188,
+            "status": "PUBLISHED",
+            "note": "2023-08-09 06:07:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-09T07:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45869252,
+                "review_text": "*** ** ***** friendly and gives good n proper suggestions! I would like to recommend her to others as well.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 11,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 465143
+                    }
+                ],
+                "reviewed_on": "2023-08-07 16:11:47",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Parna Ghosh Barman"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192253,
+                "text": "Cardiac Disease"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2242255,
+            "status": "PUBLISHED",
+            "note": "2023-08-01 05:55:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-01T06:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45842481,
+                "review_text": "Doctor listened and took note of the patient history and medication. Did check up and referred to Cardi for opinion. Overall good experience with the visit",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-29 14:53:07",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ram Mohan"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2340543,
+            "status": "PUBLISHED",
+            "note": "2024-02-15 05:25:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-15T06:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46427919,
+                "review_text": "Very good doctor. Very good understanding. Listen to all our queries. She is very knowledgeable in every aspect. I recommend 100%",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-13 16:13:20",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 192789,
+                "text": "Physcian"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2340523,
+            "status": "PUBLISHED",
+            "note": "2024-02-15 05:22:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-15T06:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 449506,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u",
+                "replied_at": "2024-05-21T09:25:34+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46427787,
+                "review_text": "Dr Ameena clearly explained the issue to us and was very kind and attentive.We will definitely recommend her .",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-13 15:24:38",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186432,
+                "text": "Stomach pain and stomach upset"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2216729,
+            "status": "PUBLISHED",
+            "note": "2023-06-17 04:59:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-16T09:21:16+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 413635,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words",
+                "replied_at": "2023-06-16T09:21:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 45691314,
+                "review_text": "Doctor explained the symptoms and the steps to take care for better health.\nPatience and knowledge are the key elements.",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-15 12:48:01",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suma"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2094328,
+            "status": "PUBLISHED",
+            "note": "2022-11-03 08:16:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-03T09:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44979438,
+                "review_text": "The doctor was very kind and helped me recover from my health issues.The medicine she suggested really well and she also followed up for the next 3days over what\u2019s app",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-01 15:43:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "esabella"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091623,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:29:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382681,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:) ",
+                "replied_at": "2022-10-31T08:08:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44964332,
+                "review_text": "Dr.Ameena is very approachable.\nIn emergency, she responds immediately (on whatsapp) I like the way she did examination. She is always patient to listen and always prescribes medicine after complete diagnosis.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-28 01:20:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Barnali"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091596,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:38:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382678,
+                "reply_status": "PUBLISHED",
+                "reply_text": ":) thank you",
+                "replied_at": "2022-10-31T08:07:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44964132,
+                "review_text": "Actually I went for pregnancy planning but after diagnostic I found i have some health and she is the one who guided me correctly and i am in right track of my health.thnx a lot ",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-27 17:27:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Elakkiya magendran"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 186431,
+                "text": "Respiratory tract infection"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2090602,
+            "status": "PUBLISHED",
+            "note": "2022-10-27 04:33:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-26T08:27:12+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382108,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for ur kind words:) ",
+                "replied_at": "2022-10-26T08:27:12+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44958578,
+                "review_text": "Dr Ameena is  extremely patient and listens to all your concerns and addresses everything!. She is my go to doctor. She personally followed up while I was recovering extremely caring. Highly recommend Dr.Ameena. \n",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-26 01:24:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priya"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1040,
+                "text": "Light Headedness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2090800,
+            "status": "PUBLISHED",
+            "note": "2022-10-27 09:06:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-27T10:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382308,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words",
+                "replied_at": "2022-10-27T15:36:36+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44959654,
+                "review_text": "*** ** * **** ******* First she will listen carefully from you all your concern then she will explain how she is going to handle and also medication. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 20,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 430753
+                    }
+                ],
+                "reviewed_on": "2022-10-26 09:04:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Subhasmita Sahu"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 315,
+                "text": "Chickenpox"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1988930,
+            "status": "PUBLISHED",
+            "note": "2022-05-11 06:20:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-11T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 358462,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u for ur kind words",
+                "replied_at": "2022-05-18T14:45:19+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44367855,
+                "review_text": "A quick consultation with zero waiting time and proper explanation of the issue. She also helped by following up personally during my recovery time. Had a smooth recovery period with the help of the prescribed medicines. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-09 16:31:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Subha"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1941284,
+            "status": "PUBLISHED",
+            "note": "2022-02-26 06:41:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-26T07:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44101816,
+                "review_text": "Dr Ameena helped me to understand the main causes of the issue and the necessary steps to be taken further. She was very supportive throughout the session.. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-25 06:39:10",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ramya"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1937815,
+            "status": "PUBLISHED",
+            "note": "2022-02-22 06:41:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-22T07:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382690,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:) ",
+                "replied_at": "2022-10-31T08:10:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44083516,
+                "review_text": "Thank u Dr. Ameena. \nWas very polite and respectful. Listens to the patient with good detail. And understands the medical history.  Most importantly was very respectful and caring. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-19 18:15:26",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Asif"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1937772,
+            "status": "PUBLISHED",
+            "note": "2022-02-22 06:37:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-22T07:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44083300,
+                "review_text": "The doctor was polite and explained the issue in detail. She spent a good amount of time to analyse the issue. Highly recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-19 16:48:30",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kalyana Vasanth Akondi"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1924787,
+            "status": "PUBLISHED",
+            "note": "2022-02-02 06:07:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-02T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44013442,
+                "review_text": "She is very patient in listening to you, does a detailed analysis and explains the reasosn and the treatment well.",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-01 04:28:51",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jan Mohammed"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1918984,
+            "status": "PUBLISHED",
+            "note": "2022-01-25 07:56:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-24T08:08:01+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 338727,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u :) ",
+                "replied_at": "2022-01-24T08:08:01+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 43979334,
+                "review_text": "Dr.Ameena is a great doctor.she's very understanding & listens to ur concerns carefully.I Highly recommend her. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-23 05:34:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abin A"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1086,
+                "text": "Persistent Cough"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091562,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:25:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382685,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you:) ",
+                "replied_at": "2022-10-31T08:09:09+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44963983,
+                "review_text": "********** *** ** *** **** ******* ** *** **** * **** ***** very detailed orientation and want to understand everything about history to start thinking treatment afterwards \nI personally experienced for my wife and myself, it\u2019s fantastic experience and feeling every time we go !",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 430904
+                    }
+                ],
+                "reviewed_on": "2022-10-27 16:45:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101582,
+                "text": "Outpatient treatment"
+            },
+            {
+                "id": 248,
+                "text": "Muscle Cramps"
+            },
+            {
+                "id": 186442,
+                "text": "Wellness checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2091632,
+            "status": "PUBLISHED",
+            "note": "2022-10-29 06:30:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1403894,
+            "practice_name": "Apollo Clinic - Mahadevapura",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-29T07:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44964399,
+                "review_text": "I have been visiting Dr.Ameena for a long time. She is extremely professional. At every visit, she always gives alot of importance and time to understand the problem and explains in return ,in detail to understand the illness completely.\nAvoids unnecessary tests and scans and medicines. Her treatment has always been effective.  \nI have been highly recommending her to everyone in my circle as finding a good general physician is difficult and extremely important.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-28 02:22:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 840400,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1961819,
+            "status": "PUBLISHED",
+            "note": "2022-03-30 06:30:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-30T07:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 382689,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you :) ",
+                "replied_at": "2022-10-31T08:10:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 44215303,
+                "review_text": "****** ** **** *  I know this doctor before.Thats why I went to this hospital.But in hospital  staff was not \n cooperative. Thet made me to wait for more than 1 hr eventhough I got a slot at the time of booking.  Booking slot s giving and long term waiting can not be appreciated.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 402851
+                    }
+                ],
+                "reviewed_on": "2022-03-28 17:53:33",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1914421,
+            "status": "PUBLISHED",
+            "note": "2022-01-17 13:46:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1322565,
+            "practice_name": "Sai Prabha Clinic & Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-17T08:25:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 337769,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u for ure kind words",
+                "replied_at": "2022-01-17T08:25:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 43952555,
+                "review_text": "We approached her with covid symptoms, from helping with taking tests to getting recovered from Covid she was there! She made this easy for us supporting mostly! I would recommend her always for her friendliness, communication, and expertise in medications! Thanks doc for being always there! \ud83d\udc4d\ud83c\udffb",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-16 13:29:30",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 797079,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2310511,
+            "status": "PUBLISHED",
+            "note": "2023-12-20 06:24:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 969251,
+            "practice_id": 1424899,
+            "practice_name": "Meddkare Clinic And Diagnostics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-20T04:17:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 434062,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u for taking time and letting us know ur better",
+                "replied_at": "2023-12-20T04:17:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4345406,
+                "modified_by_id": 4345406,
+                "replier_name": "Dr. Ameena Meah",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/969251/dr-ameena-meah-6194ce6102305.jpeg"
+            },
+            "survey_response": {
+                "id": 46255505,
+                "review_text": "I am feeling better thanks to the doctors treatment. She diagnosed the problem well and gave me the right medication. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-19 04:27:20",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 863600,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

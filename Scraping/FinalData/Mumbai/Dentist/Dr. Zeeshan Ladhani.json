@@ -1,0 +1,3389 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            },
+            {
+                "id": 183102,
+                "text": "Dental Cavity Filling"
+            },
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            },
+            {
+                "id": 85013,
+                "text": "oral Health Checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2423094,
+            "status": "PUBLISHED",
+            "note": "2024-08-02 11:17:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-01T12:33:48+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 457017,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for such thorough, honest and sincere review Rayhaan. It was wonderful seeing you and we look forward to seeing you for your follow ups. Best wishes always from all of us. ",
+                "replied_at": "2024-08-01T12:33:48+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46900351,
+                "review_text": "I had an excellent experience at Zendent (Dr. Zeeshan Ladhani), I don\u2019t think there\u2019s anything they could have done better. \n\nThe receptionist was hospitable, welcoming, courteous and alert.\n\nThe space is maintained to the highest standard - seems as though it\u2019s brand new. Great ambiance, fresh, pleasant aroma, extremely clean and tidy space. \n\nZeeshan is extremely friendly, warm, a good listener, is patient, methodical, ************* *** polite. He takes a keen interest in his patients, he is engaged in conversation, spends time patiently listening and answering any and all questions or concerns and making sure you are thoroughly satisfied. He has an honest and sincere approach and is not one to rush anything or do a half-hearted job. Can definitely whole heartedly be trusted! \nAdditionally, Zeeshan is highly responsive, him and his team are in sync and they are punctual with appointments with no wait time.\n\nLoved the doc\u2019s choice of music and visuals on the television too!\n\nOverall the service was top notch, highly recommend for any dental concerns and I believe in supporting establishments that are evidently putting their best foot forward and getting it right!",
+                "review_alterations": [
+                    {
+                        "start_index": 424,
+                        "end_index": 441,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 492384
+                    }
+                ],
+                "reviewed_on": "2024-08-01 11:14:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rayhaan"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 194037,
+                "text": "Bleeding Gum"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2412628,
+            "status": "PUBLISHED",
+            "note": "2024-07-13 06:27:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-13T07:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 457307,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Vishal for such a wonderful and sincere review. Looking forward to seeing for your follow ups. ",
+                "replied_at": "2024-08-03T14:28:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46840518,
+                "review_text": "I had a little swollen gum and bleeding issue.  It was my first time visiting a dentist. \nDr. Zeeshan is very friendly and calmly explained why I was having the issue. He was very patient with my queries. The clinic was very clean and hygienic.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-11 13:51:46",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vishal K"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2386575,
+            "status": "PUBLISHED",
+            "note": "2024-05-20 16:20:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-20T17:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451694,
+                "reply_status": "PUBLISHED",
+                "reply_text": "It was a pleasure seeing you Bhavik. I am glad i was able to address the problem and provide you the best possible treatment considering your short stay and your journey back to the UK. Thank you for your faith and trust in us and for your kind words. Take care. ",
+                "replied_at": "2024-06-12T14:25:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46691285,
+                "review_text": "Had an emergency tooth situation whilst travelling and was seen to very promptly. Whilst the full treatment couldn\u2019t be completed due to prior inflammation the correct course of action was taken to prioritise my care as I had onward travelling. Rather than get the job done and potentially have further swellijg and get the most money I was given the best course of treatment. Dr Zeeshan is a great dentist better than most of the UK ones",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-18 14:25:40",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhavik Patel"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2389198,
+            "status": "PUBLISHED",
+            "note": "2024-05-25 09:39:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-25T10:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451692,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Very kind of you Indra, thank you so much. Looking forward to seeing you for your follow ups. Best wishes for your travels. ",
+                "replied_at": "2024-06-12T14:21:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46706437,
+                "review_text": "He is human being person.He tells about your disease in very satisfying way.Keep it up Sir .\nGod bless you ",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-24 09:23:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Indra"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2388959,
+            "status": "PUBLISHED",
+            "note": "2024-05-25 03:08:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-25T04:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451693,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words Ketki. Looking forward to seeing you for your follow ups. ",
+                "replied_at": "2024-06-12T14:22:26+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46705109,
+                "review_text": "Had a very smooth journey was very very comfortable and doctor is very patient and good . My entire process was handled very well .",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-23 16:35:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ketki Mittal"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3763,
+                "text": "Straightening Teeth (Invisalign) "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2381165,
+            "status": "PUBLISHED",
+            "note": "2024-05-09 10:04:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-09T11:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451696,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words and for your faith in us sir. We look forward to seeing you for your follow ups.  Best wishes always. ",
+                "replied_at": "2024-06-12T14:27:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46660504,
+                "review_text": "Very professional and service oriented treatment, high hygiene standards, overall safe and reliable dental clinic. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-08 06:31:29",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raul Hernandes"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2338043,
+            "status": "PUBLISHED",
+            "note": "2024-02-10 05:34:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-09T14:35:35+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 439746,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. It was wonderful seeing you, enjoy your travels and we hope to see you soon for your follow ups. ",
+                "replied_at": "2024-02-09T14:35:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46413072,
+                "review_text": "As someone who is really needle (and dentist) phobic, I was really apprehensive to undergo even a basic procedure.Dr Zeeshan was was extremely mindful of this and took the time to explain what was to be expected through the course of treatment. He also picked on facial cues to assess pain/ discomfort.  I was flying out of the country within 72 hours of treatment and follow ups and check in were seamless. \nThe whole experience was fantastic and as pain free as it could possibly be! Could not recommend enough! ",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-08 16:20:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nida Peshimam"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2315944,
+            "status": "PUBLISHED",
+            "note": "2023-12-30 06:45:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-30T07:01:29+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 439862,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you in the future for your follow ups ",
+                "replied_at": "2024-02-10T14:47:51+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46286163,
+                "review_text": "Dr. Ladhani has a great presence  about him that instantly puts you at ease. He can sense discomfort without much indication. He anticipates your need before you can verbalise it.  Always seems to be looking out for how he can make your experience more comfortable. I think most people dont look forward to going to dentists clearly those people haven't been to Dr. Ladhani. He ensured my procedure was quick, painless and easy for which I was very grateful. He explained every step and outlined every option. I just felt safe, comfortable and at ease. The clinic was clean, inviting and well done up, seemed like it had the latest tech. Very happy with the experience and would highly recommend.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-28 15:46:45",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SABHA"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            },
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2343235,
+            "status": "PUBLISHED",
+            "note": "2024-02-20 06:44:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-19T08:26:58+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 440724,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you again for your follow ups. Happy travels ",
+                "replied_at": "2024-02-19T08:26:58+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46443373,
+                "review_text": "*** ** *** **** ****** ********** 100% satisfied with the  work. The  implant that was done by different dentist was not proper but Dr. from Zendent explained everything and did their best to place crown properly. \n\nWent back after 5 years and was fully satisfied with services. Thank you Zendent for being the best.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 33,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 479078
+                    }
+                ],
+                "reviewed_on": "2024-02-18 18:44:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anisha lakhani "
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2401186,
+            "status": "PUBLISHED",
+            "note": "2024-06-20 09:41:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-20T10:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46775440,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 40,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 489062
+                    }
+                ],
+                "reviewed_on": "2024-06-19 05:08:44",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akbar Shroff"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            },
+            {
+                "id": 183102,
+                "text": "Dental Cavity Filling"
+            },
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            },
+            {
+                "id": 85013,
+                "text": "oral Health Checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2423094,
+            "status": "PUBLISHED",
+            "note": "2024-08-02 11:17:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-08-01T12:33:48+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 457017,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for such thorough, honest and sincere review Rayhaan. It was wonderful seeing you and we look forward to seeing you for your follow ups. Best wishes always from all of us. ",
+                "replied_at": "2024-08-01T12:33:48+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46900351,
+                "review_text": "I had an excellent experience at Zendent (Dr. Zeeshan Ladhani), I don\u2019t think there\u2019s anything they could have done better. \n\nThe receptionist was hospitable, welcoming, courteous and alert.\n\nThe space is maintained to the highest standard - seems as though it\u2019s brand new. Great ambiance, fresh, pleasant aroma, extremely clean and tidy space. \n\nZeeshan is extremely friendly, warm, a good listener, is patient, methodical, ************* *** polite. He takes a keen interest in his patients, he is engaged in conversation, spends time patiently listening and answering any and all questions or concerns and making sure you are thoroughly satisfied. He has an honest and sincere approach and is not one to rush anything or do a half-hearted job. Can definitely whole heartedly be trusted! \nAdditionally, Zeeshan is highly responsive, him and his team are in sync and they are punctual with appointments with no wait time.\n\nLoved the doc\u2019s choice of music and visuals on the television too!\n\nOverall the service was top notch, highly recommend for any dental concerns and I believe in supporting establishments that are evidently putting their best foot forward and getting it right!",
+                "review_alterations": [
+                    {
+                        "start_index": 424,
+                        "end_index": 441,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 492384
+                    }
+                ],
+                "reviewed_on": "2024-08-01 11:14:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rayhaan"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 194037,
+                "text": "Bleeding Gum"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2412628,
+            "status": "PUBLISHED",
+            "note": "2024-07-13 06:27:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-13T07:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 457307,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you Vishal for such a wonderful and sincere review. Looking forward to seeing for your follow ups. ",
+                "replied_at": "2024-08-03T14:28:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46840518,
+                "review_text": "I had a little swollen gum and bleeding issue.  It was my first time visiting a dentist. \nDr. Zeeshan is very friendly and calmly explained why I was having the issue. He was very patient with my queries. The clinic was very clean and hygienic.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-11 13:51:46",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vishal K"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2386575,
+            "status": "PUBLISHED",
+            "note": "2024-05-20 16:20:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-20T17:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451694,
+                "reply_status": "PUBLISHED",
+                "reply_text": "It was a pleasure seeing you Bhavik. I am glad i was able to address the problem and provide you the best possible treatment considering your short stay and your journey back to the UK. Thank you for your faith and trust in us and for your kind words. Take care. ",
+                "replied_at": "2024-06-12T14:25:02+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46691285,
+                "review_text": "Had an emergency tooth situation whilst travelling and was seen to very promptly. Whilst the full treatment couldn\u2019t be completed due to prior inflammation the correct course of action was taken to prioritise my care as I had onward travelling. Rather than get the job done and potentially have further swellijg and get the most money I was given the best course of treatment. Dr Zeeshan is a great dentist better than most of the UK ones",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-18 14:25:40",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhavik Patel"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2389198,
+            "status": "PUBLISHED",
+            "note": "2024-05-25 09:39:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-25T10:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451692,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Very kind of you Indra, thank you so much. Looking forward to seeing you for your follow ups. Best wishes for your travels. ",
+                "replied_at": "2024-06-12T14:21:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46706437,
+                "review_text": "He is human being person.He tells about your disease in very satisfying way.Keep it up Sir .\nGod bless you ",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-24 09:23:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Indra"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2388959,
+            "status": "PUBLISHED",
+            "note": "2024-05-25 03:08:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-25T04:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451693,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words Ketki. Looking forward to seeing you for your follow ups. ",
+                "replied_at": "2024-06-12T14:22:26+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46705109,
+                "review_text": "Had a very smooth journey was very very comfortable and doctor is very patient and good . My entire process was handled very well .",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-23 16:35:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ketki Mittal"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3763,
+                "text": "Straightening Teeth (Invisalign) "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2381165,
+            "status": "PUBLISHED",
+            "note": "2024-05-09 10:04:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-09T11:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451696,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words and for your faith in us sir. We look forward to seeing you for your follow ups.  Best wishes always. ",
+                "replied_at": "2024-06-12T14:27:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46660504,
+                "review_text": "Very professional and service oriented treatment, high hygiene standards, overall safe and reliable dental clinic. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-08 06:31:29",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raul Hernandes"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2338043,
+            "status": "PUBLISHED",
+            "note": "2024-02-10 05:34:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-09T14:35:35+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 439746,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. It was wonderful seeing you, enjoy your travels and we hope to see you soon for your follow ups. ",
+                "replied_at": "2024-02-09T14:35:35+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46413072,
+                "review_text": "As someone who is really needle (and dentist) phobic, I was really apprehensive to undergo even a basic procedure.Dr Zeeshan was was extremely mindful of this and took the time to explain what was to be expected through the course of treatment. He also picked on facial cues to assess pain/ discomfort.  I was flying out of the country within 72 hours of treatment and follow ups and check in were seamless. \nThe whole experience was fantastic and as pain free as it could possibly be! Could not recommend enough! ",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-08 16:20:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nida Peshimam"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2315944,
+            "status": "PUBLISHED",
+            "note": "2023-12-30 06:45:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-30T07:01:29+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 439862,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you in the future for your follow ups ",
+                "replied_at": "2024-02-10T14:47:51+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46286163,
+                "review_text": "Dr. Ladhani has a great presence  about him that instantly puts you at ease. He can sense discomfort without much indication. He anticipates your need before you can verbalise it.  Always seems to be looking out for how he can make your experience more comfortable. I think most people dont look forward to going to dentists clearly those people haven't been to Dr. Ladhani. He ensured my procedure was quick, painless and easy for which I was very grateful. He explained every step and outlined every option. I just felt safe, comfortable and at ease. The clinic was clean, inviting and well done up, seemed like it had the latest tech. Very happy with the experience and would highly recommend.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-28 15:46:45",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SABHA"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            },
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2343235,
+            "status": "PUBLISHED",
+            "note": "2024-02-20 06:44:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-19T08:26:58+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 440724,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you again for your follow ups. Happy travels ",
+                "replied_at": "2024-02-19T08:26:58+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46443373,
+                "review_text": "*** ** *** **** ****** ********** 100% satisfied with the  work. The  implant that was done by different dentist was not proper but Dr. from Zendent explained everything and did their best to place crown properly. \n\nWent back after 5 years and was fully satisfied with services. Thank you Zendent for being the best.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 33,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 479078
+                    }
+                ],
+                "reviewed_on": "2024-02-18 18:44:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anisha lakhani "
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2401186,
+            "status": "PUBLISHED",
+            "note": "2024-06-20 09:41:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-20T10:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46775440,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 40,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 489062
+                    }
+                ],
+                "reviewed_on": "2024-06-19 05:08:44",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akbar Shroff"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3431,
+                "text": "Dental Examinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2381309,
+            "status": "PUBLISHED",
+            "note": "2024-05-09 10:33:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-09T11:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 451695,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind words sir, we look forward to seeing you again very soon for your follow ups. Best wishes always. ",
+                "replied_at": "2024-06-12T14:26:01+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46661274,
+                "review_text": "right advice given by the doctor\nVery hygienic environment \nQuick service\nReasonable cost\nOverall a great place to visit for dental health checkup",
+                "review_alterations": [],
+                "reviewed_on": "2024-05-08 10:31:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2358296,
+            "status": "PUBLISHED",
+            "note": "2024-03-20 10:25:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-19T12:33:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 444005,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Very kind of you Joseph, thank you so much. Have fun on your travels and we look forward to seeing you soon for your follow ups. ",
+                "replied_at": "2024-03-19T12:33:41+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46530063,
+                "review_text": "This was a remarkable practise with the most modern and high standard dental equipment. The explanation and care provided was beyond my expectations. I would reccomend this practise wholeheartedly ",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-18 07:16:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Joseph Abraham"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1977428,
+            "status": "PUBLISHED",
+            "note": "2022-04-23 06:28:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-22T16:41:29+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 354310,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words sir, we look forward to seeing you again. ",
+                "replied_at": "2022-04-22T16:41:29+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44302716,
+                "review_text": "I had to visit to Dr Zeeshan's clinic today for an inflammation issue in gums which  was hurting me badly. Dr attended my case with a patient hearing and investigated my case. He later gave his comments and suggestions. I have fare amount of experience in visiting dentists in my life. Dr Zeeshan is a thorough professional,  ************* *** humane in approach and his clinic is one of the best I have seen in terms of its neatness cleanliness and COVID appropriate practices.\nVery Good experience and I am half cured there itself.\nRecommend strongly for dental treatment",
+                "review_alterations": [
+                    {
+                        "start_index": 326,
+                        "end_index": 342,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 406217
+                    }
+                ],
+                "reviewed_on": "2022-04-21 17:18:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "M Viswanathan Nambiar"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2342181,
+            "status": "PUBLISHED",
+            "note": "2024-02-18 05:11:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-18T06:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 440725,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, best of luck on your travels and we look forward to seeing you again for your follow ups ",
+                "replied_at": "2024-02-19T08:27:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46437015,
+                "review_text": "Visited for multiple issues, oral prophylaxis and aesthetic work, was extremely satisfied and happy with the work. The doctor and the staff are both extremely professional and I was very satisfied with the final outcome. The clinic is very well designed and the ambiance is very relaxing, the doctor himself ensures you are very comfortable throughout. Would highly recommend this clinic and their team of doctors. ",
+                "review_alterations": [],
+                "reviewed_on": "2024-02-16 17:15:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2088748,
+            "status": "PUBLISHED",
+            "note": "2022-10-22 06:08:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-21T06:58:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 381631,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Very kind of you, thank you so much. We look forward to seeing you again. ",
+                "replied_at": "2022-10-21T06:58:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44947654,
+                "review_text": "I got 6 fillings done including wisdom tooth. Dr Zeeshan is very skilled at his job and did my tooth filling with expertise. All through the procedure I faced no discomfort. Dr Zeeshan also explained the problem very well. I am very happy that he saved my Wisdom tooth with a good filling. Clinic is also very very neat and clean.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-20 15:32:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Uma Rao"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2024155,
+            "status": "PUBLISHED",
+            "note": "2022-07-07 06:20:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-06T08:19:16+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 365646,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words Mr. Naimish, we look forward to seeing you again. ",
+                "replied_at": "2022-07-06T08:19:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44568665,
+                "review_text": "Dr. Zeeshan was very courteous, explained the problem and the solution clearly, and conducted the small procedure right there and then, saving me a lot of time. There was a proactive follow up message the next day to check in how I was feeling, which was very thoughtful. I was also very impressed with the focus on hygiene at the clinic. Highly recommended!",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-05 15:04:49",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Naimish Upadhyay"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2006607,
+            "status": "PUBLISHED",
+            "note": "2022-06-08 10:09:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-08T11:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 361647,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you again. ",
+                "replied_at": "2022-06-09T14:24:22+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44468286,
+                "review_text": "It was a great experience. Qualified, Experienced and patient treatment. Will do what is required, nothing less nothing more. Will explain you the issue in detail and also explain everything while performing the treatment step by step. Gets you comfort to know what is being done with you in such details ",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-07 09:11:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mayank Bagla"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1943757,
+            "status": "PUBLISHED",
+            "note": "2022-03-02 07:45:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-01T08:29:36+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 345208,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. We look forward to seeing you again.",
+                "replied_at": "2022-03-01T08:29:36+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44115792,
+                "review_text": "I had a severe tooth ache last week and did not know where to go to get it fixed. I looked upon and saw Zendent and planned to go there to get it fixed. To my surprise Dr. Zeeshan treated me instantly. He is very kind and gentlemen  person. I would highly recommend him for any kind of tooth issues.",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-01 07:40:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akshay Shah"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1938020,
+            "status": "PUBLISHED",
+            "note": "2022-02-22 07:07:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-21T08:56:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 343871,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you again",
+                "replied_at": "2022-02-21T08:56:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44084532,
+                "review_text": "Dr. Zeeshan Ladhani is very ******* *** professional. My root canals were done under the microscope and were completely painless. The clinic is very clean and the staff is very courteous and all covid precautions are maintained. Overall a wonderful experience. ",
+                "review_alterations": [
+                    {
+                        "start_index": 27,
+                        "end_index": 38,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 397731
+                    }
+                ],
+                "reviewed_on": "2022-02-20 07:28:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yasmin Sheikh"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            },
+            {
+                "id": 88,
+                "text": "Toothache"
+            },
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            },
+            {
+                "id": 193843,
+                "text": " Teeth cleaning & polishing"
+            },
+            {
+                "id": 248,
+                "text": "Tooth Filling"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2070913,
+            "status": "PUBLISHED",
+            "note": "2022-09-20 07:42:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-19T09:46:14+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 377031,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. Look forward to seeing you for your follow ups. ",
+                "replied_at": "2022-09-19T09:46:14+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44846541,
+                "review_text": "Dr Zeeshan has been treating my dental issues since over a year and has always been accurate in detection and treatment. My wisdom tooth ache cause was detected by him and was well treated there after. \nI've also been going to him for my regular dental hygiene (routine check ups and clean ups). His methods have helped me in improving my dental care/hygiene. \nZendent also does regular checks on their patients after every visit to understand how the patient is doing after their treatment making the patient feel comfortable and less anxious about dental treatments.",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-19 06:34:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1964246,
+            "status": "PUBLISHED",
+            "note": "2022-04-02 08:55:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-01T13:40:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 350632,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. We look forward to seeing you again. ",
+                "replied_at": "2022-04-01T13:40:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44228136,
+                "review_text": "Went for a root canal, it was done in single sitting cap was given in next sitting. Very happy with the quality of the work done, procedure was pain free and doctor was very warm, friendly and empathetic. Wait time was zero and sterilisation was of very high standard. They have a great team and overall the experience was wonderful. They also placed implants for my parents and we are very happy with the work. *** ******* ** ****** ******* *** **** ******* ** ******* will surely keep coming for follow ups and would definitely recommend Zendent. ",
+                "review_alterations": [
+                    {
+                        "start_index": 412,
+                        "end_index": 468,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 403379
+                    }
+                ],
+                "reviewed_on": "2022-04-01 08:38:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2273255,
+            "status": "PUBLISHED",
+            "note": "2023-10-08 11:37:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-08T12:00:17+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 439571,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Very kind of you, thank you so much. We look forward to seeing you for your follow ups. ",
+                "replied_at": "2024-02-08T15:48:37+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46044706,
+                "review_text": "I went for a routine check up and bleeding gums. Dr. Ladhani was very professional and told me I just needed a clean up. Clean up done painlessly. Thanks for the excellent treatment. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-07 10:53:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Siddharth Thakur"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3844,
+                "text": "Dental Checkup (General)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2246001,
+            "status": "PUBLISHED",
+            "note": "2023-08-08 10:16:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-08T11:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420467,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you again",
+                "replied_at": "2023-08-08T13:59:15+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45867969,
+                "review_text": "The facility is extremely clean and hygienic. The atmosphere relaxing. Dr. Zeeshan is good doctor as a person he takes pride in providing services he takes in his work from start to finish. Exceptional service.\n\nThanks for everything.",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-07 10:02:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sagar Shetty "
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 89,
+                "text": "Conservative Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2244339,
+            "status": "PUBLISHED",
+            "note": "2023-08-04 07:39:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-04T08:01:00+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 420466,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, looking forward to seeing you again for your follow ups. ",
+                "replied_at": "2023-08-08T13:58:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45856431,
+                "review_text": "The doctor is thoroughly professional. He follows the appointments meticulously. His support staff is also courteous. The ambience of the clinic is also fine including the waiting room etc.",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-03 06:55:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vivek Wahi"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2228640,
+            "status": "PUBLISHED",
+            "note": "2023-07-07 08:00:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-06T08:17:38+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 416441,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. Looking forward to seeing you again. ",
+                "replied_at": "2023-07-06T08:17:38+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45761122,
+                "review_text": "Doctors are really experienced and help in settling with the anxiety patient might feel during dental treatments. Would definitely ecommend for dental treatments.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-06 05:42:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Monika Gupta"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 109,
+                "text": "Invisible/Clear Braces"
+            },
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            },
+            {
+                "id": 134,
+                "text": "Teeth Straightening"
+            },
+            {
+                "id": 141,
+                "text": "Zirconia Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2220571,
+            "status": "PUBLISHED",
+            "note": "2023-06-23 09:45:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-22T14:12:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 414591,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, looking forward to seeing you for your follow ups ",
+                "replied_at": "2023-06-22T14:12:54+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45713820,
+                "review_text": "Very polite and helpful Doctor. \nHis team is also very polite. \nHaving good experience. \nWishing  Good Luck!",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-22 08:59:40",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harshada Joshi"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192193,
+                "text": "Implant / RCT"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2213183,
+            "status": "PUBLISHED",
+            "note": "2023-06-11 07:02:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-11T08:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 412983,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, looking forward to seeing you again ",
+                "replied_at": "2023-06-12T04:51:10+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45671016,
+                "review_text": "He is actually the **** dentist one can have and this come from a person who doesn\u2019t like visiting a dentist. ",
+                "review_alterations": [
+                    {
+                        "start_index": 18,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459038
+                    }
+                ],
+                "reviewed_on": "2023-06-09 13:48:20",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shezeen Gangani"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2196748,
+            "status": "PUBLISHED",
+            "note": "2023-05-12 07:14:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-11T08:52:32+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 408785,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. We look forward to seeing you again at your follow ups",
+                "replied_at": "2023-05-11T08:52:32+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45572945,
+                "review_text": "I visited Dr. Zeeshan in an emergency, and he really gave me excellent treatment. He was very professional in terms of his treatment and his wise advice. Even the clinic and equipment were very neat and clean. Highly Recommended! ",
+                "review_alterations": [],
+                "reviewed_on": "2023-05-10 10:00:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Hemant Sharma"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2165066,
+            "status": "PUBLISHED",
+            "note": "2023-03-11 10:37:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-10T11:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 400861,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you for your kind feedback. Looking forward to seeing you again. Take care",
+                "replied_at": "2023-03-10T11:01:24+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45381443,
+                "review_text": "I was really nice to get my treatment done very hygiene  thankyou so much.very happy with the treatment that was done ",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-10 10:34:13",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashish "
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 86,
+                "text": "Cast Partial Denture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2099396,
+            "status": "PUBLISHED",
+            "note": "2022-11-11 10:49:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-10T14:03:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 384230,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. We look forward to seeing you again. ",
+                "replied_at": "2022-11-10T14:03:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45007321,
+                "review_text": "The service by Zendent is excellent. Dr Zeeshan ia extremely proficient and understanding. I was very comfortable. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-10 10:34:59",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karthika S Nair"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 79,
+                "text": "Acrylic Partial Denture"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2069863,
+            "status": "PUBLISHED",
+            "note": "2022-09-18 09:28:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-18T10:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44840225,
+                "review_text": "I had visited forntooth pain. Doctor saw me on emergency basis and treated me i am very happy with the treatment and service. Will always come here for follow ups thank you ",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-17 09:26:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Devdas Mandal"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2009479,
+            "status": "PUBLISHED",
+            "note": "2022-06-13 14:31:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-13T08:09:12+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 362012,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much Rishi. We look forward to seeing you again ",
+                "replied_at": "2022-06-13T08:09:12+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44484708,
+                "review_text": "The doctor and staff are very good and supportive. Got my dental checkup and scaling done there and it was a delightful experience overall.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-11 15:20:58",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rishi"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2002248,
+            "status": "PUBLISHED",
+            "note": "2022-06-01 07:14:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-31T13:20:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 360263,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Than you so much for your kind words Akhil, we look forward to seeing you again. ",
+                "replied_at": "2022-05-31T13:20:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44442772,
+                "review_text": "It was a great experience,Dr was very cooperative and polite would love to do the further follow up and would definitely recommend others to visit",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-31 07:09:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akhil Uniyal "
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1987141,
+            "status": "PUBLISHED",
+            "note": "2022-05-08 04:14:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-07T06:32:55+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 356611,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. Looking forward to seeing you again \ud83d\ude0a",
+                "replied_at": "2022-05-07T06:32:55+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44357770,
+                "review_text": "********* *** ******** My Rct was little complicated but he did it with lot of patience and  care.I would highly recommend as he is perfect in his work. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 21,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 408553
+                    }
+                ],
+                "reviewed_on": "2022-05-07 02:51:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sneha Nandedkar"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1962099,
+            "status": "PUBLISHED",
+            "note": "2022-03-30 09:26:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-30T10:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 350474,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. We look forward to seeing you again. ",
+                "replied_at": "2022-03-31T16:06:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44216807,
+                "review_text": "Clear, relaxed, and a true 'Zen' dental experience. Dr. Zeeshan explained every step of my dental needs and what the best path forward was. The first dentist I have not been afraid of going back to. Worth every rupee spent! ",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-29 08:16:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Karan Mehta"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1941934,
+            "status": "PUBLISHED",
+            "note": "2022-02-27 06:43:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-26T08:11:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 344741,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words. We look forward to seeing you again.",
+                "replied_at": "2022-02-26T08:11:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44105424,
+                "review_text": "Extremely Professional, knows his work, takes time to explain the procedure, answers all the questions,  I'm no more afraid of the Dentist",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-26 06:25:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nigel Quraishy"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2039053,
+            "status": "PUBLISHED",
+            "note": "2022-07-29 06:11:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-07-28T10:52:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 369162,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words...we look forward to seeing you again",
+                "replied_at": "2022-07-28T10:52:39+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44653004,
+                "review_text": "Dear Dr.. zeeshan thank you for the amazing work you have done on my teeth. I'm so happy to have found such great dentist. Even other staff is vry good\n And ......\nI want to say thank you for the care of my poorly front teeth I found your concern, support and treatment after my accident become a bearable experience..\n",
+                "review_alterations": [],
+                "reviewed_on": "2022-07-27 18:26:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2017945,
+            "status": "PUBLISHED",
+            "note": "2022-06-28 09:58:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-27T11:45:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 364171,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much mam, we look forward to seeing you again. ",
+                "replied_at": "2022-06-27T11:45:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 44533700,
+                "review_text": "Dr is very soft spoken and explained the treatment in detail and clearly that was easily understandable.He is very punctual and himself interacts with the patient wort the appt and other stuff .Responds as early as possible when you text him .I have confidence in his treatment so for me it\u2019s Dr Zeeshan .\ud83d\ude0a",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-25 14:21:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2303358,
+            "status": "PUBLISHED",
+            "note": "2023-12-07 07:25:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-12-07T08:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 439570,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you for your follow ups. ",
+                "replied_at": "2024-02-08T15:48:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 46215029,
+                "review_text": "Informative and polite. Every question and concern  fully addressed. No rushing. Proceeded only at my comfort level. Zero stress tooth extraction. Reasonable charges.  Certainly recommend. Thank you Zendent.",
+                "review_alterations": [],
+                "reviewed_on": "2023-12-06 06:59:55",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            },
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2240676,
+            "status": "PUBLISHED",
+            "note": "2023-07-27 09:37:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 965147,
+            "practice_id": 1376435,
+            "practice_name": "Zendent",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-26T12:40:16+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 419157,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your kind words, we look forward to seeing you again ",
+                "replied_at": "2023-07-26T12:40:16+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 11674875,
+                "modified_by_id": 11674875,
+                "replier_name": "Dr. Zeeshan Ladhani",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/965147/dr-zeeshan-ladhani-621091f829f91.jpg"
+            },
+            "survey_response": {
+                "id": 45831800,
+                "review_text": "Very nice setup.\nThe waiting time was hardly 2 minutes (with previous appointment)\nThe doctor is very friendly and explained every detail of the problem and the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-26 08:28:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 811297,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

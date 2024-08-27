@@ -1,0 +1,225 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1558,
+                "text": "Non-Invasive Cardiology"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 890856,
+            "status": "PUBLISHED",
+            "note": "2018-06-05 09:44:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 325016,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-05T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37598282,
+                "review_text": "Visited Dr. Kapur for my father. He clearly understood the condition in one go and even told us the symptoms that he might be facing (which he actually was).\nHe diagnosed the disease correctly (Postural Hypo tension - which mind you a few big names didn't) and helped us understand the same. Finally the Echo results showed my father's heart was doing well and it was postural hypo tension.\nWait time varies on each visit but generally is less than an hour. The experience was great overall.\n*** * *** *** ** ** *** ** *** **** ************* ** *** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 492,
+                        "end_index": 555,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 110754
+                    }
+                ],
+                "reviewed_on": "2018-06-03 17:26:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Harshit Sinha"
+        },
+        "entity_id": 586807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 47,
+                "text": "Cardiac Ablation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 947985,
+            "status": "PUBLISHED",
+            "note": "2018-08-15 10:36:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 325016,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-15T11:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38075871,
+                "review_text": "Dr Kapur  is not only qualified and also competent cardiologist .Gave sufficient time to analyse patient problems  which is now a days lacking in most of the  doctors .I visited him several times and recommended to many friends/relatives  who also appreciated him.\nI wish him long and healthy life .\nwith regards\nSudhir Kumar Jain",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-14 10:36:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MADHU JAIN"
+        },
+        "entity_id": 586807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192842,
+                "text": "Heart Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 834995,
+            "status": "PUBLISHED",
+            "note": "2018-04-01 04:37:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 325016,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-01T05:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37118234,
+                "review_text": "Very senior & experienced doctor. Checks his patients very patiently . Discusses in detail and gives you enough time.Seems very caring .",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-30 08:54:39",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Khushhi kaushik"
+        },
+        "entity_id": 586807,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1573,
+                "text": "Chest Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 194256,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 325016,
+            "practice_id": 607163,
+            "practice_name": "Dr. KK Kapoor Heart Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-02-18T08:45:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 12947144,
+                "review_text": "Gives sufficient time. But less willingness to hear patient. consultation is 1K. cost on higher side.",
+                "review_alterations": [],
+                "reviewed_on": "2016-02-18 08:44:55",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Akhil Gupta"
+        },
+        "entity_id": 11786,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

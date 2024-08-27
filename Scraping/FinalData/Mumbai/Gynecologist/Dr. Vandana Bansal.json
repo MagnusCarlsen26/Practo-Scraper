@@ -1,0 +1,339 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1534473,
+            "status": "PUBLISHED",
+            "note": "2020-09-30 06:24:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 710080,
+            "practice_id": 850214,
+            "practice_name": "Surya Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-30T07:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41819195,
+                "review_text": "Dr Vandana is an excellent professional. As a foreign citizen from the very beginning of my pregnancy I was stuck in India because of the pandemic, she guided me perfectly throughout such a complex period and under difficult circumstances. She is the most meticulous doctor I have ever met. She pays attention to every tiny detail, she follows up the patients very closely and she works out a solution to any problem no matter what it is. She is very communicative and even compassionate; she explains everything to the patients and she informs the patients about all the options and processes. Occasionally, waiting time can be too long for a regular visit but it is definitely worth it because she gives the time they require to all the patients. A medical problem related to pregnancy is a very sensitive subject. As a foreigner and as a Phd I was very doubtful and picky yet I felt very comfortable after I met her. I have complete trust in her expertise and experience. I completely rely upon her advice and I feel very luck to have her as my doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-28 06:30:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Isil \u00e7elik"
+        },
+        "entity_id": 662560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101897,
+                "text": "Maternal Fetal Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1715232,
+            "status": "PUBLISHED",
+            "note": "2021-05-06 04:59:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 710080,
+            "practice_id": 850214,
+            "practice_name": "Surya Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-06T05:01:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42799996,
+                "review_text": "*** * ****** ******* ** ****** ******* *** ************** I had CVS done with her .procedure was smooth.Explains options , advice is good and practical.no doubt about her expertise\n\nCons:\n1)Expect delay of 1hour every time\n2) There is bit of  gossiping amongst assistant doctor and her around patient's ignorance and decision making behind their back in the clinic, overheard it quite a few times for previous patients while I was waiting-found thus against professional ethics .Could be more sensitive to patient's emotional state .Overheard things like \"she calls me for small things like spotting\" talking abt a pregnant patient with assistant.\n\n\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 57,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 343362
+                    }
+                ],
+                "reviewed_on": "2021-05-04 18:29:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 662560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1111643,
+            "status": "PUBLISHED",
+            "note": "2019-03-21 09:35:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 710080,
+            "practice_id": 850214,
+            "practice_name": "Surya Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-21T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39224113,
+                "review_text": "I don't even know where to start. **** ****** ** * ***** The receptionist keeps promising 10 more minutes and ends up making us wait over two hours. My wife was feeling quite ill and with a full bladder we were made to wait more than two hours. They have three different rooms and the doctor keeps shuffling among those. Once on the table, my wife was left lying there unattended for over 45 minutes while the doctor was skipping to the other rooms. This is quite unacceptable, please stay away. If you do come, be prepared to be treated like your time doesn't matter at all.",
+                "review_alterations": [
+                    {
+                        "start_index": 33,
+                        "end_index": 56,
+                        "reason": "NON_COMPLIANT",
+                        "id": 162762
+                    }
+                ],
+                "reviewed_on": "2019-03-19 15:01:24",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 662560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 120953,
+                "text": "Pregnancy Scan"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1168955,
+            "status": "PUBLISHED",
+            "note": "2019-06-05 09:52:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 710080,
+            "practice_id": 1053187,
+            "practice_name": "Cloudnine Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-05T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39587644,
+                "review_text": "Waited for over 2 hours for consultation. More than half the time, the doctor was on a call. Very unprofessional",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-03 15:47:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 680254,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1339594,
+            "status": "PUBLISHED",
+            "note": "2020-01-17 04:53:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 710080,
+            "practice_id": 850214,
+            "practice_name": "Surya Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-17T05:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40710477,
+                "review_text": "All the diagnosis she gave very well and diagnosed very well. I think I'm satisfied with the treatment she chose the right path. We are very happy. From reference we got to know about this doctor. She is very polite and speaks softly. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-12 18:47:31",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Amrinder Singh Sembhi"
+        },
+        "entity_id": 662560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1214768,
+            "status": "PUBLISHED",
+            "note": "2019-08-03 12:05:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 710080,
+            "practice_id": 850214,
+            "practice_name": "Surya Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-03T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39877907,
+                "review_text": "********** **  ********* ***** ******* I had visited for my wife's Gynae issue for which  she suggested her to undergo a surgery & procedures went very well and my wife is now fine.  Hospital staffs/facility over all was good experience, Would like to highly recommend this doctor to all.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 37,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 196969
+                    }
+                ],
+                "reviewed_on": "2019-08-02 11:49:09",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 662560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1214771,
+            "status": "PUBLISHED",
+            "note": "2019-08-03 12:08:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 710080,
+            "practice_id": 850214,
+            "practice_name": "Surya Hospitals",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-03T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39877926,
+                "review_text": " She is very caring, friendly nature had treated very well waiting time was average over all experience was good",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-02 11:51:02",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 662560,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

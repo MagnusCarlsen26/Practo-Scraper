@@ -1,0 +1,63 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 716,
+                "text": "Fracture Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2403595,
+            "status": "PUBLISHED",
+            "note": "2024-06-25 10:02:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1049840,
+            "practice_id": 1419210,
+            "practice_name": "Jaws & Joints The Wellness Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-06-25T11:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46789103,
+                "review_text": "Excellent  knowledge by doctor who understand everything which I have describe and explain me every problem ",
+                "review_alterations": [],
+                "reviewed_on": "2024-06-23 12:51:06",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 857691,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

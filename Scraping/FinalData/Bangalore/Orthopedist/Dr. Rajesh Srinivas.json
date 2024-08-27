@@ -1,0 +1,94 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 9972,
+                "text": "Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2417530,
+            "status": "PUBLISHED",
+            "note": "2024-07-23 06:09:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1075480,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road (formerly Columbia Asia Hospital)",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-07-23T07:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46868508,
+                "review_text": "The doctor patiently listened to my issue and asked me to describe everything in detail before diagnosis.",
+                "review_alterations": [],
+                "reviewed_on": "2024-07-21 08:41:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 871835,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2260497,
+            "status": "PUBLISHED",
+            "note": "2023-09-13 06:59:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1075480,
+            "practice_id": 1131816,
+            "practice_name": "Manipal Hospital Varthur Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-13T07:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45967399,
+                "review_text": "**** ******* He patiently answered my questions and didn't rush anything. Explained everything about the issue in a way I could understand.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 12,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 468247
+                    }
+                ],
+                "reviewed_on": "2023-09-12 06:04:57",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 871835,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

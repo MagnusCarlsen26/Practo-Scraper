@@ -1,0 +1,217 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1580225,
+            "status": "PUBLISHED",
+            "note": "2020-11-24 09:53:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 99461,
+            "practice_id": 646228,
+            "practice_name": "Cambridge Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-24T10:01:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42064188,
+                "review_text": "He is good and friendly person I know him past 11Yrs  so any my dental issue I use to visit dr anto clinic only",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-23 07:12:51",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 52599,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1133856,
+            "status": "PUBLISHED",
+            "note": "2019-04-20 09:04:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 99461,
+            "practice_id": 646228,
+            "practice_name": "Cambridge Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-20T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39366890,
+                "review_text": "** ** ******* ******** Have been showing from 14 years . He is really good . All procedure is really good... it's almost painless the way he treats.\nWill recommend him ** ** ** *** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 22,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 169462
+                    },
+                    {
+                        "start_index": 168,
+                        "end_index": 184,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 169463
+                    }
+                ],
+                "reviewed_on": "2019-04-18 03:33:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 52599,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 371457,
+            "status": "PUBLISHED",
+            "note": "2017-06-27 09:46:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 99461,
+            "practice_id": 646228,
+            "practice_name": "Cambridge Dental Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-27T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 25310946,
+                "review_text": "Dr Sunil did extraction of my upper wisdom tooth. I never visited his clinic but he was advised by another doctor, named Dr A. Rahim Khan (he runs Smile Lounge Clinic in Indira Nagar). I trusted Dr Rahim and got the surgery done by Sunil in Smile Lounge Clinic. IT WAS A NIGHTMARE EXPERIENCE DURING & AFTER SURGERY.\nHe didn't even wash his hand before starting the surgery !!\nHe was not clear about the position of tooth as has not done proper study of X-Ray beforehand,hence the overall procedure took more than 25 min. Few other objectionable things which he did were-\n1) Answering the mobile phone during the surgery\n2) tried referring the X Ray after cutting my gums \n3) Instead of injecting the local anesthesia in gums,he sprayed some portion of it in my mouth\n\nAfter 22 days of surgery also pain didn't subside for me. When asked for the reason,Dr Rahim casually told, you were UNLUCKY as your ligament near adjacent tooth has been damaged during surgery. Now, he is advising me to go for root canal treatment .\nI had very bad experience with these two dr, dont recommend these doctors to anyone.",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-26 09:24:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Rachna"
+        },
+        "entity_id": 52599,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 338027,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 99461,
+            "practice_id": 646228,
+            "practice_name": "Cambridge Dental Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-17T04:15:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 23115633,
+                "review_text": "Very bad dental experience. It was very painful and I suffered a lot during the procedure. The tooth that he did root canal treatment continued to pain for a long time after the procedure and now the tooth has become badly infected.",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-17 02:06:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Jennifer"
+        },
+        "entity_id": 52599,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

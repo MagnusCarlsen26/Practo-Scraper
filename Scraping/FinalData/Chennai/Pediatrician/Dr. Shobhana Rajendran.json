@@ -1,0 +1,102 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2094690,
+            "status": "PUBLISHED",
+            "note": "2022-11-03 11:09:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 691369,
+            "practice_id": 1222805,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-03T12:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44981523,
+                "review_text": "The best thing about Dr. Shobana is that she never overdiagnose her patients. She explained clearly about the possible issues and how to go about it. She doesn't overprescribe as well. If there's any issue that can settle over time and does not require any medications, she let's us know about it. She is intellectual, confident, patient and straight forward. *** ** *** **** *********** ** *** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 360,
+                        "end_index": 400,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 431507
+                    }
+                ],
+                "reviewed_on": "2022-11-02 11:07:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Srilakshmi Jagadhish"
+        },
+        "entity_id": 651357,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1423203,
+            "status": "PUBLISHED",
+            "note": "2020-05-09 07:51:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 691369,
+            "practice_id": 1222805,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-09T08:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41253289,
+                "review_text": "Dr Shobhana was our lead consultant during our preterm baby's NICU stay at Rainbow Hospital. During each consultation she mentioned our babies MAY have this or that infection, inflammation, saturation, etc. She always kept us in fear during our one month stay at NICU. Few times we checked with duty doctors during rounds and they said all the test reports are fine. Even during discharge none of her diagnosis were mentioned in the discharge summery. Once when we asked about certain test results, she shut us by saying \"you worry only about giving milk and we take care of the the treatment\". *** ** *** ******** ******** we have shifted to a different hospital. I would never recommend Rainbow Hospital ******* ** **** *** ******* ",
+                "review_alterations": [
+                    {
+                        "start_index": 595,
+                        "end_index": 622,
+                        "reason": "NON_COMPLIANT",
+                        "id": 264694
+                    },
+                    {
+                        "start_index": 706,
+                        "end_index": 732,
+                        "reason": "NON_COMPLIANT",
+                        "id": 264695
+                    }
+                ],
+                "reviewed_on": "2020-05-08 07:24:14",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 651357,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

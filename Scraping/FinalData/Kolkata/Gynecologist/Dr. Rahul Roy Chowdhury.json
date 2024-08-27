@@ -1,0 +1,178 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1300,
+                "text": "Gynae Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1183402,
+            "status": "PUBLISHED",
+            "note": "2019-06-25 06:14:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569280,
+            "practice_id": 1124442,
+            "practice_name": "Gynaecancer Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-25T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39679275,
+                "review_text": "A thorough professional. Dealt with me with utmost respect. I have a long history of gynecological issues and he took time to understand the same and did not for once seemed to be in a hurry. I felt ever so confident with his approach to treatment and I highly recommend Dr Rahul Roy Choudhury to all. Thank you Sir! ",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-22 15:17:09",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Maryanne Rozario"
+        },
+        "entity_id": 547140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 621654,
+            "status": "PUBLISHED",
+            "note": "2017-07-14 11:34:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569280,
+            "practice_id": 1124442,
+            "practice_name": "Gynaecancer Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-14T12:00:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35030140,
+                "review_text": "He is a very good doctor...his behaviour is so cordial, we feel relaxed to some extent....we love how he treats us..we will highly recommend, those who are suffering from gynecological malignancy",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-13 11:09:51",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "kasturi majumder"
+        },
+        "entity_id": 547140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1031853,
+            "status": "PUBLISHED",
+            "note": "2018-12-04 05:13:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 569280,
+            "practice_id": 657822,
+            "practice_name": "Calcutta Medical Research Institute",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-04T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38688807,
+                "review_text": "Just loved this doctor. A perfect gentleman* ** *** **** ********* ** *** ****** My wife had an operation gynaeological and it was big one. She was well operated and was very happy with the way she was operated. Very well done. I truly recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 43,
+                        "end_index": 80,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 142322
+                    }
+                ],
+                "reviewed_on": "2018-12-01 13:09:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Iqbal"
+        },
+        "entity_id": 549543,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

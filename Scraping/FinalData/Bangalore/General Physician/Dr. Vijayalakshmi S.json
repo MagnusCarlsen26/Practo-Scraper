@@ -1,0 +1,266 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2368338,
+            "status": "PUBLISHED",
+            "note": "2024-04-13 05:18:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747129,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-13T06:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46586862,
+                "review_text": "Looks like doctor is in a hurry to deal with all patients as she came late to clinic.She don\u2019t have patience to listen to details instead prescribing lot of tabs",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-11 12:19:50",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683158,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1686579,
+            "status": "PUBLISHED",
+            "note": "2021-03-31 06:20:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747129,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "No",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-31T07:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42639434,
+                "review_text": "I had visited the hospital and met the doctor. Consultation experience was not good with the doctor and it was not professional. She was not friendly as well. I had some issues to show to lady doctor, she didn't even dare to close door. She was rude in terms of listening to problem. Even dressing was done by the nurse and she didn't care. I had a wound and she was making faces. Antibiotics were prescribed by the doctor. There was no waiting time in the hospital.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-30 03:43:01",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Aditi Amrita"
+        },
+        "entity_id": 683158,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            },
+            {
+                "id": 319,
+                "text": "Diarrhoea"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1404360,
+            "status": "PUBLISHED",
+            "note": "2020-03-20 07:16:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747129,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-20T08:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41153294,
+                "review_text": "I went to doctor for getting my lab reports checked . * ***** *** **** ***** *** ** ******* ***** ** ** ******* ***** ***** ** I told my problem to the doctor as I have been in medication for last 3 days that were provided by her. The doctor didn't pay much heed to the problem and suggested me to consult a gastro specialist since I said it maybe a problem of digestion.* **** **** * ******** *** ** ****** ** * ******* *** **** *** ** *** **** *** ** *** **** ***** ****** **** ******* * ** *** ** **** *** *** * *** ******* * ********** * * Hardly 2-3 mins were spent . Didnt expect this from a Apollo clinic doctor . ******* * * **** *** *  ***** ** *** **** ****** * ***** **** *** ***** *** *** **** ** ****** ******* * **** *** ** *** * ********* ********** *** *** ******** *** *** * ****** ******* *** ****** * **** *** ********* ****** ****** *** ********** * ***** **** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 53,
+                        "end_index": 126,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 258509
+                    },
+                    {
+                        "start_index": 371,
+                        "end_index": 542,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 258510
+                    },
+                    {
+                        "start_index": 621,
+                        "end_index": 885,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 258511
+                    }
+                ],
+                "reviewed_on": "2020-03-19 06:12:29",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683158,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2100042,
+            "status": "PUBLISHED",
+            "note": "2022-11-15 08:34:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747129,
+            "practice_id": 702709,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-15T09:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45010706,
+                "review_text": "Visited for skin burn extremely bad experience.\nDon't recommend her for any treatment.\n******* **** ***** *** *** ** ** ** ***** ** ****** ******* ** ******* ******* *****",
+                "review_alterations": [
+                    {
+                        "start_index": 87,
+                        "end_index": 170,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 432790
+                    }
+                ],
+                "reviewed_on": "2022-11-12 16:22:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Smitha Dm"
+        },
+        "entity_id": 683158,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1354078,
+            "status": "PUBLISHED",
+            "note": "2020-02-01 06:59:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 747129,
+            "practice_id": 702709,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-01T07:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40819055,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 127,
+                        "reason": "NON_COMPLIANT",
+                        "id": 243497
+                    }
+                ],
+                "reviewed_on": "2020-01-31 06:22:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683158,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

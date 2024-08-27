@@ -1,0 +1,55 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2121191,
+            "status": "PUBLISHED",
+            "note": "2022-12-21 11:52:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 226921,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-21T12:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45129770,
+                "review_text": "Most arrogant doctor we have ever met. \nHe has such a condescending behaviour towards patient especially for a first time mother with no concern for their health condition. He just wants to show down the mother.\n\n*** ****** ***** **** **** **** ******* *** **** ****** **** ************* *** ************** **** *** *** ******** ** *** \n\nExpecting a new mother to know each bit without even telling or guiding for anything during 3 day stay of hospital is NOT common sense. \nHe is the rudest * **** ** ***** ********* I have ever met.",
+                "review_alterations": [
+                    {
+                        "start_index": 213,
+                        "end_index": 335,
+                        "reason": "NON_COMPLIANT",
+                        "id": 436929
+                    },
+                    {
+                        "start_index": 491,
+                        "end_index": 517,
+                        "reason": "NON_COMPLIANT",
+                        "id": 436930
+                    }
+                ],
+                "reviewed_on": "2022-12-20 11:49:35",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "swati malik"
+        },
+        "entity_id": 114837,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

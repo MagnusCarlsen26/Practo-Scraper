@@ -1,0 +1,185 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1322268,
+            "status": "PUBLISHED",
+            "note": "2019-12-25 12:48:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 625350,
+            "practice_id": 1135165,
+            "practice_name": "Rainbow Children's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-25T13:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40589761,
+                "review_text": "Doctor took excellent care of my son who was diagnosed of Dengue. The treatment and Advice given was very apt and my  kid recovered in a week\u2019s time. Thanks Dr. David",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-24 02:10:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rayapa Reddy"
+        },
+        "entity_id": 610246,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4987,
+                "text": "Children's Health"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1142336,
+            "status": "PUBLISHED",
+            "note": "2019-04-30 10:27:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 625350,
+            "practice_id": 1135165,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-30T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39420068,
+                "review_text": "**** **** ******* listens with patience and tries to examine the patient in detail. Very friendly too..",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 16,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 172106
+                    }
+                ],
+                "reviewed_on": "2019-04-29 06:02:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "santosh"
+        },
+        "entity_id": 610246,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1082192,
+            "status": "PUBLISHED",
+            "note": "2019-02-12 05:29:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 625350,
+            "practice_id": 1135165,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-12T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39028393,
+                "review_text": "****** ** **** ******* My 1 yr old kid had fever but was otherwise active. We could not get our usual doctor's appointment so we took him to him. His assessment was that my son has severe UTI infection and needs to be hospitalized immediately. Also intravenous channel needs to be installed as he will need to be inject with antibiotics five times a day.We were like, are you serious. He was like you have come too late. He also enquired if we had insurance. He was about to dial hospital to even book a bed for him. We declined *** **** *** ** ****** ************ He was prescribed some medicines. Needless to say he was fine. My son is now 2.5yrs old. Why am I posting after so long? ***** * ***** * ******* ***** **** ******* ****** ***** *** **** ******* So it was important that I speak out.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 21,
+                        "reason": "NON_COMPLIANT",
+                        "id": 154139
+                    },
+                    {
+                        "start_index": 529,
+                        "end_index": 563,
+                        "reason": "NON_COMPLIANT",
+                        "id": 154140
+                    },
+                    {
+                        "start_index": 685,
+                        "end_index": 757,
+                        "reason": "NON_COMPLIANT",
+                        "id": 154141
+                    }
+                ],
+                "reviewed_on": "2019-02-08 17:35:13",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nirupam Biswas"
+        },
+        "entity_id": 610246,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

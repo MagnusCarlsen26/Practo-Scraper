@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2282702,
+            "status": "PUBLISHED",
+            "note": "2023-10-26 10:22:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1089617,
+            "practice_id": 1428094,
+            "practice_name": "Partha Dental  Skin Hair",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-26T11:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46098380,
+                "review_text": "I was worried about gap in my upper front teeth and had visited partha dental clinic in JP nagar. I was attended by Dr Taneya who helped me with veneers(some kind of cap) treatment. Once the treatment was done I was shocked , I couldn't believe how natural the treatment turned out. People now can't even make out it is cap. Super happy. \nHighly recommended \ud83d\ude01\ud83d\udc4d Kudos Dr Taneya good work.Super humble and good attitude.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-25 10:20:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vinay"
+        },
+        "entity_id": 882523,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

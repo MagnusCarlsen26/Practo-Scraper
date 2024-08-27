@@ -1,0 +1,91 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 2131,
+                "text": "Childhood Infections"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1872374,
+            "status": "PUBLISHED",
+            "note": "2021-11-14 09:13:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 62877,
+            "practice_id": 884400,
+            "practice_name": "Rakshaa Children Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-14T10:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43701624,
+                "review_text": "Very friendly and well-experienced. Good at listening the symptoms. Addressed the exact issue. I am very much satisfied.",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-13 08:37:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prem Sahoo"
+        },
+        "entity_id": 750495,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1915262,
+            "status": "PUBLISHED",
+            "note": "2022-01-19 09:29:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 62877,
+            "practice_id": 918379,
+            "practice_name": "Raksha Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-19T10:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43957994,
+                "review_text": "Very bad service last night my husband was sufferings from fever and body pain someone I don't no his name he came he asked the problem he didn't checkup and  dint give injection also only they gave  prescription and said that take this medicine 4days that's it he gone  .....and they changed me rs300 very bad service about raksha hospital ",
+                "review_alterations": [],
+                "reviewed_on": "2022-01-18 00:13:43",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 401893,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

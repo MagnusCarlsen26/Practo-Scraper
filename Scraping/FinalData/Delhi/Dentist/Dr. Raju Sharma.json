@@ -1,0 +1,229 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 280829,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 524263,
+            "practice_id": 1050221,
+            "practice_name": "Shining Smile'z Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-06T06:19:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 19195627,
+                "review_text": "I took my father to Dr Raju's clinic who required dentures . We are very happy with the quality of the dentures . Dr Raju is very knowledgeable and has finesse in his hands . I am very happy with him. I would highly recommend him . \n\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-05 15:03:08",
+                "channel": "web",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "raj"
+        },
+        "entity_id": 479363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 280825,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 524263,
+            "practice_id": 1050221,
+            "practice_name": "Shining Smile'z Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-06T09:31:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 19195566,
+                "review_text": "I had seviour pain in my back tooth...visited many doctors before him BT pain didn't fall down at last Dr Raju sharma nailed it in only two sittings.\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-05 14:56:47",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vimal Sharma"
+        },
+        "entity_id": 479363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1450,
+                "text": "Dental Crowns"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1573521,
+            "status": "PUBLISHED",
+            "note": "2020-11-15 07:02:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 524263,
+            "practice_id": 1050221,
+            "practice_name": "Shining Smile'z Dental Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-15T08:01:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42027444,
+                "review_text": "I went to his clinic to treatment of my daughter he gives ****** ****  *** spray in her mouth *** *** ** **** she was unconscious and took my daughter to emergency and also doctor left my daughter treatment and far from clinic and my daughter and my wife hope less and waiting for emergency admit in other hospital. I totally not recommended **** **** ********* *** ****** ******* *** *** ********* * **** **** ******* *** ** ***** *** * **** ******** ** ********** **** ****** ** ****** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 58,
+                        "end_index": 73,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 307623
+                    },
+                    {
+                        "start_index": 93,
+                        "end_index": 108,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 307624
+                    },
+                    {
+                        "start_index": 341,
+                        "end_index": 397,
+                        "reason": "NON_COMPLIANT",
+                        "id": 307625
+                    },
+                    {
+                        "start_index": 398,
+                        "end_index": 491,
+                        "reason": "NON_COMPLIANT",
+                        "id": 307626
+                    }
+                ],
+                "reviewed_on": "2020-11-12 18:56:22",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 479363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 473,
+                "text": "Dental Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1574151,
+            "status": "PUBLISHED",
+            "note": "2020-11-16 12:26:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 524263,
+            "practice_id": 1050221,
+            "practice_name": "Shining Smile'z Dental Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-16T13:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42030821,
+                "review_text": "******* ****** ****** ****** ** *** **** ****** ******* ** **** ****** ** ******* * ***** *** **** ******** He made sure to make me satisfied at its best. He is very cooperative and he is not in hurry when its time for check up. Very humble and down to earth doctor. The staff here is also very cordial & professional. I would highly recommend to go here for dental problem you have.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 107,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 307823
+                    }
+                ],
+                "reviewed_on": "2020-11-13 18:55:43",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 479363,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

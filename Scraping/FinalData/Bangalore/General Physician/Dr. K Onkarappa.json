@@ -1,0 +1,1168 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 318,
+                "text": "Constipation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1091461,
+            "status": "PUBLISHED",
+            "note": "2019-02-22 05:50:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-22T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39090659,
+                "review_text": "Highly Experienced, he did proper checkup and by following his treatment for 2-3 days only I found myself recovered from constipation",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-20 15:51:47",
+                "channel": "web-gmf",
+                "source": "GMF",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Renu Chaudhary"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1636256,
+            "status": "PUBLISHED",
+            "note": "2021-02-03 06:35:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-03T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42363002,
+                "review_text": "My mother was treated by the doctor today. they were really happy by the way the doctor treated my parents.The doctor has rich experience which is seen in the way he handles the patient. Would definitely recommend ",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-01 15:14:58",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suhas"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1873367,
+            "status": "PUBLISHED",
+            "note": "2021-11-16 07:18:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-16T08:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43708016,
+                "review_text": "** ** *** **** ****** ** **********\nHe is not ready to listen patients problem, he will advice the N number of test ******* ****** ******* He is saying to patients,only tell yes or no, ***** **** ******* ** ********* Not allowing to explain their problems.\n ******* ** ************* ** ******** **** ** ******* **** ***** * **** ********** **** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 34,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383586
+                    },
+                    {
+                        "start_index": 116,
+                        "end_index": 137,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383587
+                    },
+                    {
+                        "start_index": 185,
+                        "end_index": 215,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383588
+                    },
+                    {
+                        "start_index": 258,
+                        "end_index": 348,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383589
+                    }
+                ],
+                "reviewed_on": "2021-11-14 17:16:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Umesh"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            },
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            },
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1657725,
+            "status": "PUBLISHED",
+            "note": "2021-02-27 07:19:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-27T08:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42480994,
+                "review_text": "The wait time was a pian and no patient can wait for an hour in hospital when all they would want is rest.The doctor is experienced but is rude and on face which was not acceptable.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-26 04:41:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Apoorva "
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1187378,
+            "status": "PUBLISHED",
+            "note": "2019-06-29 08:57:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-29T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39704859,
+                "review_text": "I had very bad experience with his behavior towards patients,  when you ask for any explanation he is telling I have to see another patients,  a big thumbs down to this doctor",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-28 08:02:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kushal"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1644798,
+            "status": "PUBLISHED",
+            "note": "2021-02-13 06:56:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-13T07:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42410017,
+                "review_text": "Please avoid this doctor ** *** **** *** *** ***** ** **** ***** ***** I brought my mother into Jayshree Hospital Emergency room,,, Doctor comes in after one hour and doesn't even listen to his patients ..is super arrogant********* *** **** *** *** *** **************** ********* ********* ** *** **** ************ ***Had to take her out of Jayshree *** **** ** ************ *** ***** *** ** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 24,
+                        "end_index": 69,
+                        "reason": "NON_COMPLIANT",
+                        "id": 326276
+                    },
+                    {
+                        "start_index": 222,
+                        "end_index": 262,
+                        "reason": "NON_COMPLIANT",
+                        "id": 326277
+                    },
+                    {
+                        "start_index": 263,
+                        "end_index": 317,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 326278
+                    },
+                    {
+                        "start_index": 350,
+                        "end_index": 397,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 326279
+                    }
+                ],
+                "reviewed_on": "2021-02-11 16:33:06",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1040,
+                "text": "Light Headedness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1113914,
+            "status": "PUBLISHED",
+            "note": "2019-03-24 07:58:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-24T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39238535,
+                "review_text": "I visited to the doctor with my mother. While I was explaining the detailed condition of the patient, he literally replied in a very rude tone. How can one sick patient be steady and explain her/his conditions? Very much disappointed! *** **** ********** ********* ******* *** *** **** ********* *** ***",
+                "review_alterations": [
+                    {
+                        "start_index": 235,
+                        "end_index": 302,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 163509
+                    }
+                ],
+                "reviewed_on": "2019-03-23 04:55:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1042564,
+            "status": "PUBLISHED",
+            "note": "2018-12-18 11:08:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-18T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38763401,
+                "review_text": "Doctor asked me to get admitted immediately and never visited to check on my condition ***** ****** *** ******* ********* *** charge more\nThe bed given to me was in a corner next to the bathroom and very unhygienic \nWhen I said I want to get discharged then the doctor came and started scolding me",
+                "review_alterations": [
+                    {
+                        "start_index": 86,
+                        "end_index": 124,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 144734
+                    }
+                ],
+                "reviewed_on": "2018-12-16 09:32:32",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 155,
+                "text": "Low Blood Pressure"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 643002,
+            "status": "PUBLISHED",
+            "note": "2017-08-06 09:32:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-06T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35251627,
+                "review_text": "Every experienced doctor gives time to patients . Very caring and updated doctor treatment is good. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-05 04:28:03",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Surendera Verma"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1266865,
+            "status": "PUBLISHED",
+            "note": "2019-10-12 05:39:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-12T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40212771,
+                "review_text": "Very arrogant, does not care about the patient explanation of symptoms. Has to be little understanding and friendly, I understand he just doing his job.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-10 16:55:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 318,
+                "text": "Constipation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1091461,
+            "status": "PUBLISHED",
+            "note": "2019-02-22 05:50:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-22T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39090659,
+                "review_text": "Highly Experienced, he did proper checkup and by following his treatment for 2-3 days only I found myself recovered from constipation",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-20 15:51:47",
+                "channel": "web-gmf",
+                "source": "GMF",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Renu Chaudhary"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1636256,
+            "status": "PUBLISHED",
+            "note": "2021-02-03 06:35:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-03T07:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42363002,
+                "review_text": "My mother was treated by the doctor today. they were really happy by the way the doctor treated my parents.The doctor has rich experience which is seen in the way he handles the patient. Would definitely recommend ",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-01 15:14:58",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suhas"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1873367,
+            "status": "PUBLISHED",
+            "note": "2021-11-16 07:18:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-16T08:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43708016,
+                "review_text": "** ** *** **** ****** ** **********\nHe is not ready to listen patients problem, he will advice the N number of test ******* ****** ******* He is saying to patients,only tell yes or no, ***** **** ******* ** ********* Not allowing to explain their problems.\n ******* ** ************* ** ******** **** ** ******* **** ***** * **** ********** **** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 34,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383586
+                    },
+                    {
+                        "start_index": 116,
+                        "end_index": 137,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383587
+                    },
+                    {
+                        "start_index": 185,
+                        "end_index": 215,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383588
+                    },
+                    {
+                        "start_index": 258,
+                        "end_index": 348,
+                        "reason": "NON_COMPLIANT",
+                        "id": 383589
+                    }
+                ],
+                "reviewed_on": "2021-11-14 17:16:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Umesh"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            },
+            {
+                "id": 1633,
+                "text": "Loose Motion"
+            },
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1657725,
+            "status": "PUBLISHED",
+            "note": "2021-02-27 07:19:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-27T08:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42480994,
+                "review_text": "The wait time was a pian and no patient can wait for an hour in hospital when all they would want is rest.The doctor is experienced but is rude and on face which was not acceptable.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-26 04:41:43",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Apoorva "
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1187378,
+            "status": "PUBLISHED",
+            "note": "2019-06-29 08:57:18",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-29T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39704859,
+                "review_text": "I had very bad experience with his behavior towards patients,  when you ask for any explanation he is telling I have to see another patients,  a big thumbs down to this doctor",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-28 08:02:31",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kushal"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1644798,
+            "status": "PUBLISHED",
+            "note": "2021-02-13 06:56:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-13T07:01:09+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42410017,
+                "review_text": "Please avoid this doctor ** *** **** *** *** ***** ** **** ***** ***** I brought my mother into Jayshree Hospital Emergency room,,, Doctor comes in after one hour and doesn't even listen to his patients ..is super arrogant********* *** **** *** *** *** **************** ********* ********* ** *** **** ************ ***Had to take her out of Jayshree *** **** ** ************ *** ***** *** ** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 24,
+                        "end_index": 69,
+                        "reason": "NON_COMPLIANT",
+                        "id": 326276
+                    },
+                    {
+                        "start_index": 222,
+                        "end_index": 262,
+                        "reason": "NON_COMPLIANT",
+                        "id": 326277
+                    },
+                    {
+                        "start_index": 263,
+                        "end_index": 317,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 326278
+                    },
+                    {
+                        "start_index": 350,
+                        "end_index": 397,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 326279
+                    }
+                ],
+                "reviewed_on": "2021-02-11 16:33:06",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1040,
+                "text": "Light Headedness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1113914,
+            "status": "PUBLISHED",
+            "note": "2019-03-24 07:58:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-24T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39238535,
+                "review_text": "I visited to the doctor with my mother. While I was explaining the detailed condition of the patient, he literally replied in a very rude tone. How can one sick patient be steady and explain her/his conditions? Very much disappointed! *** **** ********** ********* ******* *** *** **** ********* *** ***",
+                "review_alterations": [
+                    {
+                        "start_index": 235,
+                        "end_index": 302,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 163509
+                    }
+                ],
+                "reviewed_on": "2019-03-23 04:55:05",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 335,
+                "text": "Dengue"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1042564,
+            "status": "PUBLISHED",
+            "note": "2018-12-18 11:08:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-18T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38763401,
+                "review_text": "Doctor asked me to get admitted immediately and never visited to check on my condition ***** ****** *** ******* ********* *** charge more\nThe bed given to me was in a corner next to the bathroom and very unhygienic \nWhen I said I want to get discharged then the doctor came and started scolding me",
+                "review_alterations": [
+                    {
+                        "start_index": 86,
+                        "end_index": 124,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 144734
+                    }
+                ],
+                "reviewed_on": "2018-12-16 09:32:32",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 155,
+                "text": "Low Blood Pressure"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 643002,
+            "status": "PUBLISHED",
+            "note": "2017-08-06 09:32:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-06T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35251627,
+                "review_text": "Every experienced doctor gives time to patients . Very caring and updated doctor treatment is good. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-05 04:28:03",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Surendera Verma"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1266865,
+            "status": "PUBLISHED",
+            "note": "2019-10-12 05:39:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 263755,
+            "practice_id": 1138025,
+            "practice_name": "Jayashree Multispeciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-12T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40212771,
+                "review_text": "Very arrogant, does not care about the patient explanation of symptoms. Has to be little understanding and friendly, I understand he just doing his job.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-10 16:55:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 566042,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

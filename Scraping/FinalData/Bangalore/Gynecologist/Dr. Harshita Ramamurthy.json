@@ -1,0 +1,268 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1738277,
+            "status": "PUBLISHED",
+            "note": "2021-06-02 06:24:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 187773,
+            "practice_id": 728755,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-02T07:01:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42919071,
+                "review_text": "I had consulted the doctor and it was for pregnancy related. ****** *** **** ** ********** **. I had delivery in February month as well. Doctor was very friendly, helpful and experienced doctor. I can surely\u00a0recommend doctor to others. She is family doctor for us. In emergency cases she picks up the call. Calcium Tablets were prescribed by the doctor till breast-feeding. She checked operation area part. There was no waiting time in the hospital\u00a0when we went. Lower abdomen exercise was  suggested.  Hospitality was excellent. ",
+                "review_alterations": [
+                    {
+                        "start_index": 61,
+                        "end_index": 92,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 348831
+                    }
+                ],
+                "reviewed_on": "2021-06-01 04:40:21",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manisha"
+        },
+        "entity_id": 736641,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 161031,
+                "text": "Laparoscopy Hysterectomy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1587561,
+            "status": "PUBLISHED",
+            "note": "2020-12-03 13:20:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 187773,
+            "practice_id": 1129878,
+            "practice_name": "Apollo CM Fertility Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-03T14:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42102496,
+                "review_text": "Dr. Harshitha spent just the right amount of time explaining her diagnosis of my problem and also in explaining the procedure. I have rarely experienced a doctor showing such patience with questions. At no point did she make me feel like I was asking an irrelevant question. Her tone and manner were also refreshing and what I liked most was how she sought permission before conducting an internal examination. She comes across as confident and capable and it was also reassuring that minimal access surgery is her preferred technique for a hysterectomy.",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-02 13:14:02",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693761,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1738273,
+            "status": "PUBLISHED",
+            "note": "2021-06-02 06:23:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 187773,
+            "practice_id": 1129878,
+            "practice_name": "Apollo CM Fertility Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-02T07:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42919059,
+                "review_text": "My wife had visited the hospital and it was gynaecology related. ********* *** **** ** ******* I would like to recommend the doctor to other people.\u00a0\u00a0Doctor was calm. Medicine was prescribed by doctor during\u00a0consultation. There was waiting time in the hospital\u00a0when we went. It was for 30 minutes. Hospitality was good. My wife is satisfied with the explanation and treatment\u00a0given by the doctor.\u00a0",
+                "review_alterations": [
+                    {
+                        "start_index": 65,
+                        "end_index": 93,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 348829
+                    }
+                ],
+                "reviewed_on": "2021-06-01 04:36:40",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 693761,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1534,
+                "text": "Maternal Care/ Checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 903466,
+            "status": "PUBLISHED",
+            "note": "2018-06-21 07:10:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 187773,
+            "practice_id": 655449,
+            "practice_name": "Bingi's Heart Care & Fertility Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-06-21T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37703659,
+                "review_text": "I had a good experience with doctor for pregnancy check up. She was friendly, down to earth and helpful when contacted her at any point of time. She explained clearly about each and every test and scan.I would definitely suggest her for my friends.",
+                "review_alterations": [],
+                "reviewed_on": "2018-06-19 19:10:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 81779,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 803832,
+            "status": "PUBLISHED",
+            "note": "2018-02-24 10:16:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 187773,
+            "practice_id": 655449,
+            "practice_name": "Bingi's Heart Care & Fertility Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-24T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36829744,
+                "review_text": "she is very good,she is very careful about patients ....................any time if can contact her she ll respond this is the good thing ..",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-23 06:42:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 81779,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

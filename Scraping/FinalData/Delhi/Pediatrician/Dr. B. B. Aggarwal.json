@@ -1,0 +1,49 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2172324,
+            "status": "PUBLISHED",
+            "note": "2023-03-24 06:53:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 214536,
+            "practice_id": 680128,
+            "practice_name": "BLK-Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-24T07:02:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45423512,
+                "review_text": "Sir has been our family pediatrician since over 3 decades. Hes humble, caring, judicious and most importantly satisfies all queries and concerns. He has a fatherly way of handling children during examination and vaccination making them walk out with a smile and not tears. *** ** ********** *** **** ****** ************ ** *** ***** ",
+                "review_alterations": [
+                    {
+                        "start_index": 272,
+                        "end_index": 331,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 449767
+                    }
+                ],
+                "reviewed_on": "2023-03-22 21:16:28",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101340,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

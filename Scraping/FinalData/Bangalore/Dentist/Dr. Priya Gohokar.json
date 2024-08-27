@@ -1,0 +1,109 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 89,
+                "text": "Conservative Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1118263,
+            "status": "PUBLISHED",
+            "note": "2019-03-29 13:03:06",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 732215,
+            "practice_id": 1247713,
+            "practice_name": "DENTIN Multispeciality Dental Clinic and Implant Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-29T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39266513,
+                "review_text": "I got my root canal done... Procedure went really well. No post operative complications.......cheers",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-28 13:02:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 673434,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193843,
+                "text": " Teeth cleaning & polishing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1171746,
+            "status": "PUBLISHED",
+            "note": "2019-06-08 11:15:33",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 732215,
+            "practice_id": 1247713,
+            "practice_name": "DENTIN Multispeciality Dental Clinic and Implant Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-08T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39605026,
+                "review_text": "I did not meet the doctor my appointment was booked with, there was a different doctor that to not in clinic. The charge is very high, 1500 for teeth cleaning.. but the doctor I met was patient and good..",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-07 06:18:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 673434,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1745130,
+            "status": "PUBLISHED",
+            "note": "2021-06-10 05:56:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 588562,
+            "practice_id": 792837,
+            "practice_name": "Apollo Hospital",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-10T06:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42955518,
+                "review_text": "I had visited the hospital and it was regular checkup. Consultation was fine by the doctor.\u00a0I can surely\u00a0recommend doctor to others.\u00a0Tablets were prescribed by the doctor. There was no waiting time in the hospital\u00a0when we went. I had back pain operation before. Physiotherapy was suggested. Doctor was friendly. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-09 03:42:48",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Newton BISWAS"
+        },
+        "entity_id": 447927,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192987,
+                "text": "Orthopedic Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 685609,
+            "status": "PUBLISHED",
+            "note": "2017-09-23 06:52:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 588562,
+            "practice_id": 1141470,
+            "practice_name": "CT Ortho and Gynac Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-23T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35681448,
+                "review_text": "Very humble. Well explained the condition *** ******* ********** The doctor adviced simple exersice to get cured fast.",
+                "review_alterations": [
+                    {
+                        "start_index": 42,
+                        "end_index": 64,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 67159
+                    }
+                ],
+                "reviewed_on": "2017-09-22 03:58:52",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sindhuja.r"
+        },
+        "entity_id": 573948,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1702256,
+            "status": "PUBLISHED",
+            "note": "2021-04-20 06:26:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 588562,
+            "practice_id": 763113,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-20T07:01:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42726562,
+                "review_text": "I consulted the doctor for normal check-up. Treatment was fine by doctor. I would like to recommend this doctor to my family and friends. There was no waiting time in the hospital.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-18 04:18:40",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arulselvi"
+        },
+        "entity_id": 390544,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 101607,
+                "text": "Hand Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2063030,
+            "status": "PUBLISHED",
+            "note": "2022-09-08 06:18:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 588562,
+            "practice_id": 763113,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-08T07:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44800147,
+                "review_text": "Doctor did not explain side effects of the drug he prescribed. Doctor not answering when called during pain sos. Poor experience with Apollo Medical centre as always",
+                "review_alterations": [],
+                "reviewed_on": "2022-09-06 14:56:45",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "M Joseph Muthukumar"
+        },
+        "entity_id": 390544,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 772441,
+            "status": "PUBLISHED",
+            "note": "2018-01-26 09:31:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 588562,
+            "practice_id": 1141470,
+            "practice_name": "CT Ortho and Gynac Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-01-26T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36533829,
+                "review_text": "Very patient listening to problems and explained very clearly my ailments and treatment regarding the same. No panicking the patient. Taught an exercise to strengthen lower back.",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-16 04:21:38",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 573948,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

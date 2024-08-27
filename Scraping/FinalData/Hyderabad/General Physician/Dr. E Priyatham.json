@@ -1,0 +1,145 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2191570,
+            "status": "PUBLISHED",
+            "note": "2023-05-01 12:52:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1019166,
+            "practice_id": 1398695,
+            "practice_name": "RCR Specialty Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-01T13:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45542103,
+                "review_text": "Got **** treatment and medicine from doctor. He is always available on phone also when required. Immediately respond on messages. Really appreciated. Thank you.",
+                "review_alterations": [
+                    {
+                        "start_index": 3,
+                        "end_index": 7,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 454412
+                    }
+                ],
+                "reviewed_on": "2023-04-30 10:15:59",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 834305,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2083622,
+            "status": "PUBLISHED",
+            "note": "2022-10-13 07:55:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1019166,
+            "practice_id": 1398695,
+            "practice_name": "RCR Specialty Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-13T08:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44919112,
+                "review_text": "Explained us the reasons well. Consequences and the need for initiating medication explained by doctor is also convincing. Expressed concern which is very good. Diet suggestions were very appropriate.",
+                "review_alterations": [],
+                "reviewed_on": "2022-10-11 14:59:00",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 834305,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2064723,
+            "status": "PUBLISHED",
+            "note": "2022-09-10 10:07:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1019166,
+            "practice_id": 1374649,
+            "practice_name": "Pranahitha Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-10T11:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44809812,
+                "review_text": "**** ********* I recommend for everyone ......\nBest staff nd I  felt good after consulting doctors and discussing issues with them",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 13,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 425412
+                    }
+                ],
+                "reviewed_on": "2022-09-09 10:01:30",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 826184,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

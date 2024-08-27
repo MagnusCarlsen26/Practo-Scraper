@@ -1,0 +1,554 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2,
+                "text": "Irregular Periods"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1660872,
+            "status": "PUBLISHED",
+            "note": "2021-03-02 12:36:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 1134531,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-02T13:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42498673,
+                "review_text": "She explained really well about the missed period due to weight changes. I will start working on that.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-01 11:30:36",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shweta Singh"
+        },
+        "entity_id": 707834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1478213,
+            "status": "PUBLISHED",
+            "note": "2020-07-28 06:32:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-28T07:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41529396,
+                "review_text": "I went to the doctor 3 weeks back for my first pregnancy checkup ,****** **** *** *********** ***** *** I paid 7k for that and also I went 3 days continuously for those tests to the hospital in this covid-19 situation.after getting test reports the doctor didn't even saw my results simply asked the staff for mail through call she told everything is fine without giving any precautions or medicine.Hardly she is spending 2min with the people.* ***** **** *** ******** **** ** * **** ********* ** ****",
+                "review_alterations": [
+                    {
+                        "start_index": 66,
+                        "end_index": 102,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 280091
+                    },
+                    {
+                        "start_index": 443,
+                        "end_index": 500,
+                        "reason": "NON_COMPLIANT",
+                        "id": 280092
+                    }
+                ],
+                "reviewed_on": "2020-07-26 12:18:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Chandrakala"
+        },
+        "entity_id": 386327,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 241,
+                "text": "Pap Smear"
+            },
+            {
+                "id": 996,
+                "text": "Female Sexual Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1144212,
+            "status": "PUBLISHED",
+            "note": "2019-05-03 09:54:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-03T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39432120,
+                "review_text": "She arrived 1.5 hours late and literally spent 3 to 4 minutes for consultation. Asked no cross questions, ** ******** **** prescribed few pills **** * *** ***** ** ****** It was not worth it to spend my time and money. I was telling her more about my issue than she told me. Took 3 phone calls in between the consultation.\n\nHighly unprofessional ** *** *******",
+                "review_alterations": [
+                    {
+                        "start_index": 106,
+                        "end_index": 122,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 172864
+                    },
+                    {
+                        "start_index": 144,
+                        "end_index": 169,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 172865
+                    },
+                    {
+                        "start_index": 346,
+                        "end_index": 359,
+                        "reason": "NON_COMPLIANT",
+                        "id": 172866
+                    }
+                ],
+                "reviewed_on": "2019-05-01 14:28:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Mallika Trivedi"
+        },
+        "entity_id": 386327,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2000590,
+            "status": "PUBLISHED",
+            "note": "2022-05-29 09:41:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-29T10:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44433172,
+                "review_text": "as an individual i dont write much reviews . As a women going to doc to discuss any infection related symptoms is not always comfortable for most of us . she was rude the moment i entered the cabin before i sat down ... post completion of  checkup i asked why she recommended some testing the first thing she said cancer etc etc .** * *** ** ******* **** ****** *** *** ******* ***** ** ** **** ** *** ********* *** all is well.docs need to be sympathetic and choose words wisely even before any reports or testing.",
+                "review_alterations": [
+                    {
+                        "start_index": 330,
+                        "end_index": 414,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 411871
+                    }
+                ],
+                "reviewed_on": "2022-05-28 09:30:37",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386989,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2343934,
+            "status": "PUBLISHED",
+            "note": "2024-02-21 07:43:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 1134531,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-02-21T08:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46447544,
+                "review_text": "**** ** ******** ***** ** ******** **** *** *** ******** ** *** ********* Told me I might  have appendix problem. Wasted my money on scans and time. Pls dont go to this doc!",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 72,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 479245
+                    }
+                ],
+                "reviewed_on": "2024-02-20 07:30:04",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 707834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 10,
+                "text": "Premenstrual swelling in breasts"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1828183,
+            "status": "PUBLISHED",
+            "note": "2021-09-15 10:14:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 1147974,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-15T11:00:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43428225,
+                "review_text": "Super rude staff. Poor time management, always have to wait for at least an hour. They will give you an appointment time which always extends by an hour. Nurses have no accountability. \nHappy with the doctor but the management is very poor. Will never go back, *** **** * **** ****** ** ******* ****** Its not worth my time and patience.",
+                "review_alterations": [
+                    {
+                        "start_index": 260,
+                        "end_index": 301,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 372881
+                    }
+                ],
+                "reviewed_on": "2021-09-14 10:09:39",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 346489,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 202,
+                "text": "Hysterectomy (Abdominal/Vaginal)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2258656,
+            "status": "PUBLISHED",
+            "note": "2023-09-09 06:42:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 1134531,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-09-09T07:01:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45955551,
+                "review_text": "She seem disinterested in explaining the pros and cons. Kept checking her phone while I was asking her qs. **** *************** ",
+                "review_alterations": [
+                    {
+                        "start_index": 107,
+                        "end_index": 126,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 467867
+                    }
+                ],
+                "reviewed_on": "2023-09-08 05:19:49",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 707834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 24,
+                "text": "Vaginal Infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1462463,
+            "status": "PUBLISHED",
+            "note": "2020-07-08 11:22:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 1134531,
+            "practice_name": "Apollo Spectra Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-07-08T12:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41450708,
+                "review_text": "she did not even explain anything. Was very rude. Just prescribed some tablets. It did not even take more than 2 mins. After paying 800 RS as consultation fees  she was behaving as if she is treating us for free. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-07-07 10:33:46",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 707834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 142,
+                "text": "Infertility"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1143955,
+            "status": "PUBLISHED",
+            "note": "2019-05-03 07:49:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 920071,
+            "practice_name": "Apollo Medical Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-03T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39430185,
+                "review_text": "Went for general gynec consultation. Her behaviour was very rude and rough checkup. **** * *** ******* ******** *** **** *** **** ***** *** ******** Not recommended. ",
+                "review_alterations": [
+                    {
+                        "start_index": 84,
+                        "end_index": 147,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 172746
+                    }
+                ],
+                "reviewed_on": "2019-05-01 08:05:00",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386989,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1315355,
+            "status": "PUBLISHED",
+            "note": "2019-12-17 11:32:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 205026,
+            "practice_id": 879669,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-17T12:00:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40543273,
+                "review_text": "Doctor not spent even 2 mins  time to discuss the problem, written blood tests, shown old blood reports not willing even to see. I will not recommend any one to consult doctor. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-12-15 15:20:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 386327,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

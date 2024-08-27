@@ -1,0 +1,105 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1364444,
+            "status": "PUBLISHED",
+            "note": "2020-02-11 06:14:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 502587,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-11T07:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40897323,
+                "review_text": "Doctor is so nice.very friendly.we can explain our problems freely with him.I recommend him bcoz of his friendly approach.",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-08 14:55:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sri Pon Bala"
+        },
+        "entity_id": 447694,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1190350,
+            "status": "PUBLISHED",
+            "note": "2019-07-03 13:21:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 502587,
+            "practice_id": 1129485,
+            "practice_name": "Apollo Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-03T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39725036,
+                "review_text": "Like friendly he given some advice \nIam satisfied with doctor \nNow iam not having pain **** ********* thanks ",
+                "review_alterations": [
+                    {
+                        "start_index": 87,
+                        "end_index": 100,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 188552
+                    }
+                ],
+                "reviewed_on": "2019-07-02 13:10:38",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "K Pandian"
+        },
+        "entity_id": 447694,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

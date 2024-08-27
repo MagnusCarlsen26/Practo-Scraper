@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1688571,
+            "status": "PUBLISHED",
+            "note": "2021-04-04 07:40:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 899199,
+            "practice_id": 1315777,
+            "practice_name": "PCH Clinic And Diagnostic Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-04T08:01:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42650662,
+                "review_text": "I asked you to provide a doctor in habsiguda.  Doctor you gave me was ONLY 11 KILO METRES from habsiguda. \nThe location your portal provided me led me to a church \u26ea.\nThe services provided by you are par excellence.\nI love to recommend your organization to atleast 30,000 people ",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-01 11:02:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ram Gopal"
+        },
+        "entity_id": 744556,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

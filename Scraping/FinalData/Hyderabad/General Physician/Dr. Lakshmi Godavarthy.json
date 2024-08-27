@@ -1,0 +1,255 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1357010,
+            "status": "PUBLISHED",
+            "note": "2020-02-02 07:33:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450208,
+            "practice_id": 929915,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-02T08:00:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40841143,
+                "review_text": "Very satisfactory. Doctor was able to diagnose quickly. She was very friendly and asked relevant questions",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-01 04:48:05",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aanand Raj"
+        },
+        "entity_id": 683118,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1385727,
+            "status": "PUBLISHED",
+            "note": "2020-03-01 11:48:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450208,
+            "practice_id": 929915,
+            "practice_name": "Apollo Medical  Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-01T12:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41038740,
+                "review_text": "Very cordial , examined thoroughly , advice well communicated. Will share my experience to my friends and relatives.\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-29 11:29:46",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683118,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1643607,
+            "status": "PUBLISHED",
+            "note": "2021-02-11 12:19:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450208,
+            "practice_id": 929915,
+            "practice_name": "Apollo Medical  Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-11T13:01:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42403662,
+                "review_text": "Would prefer Doctor closing the door and talking to patient in a mellowed voice and preferably in friendlier tone making the patient comfortable.",
+                "review_alterations": [],
+                "reviewed_on": "2021-02-10 12:17:57",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683118,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186441,
+                "text": "Joint pains Adult Vaccination"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1241136,
+            "status": "PUBLISHED",
+            "note": "2019-09-08 06:25:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450208,
+            "practice_id": 929915,
+            "practice_name": "Apollo Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-08T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40045818,
+                "review_text": "She is not friendiness *** *** ********** ** ******** *****.\nShe has to spend more time with patient instead of one minute.",
+                "review_alterations": [
+                    {
+                        "start_index": 23,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 205499
+                    }
+                ],
+                "reviewed_on": "2019-09-06 16:11:41",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 683118,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 794139,
+            "status": "PUBLISHED",
+            "note": "2018-02-15 09:50:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 450208,
+            "practice_id": 1054846,
+            "practice_name": "Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-15T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36742344,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-12 08:52:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 519905,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

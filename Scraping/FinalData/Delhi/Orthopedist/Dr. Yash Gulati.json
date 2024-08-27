@@ -1,0 +1,1673 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 530719,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-18T10:03:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34094703,
+                "review_text": "from USA  for Spine Surgery \n\nHello Dr. Gulati,\n          I just want to communicate a word of thanks to you and your team for the excellent work you did. I am back in Houston, Texas, enjoying pain free time with my family. As I continue to heal, I wanted your opinion on the type of sutures and the style used so that I can return to my doctor to have them removed. As mentioned, incision site has  healed and has intermittent itching on both ends due to the sutures. A brief explanation will help with the best approach for the removal. \nMy family and I wish you a nice weekend.\n\nYours faithfully\nEphantus Mbuthia.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-18 09:43:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ephantus Mbuthia"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3912,
+                "text": "Back Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 471257,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-15T08:26:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31379156,
+                "review_text": "I visited the doctor for back pain. I had received an alternate opinion to go for surgery. But the doctor reassured me that it was not required. I did physiotherapy and i am well on my way to recovery. I am very impressed with the doctor\u2019s maturity *** ********** ******. I am very grateful to him.",
+                "review_alterations": [
+                    {
+                        "start_index": 249,
+                        "end_index": 269,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 27166
+                    }
+                ],
+                "reviewed_on": "2017-02-11 18:14:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manisha"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 9972,
+                "text": "Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1327098,
+            "status": "PUBLISHED",
+            "note": "2019-12-31 07:37:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-31T08:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40622364,
+                "review_text": "The doctor was recommended to me  throgh my office's emapanelled doctor.When I went to him he was not at all interested in listening to my problem patiently.He just listened to me for the name and statred checking my foot.After checking the same he said that I can get admitted for 3 days and take the epidural injection for pain relief however the moment I told him that I was referres through the empanelled doctor,his expressions totally changed and he just flipped from his words and said that my report and expalanation of pain does not match.He is just interested in showing of his awards and he is very rude doctor.Would not recommend this doctor to anyone.**** *** ********",
+                "review_alterations": [
+                    {
+                        "start_index": 664,
+                        "end_index": 680,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233122
+                    }
+                ],
+                "reviewed_on": "2019-12-29 14:07:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhilasha gairola"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 374592,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-03T05:20:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 25461084,
+                "review_text": "I was most unimpressed by his method of examining a patient , seemed to be in a hurry and wrote out a prescription for an xray of the wrong foot. His attitude was dismissive and he was most unhelpful regarding any information regarding follow up physiotherapy treatment. He made me get an MRI and xrays but I do not want to go back for his opinion. Stay away from a big doctor who is condescending and probably only interested in your case if you need expensive surgery.",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-30 12:05:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Poonam Mehra"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 604,
+                "text": "Shoulder Dislocation Repair"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1156363,
+            "status": "PUBLISHED",
+            "note": "2019-05-19 05:37:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-19T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39507735,
+                "review_text": "I really wanted to get treatment on my shoulder. But the doctor said it is not feasible to operate on such a small injury as chances of it worsening are there. I visited him 3 times. I absolutely detest his receptionist and her attitude, also his tardiness is not appreciated but overall I would go to him again.",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-17 14:04:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kanwar Anand"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 274,
+                "text": "Arthroscopy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1297948,
+            "status": "PUBLISHED",
+            "note": "2019-11-24 09:02:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-24T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40416214,
+                "review_text": "I was treated by doctor gulati for the puss in my knee. He was very rude and his team of doctors specially *** ****** ** *** **** ******** **** **** ****** **** **** *** ***** *** ****** the patient is also a human being first. When I went for my second visit he hardly checked me for a minute. Even when I spent so much for the ambulance to reach the hospital for the follow up. My ESR level during discharge was 40, ***** ***** **** **** ***** ******* *** ********* ** ***** ****** When I did another test it came to 60. *** ** ** ******** **** ** ****** ** ***** ******* *** **** ***** *** *** ***** *** ****** *** ** ******* ***** \n\nNoone should visit him ***** ** *** ******* ** ** **** ********* ******* *** **** ****** **** **** ",
+                "review_alterations": [
+                    {
+                        "start_index": 107,
+                        "end_index": 143,
+                        "reason": "NON_COMPLIANT",
+                        "id": 223624
+                    },
+                    {
+                        "start_index": 144,
+                        "end_index": 185,
+                        "reason": "NON_COMPLIANT",
+                        "id": 223625
+                    },
+                    {
+                        "start_index": 418,
+                        "end_index": 482,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 223626
+                    },
+                    {
+                        "start_index": 523,
+                        "end_index": 633,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 223627
+                    },
+                    {
+                        "start_index": 660,
+                        "end_index": 680,
+                        "reason": "NON_COMPLIANT",
+                        "id": 223628
+                    },
+                    {
+                        "start_index": 681,
+                        "end_index": 734,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 223629
+                    }
+                ],
+                "reviewed_on": "2019-11-23 08:55:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 383,
+                "text": "Hip Replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 842934,
+            "status": "PUBLISHED",
+            "note": "2018-04-10 10:23:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-10T11:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37186957,
+                "review_text": "He is quite an experienced Doctor.  I can say he new what exactly my problem was just by looking at the Xray.... I could not explain myself much....he understood my problem much better maybe than i understood it myself....\nHe told me the operation i was going to undergo was major, not easy, but he reassured me he was going to do his best. \nMy leg was short by 13cm. The hip was ankylosed associated with unilateral pelvic tilt and medial rotation of the limb. \nMy leg was lengthened  by10cm, the 3cm remaining was due to pelvic tilt. He reassured me that with time the tilted pelvis will come down. As i type now iam 12days post op and the shortening is 2.6cm. Iam greatful for the great care and treatment I received from. Doctor Gulati it is my prayer to the Lord that he may give Him more wisdom to save many lives! \nThankyou Dr for the great work once again\ud83d\ude0d\n\n#Blessings",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-07 17:52:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 471237,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-15T08:33:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31378923,
+                "review_text": "visited the doctor for a pain in my knee which was  diagnosed as a nerve problem. However the doctor told me it was because of tight and stiff muscles and started physiotherapy at his center. The first session itself give me immense relief . I am indebted to the doctor and his team.",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-11 17:05:55",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ganga Pandey"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 204,
+                "text": "ACL Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 444700,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-09T11:05:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 29809899,
+                "review_text": "Doctor performed ACL Reconstruction surgery of my left knee. A good doctor he is. Sometimes his tone and attitude may seem to be little rude, but he knows what he is doing. Highly professional, which I think he should lessen a bit, as more interactive the doctor is, more friendly and comfortable patient would feel around him. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-08 14:37:29",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mani K Srivastava"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1604,
+                "text": "Spinal Disorders"
+            },
+            {
+                "id": 193799,
+                "text": "Pediatric Foot and Ankle Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1670078,
+            "status": "PUBLISHED",
+            "note": "2021-03-13 05:59:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-13T06:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42548001,
+                "review_text": "He was very calm and did not scare me like other doctors bragged how serious my problem is he made me feel relieved that it will be fine soon.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-10 16:55:03",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sasha"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 530719,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-18T10:03:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34094703,
+                "review_text": "from USA  for Spine Surgery \n\nHello Dr. Gulati,\n          I just want to communicate a word of thanks to you and your team for the excellent work you did. I am back in Houston, Texas, enjoying pain free time with my family. As I continue to heal, I wanted your opinion on the type of sutures and the style used so that I can return to my doctor to have them removed. As mentioned, incision site has  healed and has intermittent itching on both ends due to the sutures. A brief explanation will help with the best approach for the removal. \nMy family and I wish you a nice weekend.\n\nYours faithfully\nEphantus Mbuthia.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-18 09:43:01",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ephantus Mbuthia"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3912,
+                "text": "Back Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 471257,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-15T08:26:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31379156,
+                "review_text": "I visited the doctor for back pain. I had received an alternate opinion to go for surgery. But the doctor reassured me that it was not required. I did physiotherapy and i am well on my way to recovery. I am very impressed with the doctor\u2019s maturity *** ********** ******. I am very grateful to him.",
+                "review_alterations": [
+                    {
+                        "start_index": 249,
+                        "end_index": 269,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 27166
+                    }
+                ],
+                "reviewed_on": "2017-02-11 18:14:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Manisha"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 9972,
+                "text": "Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1327098,
+            "status": "PUBLISHED",
+            "note": "2019-12-31 07:37:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-31T08:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40622364,
+                "review_text": "The doctor was recommended to me  throgh my office's emapanelled doctor.When I went to him he was not at all interested in listening to my problem patiently.He just listened to me for the name and statred checking my foot.After checking the same he said that I can get admitted for 3 days and take the epidural injection for pain relief however the moment I told him that I was referres through the empanelled doctor,his expressions totally changed and he just flipped from his words and said that my report and expalanation of pain does not match.He is just interested in showing of his awards and he is very rude doctor.Would not recommend this doctor to anyone.**** *** ********",
+                "review_alterations": [
+                    {
+                        "start_index": 664,
+                        "end_index": 680,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 233122
+                    }
+                ],
+                "reviewed_on": "2019-12-29 14:07:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Abhilasha gairola"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 374592,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-03T05:20:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 25461084,
+                "review_text": "I was most unimpressed by his method of examining a patient , seemed to be in a hurry and wrote out a prescription for an xray of the wrong foot. His attitude was dismissive and he was most unhelpful regarding any information regarding follow up physiotherapy treatment. He made me get an MRI and xrays but I do not want to go back for his opinion. Stay away from a big doctor who is condescending and probably only interested in your case if you need expensive surgery.",
+                "review_alterations": [],
+                "reviewed_on": "2016-09-30 12:05:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Poonam Mehra"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 604,
+                "text": "Shoulder Dislocation Repair"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1156363,
+            "status": "PUBLISHED",
+            "note": "2019-05-19 05:37:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-19T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39507735,
+                "review_text": "I really wanted to get treatment on my shoulder. But the doctor said it is not feasible to operate on such a small injury as chances of it worsening are there. I visited him 3 times. I absolutely detest his receptionist and her attitude, also his tardiness is not appreciated but overall I would go to him again.",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-17 14:04:50",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kanwar Anand"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 274,
+                "text": "Arthroscopy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1297948,
+            "status": "PUBLISHED",
+            "note": "2019-11-24 09:02:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-24T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40416214,
+                "review_text": "I was treated by doctor gulati for the puss in my knee. He was very rude and his team of doctors specially *** ****** ** *** **** ******** **** **** ****** **** **** *** ***** *** ****** the patient is also a human being first. When I went for my second visit he hardly checked me for a minute. Even when I spent so much for the ambulance to reach the hospital for the follow up. My ESR level during discharge was 40, ***** ***** **** **** ***** ******* *** ********* ** ***** ****** When I did another test it came to 60. *** ** ** ******** **** ** ****** ** ***** ******* *** **** ***** *** *** ***** *** ****** *** ** ******* ***** \n\nNoone should visit him ***** ** *** ******* ** ** **** ********* ******* *** **** ****** **** **** ",
+                "review_alterations": [
+                    {
+                        "start_index": 107,
+                        "end_index": 143,
+                        "reason": "NON_COMPLIANT",
+                        "id": 223624
+                    },
+                    {
+                        "start_index": 144,
+                        "end_index": 185,
+                        "reason": "NON_COMPLIANT",
+                        "id": 223625
+                    },
+                    {
+                        "start_index": 418,
+                        "end_index": 482,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 223626
+                    },
+                    {
+                        "start_index": 523,
+                        "end_index": 633,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 223627
+                    },
+                    {
+                        "start_index": 660,
+                        "end_index": 680,
+                        "reason": "NON_COMPLIANT",
+                        "id": 223628
+                    },
+                    {
+                        "start_index": 681,
+                        "end_index": 734,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 223629
+                    }
+                ],
+                "reviewed_on": "2019-11-23 08:55:40",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 383,
+                "text": "Hip Replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 842934,
+            "status": "PUBLISHED",
+            "note": "2018-04-10 10:23:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-10T11:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37186957,
+                "review_text": "He is quite an experienced Doctor.  I can say he new what exactly my problem was just by looking at the Xray.... I could not explain myself much....he understood my problem much better maybe than i understood it myself....\nHe told me the operation i was going to undergo was major, not easy, but he reassured me he was going to do his best. \nMy leg was short by 13cm. The hip was ankylosed associated with unilateral pelvic tilt and medial rotation of the limb. \nMy leg was lengthened  by10cm, the 3cm remaining was due to pelvic tilt. He reassured me that with time the tilted pelvis will come down. As i type now iam 12days post op and the shortening is 2.6cm. Iam greatful for the great care and treatment I received from. Doctor Gulati it is my prayer to the Lord that he may give Him more wisdom to save many lives! \nThankyou Dr for the great work once again\ud83d\ude0d\n\n#Blessings",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-07 17:52:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 869,
+                "text": "Knee Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 471237,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-15T08:33:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31378923,
+                "review_text": "visited the doctor for a pain in my knee which was  diagnosed as a nerve problem. However the doctor told me it was because of tight and stiff muscles and started physiotherapy at his center. The first session itself give me immense relief . I am indebted to the doctor and his team.",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-11 17:05:55",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ganga Pandey"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 204,
+                "text": "ACL Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 444700,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-09T11:05:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 29809899,
+                "review_text": "Doctor performed ACL Reconstruction surgery of my left knee. A good doctor he is. Sometimes his tone and attitude may seem to be little rude, but he knows what he is doing. Highly professional, which I think he should lessen a bit, as more interactive the doctor is, more friendly and comfortable patient would feel around him. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-08 14:37:29",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mani K Srivastava"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1604,
+                "text": "Spinal Disorders"
+            },
+            {
+                "id": 193799,
+                "text": "Pediatric Foot and Ankle Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1670078,
+            "status": "PUBLISHED",
+            "note": "2021-03-13 05:59:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-13T06:01:15+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42548001,
+                "review_text": "He was very calm and did not scare me like other doctors bragged how serious my problem is he made me feel relieved that it will be fine soon.\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-10 16:55:03",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sasha"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101607,
+                "text": "Hand Pain Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 532398,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-20T07:20:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34113679,
+                "review_text": "Professional and no-nonsense behaviour. The consultation charges, however, have been incorrectly stated here. It's Rs 1200/- per consultation, not Rs 1000/-",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-19 15:30:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shivani Raina"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 79391,
+                "text": "Frozen Shoulder Treatment"
+            },
+            {
+                "id": 192251,
+                "text": "unstable shoulder"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1378416,
+            "status": "PUBLISHED",
+            "note": "2020-02-25 06:23:11",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-25T07:02:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40995742,
+                "review_text": "The Doctor was experienced, listened carefully and suggested for Some X Rays to be More Sure of Treatment to be Provided.\n\nSuggested Normal Excersic and Physiotherapy to continue",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-22 14:43:32",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anil kumar Mendiratta"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 71,
+                "text": "Joint Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1782465,
+            "status": "PUBLISHED",
+            "note": "2021-07-23 09:23:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-23T10:05:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43161267,
+                "review_text": "This is by far our most unpleasant experience with a doctor.\nThe doctor is rude in his behaviour and words , busy with phone calls while attending patients.\nI will not recommend him to anyone.\nA patient who visits a doctor with utmost hope to get a cure should not in anyway be treated like this. Highly disappointing.",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-21 08:59:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 930,
+                "text": "Shoulder SLAP (Tear) Lesions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 559760,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-16T10:27:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34402994,
+                "review_text": "All is good. But a 45 minute wait is infuriating. Once he came all was ok.. but 45 mins waiting when i am 10 mins before timing was frustrating.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-15 11:02:03",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Kanwar Anand"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 75,
+                "text": "Leg Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 365426,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-09-20T06:36:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 24927526,
+                "review_text": "Experience was great, positive doctor, ****** **** ****** ** * *** *** ** ****** ** just because of doctor gulati my mother is able to walk now.",
+                "review_alterations": [
+                    {
+                        "start_index": 39,
+                        "end_index": 83,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 5826
+                    }
+                ],
+                "reviewed_on": "2016-09-20 06:34:42",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "gaurav manuja"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1114,
+                "text": "Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 286227,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-13T06:11:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 19590527,
+                "review_text": "excellent person with special skills and humble he is like a god to me and my family. i was the first in india to be operated by him through endoscopic method my name is randhir singh i was operated at L4-L5. in 1999 end.\n\nregards\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-13 06:05:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Randhir Singh"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 137314,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr Yash Gulati's Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-12-01T06:46:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 9043084,
+                "review_text": "Horrible. The doctor was acting as if he's doing me a favor. No decency of tone nor the desire to examine the problem properly. Prescribed steroids when I expressed nervousness! ",
+                "review_alterations": [],
+                "reviewed_on": "2015-12-01 06:46:39",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Swaroop Sarkar"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 71,
+                "text": "Joint Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 659723,
+            "status": "PUBLISHED",
+            "note": "2017-08-25 11:06:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-08-25T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35428082,
+                "review_text": "Dr. Yash Gulati is a very good doctor.\n\nHe is Padma Awardee & also awarded by Dr. B. C. Roy Memorial Award.\n\nI am very satisfied for his treatment and consultation.",
+                "review_alterations": [],
+                "reviewed_on": "2017-08-23 15:01:18",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 280,
+                "text": "Knee Replacement"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1914512,
+            "status": "PUBLISHED",
+            "note": "2022-01-18 04:53:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 899852,
+            "practice_name": "Dr. Yash Gulati's Clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-01-18T05:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43953145,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 13,
+                        "end_index": 149,
+                        "reason": "NON_COMPLIANT",
+                        "id": 392611
+                    },
+                    {
+                        "start_index": 195,
+                        "end_index": 578,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 392612
+                    },
+                    {
+                        "start_index": 683,
+                        "end_index": 741,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 392613
+                    },
+                    {
+                        "start_index": 798,
+                        "end_index": 851,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 392614
+                    }
+                ],
+                "reviewed_on": "2022-01-16 16:32:13",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Anand Kumar"
+        },
+        "entity_id": 389291,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 542,
+                "text": "Disc Prolapse"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1324386,
+            "status": "PUBLISHED",
+            "note": "2019-12-27 13:08:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 453136,
+            "practice_id": 912154,
+            "practice_name": "Indraprastha Apollo Hospitals",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-27T14:00:32+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40603885,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 143,
+                        "reason": "NON_COMPLIANT",
+                        "id": 232427
+                    },
+                    {
+                        "start_index": 217,
+                        "end_index": 258,
+                        "reason": "NON_COMPLIANT",
+                        "id": 232428
+                    }
+                ],
+                "reviewed_on": "2019-12-26 13:07:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Vipin Khanduri"
+        },
+        "entity_id": 405822,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

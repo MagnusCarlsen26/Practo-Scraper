@@ -1,0 +1,170 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 109,
+                "text": "Invisible/Clear Braces"
+            },
+            {
+                "id": 550,
+                "text": "Oral Prophylaxis"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            },
+            {
+                "id": 135,
+                "text": "Smile Designing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1113019,
+            "status": "PUBLISHED",
+            "note": "2019-03-23 04:48:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 725746,
+            "practice_id": 1180096,
+            "practice_name": "Aster Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-23T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39232903,
+                "review_text": "We are really happy to have doctors .which are well experienced in their treatment.They are so friendly and they are looking for patient comfort during procedure\nDr Gokul is really ,well experienced ,very kind ,very obedient ,very friendly and explains all the procedure with patience.very well worded in implants .we are satisfied .we will recommend our relatives ,family members , colleagues , neighbours.\nDr Himaja is very  professional well in hand work ,her patient handling during treatments very great .we will recommend my relatives, members family neighbours colleagues to her for treatment.\nDr Abijith is very well experienced ,very polite very friendly very well worded in treatment.we will recommend my relatives family members , colleagues neighbours to them.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-21 15:49:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671069,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1409088,
+            "status": "PUBLISHED",
+            "note": "2020-03-31 07:24:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 725746,
+            "practice_id": 1180096,
+            "practice_name": "NSN Aster Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-31T08:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41181748,
+                "review_text": "Dr gokul is one of the experienced dental surgeon in aster clinic banglore...he looks for patients comforts during treatment..",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-29 08:06:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhinav"
+        },
+        "entity_id": 671069,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 101846,
+                "text": "Scraping Periodontal"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1116540,
+            "status": "PUBLISHED",
+            "note": "2019-03-27 11:13:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 725746,
+            "practice_id": 1180096,
+            "practice_name": "Aster Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-27T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39255370,
+                "review_text": "She is very patient and friendly with the patients. She is very amiable and approachable. Very sweet.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-26 11:09:34",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 671069,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

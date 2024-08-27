@@ -1,0 +1,1088 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 4191,
+                "text": "menopause advice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1896570,
+            "status": "PUBLISHED",
+            "note": "2021-12-21 12:12:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-21T13:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43841984,
+                "review_text": "From a very long time I was looking for a good gynecologist with whom I could share my problems without any hesitation.. and I was very happy to find Dr Nikita who is amazing and explains our problems and what needs to be done... I had breasts pain and in less time she gave me appointment and checked me and made my pain relief... I am very happy.. I have already started to suggest to many of friends and family members to see her ** *** ** *** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 433,
+                        "end_index": 451,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 388504
+                    }
+                ],
+                "reviewed_on": "2021-12-20 10:31:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arpitha krishna murthy"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2278853,
+            "status": "PUBLISHED",
+            "note": "2023-10-18 12:12:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1418401,
+            "practice_name": "Garbhagudi IVF Centre - New BEL Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-18T13:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46076635,
+                "review_text": "Dr. Nikitha Murthy explained everything very neatly.  We are happy continue treatment with her.  Staff is very friendly.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-17 12:12:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SUMITHRA K"
+        },
+        "entity_id": 856605,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1880773,
+            "status": "PUBLISHED",
+            "note": "2021-11-26 10:53:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-25T13:53:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 328861,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much!",
+                "replied_at": "2021-11-25T13:53:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 43752803,
+                "review_text": "With Dr Nikitha Murthy i had very good experience *** ** * **** **** ** .She diagnosis exact cause and give the treatment according to the cause.She explains in detail. I recommend her to all the women who wants to conceive. I give her five star.",
+                "review_alterations": [
+                    {
+                        "start_index": 50,
+                        "end_index": 71,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 385216
+                    }
+                ],
+                "reviewed_on": "2021-11-25 08:55:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MRUDULA"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1879951,
+            "status": "PUBLISHED",
+            "note": "2021-11-25 09:31:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-25T10:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 328862,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you sir!",
+                "replied_at": "2021-11-25T13:54:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 43748263,
+                "review_text": "She is good and provide her valuable suggestions and traeted as friendly. It will help us to improve the confidence.",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-24 05:48:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nagendra reddy"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1831286,
+            "status": "PUBLISHED",
+            "note": "2021-09-19 06:22:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-19T07:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 316260,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your feedback",
+                "replied_at": "2021-09-20T05:13:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 43446640,
+                "review_text": "Dr Nikitha is very understanding, kind and friendly. Had a wonderful experience. She takes time and diagonisis clearly. Appreciate her patience from the start!! Would highly recommend... ",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-17 16:44:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dhruthi N S"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1834704,
+            "status": "PUBLISHED",
+            "note": "2021-09-24 05:45:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-23T06:50:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 317229,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much! Hope your journey towards pregnancy is short but successful. Take care.",
+                "replied_at": "2021-09-23T06:50:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 43467959,
+                "review_text": "Went to Sukhi health clinic for my infertility problem.. Doctor was very polite and explained whats the problem and what need to be done step by step and always gave the best option to consider. I strongly recommend Dr. Nikitha for all gynecological and infertility related problem. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-22 13:58:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1881928,
+            "status": "PUBLISHED",
+            "note": "2021-11-28 06:07:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-28T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43759212,
+                "review_text": "Dr. Nikitha has been extremely helpful and patient. She provides comfort and gives every individual opportunity to express their issues and findes resolution. Fertility is a difficult topic but she ensured transparency and suggested options available. Her guidance , help support is unparalleled.",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-27 04:41:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1558968,
+            "status": "PUBLISHED",
+            "note": "2020-10-27 06:42:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 880671,
+            "practice_name": "Medray Diagnostic Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-26T08:09:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243988,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you dear. Happy to help!",
+                "replied_at": "2020-10-26T08:09:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 41948599,
+                "review_text": "********** ****** ** * **** **** ****** * **** *** ** ** **** ****** ******* *** *** ***** ** ****** ******* ******* She is very responsible, trustworthy and cooperative thanks u so much Doctor \nI recommend dr nikitha who has gyno related problems should visit to her\nShe talks very friendly.... her positive reaction will definitely cure your health problems....\nThank you mam ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 115,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 304019
+                    }
+                ],
+                "reviewed_on": "2020-10-25 06:24:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 736763,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2285202,
+            "status": "PUBLISHED",
+            "note": "2023-10-31 08:14:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1418401,
+            "practice_name": "Garbhagudi IVF Centre - New BEL Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-31T09:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46112742,
+                "review_text": "Dr Nikitha is very understanding, kind and friendly. Had a wonderful experience. She takes time and diagnosis clearly.  Appreciate her patience from the start!! Would highly recommend...",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-30 07:18:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 856605,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2279346,
+            "status": "PUBLISHED",
+            "note": "2023-10-19 09:51:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1418401,
+            "practice_name": "Garbhagudi IVF Centre - New BEL Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-19T10:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46079402,
+                "review_text": "I recommend the doctor, \nI will give five stars to this doctor. Because  Madam has good experience in OBG  and infertility treatment. \nThanks for the treatment. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-18 09:50:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 856605,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 938,
+                "text": "Pre and Post Delivery Care"
+            },
+            {
+                "id": 4191,
+                "text": "menopause advice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1896570,
+            "status": "PUBLISHED",
+            "note": "2021-12-21 12:12:46",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-21T13:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43841984,
+                "review_text": "From a very long time I was looking for a good gynecologist with whom I could share my problems without any hesitation.. and I was very happy to find Dr Nikita who is amazing and explains our problems and what needs to be done... I had breasts pain and in less time she gave me appointment and checked me and made my pain relief... I am very happy.. I have already started to suggest to many of friends and family members to see her ** *** ** *** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 433,
+                        "end_index": 451,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 388504
+                    }
+                ],
+                "reviewed_on": "2021-12-20 10:31:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arpitha krishna murthy"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2278853,
+            "status": "PUBLISHED",
+            "note": "2023-10-18 12:12:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1418401,
+            "practice_name": "Garbhagudi IVF Centre - New BEL Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-18T13:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46076635,
+                "review_text": "Dr. Nikitha Murthy explained everything very neatly.  We are happy continue treatment with her.  Staff is very friendly.",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-17 12:12:08",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SUMITHRA K"
+        },
+        "entity_id": 856605,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1880773,
+            "status": "PUBLISHED",
+            "note": "2021-11-26 10:53:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-25T13:53:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 328861,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much!",
+                "replied_at": "2021-11-25T13:53:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 43752803,
+                "review_text": "With Dr Nikitha Murthy i had very good experience *** ** * **** **** ** .She diagnosis exact cause and give the treatment according to the cause.She explains in detail. I recommend her to all the women who wants to conceive. I give her five star.",
+                "review_alterations": [
+                    {
+                        "start_index": 50,
+                        "end_index": 71,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 385216
+                    }
+                ],
+                "reviewed_on": "2021-11-25 08:55:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MRUDULA"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1879951,
+            "status": "PUBLISHED",
+            "note": "2021-11-25 09:31:50",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-25T10:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 328862,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you sir!",
+                "replied_at": "2021-11-25T13:54:00+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 43748263,
+                "review_text": "She is good and provide her valuable suggestions and traeted as friendly. It will help us to improve the confidence.",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-24 05:48:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Nagendra reddy"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1831286,
+            "status": "PUBLISHED",
+            "note": "2021-09-19 06:22:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-19T07:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 316260,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much for your feedback",
+                "replied_at": "2021-09-20T05:13:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 43446640,
+                "review_text": "Dr Nikitha is very understanding, kind and friendly. Had a wonderful experience. She takes time and diagonisis clearly. Appreciate her patience from the start!! Would highly recommend... ",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-17 16:44:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dhruthi N S"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1834704,
+            "status": "PUBLISHED",
+            "note": "2021-09-24 05:45:45",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-23T06:50:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 317229,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you so much! Hope your journey towards pregnancy is short but successful. Take care.",
+                "replied_at": "2021-09-23T06:50:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 43467959,
+                "review_text": "Went to Sukhi health clinic for my infertility problem.. Doctor was very polite and explained whats the problem and what need to be done step by step and always gave the best option to consider. I strongly recommend Dr. Nikitha for all gynecological and infertility related problem. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-22 13:58:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1881928,
+            "status": "PUBLISHED",
+            "note": "2021-11-28 06:07:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1357409,
+            "practice_name": "Sukhi Health Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-28T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43759212,
+                "review_text": "Dr. Nikitha has been extremely helpful and patient. She provides comfort and gives every individual opportunity to express their issues and findes resolution. Fertility is a difficult topic but she ensured transparency and suggested options available. Her guidance , help support is unparalleled.",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-27 04:41:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 789463,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1558968,
+            "status": "PUBLISHED",
+            "note": "2020-10-27 06:42:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 880671,
+            "practice_name": "Medray Diagnostic Center",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-26T08:09:40+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243988,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you dear. Happy to help!",
+                "replied_at": "2020-10-26T08:09:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 9084297,
+                "modified_by_id": 9084297,
+                "replier_name": "Dr. Nikitha Murthy",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/1052048/dr-nikitha-murthy-b-s-6422cd85c1d88.png"
+            },
+            "survey_response": {
+                "id": 41948599,
+                "review_text": "********** ****** ** * **** **** ****** * **** *** ** ** **** ****** ******* *** *** ***** ** ****** ******* ******* She is very responsible, trustworthy and cooperative thanks u so much Doctor \nI recommend dr nikitha who has gyno related problems should visit to her\nShe talks very friendly.... her positive reaction will definitely cure your health problems....\nThank you mam ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 115,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 304019
+                    }
+                ],
+                "reviewed_on": "2020-10-25 06:24:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 736763,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2285202,
+            "status": "PUBLISHED",
+            "note": "2023-10-31 08:14:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1418401,
+            "practice_name": "Garbhagudi IVF Centre - New BEL Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-31T09:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46112742,
+                "review_text": "Dr Nikitha is very understanding, kind and friendly. Had a wonderful experience. She takes time and diagnosis clearly.  Appreciate her patience from the start!! Would highly recommend...",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-30 07:18:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 856605,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 459,
+                "text": "Infertility Evaluation / Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2279346,
+            "status": "PUBLISHED",
+            "note": "2023-10-19 09:51:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 889796,
+            "practice_id": 1418401,
+            "practice_name": "Garbhagudi IVF Centre - New BEL Road",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-19T10:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46079402,
+                "review_text": "I recommend the doctor, \nI will give five stars to this doctor. Because  Madam has good experience in OBG  and infertility treatment. \nThanks for the treatment. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-18 09:50:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 856605,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

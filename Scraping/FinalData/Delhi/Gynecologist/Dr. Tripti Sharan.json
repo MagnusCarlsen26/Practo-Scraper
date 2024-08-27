@@ -1,0 +1,204 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1635606,
+            "status": "PUBLISHED",
+            "note": "2021-02-02 10:33:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 538245,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-02-02T11:01:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42359510,
+                "review_text": "We consulted her from Jan-Mar 2020 during the first trimester of my wife's pregnancy and it was a bad experience. ** ********** ******** ********** ** **** **** **** *** ****** ** *** *** *** ***** *** ** ********* *** ** *** **** **** * ***** ****** **** * **** ************ She told me twice - \"Don't ask me such questions\" which is when she told us something and I was just reconfirming it, like really you say that to a patient who is in trouble & battling a traumatic situation? Who else are we supposed to check with then? She also said don't trouble me much on Whatsapp.",
+                "review_alterations": [
+                    {
+                        "start_index": 113,
+                        "end_index": 275,
+                        "reason": "NON_COMPLIANT",
+                        "id": 323872
+                    }
+                ],
+                "reviewed_on": "2021-02-01 05:47:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Neeraj Nagpal"
+        },
+        "entity_id": 101793,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1852833,
+            "status": "PUBLISHED",
+            "note": "2021-10-17 05:57:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 538245,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-17T06:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43580069,
+                "review_text": "This Doctor has been very rude since i entered.She is super unfriendly *** ********** *** ** *******She disregarded my symptoms as if I was making it up.I\u2019ve been having severe abdonimal cramps and have trouble getting out of bed every morning for the last two months so I decided to visit a gynaecologist but She doesn\u2019t even listen to your problems.**** ************** ***** **** *** *** ***** ** ** **** ** **** *********We\u2019re not asking for a free diagnosis,We pay high consultation fee hoping to get relief from our pain.I strongly do not recommend this doctor to anyone",
+                "review_alterations": [
+                    {
+                        "start_index": 71,
+                        "end_index": 99,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378976
+                    },
+                    {
+                        "start_index": 351,
+                        "end_index": 423,
+                        "reason": "NON_COMPLIANT",
+                        "id": 378977
+                    }
+                ],
+                "reviewed_on": "2021-10-14 12:34:47",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101793,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1895842,
+            "status": "PUBLISHED",
+            "note": "2021-12-22 09:25:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 538245,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-22T10:01:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43837318,
+                "review_text": "pls DONT go to this doctor! She is very very rude. My mom went to her today. She kept talking rudely as if we are not paying her or something. ******* *** ******** ** ****** ** ******** *** *he dont even listen the patient. The patients who are already suffering and paid a hefty amount should not get treated like shit! ",
+                "review_alterations": [
+                    {
+                        "start_index": 143,
+                        "end_index": 190,
+                        "reason": "NON_COMPLIANT",
+                        "id": 388646
+                    }
+                ],
+                "reviewed_on": "2021-12-18 18:11:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101793,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1287425,
+            "status": "PUBLISHED",
+            "note": "2019-11-12 07:12:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 538245,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-12T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40348108,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2019-11-09 17:40:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 101793,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

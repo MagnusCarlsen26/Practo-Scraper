@@ -1,0 +1,82 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2161729,
+            "status": "PUBLISHED",
+            "note": "2023-03-05 05:37:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 664631,
+            "practice_id": 761099,
+            "practice_name": "Cloudnine Hospital - Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-05T06:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45362192,
+                "review_text": "she is very friendly doctor and diagnose the illness and treat according to that.I am connected with her from 7 years for any health issues for my daughter.",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-03 15:42:10",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Basavaraj biradar"
+        },
+        "entity_id": 635654,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2225457,
+            "status": "PUBLISHED",
+            "note": "2023-07-02 06:51:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 664631,
+            "practice_id": 761099,
+            "practice_name": "Cloudnine Hospital - Whitefield",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-02T07:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45742398,
+                "review_text": "Dr Anusha is extremely approachable and always available for clarifying doubts and concerns with respect to the baby's health condition. She is genuinely interested and follows up on the baby's well being, patiently listens to the concerns of the parents and diligently explains in detail about the dos and don'ts to be followed. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-01 04:19:30",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 635654,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

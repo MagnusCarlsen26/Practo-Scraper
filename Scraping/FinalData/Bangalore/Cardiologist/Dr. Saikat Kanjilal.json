@@ -1,0 +1,246 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2238034,
+            "status": "PUBLISHED",
+            "note": "2023-07-22 11:19:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 638090,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-22T12:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45815516,
+                "review_text": "Visited the doctor for first time when I took a full body check up and I visited him with my reports. He was calm and patience and was friendly. He asked me to go on diabetics medicines which I ignored. But in next 3 months it went from Pre diabetic to diabetic.\nVisited him again and he explained me the diet control and why medicines are needed. Now my sugar level was n control and he reduced my medicines with a promise that if I maintain that then he will reduce medicines further\n\nI will recommend him to anyone",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-21 11:14:16",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 820270,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2219099,
+            "status": "PUBLISHED",
+            "note": "2023-06-21 07:10:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 638090,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-21T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45705415,
+                "review_text": "We have been consulting Dr. Saikat for the past 7 months post my father's Angio. Dr Saikat has been very helpful & explains all procedures patiently.  Huge thanks to him for his treatment & support. Highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2023-06-19 16:24:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Narayanan P S"
+        },
+        "entity_id": 820270,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 183104,
+                "text": "Cardiac checkup - General"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2293731,
+            "status": "PUBLISHED",
+            "note": "2023-11-19 09:48:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 638090,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-19T10:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46161158,
+                "review_text": "** ** ********** ********** ** *** ******* *** ********** ****** **** **** *** ******** I went to him voluntarily  since the regular health check found something small. As part of health check, I was adviced that I might start seeing symptoms after few years but can be easily resolved if we take care right away. \nDr. Saikat prescribed me every advanced test there is, totaling nearly Rs. 40000. I am overweight and the health check found that I had diabetes. He said he wants to baseline my organs since my BP was high when I visited him (though my BP was fine in the healthcheck). He also said that he cannot decide whether I have hypertension just by the two readings we took in his office, hence he wants to look at all the results before giving BP medicine. He ordered renal doplar, sleep study, some 24 hour urine test that costs 12000, etc. ** ****** **** ********** ********* *** *** **** * *** * ****** *********** **** *** ********* *** *** ******* ** **** ** ** *** ******* ****** *** **** ** **** ************ *** ***** ****** Once I knew the cost and I cancelled the appointments, the helper called and said she can offer 35% off. **** ***** ** ******* ******* *** * ****** *** ****** ****** **** ** ****** ****** ***** ******** *** **** ** *** ***** **** * ***** ***** ****** *** ****. I think/hope this was a one off case given the high number of specialized tests that were ordered. **** ***** * **** ***** **** *** ****** ***** *********** ***** **** **** ******* ******* *** ** *** ***** ** ** **** ****** ****** * ** ***********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 86,
+                        "reason": "NON_COMPLIANT",
+                        "id": 473410
+                    },
+                    {
+                        "start_index": 848,
+                        "end_index": 1038,
+                        "reason": "NON_COMPLIANT",
+                        "id": 473411
+                    },
+                    {
+                        "start_index": 1145,
+                        "end_index": 1298,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 473412
+                    },
+                    {
+                        "start_index": 1400,
+                        "end_index": 1547,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 473413
+                    }
+                ],
+                "reviewed_on": "2023-11-18 06:07:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 820270,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2229615,
+            "status": "PUBLISHED",
+            "note": "2023-07-09 04:52:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 638090,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-07-09T05:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45766841,
+                "review_text": "Didn't have the patience to hear the patient history. Prescribed a long list of scans and test even though ECG and Echo was quite recent. ** *** ** **** ** *** ********* ** *** ********** ",
+                "review_alterations": [
+                    {
+                        "start_index": 138,
+                        "end_index": 186,
+                        "reason": "NON_COMPLIANT",
+                        "id": 462165
+                    }
+                ],
+                "reviewed_on": "2023-07-07 13:45:58",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 820270,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2213112,
+            "status": "PUBLISHED",
+            "note": "2023-06-11 06:26:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 638090,
+            "practice_id": 1163290,
+            "practice_name": "Manipal Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-11T07:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45670638,
+                "review_text": "Doctor Kanjilal is awesome. He is empathetic and listens to the patient. He ** **** ************* *** really cheers up patients. He himself saw my echo and explained things very well. Very, very impressed.",
+                "review_alterations": [
+                    {
+                        "start_index": 76,
+                        "end_index": 100,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459026
+                    }
+                ],
+                "reviewed_on": "2023-06-09 12:25:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shruti Chouhan"
+        },
+        "entity_id": 820270,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

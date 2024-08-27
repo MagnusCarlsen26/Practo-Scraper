@@ -1,0 +1,231 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1590668,
+            "status": "PUBLISHED",
+            "note": "2020-12-08 06:37:23",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 680612,
+            "practice_id": 1210581,
+            "practice_name": "Child Specialist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-08T07:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42118578,
+                "review_text": "Very patient doctor. Would recommend all parents. I just wish his clinic was bigger because of the present covid situation.",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-06 07:13:47",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aafreen shah"
+        },
+        "entity_id": 645230,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1450659,
+            "status": "PUBLISHED",
+            "note": "2020-06-23 07:41:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 680612,
+            "practice_id": 1210581,
+            "practice_name": "Child Specialist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-23T08:01:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41391112,
+                "review_text": "The doctor greeted me with a smile and treated my child very well. Best paediatrician.Would highly recommend him.",
+                "review_alterations": [],
+                "reviewed_on": "2020-06-21 15:27:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abdur Rahman"
+        },
+        "entity_id": 645230,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 960,
+                "text": "Asthma In Children"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1002180,
+            "status": "PUBLISHED",
+            "note": "2018-10-21 06:09:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 680612,
+            "practice_id": 1210581,
+            "practice_name": "Child Specialist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-21T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38476200,
+                "review_text": "The doctor was very polite n friendly. He identified the problem very quickly and has good command of the subject. The treatment worked **********",
+                "review_alterations": [
+                    {
+                        "start_index": 136,
+                        "end_index": 145,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 135929
+                    }
+                ],
+                "reviewed_on": "2018-10-19 11:15:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohammed Abdullah"
+        },
+        "entity_id": 645230,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 817,
+                "text": "Newborn Jaundice"
+            },
+            {
+                "id": 2129,
+                "text": "Paediatric Critical Care"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 952385,
+            "status": "PUBLISHED",
+            "note": "2018-08-21 12:09:14",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 680612,
+            "practice_id": 1210581,
+            "practice_name": "Dr. Abdul Ahad's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-21T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38111522,
+                "review_text": "The doctor detected my child\u2019s problem immediately which many other doctors failed to, he was very cooperative and helped us **** ** ********* **********",
+                "review_alterations": [
+                    {
+                        "start_index": 125,
+                        "end_index": 152,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 124670
+                    }
+                ],
+                "reviewed_on": "2018-08-19 14:44:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Fasiha naz"
+        },
+        "entity_id": 645230,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

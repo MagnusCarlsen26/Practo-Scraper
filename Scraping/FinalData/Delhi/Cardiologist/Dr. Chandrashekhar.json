@@ -1,0 +1,325 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1214,
+                "text": "Hypertension Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 923755,
+            "status": "PUBLISHED",
+            "note": "2018-07-17 12:55:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 458728,
+            "practice_id": 631916,
+            "practice_name": "Sunder Lal Jain Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-07-17T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37875866,
+                "review_text": "He gives ample time to the patient, listens to their problems patiently. After discussing the problems with him, we feel that half of our problem is solved. He is very professional yet very friendly in approach which is important for the patients. ** ** *** ** *** **** ******* **** * **** **** ",
+                "review_alterations": [
+                    {
+                        "start_index": 248,
+                        "end_index": 293,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 118035
+                    }
+                ],
+                "reviewed_on": "2018-07-16 03:12:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anjana "
+        },
+        "entity_id": 159905,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1214,
+                "text": "Hypertension Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1484727,
+            "status": "PUBLISHED",
+            "note": "2020-08-05 10:43:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 458728,
+            "practice_id": 908096,
+            "practice_name": "Dr. ChandraShekhar's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-05T11:01:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41562705,
+                "review_text": "The doctor cleared all our queries and explained clearly about the problem. Much satisfied and will refer him as best .",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-04 10:38:30",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vaneet kaur"
+        },
+        "entity_id": 395838,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1449879,
+            "status": "PUBLISHED",
+            "note": "2020-06-21 11:17:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 458728,
+            "practice_id": 1170909,
+            "practice_name": "North West Heart Center",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-06-21T12:00:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41387143,
+                "review_text": "Well unfortunately I have lost my Mother last month. We were consulting Dr from February but our last appointment with Dr has been delayed too much due to Corona lockdown. It was not on time. Dr prescribed us some new medications and most of them are same and one of them got removed. This prescription was for 2 months but my Mother hardly suffered 9 days as she was constantly feeling shortness in breathing and next morning she had an Heart failure. However Dr was really nice in the first 2 appointments *** *** ************ *** ******* ****** ***** *** *** **** ************ **** ** ****** ****** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 508,
+                        "end_index": 606,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 272115
+                    }
+                ],
+                "reviewed_on": "2020-06-20 11:07:58",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 612470,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1872085,
+            "status": "PUBLISHED",
+            "note": "2021-11-14 04:54:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 458728,
+            "practice_id": 758837,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-14T05:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43699690,
+                "review_text": "It was an unpleasent experience. Doctor was highly unprofessional. *** *** ****** *********. I am highly disappointed.",
+                "review_alterations": [
+                    {
+                        "start_index": 67,
+                        "end_index": 90,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 383344
+                    }
+                ],
+                "reviewed_on": "2021-11-12 21:44:21",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 754118,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 813897,
+            "status": "PUBLISHED",
+            "note": "2018-03-09 06:38:55",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 458728,
+            "practice_id": 908096,
+            "practice_name": "Dr. ChandraShekhar's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-09T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36926691,
+                "review_text": "Doctor spent quality time to investigate the medical issue and gave good advice. Doctor was humble and empathetic!",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-07 07:07:54",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mohd Asif"
+        },
+        "entity_id": 395838,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 724612,
+            "status": "PUBLISHED",
+            "note": "2017-11-15 05:14:42",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 458728,
+            "practice_id": 631916,
+            "practice_name": "Sunder Lal Jain Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-15T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36067691,
+                "review_text": "Dr Chandrashekhar is very much polite & friendly,Satisfied wth the quality of service & gives honest suggestions,\nMuch satisfied experience.....",
+                "review_alterations": [],
+                "reviewed_on": "2017-11-12 05:43:32",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sumit DHIR"
+        },
+        "entity_id": 159905,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

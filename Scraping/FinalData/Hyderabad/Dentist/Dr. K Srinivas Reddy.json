@@ -1,0 +1,1364 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 146774,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-12-15T14:26:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 9694066,
+                "review_text": "The doctor was polite and seemed quite experienced. has taken care to ensure i was comfortable all through. would appreciate if he keeps updating the patient on the progress of the treatment, especially if it involves more than one tooth. regular progress updates while treating the patient will be quite reassuring as the patient would not be exactly aware of what is happening. also before starting the treatment, i would like the patient to be told what exactly is going to happen in the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2015-12-15 14:26:07",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pavan k reddy"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 709898,
+            "status": "PUBLISHED",
+            "note": "2017-10-27 10:30:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-27T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35929183,
+                "review_text": "Very professional . Good ambience. Appointments convenient . Equipments modern and up to date. Courteous reception \n",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-25 13:58:26",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "GOURIE BHAT"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1006926,
+            "status": "PUBLISHED",
+            "note": "2018-10-27 09:55:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-27T10:00:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38510257,
+                "review_text": "Dr srinivas is very experienced in teeth replacement...very professional and im happy im eating well now..",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-26 09:52:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Narsimha reddy"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 745554,
+            "status": "PUBLISHED",
+            "note": "2017-12-13 05:18:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36269884,
+                "review_text": "they have done great job fixing my tooth problem which has been bothering me for a while now. Happy customer.",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-09 10:58:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suresh"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 733116,
+            "status": "PUBLISHED",
+            "note": "2017-11-24 12:08:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-24T13:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36148728,
+                "review_text": "Dr. Srinivas did a great job in setting up the crowns for my requirement. ***** ********** ***** *** experience goes hand in hand. Very satisfied.",
+                "review_alterations": [
+                    {
+                        "start_index": 74,
+                        "end_index": 99,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 77933
+                    }
+                ],
+                "reviewed_on": "2017-11-23 06:32:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Seetharam Reddy"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 458778,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-27T12:20:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30661052,
+                "review_text": "Very nice treatment....good follow up...and great service.would def recommend NRI clients .painless and affordable.",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-27 12:16:56",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shiva madhav"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 442010,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-05T08:45:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 29647547,
+                "review_text": "It is very good keep it up .thank you. I will definitely recommend you to my friends  and relatives.Best  thing about sri the dentist is they do not compromise on the quality and always look for long  term results.",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-05 08:43:54",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jagdish sonthalia"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 439325,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-02T12:00:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 29494064,
+                "review_text": "I had a wonderful experience with both the doctors. The doctors and the staff were very courteous and friendly. The service was prompt and seamless. Definitely a best choice for all your dental concerns. Take care. Cheers!",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-02 11:42:29",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pratheep Mano"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 99,
+                "text": "Dental Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 395367,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-27T11:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26621611,
+                "review_text": "Good . the doctor responded quickly to my requirements and the process was done within the stipulated time. He was polite and explained the problem to me in lay man terms ",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-27 10:57:50",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr. Srinath G"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 381016,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-10T12:03:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 25813554,
+                "review_text": "Super service every one should visit sri the dentist wonder full service doctors and  as well staff behaviour is friendly ...got painless treatment done here....will definitely recommend this hospital to my friends and family\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-08 10:33:41",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ramaniwas sharma"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 146774,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-12-15T14:26:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 9694066,
+                "review_text": "The doctor was polite and seemed quite experienced. has taken care to ensure i was comfortable all through. would appreciate if he keeps updating the patient on the progress of the treatment, especially if it involves more than one tooth. regular progress updates while treating the patient will be quite reassuring as the patient would not be exactly aware of what is happening. also before starting the treatment, i would like the patient to be told what exactly is going to happen in the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2015-12-15 14:26:07",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pavan k reddy"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 709898,
+            "status": "PUBLISHED",
+            "note": "2017-10-27 10:30:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-27T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35929183,
+                "review_text": "Very professional . Good ambience. Appointments convenient . Equipments modern and up to date. Courteous reception \n",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-25 13:58:26",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "GOURIE BHAT"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1006926,
+            "status": "PUBLISHED",
+            "note": "2018-10-27 09:55:35",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-27T10:00:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38510257,
+                "review_text": "Dr srinivas is very experienced in teeth replacement...very professional and im happy im eating well now..",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-26 09:52:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Narsimha reddy"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 745554,
+            "status": "PUBLISHED",
+            "note": "2017-12-13 05:18:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-13T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36269884,
+                "review_text": "they have done great job fixing my tooth problem which has been bothering me for a while now. Happy customer.",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-09 10:58:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suresh"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 733116,
+            "status": "PUBLISHED",
+            "note": "2017-11-24 12:08:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-11-24T13:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36148728,
+                "review_text": "Dr. Srinivas did a great job in setting up the crowns for my requirement. ***** ********** ***** *** experience goes hand in hand. Very satisfied.",
+                "review_alterations": [
+                    {
+                        "start_index": 74,
+                        "end_index": 99,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 77933
+                    }
+                ],
+                "reviewed_on": "2017-11-23 06:32:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Seetharam Reddy"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 458778,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-27T12:20:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30661052,
+                "review_text": "Very nice treatment....good follow up...and great service.would def recommend NRI clients .painless and affordable.",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-27 12:16:56",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shiva madhav"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 442010,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-05T08:45:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 29647547,
+                "review_text": "It is very good keep it up .thank you. I will definitely recommend you to my friends  and relatives.Best  thing about sri the dentist is they do not compromise on the quality and always look for long  term results.",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-05 08:43:54",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jagdish sonthalia"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 439325,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-02T12:00:14+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 29494064,
+                "review_text": "I had a wonderful experience with both the doctors. The doctors and the staff were very courteous and friendly. The service was prompt and seamless. Definitely a best choice for all your dental concerns. Take care. Cheers!",
+                "review_alterations": [],
+                "reviewed_on": "2017-01-02 11:42:29",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pratheep Mano"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 99,
+                "text": "Dental Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 395367,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-27T11:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26621611,
+                "review_text": "Good . the doctor responded quickly to my requirements and the process was done within the stipulated time. He was polite and explained the problem to me in lay man terms ",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-27 10:57:50",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Mr. Srinath G"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 381016,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-10T12:03:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 25813554,
+                "review_text": "Super service every one should visit sri the dentist wonder full service doctors and  as well staff behaviour is friendly ...got painless treatment done here....will definitely recommend this hospital to my friends and family\n",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-08 10:33:41",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ramaniwas sharma"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 313416,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-18T13:25:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 21455955,
+                "review_text": "Gives good advise. Courteous and patient. Listens and understands. Sensitive to patients time and pain. Seeks and enquired post the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-16 10:44:38",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Yugandhar P"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 310610,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-07-13T06:37:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 21268278,
+                "review_text": "Treatment is perfrctely alright ,very genuine and guided me properly.appointments are very well maintained.I have  not experienced any pain during the treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2016-07-13 06:37:01",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "M.venkatarathnam"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 293556,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-22T10:06:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 20076662,
+                "review_text": "Treatment was very good, consultation was provided on better care for teeth. Doctor was polite and friendly. We would recommend to our friends",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-22 05:51:33",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "anandh"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 251783,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-04-29T06:41:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 17190793,
+                "review_text": "Very good . Dr is very polite. Treatment is effective. Ambience is good. Staff is courtecious. Hospital is situated in a convenient location. Since city is expanding, may consider establishing one more centre in IT corridor area.",
+                "review_alterations": [],
+                "reviewed_on": "2016-04-29 06:39:49",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Narendar rao"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 224073,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-03-28T08:46:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 15039913,
+                "review_text": "It's a good experience . I came here for the first time according to my friend recommendation, This is the first treatment here, I feel good, the hygiene is high quality and the doctor as well.",
+                "review_alterations": [],
+                "reviewed_on": "2016-03-26 11:29:11",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Saja sadiq"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 154400,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-12-28T06:44:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 10282529,
+                "review_text": "The treatment is Excellent and very caring. The good thing is, I didn't get any pain during the course of treatment. Thanks for the team.",
+                "review_alterations": [],
+                "reviewed_on": "2015-12-28 06:44:37",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pavan Kumar"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 137563,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-12-01T11:51:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 9055917,
+                "review_text": "Good consultation from the doctors. We get appointment very regularly and they are very prompt and regular about the work. Good progress I can see in my child's teeth. Happy to be here every time. Thankyou",
+                "review_alterations": [],
+                "reviewed_on": "2015-12-01 11:51:02",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "meghana"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 137548,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-12-01T11:02:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 9055302,
+                "review_text": "Doctor was knowledgable and has a good hand. He was also very approachable and friendly. Old diagnosis and effective treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2015-12-01 11:02:27",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Santosh Kamath"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 134938,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-11-27T13:25:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 8878487,
+                "review_text": "Its nice and quick experience with Dr. Srinivas always,\nCooperative and responsive all the time. Felt his experience hen he was doing treatment.",
+                "review_alterations": [],
+                "reviewed_on": "2015-11-27 13:25:45",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ahmedi bee"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 134883,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1634,
+            "practice_id": 652276,
+            "practice_name": "Sri The Dentist",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2015-11-27T12:42:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 8877521,
+                "review_text": "Good caring by doctors they r really very well experienced ..clinic is very good they take good care..treatment is very well....\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2015-11-27 12:42:46",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Venky naidu"
+        },
+        "entity_id": 1186,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

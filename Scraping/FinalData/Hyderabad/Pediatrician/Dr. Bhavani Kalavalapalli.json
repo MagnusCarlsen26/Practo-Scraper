@@ -1,0 +1,216 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 828027,
+            "status": "PUBLISHED",
+            "note": "2018-03-23 10:15:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 534284,
+            "practice_id": 1136641,
+            "practice_name": "Idea Clinics.",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-23T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37054161,
+                "review_text": "She has rich experience ** ********** ******* and very professional,cost wise very reasonable comparitively.",
+                "review_alterations": [
+                    {
+                        "start_index": 24,
+                        "end_index": 44,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 98508
+                    }
+                ],
+                "reviewed_on": "2018-03-22 10:11:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dinesh"
+        },
+        "entity_id": 562960,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1596889,
+            "status": "PUBLISHED",
+            "note": "2020-12-15 10:33:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 534284,
+            "practice_id": 1136641,
+            "practice_name": "Idea Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-12-15T11:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42151611,
+                "review_text": "Excellent visit, Experience with Dr. is great. Waiting time is normal.I have really appreciate her capable and caring attitude.",
+                "review_alterations": [],
+                "reviewed_on": "2020-12-14 08:09:32",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 562960,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 871850,
+            "status": "PUBLISHED",
+            "note": "2018-05-12 13:01:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 534284,
+            "practice_id": 1136641,
+            "practice_name": "Idea Clinics.",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-05-12T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37440875,
+                "review_text": "Doctor is great but hospital staff is not at all responsible and will not schedule and update the information correctly.mainly front desk and reception people do not communicate well.",
+                "review_alterations": [],
+                "reviewed_on": "2018-05-11 12:52:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 562960,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1120,
+                "text": "Cough In Children"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 777403,
+            "status": "PUBLISHED",
+            "note": "2018-02-02 05:45:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 534284,
+            "practice_id": 1136641,
+            "practice_name": "Idea Clinics.",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-02T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36580197,
+                "review_text": "Clearly explains about the cause, illness and medication provided. Also supports us on emergency. Very much satisfied",
+                "review_alterations": [],
+                "reviewed_on": "2018-01-22 04:48:37",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 562960,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

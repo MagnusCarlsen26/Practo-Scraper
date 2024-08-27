@@ -1,0 +1,64 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            },
+            {
+                "id": 1534,
+                "text": "Maternal Care/ Checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1038278,
+            "status": "PUBLISHED",
+            "note": "2018-12-12 07:33:53",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 625773,
+            "practice_id": 1138095,
+            "practice_name": "Apollo Cradle",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-12T08:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38734511,
+                "review_text": "Awesome Doctor...She prepared me for every situation during my pregnancy in advance...I was informed about each and every thing about pregnancy...",
+                "review_alterations": [],
+                "reviewed_on": "2018-12-10 13:53:36",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 618668,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2273047,
+            "status": "PUBLISHED",
+            "note": "2023-10-08 10:01:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1072336,
+            "practice_id": 1428209,
+            "practice_name": "Partha Dental  Skin Hair",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-08T11:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46043437,
+                "review_text": "I'm very much satisfied with the overall experience by Dr vinod he consulted and advised me aligners now I'm able to smile confidently I can do my work very confidentley",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-07 06:12:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 869696,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2272024,
+            "status": "PUBLISHED",
+            "note": "2023-10-07 05:36:27",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1072336,
+            "practice_id": 1428209,
+            "practice_name": "Partha Dental  Skin Hair",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-07T06:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46038057,
+                "review_text": "I visited here for dental problem Dr vinod advised me RCT treatment done I'm satisfied very professional thanks lot",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-05 13:36:53",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 869696,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,1290 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 999765,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 05:25:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111126,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks a lot ",
+                "replied_at": "2018-10-17T07:23:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38458992,
+                "review_text": "Dr. Khushboo is a wonderful dentist. I am not very fond of going to dentists, but when I visited Dr Khushboo, it was not so scary. She really made me feel comfortable and my Root canal procedure went without any hiccups whatsoever. I would definitely recommend someone who is scared of dentists to go to her clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-15 17:36:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aniruddha"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1085128,
+            "status": "PUBLISHED",
+            "note": "2019-02-14 06:02:59",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-14T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39047610,
+                "review_text": "It was pretty good. The doctor was friendly and did the job very efficiently. I did not feel much pain when the treatment was going on. I would recommend doctor for dental issues.",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-13 02:53:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shivani Bhandari"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1085024,
+            "status": "PUBLISHED",
+            "note": "2019-02-14 04:52:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-14T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39047020,
+                "review_text": "She is a very friendly doctor and did my treatment very well without any pain. Definitely recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-12 16:48:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Amita Chamaria"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 999748,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 05:20:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111127,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks again",
+                "replied_at": "2018-10-17T07:23:55+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38458900,
+                "review_text": "***** ********** \nAll the sessions went quite smoothly, without any pain. I have recommended it to all my colleagues.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 135331
+                    }
+                ],
+                "reviewed_on": "2018-10-15 17:06:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rohit Singh"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 999672,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 05:04:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111129,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks.take care",
+                "replied_at": "2018-10-17T07:24:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38458336,
+                "review_text": "Visited the doctor, for my toot pain.Happy with the explanation of my teeth pain.Doctor is very polite and friendly as well.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-15 14:49:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Monalisa"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1000066,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 07:00:32",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T07:24:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111130,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks ",
+                "replied_at": "2018-10-17T07:24:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38461128,
+                "review_text": "Dent-o-care dental clinic was bright n pleasing. I had my front teeth crooked so i went there. All the treatment  procedure  was explained  properly n doctor did my filling so nicely dat it looks natural.. No 1can make out..my smile is improved a lot. Thanks to the doctor for doing wonderful work. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-16 07:00:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1086004,
+            "status": "PUBLISHED",
+            "note": "2019-02-15 05:20:07",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-15T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 131318,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u.. ",
+                "replied_at": "2019-02-26T04:35:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 39053352,
+                "review_text": "It was a very great experience and i would always look forward to come here and would also recommend people to come here",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-13 20:56:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1000946,
+            "status": "PUBLISHED",
+            "note": "2018-10-18 09:31:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-18T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111805,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for appreciation",
+                "replied_at": "2018-10-23T12:42:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38467561,
+                "review_text": "A highly professional Dentist, makes you feel comfortable as soon as you start conversing about your problems. Overall, I was very happy with the patience and treatment of the Dentist as well as the final outcome of the same.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-17 08:41:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1000877,
+            "status": "PUBLISHED",
+            "note": "2018-10-18 07:22:35",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T07:23:28+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111125,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank-you",
+                "replied_at": "2018-10-17T07:23:28+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38467174,
+                "review_text": "Very hygienic and affordable. The experience was very good .Root Canal went very smoothly without any pain. Highly recommend.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-17 07:22:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 999554,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 04:30:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38457554,
+                "review_text": "good work prompt attention. prime location. freindly feeling doctor . relief in pain. clean and good clinic",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-15 13:30:52",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 999765,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 05:25:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111126,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks a lot ",
+                "replied_at": "2018-10-17T07:23:40+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38458992,
+                "review_text": "Dr. Khushboo is a wonderful dentist. I am not very fond of going to dentists, but when I visited Dr Khushboo, it was not so scary. She really made me feel comfortable and my Root canal procedure went without any hiccups whatsoever. I would definitely recommend someone who is scared of dentists to go to her clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-15 17:36:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Aniruddha"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1085128,
+            "status": "PUBLISHED",
+            "note": "2019-02-14 06:02:59",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-14T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39047610,
+                "review_text": "It was pretty good. The doctor was friendly and did the job very efficiently. I did not feel much pain when the treatment was going on. I would recommend doctor for dental issues.",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-13 02:53:37",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shivani Bhandari"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1085024,
+            "status": "PUBLISHED",
+            "note": "2019-02-14 04:52:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-14T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39047020,
+                "review_text": "She is a very friendly doctor and did my treatment very well without any pain. Definitely recommended.",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-12 16:48:07",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Amita Chamaria"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 999748,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 05:20:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111127,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks again",
+                "replied_at": "2018-10-17T07:23:55+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38458900,
+                "review_text": "***** ********** \nAll the sessions went quite smoothly, without any pain. I have recommended it to all my colleagues.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 135331
+                    }
+                ],
+                "reviewed_on": "2018-10-15 17:06:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rohit Singh"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 999672,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 05:04:28",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111129,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks.take care",
+                "replied_at": "2018-10-17T07:24:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38458336,
+                "review_text": "Visited the doctor, for my toot pain.Happy with the explanation of my teeth pain.Doctor is very polite and friendly as well.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-15 14:49:19",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Monalisa"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1000066,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 07:00:32",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T07:24:30+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111130,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks ",
+                "replied_at": "2018-10-17T07:24:30+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38461128,
+                "review_text": "Dent-o-care dental clinic was bright n pleasing. I had my front teeth crooked so i went there. All the treatment  procedure  was explained  properly n doctor did my filling so nicely dat it looks natural.. No 1can make out..my smile is improved a lot. Thanks to the doctor for doing wonderful work. ",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-16 07:00:16",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1086004,
+            "status": "PUBLISHED",
+            "note": "2019-02-15 05:20:07",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-02-15T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 131318,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank u.. ",
+                "replied_at": "2019-02-26T04:35:43+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 39053352,
+                "review_text": "It was a very great experience and i would always look forward to come here and would also recommend people to come here",
+                "review_alterations": [],
+                "reviewed_on": "2019-02-13 20:56:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            },
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1000946,
+            "status": "PUBLISHED",
+            "note": "2018-10-18 09:31:12",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-18T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111805,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for appreciation",
+                "replied_at": "2018-10-23T12:42:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38467561,
+                "review_text": "A highly professional Dentist, makes you feel comfortable as soon as you start conversing about your problems. Overall, I was very happy with the patience and treatment of the Dentist as well as the final outcome of the same.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-17 08:41:03",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1000877,
+            "status": "PUBLISHED",
+            "note": "2018-10-18 07:22:35",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T07:23:28+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 111125,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank-you",
+                "replied_at": "2018-10-17T07:23:28+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 4678824,
+                "modified_by_id": 4678824,
+                "replier_name": "Dr. Khushboo Nikhil Kedia",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/689411/dr-khushboo-nikhil-kedia-5bcf22a2ee6e3.jpeg"
+            },
+            "survey_response": {
+                "id": 38467174,
+                "review_text": "Very hygienic and affordable. The experience was very good .Root Canal went very smoothly without any pain. Highly recommend.",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-17 07:22:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 999554,
+            "status": "PUBLISHED",
+            "note": "2018-10-17 04:30:25",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 689411,
+            "practice_id": 1221965,
+            "practice_name": "Dent-O-Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-17T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38457554,
+                "review_text": "good work prompt attention. prime location. freindly feeling doctor . relief in pain. clean and good clinic",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-15 13:30:52",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 650026,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,2718 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1705937,
+            "status": "PUBLISHED",
+            "note": "2021-04-24 05:35:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-24T06:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42747393,
+                "review_text": "We visited Dr. for my Son showing up Covid symptoms. Dr. immediately started his treatment and recommended for ICU observation as my son's conditon was not good  . He consulted Hospitals and provided online consultation and helped to get admission. Post discharge, Dr. continued to provide online consultation and helped him to recover fast. Along with my son, other family members also got covid positive. Dr. helped to provide online consultation and medicine to all family members to recover fast. Thank you Dr.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-23 01:18:45",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vinai Saxena"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 606616,
+            "status": "PUBLISHED",
+            "note": "2017-06-30 09:02:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-30T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 38593,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Mr bijoo. Really appreciate",
+                "replied_at": "2017-07-26T08:09:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 195081,
+                "modified_by_id": 195081,
+                "replier_name": "Dr. N Praveen Kumar",
+                "replier_logo": "https://images2-fabric.practo.com/practo-resources/core/doctor/photos/2c76246a3fad176e6e89d69cb2bc3529d94c1400.jpg"
+            },
+            "survey_response": {
+                "id": 34872822,
+                "review_text": "One rarely see a doctor so grounded and hears paitently . The doctor really digs in to know the root cause . I was feverish due to food allergy\nAmazingly he did know my other health issue without letting him know and he gave medicine accordingly.the doctor will on precribe for test if only required. I would definitely recommend him",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-28 05:30:38",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "BIJOO Krishna Menon"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2213786,
+            "status": "PUBLISHED",
+            "note": "2023-06-13 05:28:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 1164091,
+            "practice_name": "Navachethana Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-13T06:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45674850,
+                "review_text": "Visited Dr, complaining of chest pain,  the Dr said in next one minute that I need to do, tmt, echo, ECG , vit b12, vit d etc. * **** ** ****** ****** ** *** *** ****** ** ******** *** ******* *****. That being the case I think every patient should do this tests and only then visit him. Also he said he won't see reports from any other centre but their hospital only. **** ** **** *** ***** ******* ***** ***** ***** *** *************** * ***** ***** ** ** * *********** ** *** ** ********** *** ******* ******** ** ***\n\nI did all tests but didn't see him with reports, but went to another doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 127,
+                        "end_index": 197,
+                        "reason": "NON_COMPLIANT",
+                        "id": 459211
+                    },
+                    {
+                        "start_index": 369,
+                        "end_index": 428,
+                        "reason": "NON_COMPLIANT",
+                        "id": 459212
+                    },
+                    {
+                        "start_index": 429,
+                        "end_index": 519,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459213
+                    }
+                ],
+                "reviewed_on": "2023-06-10 13:08:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nilabro Paul"
+        },
+        "entity_id": 494816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1899589,
+            "status": "PUBLISHED",
+            "note": "2021-12-28 04:59:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-28T05:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43859606,
+                "review_text": "Went to take advice and concent for Dental implant ater by pass surgery as required by a dentist.\nInstead of advice, he wanted me to undergo TMT , Echo etc by paying Rs.3000. He said without these tests he can't advice or  do anything.\nHe said if I want I can go and claim My Rs 500 paid to Practo but within minutes I received his bill and Practo says no refund is possible.\nHe asked me why did I undergo CABG?\nNobody undergoes heart by pass surgery for fun?\n* ***** ********* ******** ***** **** **** ** ******* *** *****\nFrom the beginning he was telling me that he does not want to argue. I went for advice not for argument.\nJust wasted money and time.",
+                "review_alterations": [
+                    {
+                        "start_index": 460,
+                        "end_index": 522,
+                        "reason": "NON_COMPLIANT",
+                        "id": 389399
+                    }
+                ],
+                "reviewed_on": "2021-12-24 14:41:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Chella Dorai"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 157,
+                "text": "Pain in Left part of Chest"
+            },
+            {
+                "id": 160,
+                "text": "Angina"
+            },
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 464465,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-06T08:36:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30979962,
+                "review_text": "Dr. Praveen spends a considerable amount of time understanding the situation, reads the symptoms well and offers treatment based on history and current diagnosis. The doctor was extremely patient and very friendly. Very happy with my visit and will definitely recommend Dr. Praveen. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-03 14:38:41",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lakshmanan V"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1182974,
+            "status": "PUBLISHED",
+            "note": "2019-06-23 07:51:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 1164091,
+            "practice_name": "Navachethana Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-23T08:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39676196,
+                "review_text": "This hospital staff and doctor does not repects patient time. I got an appointment at 12 o clock. Waited for an hour and after multiple time asking with reception they asked me to come in evening. If you are a doc you should respect others time and patient condition.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-22 07:30:42",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Ashutosh Tripathi"
+        },
+        "entity_id": 494816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1109,
+                "text": "Type 1 Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1115280,
+            "status": "PUBLISHED",
+            "note": "2019-03-27 07:48:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-27T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39247438,
+                "review_text": "Had scheduled appointment at 8 AM as it was showing free on practo,, when I went to clinic it was closed and called the number which was on board, I think he was doctor who spoke and asked me to come after 9, so I scheduled appointment on practo at 9.15,  I was waiting for doctor for 5 mins, then they told to come after 10. If they do not respect others time how to trust.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-25 04:08:17",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Manojkumar Hurakadli"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 59,
+                "text": "Cramping"
+            },
+            {
+                "id": 1226,
+                "text": "Type 1 Diabetes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 946978,
+            "status": "PUBLISHED",
+            "note": "2018-08-14 13:33:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-14T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38067871,
+                "review_text": "I first visited doctor on Saturday morning and then same day evening for check up. He ask me come next day morning (Sunday) and seemed surprised when I visited him next day. Called me on Monday at 10, but when I reached he is out for round (to some hospital). if you can't attend patient, don't call him.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-13 08:37:30",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sampat Bhansali"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 632986,
+            "status": "PUBLISHED",
+            "note": "2017-07-27 06:24:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-26T08:08:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 38591,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much for your feedback. Appreciate it",
+                "replied_at": "2017-07-26T08:08:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 195081,
+                "modified_by_id": 195081,
+                "replier_name": "Dr. N Praveen Kumar",
+                "replier_logo": "https://images2-fabric.practo.com/practo-resources/core/doctor/photos/2c76246a3fad176e6e89d69cb2bc3529d94c1400.jpg"
+            },
+            "survey_response": {
+                "id": 35146604,
+                "review_text": "I had high fever, severe body pain, fatigue and cough when I went for consultation. Doctor listened to the issues carefully, educated me and gave me a few medicines for throat infection. He also suggested blood test to cancel out doubt about dengue and asked me to come back 1 day later for blood test results and checkup. I felt much better after taking medicine and reports came fine.\nDoctor asked to complete the dose as planned.\n\nHe was very polite, understanding *** **** ************** Would highly recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 468,
+                        "end_index": 490,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 58672
+                    }
+                ],
+                "reviewed_on": "2017-07-25 11:02:29",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2014842,
+            "status": "PUBLISHED",
+            "note": "2022-06-22 07:26:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-22T08:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44516638,
+                "review_text": "While the doctor seemed ok, the clinic was rather dusty and dirty. The nurse took my blood sample in an unhygienic, cluttered room, and at one point I saw the needle touch the dusty table. I should have left before I took the test itself but I just went along with it because I was exhausted. Also visited the washroom to get a urine sample and it was horrible. Clinics need to be clean and hygienic and this is not done. The blood tests also seemed more expensive than other places. I complained to the doctor later about the unhygienic conditions of the room and toilet, and he said he would look into it. I hope they do for the sake of their patients. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-21 03:36:29",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1705937,
+            "status": "PUBLISHED",
+            "note": "2021-04-24 05:35:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-24T06:01:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42747393,
+                "review_text": "We visited Dr. for my Son showing up Covid symptoms. Dr. immediately started his treatment and recommended for ICU observation as my son's conditon was not good  . He consulted Hospitals and provided online consultation and helped to get admission. Post discharge, Dr. continued to provide online consultation and helped him to recover fast. Along with my son, other family members also got covid positive. Dr. helped to provide online consultation and medicine to all family members to recover fast. Thank you Dr.",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-23 01:18:45",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vinai Saxena"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 606616,
+            "status": "PUBLISHED",
+            "note": "2017-06-30 09:02:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-30T10:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 38593,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Mr bijoo. Really appreciate",
+                "replied_at": "2017-07-26T08:09:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 195081,
+                "modified_by_id": 195081,
+                "replier_name": "Dr. N Praveen Kumar",
+                "replier_logo": "https://images2-fabric.practo.com/practo-resources/core/doctor/photos/2c76246a3fad176e6e89d69cb2bc3529d94c1400.jpg"
+            },
+            "survey_response": {
+                "id": 34872822,
+                "review_text": "One rarely see a doctor so grounded and hears paitently . The doctor really digs in to know the root cause . I was feverish due to food allergy\nAmazingly he did know my other health issue without letting him know and he gave medicine accordingly.the doctor will on precribe for test if only required. I would definitely recommend him",
+                "review_alterations": [],
+                "reviewed_on": "2017-06-28 05:30:38",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "BIJOO Krishna Menon"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2213786,
+            "status": "PUBLISHED",
+            "note": "2023-06-13 05:28:43",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 1164091,
+            "practice_name": "Navachethana Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-06-13T06:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45674850,
+                "review_text": "Visited Dr, complaining of chest pain,  the Dr said in next one minute that I need to do, tmt, echo, ECG , vit b12, vit d etc. * **** ** ****** ****** ** *** *** ****** ** ******** *** ******* *****. That being the case I think every patient should do this tests and only then visit him. Also he said he won't see reports from any other centre but their hospital only. **** ** **** *** ***** ******* ***** ***** ***** *** *************** * ***** ***** ** ** * *********** ** *** ** ********** *** ******* ******** ** ***\n\nI did all tests but didn't see him with reports, but went to another doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 127,
+                        "end_index": 197,
+                        "reason": "NON_COMPLIANT",
+                        "id": 459211
+                    },
+                    {
+                        "start_index": 369,
+                        "end_index": 428,
+                        "reason": "NON_COMPLIANT",
+                        "id": 459212
+                    },
+                    {
+                        "start_index": 429,
+                        "end_index": 519,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 459213
+                    }
+                ],
+                "reviewed_on": "2023-06-10 13:08:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Nilabro Paul"
+        },
+        "entity_id": 494816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1899589,
+            "status": "PUBLISHED",
+            "note": "2021-12-28 04:59:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-12-28T05:00:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43859606,
+                "review_text": "Went to take advice and concent for Dental implant ater by pass surgery as required by a dentist.\nInstead of advice, he wanted me to undergo TMT , Echo etc by paying Rs.3000. He said without these tests he can't advice or  do anything.\nHe said if I want I can go and claim My Rs 500 paid to Practo but within minutes I received his bill and Practo says no refund is possible.\nHe asked me why did I undergo CABG?\nNobody undergoes heart by pass surgery for fun?\n* ***** ********* ******** ***** **** **** ** ******* *** *****\nFrom the beginning he was telling me that he does not want to argue. I went for advice not for argument.\nJust wasted money and time.",
+                "review_alterations": [
+                    {
+                        "start_index": 460,
+                        "end_index": 522,
+                        "reason": "NON_COMPLIANT",
+                        "id": 389399
+                    }
+                ],
+                "reviewed_on": "2021-12-24 14:41:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Chella Dorai"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 157,
+                "text": "Pain in Left part of Chest"
+            },
+            {
+                "id": 160,
+                "text": "Angina"
+            },
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 464465,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-06T08:36:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30979962,
+                "review_text": "Dr. Praveen spends a considerable amount of time understanding the situation, reads the symptoms well and offers treatment based on history and current diagnosis. The doctor was extremely patient and very friendly. Very happy with my visit and will definitely recommend Dr. Praveen. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-03 14:38:41",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lakshmanan V"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1182974,
+            "status": "PUBLISHED",
+            "note": "2019-06-23 07:51:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 1164091,
+            "practice_name": "Navachethana Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-23T08:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39676196,
+                "review_text": "This hospital staff and doctor does not repects patient time. I got an appointment at 12 o clock. Waited for an hour and after multiple time asking with reception they asked me to come in evening. If you are a doc you should respect others time and patient condition.",
+                "review_alterations": [],
+                "reviewed_on": "2019-06-22 07:30:42",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Ashutosh Tripathi"
+        },
+        "entity_id": 494816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1109,
+                "text": "Type 1 Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1115280,
+            "status": "PUBLISHED",
+            "note": "2019-03-27 07:48:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-27T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39247438,
+                "review_text": "Had scheduled appointment at 8 AM as it was showing free on practo,, when I went to clinic it was closed and called the number which was on board, I think he was doctor who spoke and asked me to come after 9, so I scheduled appointment on practo at 9.15,  I was waiting for doctor for 5 mins, then they told to come after 10. If they do not respect others time how to trust.",
+                "review_alterations": [],
+                "reviewed_on": "2019-03-25 04:08:17",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Manojkumar Hurakadli"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 59,
+                "text": "Cramping"
+            },
+            {
+                "id": 1226,
+                "text": "Type 1 Diabetes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 946978,
+            "status": "PUBLISHED",
+            "note": "2018-08-14 13:33:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-14T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38067871,
+                "review_text": "I first visited doctor on Saturday morning and then same day evening for check up. He ask me come next day morning (Sunday) and seemed surprised when I visited him next day. Called me on Monday at 10, but when I reached he is out for round (to some hospital). if you can't attend patient, don't call him.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-13 08:37:30",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sampat Bhansali"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 632986,
+            "status": "PUBLISHED",
+            "note": "2017-07-27 06:24:18",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-26T08:08:52+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 38591,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much for your feedback. Appreciate it",
+                "replied_at": "2017-07-26T08:08:52+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 195081,
+                "modified_by_id": 195081,
+                "replier_name": "Dr. N Praveen Kumar",
+                "replier_logo": "https://images2-fabric.practo.com/practo-resources/core/doctor/photos/2c76246a3fad176e6e89d69cb2bc3529d94c1400.jpg"
+            },
+            "survey_response": {
+                "id": 35146604,
+                "review_text": "I had high fever, severe body pain, fatigue and cough when I went for consultation. Doctor listened to the issues carefully, educated me and gave me a few medicines for throat infection. He also suggested blood test to cancel out doubt about dengue and asked me to come back 1 day later for blood test results and checkup. I felt much better after taking medicine and reports came fine.\nDoctor asked to complete the dose as planned.\n\nHe was very polite, understanding *** **** ************** Would highly recommend him.",
+                "review_alterations": [
+                    {
+                        "start_index": 468,
+                        "end_index": 490,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 58672
+                    }
+                ],
+                "reviewed_on": "2017-07-25 11:02:29",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2014842,
+            "status": "PUBLISHED",
+            "note": "2022-06-22 07:26:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-22T08:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44516638,
+                "review_text": "While the doctor seemed ok, the clinic was rather dusty and dirty. The nurse took my blood sample in an unhygienic, cluttered room, and at one point I saw the needle touch the dusty table. I should have left before I took the test itself but I just went along with it because I was exhausted. Also visited the washroom to get a urine sample and it was horrible. Clinics need to be clean and hygienic and this is not done. The blood tests also seemed more expensive than other places. I complained to the doctor later about the unhygienic conditions of the room and toilet, and he said he would look into it. I hope they do for the sake of their patients. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-21 03:36:29",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 389347,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-10-21T07:27:06+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26260285,
+                "review_text": "The doctor answers everything with patience.. listens to the patient very well. I experienced chest pain which i later learnt was due to gastric problems.. doctor advised cardiac tests and did it himself to rule out any cardiac problems.. concluded saying dat the pain is cos of gastritis ",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-19 15:53:45",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Krupa R"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 15424,
+                "text": "BP Monitoring"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2117120,
+            "status": "PUBLISHED",
+            "note": "2022-12-14 06:28:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-14T07:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45106639,
+                "review_text": "Very friendly & explains the issues very professionally. Its one stop shop all heart & diabetes issues.. all tests & medicines are available ",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-13 05:51:52",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Binu"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2062832,
+            "status": "PUBLISHED",
+            "note": "2022-09-07 12:31:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-09-07T13:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44799152,
+                "review_text": "Patient was sick checked temperature gave antibiotics\n. * **** **** * **** *** ** ******* Had to go to hospital and it was diagnosed as dengue. Not recommended. ",
+                "review_alterations": [
+                    {
+                        "start_index": 56,
+                        "end_index": 89,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 424987
+                    }
+                ],
+                "reviewed_on": "2022-09-06 12:09:15",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Navneet Singh"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 707145,
+            "status": "PUBLISHED",
+            "note": "2017-10-24 13:02:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 1015805,
+            "practice_name": "Wellbeeing",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-24T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35900825,
+                "review_text": "Understanding is great and  friendly.  Good behaviour. Value for Time.  overall good experience. Thank you",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-22 07:25:12",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "rahul mane"
+        },
+        "entity_id": 525195,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 583849,
+            "status": "PUBLISHED",
+            "note": "2017-06-09 10:01:22",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-06-09T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34648137,
+                "review_text": "He was really amazing and friendly* **** ** ********* * Value for money and promot response to his patients ",
+                "review_alterations": [
+                    {
+                        "start_index": 34,
+                        "end_index": 54,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 50661
+                    }
+                ],
+                "reviewed_on": "2017-06-07 03:46:08",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sheena"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 561636,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-17T07:37:13+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34424901,
+                "review_text": "Doctor n staff r excellent,doctor is efficient n v humble n kind spoken.wit good experience.clinic setup also cool n pleasing.I recomend it.",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-17 06:42:44",
+                "channel": "sapphire",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dr khalid"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 534018,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-21T10:42:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34130532,
+                "review_text": "Good experience good tritment, spend lot of time understood the problem and given good medicine, confident. ",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-21 06:23:26",
+                "channel": "sapphire",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vijay"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 153,
+                "text": "Hypertension"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 493800,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-11T09:50:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32772896,
+                "review_text": "I have visited the doctor to get advice for my elevated BP levels and heart checkup. I can say that doctor is good for basic cardiac and hypertension treatments. But for any advanced treatments, I would suggest visiting experienced cardiologists.",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-11 07:37:09",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhiram Gurijala"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1571,
+                "text": "Treadmill Test - TMT"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2006544,
+            "status": "PUBLISHED",
+            "note": "2022-06-08 07:51:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-06-08T08:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44467943,
+                "review_text": "Doctor was very professional and was hearing the issues. Absolutely recommended doctor for cardio issues.",
+                "review_alterations": [],
+                "reviewed_on": "2022-06-07 07:41:44",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vijay R"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1571,
+                "text": "Treadmill Test - TMT"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1864247,
+            "status": "PUBLISHED",
+            "note": "2021-11-02 07:14:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-02T08:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43650694,
+                "review_text": "I good Friendly Expert Doctor, And a helpfull staff\ud83d\ude0c, Good result, immediate treatment with updated technologies. I'm thankful.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-30 14:51:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rajendra babu"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1747422,
+            "status": "PUBLISHED",
+            "note": "2021-06-12 13:23:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-12T14:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42968219,
+                "review_text": "Still here at the clinic. The doc explained everything in a brief way. was very polite and prompt. Would definitely recommend.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-11 13:18:41",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "kahekashan mulla"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192842,
+                "text": "Heart Care"
+            },
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1152074,
+            "status": "PUBLISHED",
+            "note": "2019-05-14 05:55:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-14T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39481115,
+                "review_text": "I use doctor Praveen's services for my mother who has been ailing with type 2 diabetes and heart condition. Dr Praveen is instrumental in stabilizing her health ever since we have been visiting him.",
+                "review_alterations": [],
+                "reviewed_on": "2019-05-11 16:25:59",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prakash A"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1066386,
+            "status": "PUBLISHED",
+            "note": "2019-01-20 11:05:05",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-20T12:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38923913,
+                "review_text": "The doctor was very kind in listening to all the issues and then suggesting medicine for the same.Good experience overall",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-19 11:01:47",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Priyanka Sharma"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1047064,
+            "status": "PUBLISHED",
+            "note": "2018-12-25 07:13:09",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-12-25T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38793407,
+                "review_text": "* ******** ***** *********** *** ****** ** *** ******* there is no privacy maintenance in the clinic. happy now after consulting an other good doctor.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 54,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 145754
+                    }
+                ],
+                "reviewed_on": "2018-12-22 16:54:17",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Chandrasekaran"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Proctoscopy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1019031,
+            "status": "PUBLISHED",
+            "note": "2018-11-15 06:26:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-15T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38596253,
+                "review_text": "Dr Praveen is one of the most humble and well mannered doctors, I have come across.\n\nDoctor took time in explaining me everything, spent more than 20 min.\n\nOverall, I would totally recommend the doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-14 05:41:16",
+                "channel": "ios",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suhas"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1109,
+                "text": "Type 1 Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 989452,
+            "status": "PUBLISHED",
+            "note": "2018-10-04 09:23:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-10-04T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38386178,
+                "review_text": "Excellent no words to say awesome service , staff also cooperative ,I will recommend everyone to update health issues with this hospital\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-10-02 14:37:04",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "T satish kumar"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            },
+            {
+                "id": 1088,
+                "text": "Body Weakness"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 696933,
+            "status": "PUBLISHED",
+            "note": "2017-10-10 11:48:47",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-10-10T03:10:20+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 50244,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you ajith for taking out your valuable time and giving your response. Really appreciate. Thank you",
+                "replied_at": "2017-10-10T03:10:20+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 195081,
+                "modified_by_id": 195081,
+                "replier_name": "Dr. N Praveen Kumar",
+                "replier_logo": "https://images2-fabric.practo.com/practo-resources/core/doctor/photos/2c76246a3fad176e6e89d69cb2bc3529d94c1400.jpg"
+            },
+            "survey_response": {
+                "id": 35796996,
+                "review_text": "My experience with doctor was great.He listen to all problems and suggested medicine.overall great experience.Thank you doctor Praveen.",
+                "review_alterations": [],
+                "reviewed_on": "2017-10-07 13:19:40",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ajit Singh"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 613461,
+            "status": "PUBLISHED",
+            "note": "2017-07-06 12:10:10",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-07-06T13:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 38592,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks chiradeep",
+                "replied_at": "2017-07-26T08:09:13+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 195081,
+                "modified_by_id": 195081,
+                "replier_name": "Dr. N Praveen Kumar",
+                "replier_logo": "https://images2-fabric.practo.com/practo-resources/core/doctor/photos/2c76246a3fad176e6e89d69cb2bc3529d94c1400.jpg"
+            },
+            "survey_response": {
+                "id": 34945338,
+                "review_text": "Good doctor, to the point and good medication. He patiently heard us out and prescribed the medication. He also suggested the do and don't clearly ",
+                "review_alterations": [],
+                "reviewed_on": "2017-07-05 04:20:59",
+                "channel": "mobile",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Chiradeep"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 818904,
+            "status": "PUBLISHED",
+            "note": "2018-03-14 07:09:39",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-03-14T08:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36971736,
+                "review_text": "Very well experienced doctor. Rare to find such Doc with well equipped centre.. went for a checkup to rule out some doubts. He did all required in good way . I Strongly recommend others.",
+                "review_alterations": [],
+                "reviewed_on": "2018-03-12 15:03:11",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sylvester"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2377812,
+            "status": "PUBLISHED",
+            "note": "2024-05-03 07:10:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-05-03T08:00:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46640929,
+                "review_text": "",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 10,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 485292
+                    }
+                ],
+                "reviewed_on": "2024-05-01 04:51:01",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2112906,
+            "status": "PUBLISHED",
+            "note": "2022-12-06 09:08:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-06T10:00:31+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45082528,
+                "review_text": "Doctor advised to repeat all the tests. Didn't give any treatment. Very disappointing experience. Not useful consultation. ",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-05 08:07:09",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 802520,
+            "status": "PUBLISHED",
+            "note": "2018-02-23 11:48:51",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-02-23T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36818130,
+                "review_text": "We met the dsoctor to have a general check-up for our overseas travel insurance. He was prompt and very helpful.\n",
+                "review_alterations": [],
+                "reviewed_on": "2018-02-21 18:33:34",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 685196,
+            "status": "PUBLISHED",
+            "note": "2017-09-27 13:49:43",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-27T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35677127,
+                "review_text": "Very good Doctor, highly recommended, treating with friendly manner and finding the right issue, not money minded, reasonable fee..",
+                "review_alterations": [],
+                "reviewed_on": "2017-09-21 11:51:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1571,
+                "text": "Treadmill Test - TMT"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 467866,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-02-13T09:21:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 31168005,
+                "review_text": " Not bad, improvement required in staff.Appoint experience staff so tht patients will not be annoyed wating for the staff at tnt testor at 2d echo to fix. Overall it is good. Doctor is fine",
+                "review_alterations": [],
+                "reviewed_on": "2017-02-08 05:21:58",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1965246,
+            "status": "PUBLISHED",
+            "note": "2022-04-05 06:37:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-04-05T07:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44234255,
+                "review_text": "clinic was closed and nobody responded like Dr Pravin and practo also I don't recommend practo to anyone ",
+                "review_alterations": [],
+                "reviewed_on": "2022-04-03 05:02:09",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1843003,
+            "status": "PUBLISHED",
+            "note": "2021-10-03 06:55:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-03T07:00:44+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43519277,
+                "review_text": "Friendly nature,good commutation and brief explanation of the problem,staff were very friendly.\n**** ****** * **** **** ***** strongly recommended.",
+                "review_alterations": [
+                    {
+                        "start_index": 96,
+                        "end_index": 125,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 376584
+                    }
+                ],
+                "reviewed_on": "2021-10-01 13:31:51",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Chest Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1735396,
+            "status": "PUBLISHED",
+            "note": "2021-05-30 04:53:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-30T05:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42903342,
+                "review_text": "Very friendly and down to earth person. ********* *** ******** *** ******* ** *** I got all the medical help on time. It was a big relief. Thanks so much Doctor Praveen. ",
+                "review_alterations": [
+                    {
+                        "start_index": 40,
+                        "end_index": 80,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 348160
+                    }
+                ],
+                "reviewed_on": "2021-05-28 14:19:03",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 15424,
+                "text": "BP Monitoring"
+            },
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1714945,
+            "status": "PUBLISHED",
+            "note": "2021-05-05 13:24:54",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-05-04T16:50:18+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 284600,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Doctor was available sir but you just went out. Difficult times for everyone . Please be more understanding. Doctor would have attended you.",
+                "replied_at": "2021-05-04T16:50:18+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 195081,
+                "modified_by_id": 195081,
+                "replier_name": "Dr. N Praveen Kumar",
+                "replier_logo": "https://images2-fabric.practo.com/practo-resources/core/doctor/photos/2c76246a3fad176e6e89d69cb2bc3529d94c1400.jpg"
+            },
+            "survey_response": {
+                "id": 42798493,
+                "review_text": "I would suggest please be more professional towards patients need .when I visited the clinic they just said no staff and what appointments. I am not able to understand how practo  in first place gave me an appointment. I was on dot time at 9:56am .",
+                "review_alterations": [],
+                "reviewed_on": "2021-05-04 13:07:37",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1055805,
+            "status": "PUBLISHED",
+            "note": "2019-01-06 06:54:34",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-06T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38852942,
+                "review_text": "Dr. Praveen was humble n heard the issues with patience. Good part is that most of the facilities are available in-house.  I am totally satisfied with his diagnosis. Thanks Dr. Praveen. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-05 05:06:33",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 4982,
+                "text": "Diabetes Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 851396,
+            "status": "PUBLISHED",
+            "note": "2018-04-19 11:04:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 202363,
+            "practice_id": 742157,
+            "practice_name": "Samiksha Heart & Diabetic Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-19T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37261823,
+                "review_text": "Dr.Praveen was very attentive to hear and answer my queries. He closely monitored the vital tests conducted. Overall it was good experience",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-18 04:32:11",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 260140,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

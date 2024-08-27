@@ -1,0 +1,157 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2358523,
+            "status": "PUBLISHED",
+            "note": "2024-03-20 10:46:13",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 37864,
+            "practice_id": 654733,
+            "practice_name": "Vijan Heart clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-03-20T11:01:23+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46531392,
+                "review_text": "Amazing doctor with extremely high experience and a wonderful human being. Always positive and ready to assist any patients. \nWill strongly recommend him to everyone who has any heart issues or interested to do ECG or stress tests.",
+                "review_alterations": [],
+                "reviewed_on": "2024-03-18 14:06:24",
+                "channel": "ios",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ishan Raveshia"
+        },
+        "entity_id": 36412,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1536076,
+            "status": "PUBLISHED",
+            "note": "2020-10-01 05:58:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 37864,
+            "practice_id": 654733,
+            "practice_name": "Vijan Heart clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-01T06:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41827627,
+                "review_text": "********* ******. Very warm and approachable. He has been my husbands cardiologist  for many years now. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 15,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 297345
+                    }
+                ],
+                "reviewed_on": "2020-09-29 17:19:41",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suma unni"
+        },
+        "entity_id": 36412,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 52,
+                "text": "Coronary Angiogram"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1305987,
+            "status": "PUBLISHED",
+            "note": "2019-12-05 05:30:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 37864,
+            "practice_id": 654733,
+            "practice_name": "Vijan Heart clinic",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-05T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40474208,
+                "review_text": "* ***** ** **** ***** ***** *** will force the patient for angioplasty and If he she doesn't agree he will not even do dressing of the patient after the angiogram.**** **** ******* ***** ******* ****** ** **********",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 30,
+                        "reason": "NON_COMPLIANT",
+                        "id": 226336
+                    },
+                    {
+                        "start_index": 163,
+                        "end_index": 214,
+                        "reason": "NON_COMPLIANT",
+                        "id": 226337
+                    }
+                ],
+                "reviewed_on": "2019-12-03 20:02:18",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 36412,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2281870,
+            "status": "PUBLISHED",
+            "note": "2023-10-25 07:10:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 982427,
+            "practice_id": 1374005,
+            "practice_name": "Samagra Health Family and Wellness Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-25T08:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46093444,
+                "review_text": "I consulted on line Dr. Chandrakant Lahariya for the treatment of my son who was suffering from acute pain in abdomen due to accumulation of lot of gas in his stomach. He was not able to pass motion/stool since last two days. The medicines prescribed by the doctor did miracle and all his troubles vanished in 2 days. I strongly recommend him. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-23 07:38:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "AYODHYA SRIVASTAV"
+        },
+        "entity_id": 808481,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2088406,
+            "status": "PUBLISHED",
+            "note": "2022-10-21 06:33:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 982427,
+            "practice_id": 1374005,
+            "practice_name": "Samagra Health Family and Wellness Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-10-21T07:00:48+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44945744,
+                "review_text": "Dr Lahariya is very ************ *** experienced. When I consulted him, he treated my conditions without antibiotics. He listen patiently and answers all the questions. He is very popular for general conditions. Appointments are punctual. Now, I am going to consult him only for myself and illness of my family members. Very good experience. \n\nHe is expert in vaccines also. \n\nStrongly recommend. ",
+                "review_alterations": [
+                    {
+                        "start_index": 20,
+                        "end_index": 35,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 430219
+                    }
+                ],
+                "reviewed_on": "2022-10-20 04:57:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Rahul Karma"
+        },
+        "entity_id": 808481,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

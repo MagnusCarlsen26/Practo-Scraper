@@ -1,0 +1,459 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2371143,
+            "status": "PUBLISHED",
+            "note": "2024-04-18 10:25:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 1143491,
+            "practice_name": "Diyos Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-18T11:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46603244,
+                "review_text": "The doctor was looks well experienced. She was patient and explained well about the procedure to be followed up next. \ud83d\udc4d",
+                "review_alterations": [],
+                "reviewed_on": "2024-04-17 10:18:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 674295,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1959952,
+            "status": "PUBLISHED",
+            "note": "2022-03-26 16:44:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 707943,
+            "practice_name": "Sama Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-03-26T17:01:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44204497,
+                "review_text": "She is very caring and experienced doctor. She is so polite & very talented. Visited for\u00a0continuous bleeding from last 2 months. She checked properly n advice us for surgery. Now after surgery, all is going well. she is very nice\ud83d\udc4c\ud83d\udc4d",
+                "review_alterations": [],
+                "reviewed_on": "2022-03-25 14:39:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Savita Chaudhary "
+        },
+        "entity_id": 718893,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1215677,
+            "status": "PUBLISHED",
+            "note": "2019-08-08 05:32:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 1132658,
+            "practice_name": "Apollo Spectra Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-08T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39884035,
+                "review_text": "We got a consultation at the Apollo and we were advised to take an ultrasound and get a follow up with her. But she only remains available for ONE hour at Apollo and then asked us to visit her Hauz Khas private clinic and charged us Rs. 2500/- without any prior intimation. While walking out, she let us know about that we are to deposit 2500 at reception for consultation. I found it unprofessional. Also, though she specifically ensured to be available for communication through phone when I was having pain considering pregnancy, she refused to help when I was in much pain. I would not recommend her for services. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-03 14:20:40",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 349449,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 340658,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 941427,
+            "practice_name": "Rockland Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-20T13:30:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 23306860,
+                "review_text": "Looking confused. Way of examination was rough one. Willing for MRI but I was with  recently done MRI plate . Opinion  can be taken on same plate of MRI with expert Rediologist. So I am not  willing to consult  again. Her behaviour was very good and cooperative. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-20 10:32:28",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "VIKALP"
+        },
+        "entity_id": 35859,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 5414,
+                "text": "Hysteroscopic Myomectomy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1212379,
+            "status": "PUBLISHED",
+            "note": "2019-07-31 12:40:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 1132658,
+            "practice_name": "Apollo Spectra Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-31T13:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39863224,
+                "review_text": "When i visited the doctor, i was totally lost. she did my operation and she saved my life and my married life. she is an angle for me. she is so polite and   down to earth  although she is a very talented and highly educated doctor.  i am experiencing the new journey of my life which is motherhood and she made it possible with the grace of Almighty Allah. i am very happy to find and met Dr. Sheetal  and she guided me on the right path.  Thank you so much Dr Sheetal and i will always be grateful to you. you are always in my prayers. wish you best of luck.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-30 10:38:48",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 349449,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2252307,
+            "status": "PUBLISHED",
+            "note": "2023-08-24 06:02:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 707943,
+            "practice_name": "Sama Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-24T07:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45911777,
+                "review_text": "The doctor was extremely polite and explained everything with patience. Highly recommended for any Gynae issues ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-22 15:30:37",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "nidhi"
+        },
+        "entity_id": 718893,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 670644,
+            "status": "PUBLISHED",
+            "note": "2017-09-06 11:20:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 941427,
+            "practice_name": "Rockland Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-06T12:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35534410,
+                "review_text": "I visited her twice for different problems at her safdarjung clinic. She is professional, polite *** ***** *** * ***** *** ** **** ************* ***** *** ***** Unlike other gynaecologist she doesn't ask you to do all sorts of useless test if not needed. She prescribed me medicines which were needed and my problem was cured. I even recommend my friends to visit her in case of any feminine health problem. Thank-you doctor. :)",
+                "review_alterations": [
+                    {
+                        "start_index": 97,
+                        "end_index": 159,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 64742
+                    }
+                ],
+                "reviewed_on": "2017-09-05 11:10:58",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 154865,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 425,
+                "text": "Pregnancy Check Up"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1299240,
+            "status": "PUBLISHED",
+            "note": "2019-11-27 07:31:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 1132658,
+            "practice_name": "Apollo Spectra Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-27T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40424988,
+                "review_text": "I am very grateful for Dr. Sheetal in my life. Whenever any problem occurs to me I only think about Dr. Sheetal and always get satisfaction with her treatment. ** *********** ***** ** *********** ******** *** ***** ** *** ******** I always recommend my friends to go with her only if any problem arises. Thank you Dr. Sheetal Agarwal, you are the best :) ",
+                "review_alterations": [
+                    {
+                        "start_index": 160,
+                        "end_index": 229,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 224144
+                    }
+                ],
+                "reviewed_on": "2019-11-25 07:23:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 349449,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 822,
+                "text": "Abortion / Medical Termination of Pregnancy (MTP)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1215656,
+            "status": "PUBLISHED",
+            "note": "2019-08-07 04:43:29",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 262793,
+            "practice_id": 1132658,
+            "practice_name": "Apollo Spectra Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-07T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39883903,
+                "review_text": "*** ****** ******** ****** ** *** ******* ********* ****** ** *** *** *** ******* **** ******* ** *** ********** She asked us to come to her personal clinic in the evening at Hauz Khas for follow up despite meeting us the same morning at Apollo spectra. She asked us to call in case of emergency and upon such call she behaved rudely. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 111,
+                        "reason": "NON_COMPLIANT",
+                        "id": 197459
+                    }
+                ],
+                "reviewed_on": "2019-08-03 14:09:27",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 349449,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

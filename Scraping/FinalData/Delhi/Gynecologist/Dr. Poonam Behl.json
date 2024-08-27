@@ -1,0 +1,49 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2253876,
+            "status": "PUBLISHED",
+            "note": "2023-08-29 11:33:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 571645,
+            "practice_id": 1138095,
+            "practice_name": "Apollo Cradle & Children\u2019s Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-29T12:00:25+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45922390,
+                "review_text": "Dr Poonam Behl* *** ** *** ** *** **** ****** ** * ************ * ** ****** * kind in nature, best in communication, best in treatment,so caring . During my treatment I feel she treated me as a younger sister, I will always recommend her to everyone that during treatment  u will feel & realise yourself that u are in a safe hand. My big big thanks to Dr Poonam Behl.",
+                "review_alterations": [
+                    {
+                        "start_index": 14,
+                        "end_index": 77,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 466617
+                    }
+                ],
+                "reviewed_on": "2023-08-26 14:15:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Radhika Kapoor"
+        },
+        "entity_id": 550776,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

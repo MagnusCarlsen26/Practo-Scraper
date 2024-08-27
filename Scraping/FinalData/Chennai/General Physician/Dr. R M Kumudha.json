@@ -1,0 +1,451 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            },
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 1037,
+                "text": "Fever"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1336618,
+            "status": "PUBLISHED",
+            "note": "2020-01-10 13:20:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619426,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-10T14:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40688415,
+                "review_text": "The doctor is very friendly and listened to our problem patiently. She asked history of illnesses and allergies before prescribing medicines and then explained the need of each medicine to us.She asked us to call if there was no improvement. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-09 13:15:39",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Bhawna Singh"
+        },
+        "entity_id": 600350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186383,
+                "text": "hba1c"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1249202,
+            "status": "PUBLISHED",
+            "note": "2019-09-18 07:25:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619426,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-18T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40097896,
+                "review_text": "She is very kind we regularly meet and she suggest and gave tips for health \n\nAnd also she is given medicine normal not heavy dose and also asking feed back and Cunsult over phone also",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-17 04:43:01",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "vittobhai/Deepa"
+        },
+        "entity_id": 600350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 245,
+                "text": "Body Ache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1348753,
+            "status": "PUBLISHED",
+            "note": "2020-01-24 06:12:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619426,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-24T07:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40778558,
+                "review_text": "second time i am meeting her and this time experience is very bad.  i dont see concern for patients . she is inducing fear, suggesting echo and ecg for body pain. * ***** ************* ********** **** *** *** ***** ******** ** **** she also influenced angio *** ** ********** ** ********* *** *** ***** **** ************* ** **** *** ********** **** ********* * ****** ** ** **** **** ******* ",
+                "review_alterations": [
+                    {
+                        "start_index": 162,
+                        "end_index": 230,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 240705
+                    },
+                    {
+                        "start_index": 257,
+                        "end_index": 391,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 240706
+                    }
+                ],
+                "reviewed_on": "2020-01-23 05:58:40",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "JayaKumar Shanmugam"
+        },
+        "entity_id": 600350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            },
+            {
+                "id": 248,
+                "text": "Muscle Cramps"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1221844,
+            "status": "PUBLISHED",
+            "note": "2019-08-14 06:34:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619426,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-14T07:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39922854,
+                "review_text": "The explanation given was not satisfying enough as the doctor explained what was their in the reports already, which I had already known and was under medication for the same. You consult a doctor for a better analysis and examination of the issue but to read out what is there in the report. I had consulted a few doctors before and after meeting her *** ***** ******* *** ******** **************** *****",
+                "review_alterations": [
+                    {
+                        "start_index": 351,
+                        "end_index": 404,
+                        "reason": "NON_COMPLIANT",
+                        "id": 199156
+                    }
+                ],
+                "reviewed_on": "2019-08-12 16:21:33",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1210885,
+            "status": "PUBLISHED",
+            "note": "2019-07-31 05:27:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619426,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-31T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39853297,
+                "review_text": "Doctor is very patient in hearing complaints and I am very satisfied with the treatment.***** ****** ****** *** **** ********* ",
+                "review_alterations": [
+                    {
+                        "start_index": 88,
+                        "end_index": 125,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 195738
+                    }
+                ],
+                "reviewed_on": "2019-07-28 06:15:43",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Amritha Ravi"
+        },
+        "entity_id": 600350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1034,
+                "text": "Colds"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1285253,
+            "status": "PUBLISHED",
+            "note": "2019-11-08 11:03:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619426,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-08T12:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40333642,
+                "review_text": "Very bad experience. Just went for common cold symptoms and she told me it could be swine flu. ******** **** ** *** ******** ******* ** ***** \n",
+                "review_alterations": [
+                    {
+                        "start_index": 95,
+                        "end_index": 140,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 219518
+                    }
+                ],
+                "reviewed_on": "2019-11-07 05:56:51",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1264757,
+            "status": "PUBLISHED",
+            "note": "2019-10-10 07:03:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 619426,
+            "practice_id": 1158991,
+            "practice_name": "Apollo OMR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-10T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40198222,
+                "review_text": "Will appreciate the thorough enquiry about the past history. She also put efforts to know about all the symptoms. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-07 09:26:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 600350,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

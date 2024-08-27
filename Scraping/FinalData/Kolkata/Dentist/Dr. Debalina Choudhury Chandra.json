@@ -1,0 +1,173 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 40133,
+                "text": "Surgical Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1537172,
+            "status": "PUBLISHED",
+            "note": "2020-10-02 06:08:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 586606,
+            "practice_id": 661395,
+            "practice_name": "Little Smiles Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-02T07:05:35+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41833563,
+                "review_text": "Doctor Debalina Chandra is friendly & comforting as a doctor .she explained my problems ,situation and condition of teeth..and the reason for toothache..\nShe prescribed medicines which helped in pain reduction..\nthank you doctor ...\ud83d\udc9e\n",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-01 04:35:09",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Debashree Chakraborty"
+        },
+        "entity_id": 581130,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1026174,
+            "status": "PUBLISHED",
+            "note": "2018-11-25 04:54:31",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 586606,
+            "practice_id": 661395,
+            "practice_name": "Little Smiles Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-25T05:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38646900,
+                "review_text": "Well behaved, cultural, friendly. She explained how to keep away from toothache problem and give daily maintenance tips about keep healthy ",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-23 14:53:23",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 581130,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 473,
+                "text": "Dental Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1021922,
+            "status": "PUBLISHED",
+            "note": "2018-11-20 09:39:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 586606,
+            "practice_id": 661395,
+            "practice_name": "Little Smiles Multispeciality Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-11-20T10:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38617575,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2018-11-17 18:17:59",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sibani biswas"
+        },
+        "entity_id": 581130,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,599 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1751860,
+            "status": "PUBLISHED",
+            "note": "2021-06-18 06:00:28",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-18T06:00:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42992888,
+                "review_text": "My experience with Dr. Mansi Khatri was very satisfactory.  The doctor is very patient friendly and very experienced.  My treatment went very smoothly. I appreciate the doctor's narrating the procedure beforehand to me to put my mind at ease. Overall, I am happy with my treatment and would definitely recommend her to others.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-16 14:29:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ritu khatri"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 126,
+                "text": "RCT - Root Canal Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1274296,
+            "status": "PUBLISHED",
+            "note": "2019-10-23 04:49:08",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-23T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243420,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Prachi for the words of appreciation. Keep Smiling :)",
+                "replied_at": "2020-10-23T05:37:00+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3223068,
+                "modified_by_id": 3223068,
+                "replier_name": "Crown And Roots",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1171912/crown-and-roots-delhi-5a4f3b8eb5dc1.jpg"
+            },
+            "survey_response": {
+                "id": 40262202,
+                "review_text": "Dr. Mansi is a wonderful dentist. I am really apprehensive about the treatment. But she calmed me down. She is super friendly *** ************** She explained all the steps. I faced no discomfort during the treatment. Thumbs up to her and her entire team. ",
+                "review_alterations": [
+                    {
+                        "start_index": 126,
+                        "end_index": 143,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 216135
+                    }
+                ],
+                "reviewed_on": "2019-10-21 05:55:21",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Prachi Gera"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1274248,
+            "status": "PUBLISHED",
+            "note": "2019-10-22 13:27:07",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-22T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243422,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for the positive feedback. Regards",
+                "replied_at": "2020-10-23T05:44:50+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3223068,
+                "modified_by_id": 3223068,
+                "replier_name": "Crown And Roots",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1171912/crown-and-roots-delhi-5a4f3b8eb5dc1.jpg"
+            },
+            "survey_response": {
+                "id": 40261901,
+                "review_text": "Crown & Roots is the most appropriate place for dental health problems. Dr. Mansi Khatri & Dr.kartik Datta & entire staff is very cooperative and friendly. I was very satisfied with their behaviour and the treatment provided to me. They give the best advise keeping in view all the aspects of benefits for the patient. I would highly recommend his place for maintaining dental health. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-21 04:49:11",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sukanya Pathak"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1751661,
+            "status": "PUBLISHED",
+            "note": "2021-06-17 11:21:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-16T13:40:45+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 294431,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks a lot for the words of appreciation, they mean a lot to us!! \nHappy to help \ud83d\ude0a",
+                "replied_at": "2021-06-16T13:40:45+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 3385790,
+                "modified_by_id": 3385790,
+                "replier_name": "Dr. Mansi Khatri",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/634349/dr-mansi-khatri-5a508407cb685.jpg"
+            },
+            "survey_response": {
+                "id": 42991804,
+                "review_text": "An amazing doctor.Works with passion. She \nexplains every step clearly before starting treatment. Clinic is modern and updated with friendly environment. She is soft spoken.\nI strongly recommend the doctor.\n\n\n\u00b9",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-16 11:18:00",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Deepak Khanna "
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1746101,
+            "status": "PUBLISHED",
+            "note": "2021-06-11 06:34:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-11T07:01:24+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 294432,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks a ton for your kind words !! \nHappy to help, stay safe \ud83d\ude0a",
+                "replied_at": "2021-06-16T13:42:01+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 3385790,
+                "modified_by_id": 3385790,
+                "replier_name": "Dr. Mansi Khatri",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/634349/dr-mansi-khatri-5a508407cb685.jpg"
+            },
+            "survey_response": {
+                "id": 42960899,
+                "review_text": "Very intelligent, confident and soft spoken doctor.Very reasonable with proper safety and security.Strong recommendation from my side.",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-10 05:06:32",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suman Khanna"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1745488,
+            "status": "PUBLISHED",
+            "note": "2021-06-10 09:39:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-10T10:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 294545,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks a ton mam, these words of appreciation from people like you motivate us to do better \ud83d\ude4f\ud83c\udffb\nStay safe, happy smiling \ud83d\ude0a",
+                "replied_at": "2021-06-17T06:50:33+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 3385790,
+                "modified_by_id": 3385790,
+                "replier_name": "Dr. Mansi Khatri",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/634349/dr-mansi-khatri-5a508407cb685.jpg"
+            },
+            "survey_response": {
+                "id": 42957564,
+                "review_text": "The doctor attended the patient with utmost love and care and made sure the patient is comfortable before leaving the clinic \ud83d\ude0a\ud83d\udc4d\ud83c\udffb\nHighly satisfied and would recommend to everyone around ",
+                "review_alterations": [],
+                "reviewed_on": "2021-06-09 09:33:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shalini Ahuja"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1525160,
+            "status": "PUBLISHED",
+            "note": "2020-09-19 05:30:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-09-19T06:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243415,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks Dr Abhishek for the positive feedback. Your words of appreciation really mean a lot to us. Keep Smiling :)",
+                "replied_at": "2020-10-23T05:33:38+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3223068,
+                "modified_by_id": 3223068,
+                "replier_name": "Crown And Roots",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1171912/crown-and-roots-delhi-5a4f3b8eb5dc1.jpg"
+            },
+            "survey_response": {
+                "id": 41769758,
+                "review_text": "Visited for dental implant. Very professional and skilled with immaculate bedside manner. Very thankful to her for providing excellent care for me.",
+                "review_alterations": [],
+                "reviewed_on": "2020-09-18 04:12:37",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhishek Behera"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1745904,
+            "status": "PUBLISHED",
+            "note": "2021-06-11 06:33:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-06-11T07:01:22+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 294544,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks a lot mam for you kind words, \nHappy to help \ud83d\ude0a\nStay safe!",
+                "replied_at": "2021-06-17T06:49:17+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 3385790,
+                "modified_by_id": 3385790,
+                "replier_name": "Dr. Mansi Khatri",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/634349/dr-mansi-khatri-5a508407cb685.jpg"
+            },
+            "survey_response": {
+                "id": 42959844,
+                "review_text": "\nWhat an amazing dentist! Dr. Mansi is Very polite * ************* *** very passionate about her work.\nHer staff is very friendly .\nThe clinic is beautiful and CLEAN! \nVery modern and updated. \nHighly recommendable Dentist \n\nThanks! \n",
+                "review_alterations": [
+                    {
+                        "start_index": 51,
+                        "end_index": 69,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 350849
+                    }
+                ],
+                "reviewed_on": "2021-06-09 16:51:20",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1274389,
+            "status": "PUBLISHED",
+            "note": "2019-10-23 05:40:16",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-23T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243417,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for the positive feedback. Looking forward to cater to your dental needs in the near future. Keep Smiling :)",
+                "replied_at": "2020-10-23T05:34:44+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3223068,
+                "modified_by_id": 3223068,
+                "replier_name": "Crown And Roots",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1171912/crown-and-roots-delhi-5a4f3b8eb5dc1.jpg"
+            },
+            "survey_response": {
+                "id": 40262734,
+                "review_text": "I was highly satisfied with my treatment.. Dr Mansi cleared all my doubts (relevant irrelevant) ..  I was impressed with her patience.. I would recommend others that that they should visit Dr Mansi for their dental problems.. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-21 07:31:25",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3765,
+                "text": "Wisdom Tooth Extraction"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1274318,
+            "status": "PUBLISHED",
+            "note": "2019-10-23 04:50:29",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 634349,
+            "practice_id": 1171912,
+            "practice_name": "Crown And Roots",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-23T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 243421,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thanks for your positive feedback. Regards",
+                "replied_at": "2020-10-23T05:37:36+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 3223068,
+                "modified_by_id": 3223068,
+                "replier_name": "Crown And Roots",
+                "replier_logo": "https://images1-fabric.practo.com/practices/1171912/crown-and-roots-delhi-5a4f3b8eb5dc1.jpg"
+            },
+            "survey_response": {
+                "id": 40262327,
+                "review_text": "Doctors were friendly and caring. They explained the symptoms and treatment well.\nHygienic and aesthetic clinic.\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-21 06:28:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 613857,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

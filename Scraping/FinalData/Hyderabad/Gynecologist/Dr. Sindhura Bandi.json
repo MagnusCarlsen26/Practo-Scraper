@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2324905,
+            "status": "PUBLISHED",
+            "note": "2024-01-16 06:51:47",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 895291,
+            "practice_id": 1313248,
+            "practice_name": "Medi Hub Medical Clinics",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-16T07:00:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46337510,
+                "review_text": "Panis problem  sex timeng And all problem pani fast no lift sex timing fast drops panis deda panand panis smile",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-14 00:36:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 753321,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 234,
+                "text": "External Beam Radiation For Prostate Cancer"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1287867,
+            "status": "PUBLISHED",
+            "note": "2019-11-12 07:44:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 495069,
+            "practice_id": 1005781,
+            "practice_name": "Apollo Speciality Cancer Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-12T08:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40350817,
+                "review_text": "** ** *** *** *** He treated my mother on 2016 as my mother was detected with cancer on esophagus. She is well and fine till date.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220307
+                    }
+                ],
+                "reviewed_on": "2019-11-10 12:04:23",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 438195,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

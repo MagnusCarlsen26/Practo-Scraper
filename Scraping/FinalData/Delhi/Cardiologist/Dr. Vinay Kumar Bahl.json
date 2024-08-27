@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 15424,
+                "text": "BP Monitoring"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1985397,
+            "status": "PUBLISHED",
+            "note": "2022-05-05 09:24:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 892718,
+            "practice_id": 723180,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-05T10:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44348111,
+                "review_text": "Very good experience! Doctor was very polite and explained the problem in details. I am very satisfied and would recommend to the people who are looking for good cardiologist.",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-04 09:05:08",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shivangi Singh"
+        },
+        "entity_id": 739694,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

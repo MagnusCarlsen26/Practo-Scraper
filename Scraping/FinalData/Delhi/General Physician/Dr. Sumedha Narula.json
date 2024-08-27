@@ -1,0 +1,1801 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Asthma"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1869871,
+            "status": "PUBLISHED",
+            "note": "2021-11-11 06:00:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-11T06:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43686712,
+                "review_text": "I have Asthma problem for almost 11 year but for couple of years i had no symptoms and as  i m in Delhi for 2 months and this symptoms elevated  and I was hardly sleeping due to  regular coughing and breathing problem  but once I reached hospital she gave  first aid to give instant relief and good thing was that she was not in hurry she  properly diagnosed and did listen my problem patiently. I am really thankful to Dr,. Sumedha Narula   and MR Hospital .",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-09 20:12:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SUNNY SINGH"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1413252,
+            "status": "PUBLISHED",
+            "note": "2020-04-12 05:13:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-12T06:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41204984,
+                "review_text": "During this epidemic period, i was afraid of corona. *** *** ****** ** ********* *** ***** All other doctos were refering me to govermnwt hospital, due to afraid of cornona. But she diagnosed and said this ia not corona but lower zone infection of lungs.*** ** * ***** ****** *** * ***** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 53,
+                        "end_index": 90,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 261422
+                    },
+                    {
+                        "start_index": 254,
+                        "end_index": 293,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 261423
+                    }
+                ],
+                "reviewed_on": "2020-04-11 04:13:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sunita"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3047,
+                "text": "Chest Disease Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1290046,
+            "status": "PUBLISHED",
+            "note": "2019-11-14 10:42:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-14T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40365008,
+                "review_text": "Visited her for cough from many months.  She diagnosed my disease ********* and treated me.  I consulted more then dozen of doctors, all treat with only cough medicine.  But she is like god for me. I got my normal life back.  Thanks doctor.  I highly recommend her. ",
+                "review_alterations": [
+                    {
+                        "start_index": 66,
+                        "end_index": 75,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220994
+                    }
+                ],
+                "reviewed_on": "2019-11-13 10:39:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anamu"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2171334,
+            "status": "PUBLISHED",
+            "note": "2023-03-22 09:14:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-22T10:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45417743,
+                "review_text": "I booked a consultation for  clarity on my x-ray and reports. She has been very supportive and understands patient\u2019s concerns. Highly recommend her. Thank you doctor \ud83d\ude0a",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-21 08:03:14",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Piyush"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 918,
+                "text": "Lower/Upper Respiratory Tract Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1542671,
+            "status": "PUBLISHED",
+            "note": "2020-10-08 05:58:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-08T06:01:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41862722,
+                "review_text": "Dr Sumedha is an amazing doctor who listens to you with utmost patience. Her treatment suited my grandmother so much so that she refuses to visit any other doctor now. I definitely recommend her to all.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-06 18:43:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vanya "
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3056,
+                "text": "Lung Cancer Treatment"
+            },
+            {
+                "id": 277,
+                "text": "Breathing Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1875899,
+            "status": "PUBLISHED",
+            "note": "2021-11-19 08:14:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-19T09:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43723513,
+                "review_text": "She is a very good doctor. She cures my mother. Better than all other doctors.\nBest in chest diseases",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-18 08:10:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jatin"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 820,
+                "text": "Bronchial Asthma Treatment"
+            },
+            {
+                "id": 101485,
+                "text": "Tuberculosis (TB) Treatment"
+            },
+            {
+                "id": 3056,
+                "text": "Lung Cancer Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1348242,
+            "status": "PUBLISHED",
+            "note": "2020-01-24 04:33:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-24T05:00:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40774889,
+                "review_text": "Remarkable treatment. I consulted her after struggling many places. I say this is best doctor,. \\\"\\\"\\\"\\",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-22 13:40:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vineet Chaudhary "
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1267218,
+            "status": "PUBLISHED",
+            "note": "2019-10-12 08:03:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-12T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40214964,
+                "review_text": "Very satisfyingly treatment done by dr. Humesha. She is very intelligent and nice. Recommendation to her.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-11 07:58:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashif"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1253063,
+            "status": "PUBLISHED",
+            "note": "2019-09-22 10:10:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-22T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40122469,
+                "review_text": "Recommendations to Dr. Sumedha. She is very polite and very good. Examined and listened properly and cure my disease",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-21 08:50:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lakhya"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 918,
+                "text": "Lower/Upper Respiratory Tract Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1216124,
+            "status": "PUBLISHED",
+            "note": "2019-08-06 07:08:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-06T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39886879,
+                "review_text": "Doctor is very friendly.  She listens to my problems *** ***** ** . I am very happy with her treatment.",
+                "review_alterations": [
+                    {
+                        "start_index": 52,
+                        "end_index": 64,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 197354
+                    }
+                ],
+                "reviewed_on": "2019-08-04 12:10:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Satish"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 275,
+                "text": "Asthma"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1869871,
+            "status": "PUBLISHED",
+            "note": "2021-11-11 06:00:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-11T06:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43686712,
+                "review_text": "I have Asthma problem for almost 11 year but for couple of years i had no symptoms and as  i m in Delhi for 2 months and this symptoms elevated  and I was hardly sleeping due to  regular coughing and breathing problem  but once I reached hospital she gave  first aid to give instant relief and good thing was that she was not in hurry she  properly diagnosed and did listen my problem patiently. I am really thankful to Dr,. Sumedha Narula   and MR Hospital .",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-09 20:12:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SUNNY SINGH"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1413252,
+            "status": "PUBLISHED",
+            "note": "2020-04-12 05:13:59",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-04-12T06:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41204984,
+                "review_text": "During this epidemic period, i was afraid of corona. *** *** ****** ** ********* *** ***** All other doctos were refering me to govermnwt hospital, due to afraid of cornona. But she diagnosed and said this ia not corona but lower zone infection of lungs.*** ** * ***** ****** *** * ***** ******",
+                "review_alterations": [
+                    {
+                        "start_index": 53,
+                        "end_index": 90,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 261422
+                    },
+                    {
+                        "start_index": 254,
+                        "end_index": 293,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 261423
+                    }
+                ],
+                "reviewed_on": "2020-04-11 04:13:18",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sunita"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3047,
+                "text": "Chest Disease Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1290046,
+            "status": "PUBLISHED",
+            "note": "2019-11-14 10:42:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-14T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40365008,
+                "review_text": "Visited her for cough from many months.  She diagnosed my disease ********* and treated me.  I consulted more then dozen of doctors, all treat with only cough medicine.  But she is like god for me. I got my normal life back.  Thanks doctor.  I highly recommend her. ",
+                "review_alterations": [
+                    {
+                        "start_index": 66,
+                        "end_index": 75,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 220994
+                    }
+                ],
+                "reviewed_on": "2019-11-13 10:39:39",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Anamu"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2171334,
+            "status": "PUBLISHED",
+            "note": "2023-03-22 09:14:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-03-22T10:00:33+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45417743,
+                "review_text": "I booked a consultation for  clarity on my x-ray and reports. She has been very supportive and understands patient\u2019s concerns. Highly recommend her. Thank you doctor \ud83d\ude0a",
+                "review_alterations": [],
+                "reviewed_on": "2023-03-21 08:03:14",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Piyush"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 918,
+                "text": "Lower/Upper Respiratory Tract Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1542671,
+            "status": "PUBLISHED",
+            "note": "2020-10-08 05:58:00",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-10-08T06:01:55+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41862722,
+                "review_text": "Dr Sumedha is an amazing doctor who listens to you with utmost patience. Her treatment suited my grandmother so much so that she refuses to visit any other doctor now. I definitely recommend her to all.",
+                "review_alterations": [],
+                "reviewed_on": "2020-10-06 18:43:52",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vanya "
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3056,
+                "text": "Lung Cancer Treatment"
+            },
+            {
+                "id": 277,
+                "text": "Breathing Problems"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1875899,
+            "status": "PUBLISHED",
+            "note": "2021-11-19 08:14:14",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-19T09:00:59+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43723513,
+                "review_text": "She is a very good doctor. She cures my mother. Better than all other doctors.\nBest in chest diseases",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-18 08:10:02",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jatin"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 820,
+                "text": "Bronchial Asthma Treatment"
+            },
+            {
+                "id": 101485,
+                "text": "Tuberculosis (TB) Treatment"
+            },
+            {
+                "id": 3056,
+                "text": "Lung Cancer Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1348242,
+            "status": "PUBLISHED",
+            "note": "2020-01-24 04:33:24",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-24T05:00:18+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40774889,
+                "review_text": "Remarkable treatment. I consulted her after struggling many places. I say this is best doctor,. \\\"\\\"\\\"\\",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-22 13:40:35",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vineet Chaudhary "
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1267218,
+            "status": "PUBLISHED",
+            "note": "2019-10-12 08:03:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-12T09:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40214964,
+                "review_text": "Very satisfyingly treatment done by dr. Humesha. She is very intelligent and nice. Recommendation to her.",
+                "review_alterations": [],
+                "reviewed_on": "2019-10-11 07:58:09",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ashif"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1253063,
+            "status": "PUBLISHED",
+            "note": "2019-09-22 10:10:30",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-22T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40122469,
+                "review_text": "Recommendations to Dr. Sumedha. She is very polite and very good. Examined and listened properly and cure my disease",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-21 08:50:27",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Lakhya"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 918,
+                "text": "Lower/Upper Respiratory Tract Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1216124,
+            "status": "PUBLISHED",
+            "note": "2019-08-06 07:08:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-06T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39886879,
+                "review_text": "Doctor is very friendly.  She listens to my problems *** ***** ** . I am very happy with her treatment.",
+                "review_alterations": [
+                    {
+                        "start_index": 52,
+                        "end_index": 64,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 197354
+                    }
+                ],
+                "reviewed_on": "2019-08-04 12:10:13",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Satish"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1216006,
+            "status": "PUBLISHED",
+            "note": "2019-08-07 04:57:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-07T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39886094,
+                "review_text": "very nice doctor, perfect diagnosis. \nshe treated my mother and now she is very fine. I recommend her.",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-04 07:26:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "BHARATH "
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 918,
+                "text": "Lower/Upper Respiratory Tract Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1205907,
+            "status": "PUBLISHED",
+            "note": "2019-07-24 07:53:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-24T08:00:05+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39822286,
+                "review_text": "I went there with the chest pain..later the doctor told me that i had a chest infection .She gave me treatment and i m totally satisfied. Thanku doctor.",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-22 09:43:58",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Abhinav singh"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 337,
+                "text": "Typhoid"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2329361,
+            "status": "PUBLISHED",
+            "note": "2024-01-24 08:05:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1365095,
+            "practice_name": "Doctors' Hub - Superspeciality Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-01-24T09:00:17+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46363003,
+                "review_text": "all the experiences I've had with my current doctor have been positive . he's great!he actually listen to me.",
+                "review_alterations": [],
+                "reviewed_on": "2024-01-23 07:58:46",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 830382,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3047,
+                "text": "Chest Disease Treatment"
+            },
+            {
+                "id": 3051,
+                "text": "Lung Infections Treatment"
+            },
+            {
+                "id": 802,
+                "text": "Pulmonary Function Testing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1621178,
+            "status": "PUBLISHED",
+            "note": "2021-01-16 05:00:26",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-01-16T06:01:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42281141,
+                "review_text": "Doctor is really appreciable.... The way she interacted with us.... The time she has given as well as mam has also listen to our problem very calmly and gave good advice..... A nominal rate of medicines\n\nOverall doctor ******* ******* ** **** ****** and have good experience ",
+                "review_alterations": [
+                    {
+                        "start_index": 219,
+                        "end_index": 249,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 320295
+                    }
+                ],
+                "reviewed_on": "2021-01-13 15:09:11",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1320637,
+            "status": "PUBLISHED",
+            "note": "2019-12-25 06:42:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-12-25T07:01:08+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40578195,
+                "review_text": "I consulted her for bleeding in cough. *** ******* ** ***** i thanks to her and recomemdation to her",
+                "review_alterations": [
+                    {
+                        "start_index": 38,
+                        "end_index": 58,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 231428
+                    }
+                ],
+                "reviewed_on": "2019-12-21 14:41:45",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vinit"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2180755,
+            "status": "PUBLISHED",
+            "note": "2023-04-08 15:29:48",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1365095,
+            "practice_name": "Doctors' Hub",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-08T16:00:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45473849,
+                "review_text": "I was visited for my daughter she had breathing problem form 4/day. this is my great experience doctor was so good she is good listener and explain everything in which I have some doubt related to my daughter health .",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-07 13:47:50",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 830382,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 308,
+                "text": "Bronchitis"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1838478,
+            "status": "PUBLISHED",
+            "note": "2021-09-28 07:51:12",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-28T08:01:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43490862,
+                "review_text": "Dr sumendha is very nice she is described about health issues in detailsshe is given required time to the patient I am happy to visit there. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-26 02:51:33",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 820,
+                "text": "Bronchial Asthma Treatment"
+            },
+            {
+                "id": 918,
+                "text": "Lower/Upper Respiratory Tract Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1984966,
+            "status": "PUBLISHED",
+            "note": "2022-05-05 03:47:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-05-05T04:00:38+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44345684,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2022-05-03 14:33:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Arvind"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 3047,
+                "text": "Chest Disease Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1866175,
+            "status": "PUBLISHED",
+            "note": "2021-11-04 06:20:10",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-04T07:00:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43662977,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-03 05:32:03",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Laxmi Devi"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 820,
+                "text": "Bronchial Asthma Treatment"
+            },
+            {
+                "id": 918,
+                "text": "Lower/Upper Respiratory Tract Infection Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1359039,
+            "status": "PUBLISHED",
+            "note": "2020-02-05 07:42:58",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 745129,
+            "practice_id": 1153886,
+            "practice_name": "M.R Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-05T08:00:57+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40857673,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2020-02-03 11:49:43",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Pramod shankar"
+        },
+        "entity_id": 681267,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

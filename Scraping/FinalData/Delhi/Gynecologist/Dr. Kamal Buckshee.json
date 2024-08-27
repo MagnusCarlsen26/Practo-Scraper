@@ -1,0 +1,89 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2294249,
+            "status": "PUBLISHED",
+            "note": "2023-11-21 06:10:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 128359,
+            "practice_id": 707970,
+            "practice_name": "Fortis La Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-11-21T07:00:28+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46164262,
+                "review_text": "I have started going to this doctor for quite a while now to let you know I would totally recommend her. She patiently listens to you and then gives you a detailed analysis of what needs to be done. She's a lovely lady. Very inspiring to see her going strong even at this age.",
+                "review_alterations": [],
+                "reviewed_on": "2023-11-19 05:50:27",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510004,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 456076,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 128359,
+            "practice_id": 707970,
+            "practice_name": "Fortis La Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-01-24T09:10:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 30472603,
+                "review_text": "****** ** *********** **** ** *** ****** ******* *** experienced, she focuses on patient and give them a lot of her time.Highly recommended",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 51,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 23838
+                    }
+                ],
+                "reviewed_on": "2017-01-23 17:25:13",
+                "channel": "sapphire",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 510004,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

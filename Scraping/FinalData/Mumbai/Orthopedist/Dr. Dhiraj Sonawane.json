@@ -1,0 +1,73 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193957,
+                "text": "Disc Herniation / Extrusion /Prolapse \u2013 Slip Disc"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 836672,
+            "status": "PUBLISHED",
+            "note": "2018-04-03 09:13:36",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 598765,
+            "practice_id": 1184519,
+            "practice_name": "Surana sethia hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-02T13:39:59+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 77068,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you. God bless you.",
+                "replied_at": "2018-04-02T13:39:59+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 2058966,
+                "modified_by_id": 2058966,
+                "replier_name": "Dr. Dhiraj Sonawane",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/598765/dr-dhiraj-sonawane-5ac0ac5d60be8.jpeg"
+            },
+            "survey_response": {
+                "id": 37132239,
+                "review_text": "Caring, know his subject, examine thoroughly and explaining MRI findings in details to me in simple language.\nNot advice me surgery as advised by other spine specialist.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-01 05:58:53",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 628230,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

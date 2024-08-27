@@ -1,0 +1,82 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2113917,
+            "status": "PUBLISHED",
+            "note": "2022-12-08 06:14:37",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 912678,
+            "practice_id": 1373600,
+            "practice_name": "Cloudnine Hospital - Punjabi Bagh",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-12-08T07:00:42+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45088120,
+                "review_text": "Dr Abhishek Chopra is truly god sent.The amount of time he spends on each child is amazing.My baby was in NICU for 37 days and each day he made sure we were counselled properly. He has the ability to listen to parents's suggestions unlike many doctors.He is one of a kind and a true child saviour.Kudos to his perseverance.",
+                "review_alterations": [],
+                "reviewed_on": "2022-12-06 17:48:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Simi Thukral"
+        },
+        "entity_id": 807975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2247073,
+            "status": "PUBLISHED",
+            "note": "2023-08-11 05:32:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 912678,
+            "practice_id": 1373600,
+            "practice_name": "Cloudnine Hospital - Punjabi Bagh",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-11T06:00:45+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45875265,
+                "review_text": "My son has a history of bronchitis and this pattern doesn\u2019t subdue until it ends with antibiotics. Unfortunately this doctor did not see the patient history and pattern before diagnosis ",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-09 16:49:27",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 807975,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

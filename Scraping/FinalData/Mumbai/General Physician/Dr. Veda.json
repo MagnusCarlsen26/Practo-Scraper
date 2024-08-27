@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2106318,
+            "status": "PUBLISHED",
+            "note": "2022-11-24 06:28:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 1021402,
+            "practice_id": 1400035,
+            "practice_name": "Dr Veda Bhatt Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-24T07:00:37+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45045711,
+                "review_text": "I have posted a free query about throat and eye infection 3 days back. I used the medicine names as she suggested. iam recovering now fast and feel better.  thanks Dr Veda for your kindness.",
+                "review_alterations": [],
+                "reviewed_on": "2022-11-23 04:33:39",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Keerthi"
+        },
+        "entity_id": 836068,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

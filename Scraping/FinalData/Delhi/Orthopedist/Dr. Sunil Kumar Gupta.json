@@ -1,0 +1,63 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 717,
+                "text": "Orthopedic Physiotherapy"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1248682,
+            "status": "PUBLISHED",
+            "note": "2019-09-18 10:18:31",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 231379,
+            "practice_id": 696578,
+            "practice_name": "Jeewan Mala Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-18T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40094740,
+                "review_text": "Doctor recommended to do Xray even without examining the case, and the Xray cost was also very high. Disappointing service.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-16 12:05:52",
+                "channel": "ios",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 586834,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

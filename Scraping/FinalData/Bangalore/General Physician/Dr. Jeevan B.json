@@ -1,0 +1,42 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2138147,
+            "status": "PUBLISHED",
+            "note": "2023-01-23 07:50:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 989958,
+            "practice_id": 1277202,
+            "practice_name": "Agamya Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-23T08:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45227839,
+                "review_text": "lack of time spent with the patient.Did not ask more questions related to Obesity and cholesterol, just ended the call abruptly saying I'll share the medicines.Need to diagnose more and talk to the patient , Will not recommend this Doc .",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-22 04:44:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 814914,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

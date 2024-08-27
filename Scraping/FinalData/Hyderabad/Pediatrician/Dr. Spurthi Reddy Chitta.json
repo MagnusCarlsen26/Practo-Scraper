@@ -1,0 +1,111 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1579377,
+            "status": "PUBLISHED",
+            "note": "2020-11-24 07:18:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 654677,
+            "practice_id": 1132588,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-24T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42059550,
+                "review_text": "Parents be careful if you are getting your child vaccinated at Rainbow hospital. I visited Rainbow Hyderabad to get my child vaccinated for 6weeks dose.\n\nAt pharmacy I identified they are using vaccines 2 years old which has a life of just 3 years.\n\nI asked MOD and Mr Deepak vaccine incharge about this, and I was surprised to find they don't have vaccines other than 2 years old and they are using this lot only for all over India.\n\nI am looking at other place for vaccine now.",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-21 18:03:59",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Shashank Shrivastava"
+        },
+        "entity_id": 629816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 960,
+                "text": "Asthma In Children"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1114346,
+            "status": "PUBLISHED",
+            "note": "2019-03-26 04:59:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 654677,
+            "practice_id": 1132588,
+            "practice_name": "Rainbow Children's Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-03-26T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39241577,
+                "review_text": "********* ****** * very good hospitality...\nFriendly behaviour , good child care. Doctor shown excellent petiency ....",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 18,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 163646
+                    }
+                ],
+                "reviewed_on": "2019-03-23 13:26:14",
+                "channel": "web",
+                "source": "REQUEST_APPOINTMENT",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 629816,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 746715,
+            "status": "PUBLISHED",
+            "note": "2017-12-14 07:01:49",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 134156,
+            "practice_id": 695629,
+            "practice_name": "Children's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-12-14T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 36281315,
+                "review_text": "He is a very good doctor. he connects with the children really well and  focuses on   development of the child in natural way. He doesn't recommend unnecessary medicines/multivitamins. Thats really appreciable.",
+                "review_alterations": [],
+                "reviewed_on": "2017-12-11 06:50:12",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jasmine"
+        },
+        "entity_id": 175782,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 2135,
+                "text": "Growth & Development Evaluation / Management"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 951444,
+            "status": "PUBLISHED",
+            "note": "2018-08-21 05:58:01",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 134156,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-08-21T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38104688,
+                "review_text": "Dr. Bhasin gave us ample time inspite of having a number of patients lined up outside. He patiently addressed our issues and explained very well. A doctor who does not believe in giving medicines to newborns very easily. I highly recommend this doctor to all who are looking for a good paediatrician in north west Delhi.",
+                "review_alterations": [],
+                "reviewed_on": "2018-08-18 13:15:58",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 62409,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2129380,
+            "status": "PUBLISHED",
+            "note": "2023-01-06 10:46:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 134156,
+            "practice_id": 695629,
+            "practice_name": "Children's Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-06T11:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45177791,
+                "review_text": "**** ****** *** ************ *** ************ Doctor offers best advice and world class latest vaccines. Highly recommended.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 45,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 438751
+                    }
+                ],
+                "reviewed_on": "2023-01-05 10:43:45",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 175782,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

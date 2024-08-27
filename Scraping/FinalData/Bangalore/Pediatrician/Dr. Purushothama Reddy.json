@@ -1,0 +1,184 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 70310,
+                "text": "Pediatric Vaccinations"
+            },
+            {
+                "id": 185522,
+                "text": "Paediatric care"
+            },
+            {
+                "id": 185523,
+                "text": "Child nutrition Guidance"
+            },
+            {
+                "id": 193477,
+                "text": "Child specialists "
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1394958,
+            "status": "PUBLISHED",
+            "note": "2020-03-11 07:35:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 625091,
+            "practice_id": 1162686,
+            "practice_name": "AAYUSH CHILDRENS HOSPITAL",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-11T08:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41094530,
+                "review_text": "He is my baby's pediatrician. We visit him regularly for my baby's pediatric treatment be it for cough,cold,fever or monthly vaccination. ** ** *** **** ************ ** *********** Listens to us patiently and gives proper advice and medication. ",
+                "review_alterations": [
+                    {
+                        "start_index": 138,
+                        "end_index": 179,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 255774
+                    }
+                ],
+                "reviewed_on": "2020-03-09 11:29:54",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Preeti Adithyan"
+        },
+        "entity_id": 605757,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 192779,
+                "text": "Nutritional Advice"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2183085,
+            "status": "PUBLISHED",
+            "note": "2023-04-13 09:55:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 625091,
+            "practice_id": 1162686,
+            "practice_name": "AAYUSH HOSPITAL ",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-04-13T10:00:51+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45488605,
+                "review_text": "He isn't very good answer help me. Lot..  He advised so many things about my problems..  I am very happy ",
+                "review_alterations": [],
+                "reviewed_on": "2023-04-12 09:47:00",
+                "channel": "web",
+                "source": "DoctorPracticeFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 605757,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2366464,
+            "status": "PUBLISHED",
+            "note": "2024-04-09 07:19:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 625091,
+            "practice_id": 1162686,
+            "practice_name": "AAYUSH HOSPITAL ",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2024-04-09T08:00:34+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46575716,
+                "review_text": "I have visited Ayush Hospital (Chandapura) for my Son Dishank Arya, (Age:2.5 Years) he is not keeping well having fever 103\u00b0. But they won't taken his weight and given prescription of 22.5 Kgs weight and given all the medicines with double the quantity. As per prescription, we given Meftol P 11ml and later we realized and called the hospital, they are not realizing and recommended to use, it's not a issue like that, later my kid went really sick and we taken in to family Doctor. **** ********* ** ******* *** ********* **** **** ***** ** *** ********** ***** **** ***** ********* ** ****** *** **** *** *** ******** **** **** ** *** ****** *** *** **** *** *** ********* *** ******* ***** ** **** ** ***** ********* ******* *** **** **** **** **** **** ** ************ **** ***** ** ********* ****** ************ ",
+                "review_alterations": [
+                    {
+                        "start_index": 484,
+                        "end_index": 709,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 483246
+                    },
+                    {
+                        "start_index": 711,
+                        "end_index": 816,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 483245
+                    }
+                ],
+                "reviewed_on": "2024-04-07 16:20:38",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Ashok Sanampoori"
+        },
+        "entity_id": 605757,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

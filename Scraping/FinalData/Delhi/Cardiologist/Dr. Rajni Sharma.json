@@ -1,0 +1,982 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2096645,
+            "status": "PUBLISHED",
+            "note": "2022-11-08 05:47:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-08T06:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44992260,
+                "review_text": "*** ****** ** **** ************* ************* **** * **** ***** ** ** ***********. Despite being a hectic day, she spent adequate time with me to understand my situation and made the most relevant advice. Really appreciate her counsel. I would certainly recommend her to anyone seeking specialist opinion.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 81,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 431847
+                    }
+                ],
+                "reviewed_on": "2022-11-05 14:56:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raj Kaushik"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1854543,
+            "status": "PUBLISHED",
+            "note": "2021-10-19 06:31:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-19T07:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43590739,
+                "review_text": "patient hearing. gave enough time and listen carefully my problems. 5 \ud83c\udf1f  rating. very nice Doctor to visit.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-17 07:17:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "user"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2276770,
+            "status": "PUBLISHED",
+            "note": "2023-10-15 05:01:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-15T06:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46064569,
+                "review_text": "she was very rude when i called her and started saying that she is not a dietician and to know more about what i should eat and what i should not in high ldl cholestrol i should consult a doctor and also she said that no follow up is there in her consultation and why im asking her things 2nd or 3rd time after consultation .at last when on 3rd day some urgent thing i Wanted to know about medicine time gap between dinner and medicine she very clearly closed the conversation by saying ur consultancy is closed. she is very rude, very unfriendly and also very smart and not helping the patient at all. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-13 12:40:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sunita Sharma"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1845079,
+            "status": "PUBLISHED",
+            "note": "2021-10-06 06:08:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-06T07:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43532577,
+                "review_text": "Doctor Rajni Sharma was booked for video consultation for my senior citizen mother, she at the time of consultation told is outside and cannot do video consultation and thus rescheduled for today at 5:45 pm, again few hrs back she rescheduled to 6:15 pm but did not connect, did not respond to chat messages, my mother kept waiting for the video consultation with all documents. On top of that practo says consulatation is over.\n\nWe have been taken for a ride",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-04 13:28:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1401872,
+            "status": "PUBLISHED",
+            "note": "2020-03-18 09:20:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-17T13:40:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 199120,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thankyou",
+                "replied_at": "2020-03-17T13:40:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 3784781,
+                "modified_by_id": 3784781,
+                "replier_name": "Dr. Rajni Sharma",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/648080/dr-rajni-sharma-5ac8cd45a3766.jpg"
+            },
+            "survey_response": {
+                "id": 41137955,
+                "review_text": "She's very friendly. Gave sufficient time . Listened all my problems and made me understand everything.\nTotally satisfied with my consultation.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-16 14:23:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Namami shukla"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2201867,
+            "status": "PUBLISHED",
+            "note": "2023-05-21 06:25:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-21T07:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45603001,
+                "review_text": "The doctor was not friendly and ********* ******* ***** ** ** ****.  She has charged more rather compared to any other",
+                "review_alterations": [
+                    {
+                        "start_index": 32,
+                        "end_index": 65,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 456571
+                    }
+                ],
+                "reviewed_on": "2023-05-19 17:03:26",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1385837,
+            "status": "PUBLISHED",
+            "note": "2020-03-03 04:48:10",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-03T05:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41039472,
+                "review_text": "*** ** * **** **** ******* Visited for TMT and ECHO. Explained all the things properly. Listen all the problems carefully. Give there opinion.\nVery soft spoken.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 25,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 252888
+                    }
+                ],
+                "reviewed_on": "2020-02-29 13:24:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183104,
+                "text": "Cardiac checkup - General"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1186430,
+            "status": "PUBLISHED",
+            "note": "2019-06-28 05:56:58",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-28T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39698726,
+                "review_text": "*** ** * ********* ******* very soft spoken and explanation about health issue is in very detail. We are fully satisfied with this wonderful doctor.\n\nThanks practo.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 25,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 187049
+                    }
+                ],
+                "reviewed_on": "2019-06-27 04:25:26",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1410,
+                "text": "Electrocardiography (ECG)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1071725,
+            "status": "PUBLISHED",
+            "note": "2019-01-29 07:05:31",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1184606,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-29T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38958728,
+                "review_text": "I have an appointment with Rajni Sharma but she is not there for consultation bcoz she is having personal problem my appointment is transferred to a senior dr.hemant Madan he is so good in behaviour aur n consultation i m very satisfied.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-26 07:14:09",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 628321,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 838776,
+            "status": "PUBLISHED",
+            "note": "2018-04-05 05:14:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-05T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37151007,
+                "review_text": "Dr Rajni is extremely good. I am very satisfied with her treatment.  All the facilities are available here i.e. echo, TMT, stress echo etc. At affordable price.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-03 16:28:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2096645,
+            "status": "PUBLISHED",
+            "note": "2022-11-08 05:47:41",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-11-08T06:00:56+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44992260,
+                "review_text": "*** ****** ** **** ************* ************* **** * **** ***** ** ** ***********. Despite being a hectic day, she spent adequate time with me to understand my situation and made the most relevant advice. Really appreciate her counsel. I would certainly recommend her to anyone seeking specialist opinion.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 81,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 431847
+                    }
+                ],
+                "reviewed_on": "2022-11-05 14:56:31",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Raj Kaushik"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1854543,
+            "status": "PUBLISHED",
+            "note": "2021-10-19 06:31:17",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-19T07:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43590739,
+                "review_text": "patient hearing. gave enough time and listen carefully my problems. 5 \ud83c\udf1f  rating. very nice Doctor to visit.",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-17 07:17:25",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "user"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2276770,
+            "status": "PUBLISHED",
+            "note": "2023-10-15 05:01:34",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-10-15T06:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 46064569,
+                "review_text": "she was very rude when i called her and started saying that she is not a dietician and to know more about what i should eat and what i should not in high ldl cholestrol i should consult a doctor and also she said that no follow up is there in her consultation and why im asking her things 2nd or 3rd time after consultation .at last when on 3rd day some urgent thing i Wanted to know about medicine time gap between dinner and medicine she very clearly closed the conversation by saying ur consultancy is closed. she is very rude, very unfriendly and also very smart and not helping the patient at all. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-10-13 12:40:17",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Sunita Sharma"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1845079,
+            "status": "PUBLISHED",
+            "note": "2021-10-06 06:08:09",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-10-06T07:00:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43532577,
+                "review_text": "Doctor Rajni Sharma was booked for video consultation for my senior citizen mother, she at the time of consultation told is outside and cannot do video consultation and thus rescheduled for today at 5:45 pm, again few hrs back she rescheduled to 6:15 pm but did not connect, did not respond to chat messages, my mother kept waiting for the video consultation with all documents. On top of that practo says consulatation is over.\n\nWe have been taken for a ride",
+                "review_alterations": [],
+                "reviewed_on": "2021-10-04 13:28:26",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": true
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1401872,
+            "status": "PUBLISHED",
+            "note": "2020-03-18 09:20:46",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-17T13:40:42+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 199120,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thankyou",
+                "replied_at": "2020-03-17T13:40:42+0000",
+                "replied_by": "DOCTOR",
+                "replied_by_id": 3784781,
+                "modified_by_id": 3784781,
+                "replier_name": "Dr. Rajni Sharma",
+                "replier_logo": "https://images1-fabric.practo.com/doctor/648080/dr-rajni-sharma-5ac8cd45a3766.jpg"
+            },
+            "survey_response": {
+                "id": 41137955,
+                "review_text": "She's very friendly. Gave sufficient time . Listened all my problems and made me understand everything.\nTotally satisfied with my consultation.",
+                "review_alterations": [],
+                "reviewed_on": "2020-03-16 14:23:22",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Namami shukla"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 942,
+                "text": "Heart Conditions"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2201867,
+            "status": "PUBLISHED",
+            "note": "2023-05-21 06:25:44",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-05-21T07:00:20+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45603001,
+                "review_text": "The doctor was not friendly and ********* ******* ***** ** ** ****.  She has charged more rather compared to any other",
+                "review_alterations": [
+                    {
+                        "start_index": 32,
+                        "end_index": 65,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 456571
+                    }
+                ],
+                "reviewed_on": "2023-05-19 17:03:26",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1385837,
+            "status": "PUBLISHED",
+            "note": "2020-03-03 04:48:10",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-03T05:00:58+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41039472,
+                "review_text": "*** ** * **** **** ******* Visited for TMT and ECHO. Explained all the things properly. Listen all the problems carefully. Give there opinion.\nVery soft spoken.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 25,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 252888
+                    }
+                ],
+                "reviewed_on": "2020-02-29 13:24:24",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 183104,
+                "text": "Cardiac checkup - General"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1186430,
+            "status": "PUBLISHED",
+            "note": "2019-06-28 05:56:58",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-06-28T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39698726,
+                "review_text": "*** ** * ********* ******* very soft spoken and explanation about health issue is in very detail. We are fully satisfied with this wonderful doctor.\n\nThanks practo.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 25,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 187049
+                    }
+                ],
+                "reviewed_on": "2019-06-27 04:25:26",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1410,
+                "text": "Electrocardiography (ECG)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1071725,
+            "status": "PUBLISHED",
+            "note": "2019-01-29 07:05:31",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1184606,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-01-29T08:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 38958728,
+                "review_text": "I have an appointment with Rajni Sharma but she is not there for consultation bcoz she is having personal problem my appointment is transferred to a senior dr.hemant Madan he is so good in behaviour aur n consultation i m very satisfied.",
+                "review_alterations": [],
+                "reviewed_on": "2019-01-26 07:14:09",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 628321,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 838776,
+            "status": "PUBLISHED",
+            "note": "2018-04-05 05:14:52",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 648080,
+            "practice_id": 1183252,
+            "practice_name": "Sehgal Heart Centre",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2018-04-05T06:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 37151007,
+                "review_text": "Dr Rajni is extremely good. I am very satisfied with her treatment.  All the facilities are available here i.e. echo, TMT, stress echo etc. At affordable price.",
+                "review_alterations": [],
+                "reviewed_on": "2018-04-03 16:28:06",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 626677,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

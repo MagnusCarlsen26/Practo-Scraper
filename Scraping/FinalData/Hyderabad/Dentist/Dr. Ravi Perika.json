@@ -1,0 +1,938 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 109,
+                "text": "Invisible/Clear Braces"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1684862,
+            "status": "PUBLISHED",
+            "note": "2021-03-28 07:11:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-28T08:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42629535,
+                "review_text": "I satisfied with the treatment doc was so polite and good ambience  overall good experience with the clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-27 07:11:18",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "P.Pavani"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 555846,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-12T09:49:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34359954,
+                "review_text": "I had good experience with Dr Ravi.explained in detailed treatment and satisfied. He was very friendly and polite tq sir",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-11 14:18:50",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ganesh"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 547253,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-05T11:09:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34275124,
+                "review_text": "Dr.Ravi is a really a very good dentist he understand the pt very well well treated I definatelly recommend to my family colics and friends tq",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-03 12:22:52",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "CH.RAMA CHANDRA RAO"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 546479,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-05T05:22:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34269192,
+                "review_text": "visited for cleaning my teeth.I have a good experience with Dr for my treatment . I had a pain less treatment .tq",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-03 04:46:57",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sainath"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 530840,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-19T05:13:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34095910,
+                "review_text": "felt very happy to listen prescribed treatment by Dr Ravi .i and I will bee soon back to take tooth whitening treatment.impressed by Dr.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-18 11:43:17",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "VINOD KUMAR"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 84,
+                "text": "BPS Dentures Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 529452,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-18T09:02:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34080721,
+                "review_text": "good and my friend referee to HSP with his opinion I had consulted hear and had treatment it was so good and better now.satisfied with drs received me",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-17 08:25:42",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SATYA SAI"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 527898,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-17T09:42:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34066721,
+                "review_text": "Dr. Ravi has a very pleasing personality, and highly experienced , in handling patients of any age. I am highly pleased with the treatment",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-15 14:45:58",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "P.Swetha"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 518216,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-07T08:49:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33955854,
+                "review_text": "felt very happy with Dr and staff I will recommend my family and friends to siri clinic.satisfied with Dr.Ravi and well treated to my son.felt happy by visiting clinic and good experience.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-07 07:26:16",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ch.riskik"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1785929,
+            "status": "PUBLISHED",
+            "note": "2021-07-27 09:17:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental-DILSUKHNAGAR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-27T10:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 304484,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much",
+                "replied_at": "2021-07-28T06:45:59+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 200668,
+                "modified_by_id": 200668,
+                "replier_name": "Siri Dental-DILSUKHNAGAR",
+                "replier_logo": "https://images1-fabric.practo.com/siri-dental-hospital-dilsukhnagar-hyderabad-1486109279-58943a5f200dd.jpg"
+            },
+            "survey_response": {
+                "id": 43180391,
+                "review_text": "**** * **** **** ****** GOOD ADVISOR AND GOOD COMMUNICATION ITH PATIENT VERY GOOD STAFF and good responce",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 361442
+                    }
+                ],
+                "reviewed_on": "2021-07-25 05:57:29",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1704119,
+            "status": "PUBLISHED",
+            "note": "2021-04-22 04:39:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-22T05:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42736931,
+                "review_text": "Yes I recommend doctor. Good with perfect experience\nGood staff\nFriendly communication\nSure to resolve problem\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-20 14:14:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 109,
+                "text": "Invisible/Clear Braces"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1684862,
+            "status": "PUBLISHED",
+            "note": "2021-03-28 07:11:52",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-28T08:01:21+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42629535,
+                "review_text": "I satisfied with the treatment doc was so polite and good ambience  overall good experience with the clinic.",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-27 07:11:18",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "P.Pavani"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 279,
+                "text": "Root Canal Treatment (RCT)"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 555846,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-12T09:49:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34359954,
+                "review_text": "I had good experience with Dr Ravi.explained in detailed treatment and satisfied. He was very friendly and polite tq sir",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-11 14:18:50",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ganesh"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 547253,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-05T11:09:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34275124,
+                "review_text": "Dr.Ravi is a really a very good dentist he understand the pt very well well treated I definatelly recommend to my family colics and friends tq",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-03 12:22:52",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "CH.RAMA CHANDRA RAO"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 12848,
+                "text": "Dental Cleaning"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 546479,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-05-05T05:22:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34269192,
+                "review_text": "visited for cleaning my teeth.I have a good experience with Dr for my treatment . I had a pain less treatment .tq",
+                "review_alterations": [],
+                "reviewed_on": "2017-05-03 04:46:57",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "sainath"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 135,
+                "text": "Teeth Whitening"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 530840,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-19T05:13:47+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34095910,
+                "review_text": "felt very happy to listen prescribed treatment by Dr Ravi .i and I will bee soon back to take tooth whitening treatment.impressed by Dr.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-18 11:43:17",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "VINOD KUMAR"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 84,
+                "text": "BPS Dentures Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 529452,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-18T09:02:11+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34080721,
+                "review_text": "good and my friend referee to HSP with his opinion I had consulted hear and had treatment it was so good and better now.satisfied with drs received me",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-17 08:25:42",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "SATYA SAI"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 527898,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-17T09:42:53+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 34066721,
+                "review_text": "Dr. Ravi has a very pleasing personality, and highly experienced , in handling patients of any age. I am highly pleased with the treatment",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-15 14:45:58",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "P.Swetha"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 518216,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-04-07T08:49:40+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 33955854,
+                "review_text": "felt very happy with Dr and staff I will recommend my family and friends to siri clinic.satisfied with Dr.Ravi and well treated to my son.felt happy by visiting clinic and good experience.",
+                "review_alterations": [],
+                "reviewed_on": "2017-04-07 07:26:16",
+                "channel": "tab",
+                "source": "TAB",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "ch.riskik"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 82,
+                "text": "Artificial Teeth"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1785929,
+            "status": "PUBLISHED",
+            "note": "2021-07-27 09:17:38",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental-DILSUKHNAGAR",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-07-27T10:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": {
+                "id": 304484,
+                "reply_status": "PUBLISHED",
+                "reply_text": "Thank you very much",
+                "replied_at": "2021-07-28T06:45:59+0000",
+                "replied_by": "CLINIC",
+                "replied_by_id": 200668,
+                "modified_by_id": 200668,
+                "replier_name": "Siri Dental-DILSUKHNAGAR",
+                "replier_logo": "https://images1-fabric.practo.com/siri-dental-hospital-dilsukhnagar-hyderabad-1486109279-58943a5f200dd.jpg"
+            },
+            "survey_response": {
+                "id": 43180391,
+                "review_text": "**** * **** **** ****** GOOD ADVISOR AND GOOD COMMUNICATION ITH PATIENT VERY GOOD STAFF and good responce",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 23,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 361442
+                    }
+                ],
+                "reviewed_on": "2021-07-25 05:57:29",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1704119,
+            "status": "PUBLISHED",
+            "note": "2021-04-22 04:39:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 590122,
+            "practice_id": 1131896,
+            "practice_name": "Siri Dental Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-04-22T05:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42736931,
+                "review_text": "Yes I recommend doctor. Good with perfect experience\nGood staff\nFriendly communication\nSure to resolve problem\n\n\n",
+                "review_alterations": [],
+                "reviewed_on": "2021-04-20 14:14:10",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 575900,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

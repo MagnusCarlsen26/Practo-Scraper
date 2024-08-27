@@ -1,0 +1,175 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2249244,
+            "status": "PUBLISHED",
+            "note": "2023-08-17 07:49:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 664464,
+            "practice_id": 704092,
+            "practice_name": "Aakash Health Care",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-17T08:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45890701,
+                "review_text": "I am vedparkash  54 yr old Iam satisfie with doctoe Amit perfect experiance my lad open with two stunt",
+                "review_alterations": [],
+                "reviewed_on": "2023-08-15 13:34:54",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 802947,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 51,
+                "text": "Carotid Angioplasty And Stenting"
+            },
+            {
+                "id": 194962,
+                "text": "Aortic Bypass Surgery"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1240342,
+            "status": "PUBLISHED",
+            "note": "2019-09-07 06:23:57",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 664464,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-07T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40040604,
+                "review_text": "Nice experience, ****** ****** **** ********* ** *** ********good human being.polite patients problem lisner  n provide right solution.",
+                "review_alterations": [
+                    {
+                        "start_index": 17,
+                        "end_index": 60,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 205262
+                    }
+                ],
+                "reviewed_on": "2019-09-05 16:08:55",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 635571,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 50,
+                "text": "Cardioversion"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1218171,
+            "status": "PUBLISHED",
+            "note": "2019-08-08 13:14:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 664464,
+            "practice_id": 680128,
+            "practice_name": "BLK Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-08T14:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39899714,
+                "review_text": "",
+                "review_alterations": [],
+                "reviewed_on": "2019-08-07 13:09:41",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ajay Kant"
+        },
+        "entity_id": 635571,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

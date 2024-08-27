@@ -1,0 +1,105 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1790720,
+            "status": "PUBLISHED",
+            "note": "2021-08-01 06:03:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 643406,
+            "practice_id": 1176875,
+            "practice_name": "The Dental Room",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-08-01T07:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43207267,
+                "review_text": "Doctor is very friendly, professional and understood the problem and remediated the severe ache, would definitely recommend for dental related issues. Thank you.",
+                "review_alterations": [],
+                "reviewed_on": "2021-07-30 14:36:07",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Phanindra"
+        },
+        "entity_id": 621863,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 98,
+                "text": "Dental Fillings"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1486274,
+            "status": "PUBLISHED",
+            "note": "2020-08-07 13:14:03",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 643406,
+            "practice_id": 1176875,
+            "practice_name": "The Dental Room",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-08-07T14:01:10+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41570659,
+                "review_text": "What patients need is to Cleary understand their Problem and treatment procedures. Most doctors don't do this as they don't spare time doing it, Common reasons are like attending more patients . BUT IN THIS DOCTORS CASE.. It was well explained. Iam fully satisfied with her and shall continue my treatment ",
+                "review_alterations": [],
+                "reviewed_on": "2020-08-06 12:32:30",
+                "channel": "web",
+                "source": "VN",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 621863,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

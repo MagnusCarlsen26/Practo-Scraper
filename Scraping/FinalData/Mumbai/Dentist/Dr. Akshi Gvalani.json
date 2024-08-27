@@ -1,0 +1,319 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 681704,
+            "status": "PUBLISHED",
+            "note": "2017-09-19 10:04:58",
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 425554,
+            "practice_id": 680925,
+            "practice_name": "Matunga Guj. Seva Mandal Dental Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-09-19T11:00:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 35641144,
+                "review_text": "I was very unsure about the treatment as it was multiple cavities and cannot be cure in one seating. She has look in detail and given the detailed suggestions time to time during the treatment. ** ** ***** **** *** *** ******** **** ***** *** *** **** her right advice during the treatment helped to take inform decisions. \nI had not felt a pain in any seating and she did proper precautions while dealing with tooth and cavities.  I would like to recommend her for dental advise and treatments. \nMatunga Seva mandal has very supportive staff and the treatment is quite reasonable. Wish to keep the good work going for the management team\n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 193,
+                        "end_index": 250,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 66570
+                    }
+                ],
+                "reviewed_on": "2017-09-16 20:02:42",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vipul Singhal"
+        },
+        "entity_id": 455971,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 81,
+                "text": "Aesthetic Dentistry"
+            },
+            {
+                "id": 90,
+                "text": "Cosmetic/ Aesthetic Dentistry"
+            },
+            {
+                "id": 118,
+                "text": "Periodontal Flap Surgery"
+            },
+            {
+                "id": 473,
+                "text": "Dental Surgery"
+            },
+            {
+                "id": 631,
+                "text": "Dental Implant"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2141512,
+            "status": "PUBLISHED",
+            "note": "2023-01-29 08:17:05",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 425554,
+            "practice_id": 654825,
+            "practice_name": "Simply Smiles",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-01-29T09:00:41+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45247099,
+                "review_text": "I've recently started going to Dr. Gvalani for a full overhaul of my front teeth and her work has been absolutely outstanding. She's knowledgeable, trustworthy and answered my numerous questions in detail, politely and patiently. To add to it this has been one of the most painless experiences I've ever had. Her expertise, integrity and empathy for the person on the other end of drill is much appreciated. ",
+                "review_alterations": [],
+                "reviewed_on": "2023-01-28 08:07:45",
+                "channel": "web",
+                "source": "RAY",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ruth Mapgaonkar"
+        },
+        "entity_id": 452583,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 888,
+                "text": "Cavities"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 390585,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 425554,
+            "practice_id": 654825,
+            "practice_name": "Simply Smiles",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-12-29T10:49:04+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 26346588,
+                "review_text": "The clinic is well lit, spacious and clean. The doctor is professional and precise in her work. In addition to the procedure done she recommended some preventive remedies which, once habituated to have given me considerable relief. All in all a good professional resulting a great experience, which usually isn't the case while visiting a dentist. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-10-21 07:37:29",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suraj Somashekhar"
+        },
+        "entity_id": 452583,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 1020,
+                "text": "Dental Implant Fixing"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 489303,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 425554,
+            "practice_id": 654825,
+            "practice_name": "Simply Smiles",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-06T12:37:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32486001,
+                "review_text": "Dr Akshi has a gentle hand and is extremely good at what she does. She explained the entire process to me and was very patient and thorough.",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-06 03:50:20",
+                "channel": "web_sms",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 452583,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 488132,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 425554,
+            "practice_id": 654825,
+            "practice_name": "Simply Smiles",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2017-03-04T07:25:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 32426369,
+                "review_text": "Good. Gave constructive suggestions.Was thorough in her checkup.Did not suggest things that were unnecessary and expensive.",
+                "review_alterations": [],
+                "reviewed_on": "2017-03-04 07:24:39",
+                "channel": "web_email",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 452583,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 88,
+                "text": "Toothache"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 289496,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": false,
+            "review_for": "DOCTOR",
+            "doctor_id": 425554,
+            "practice_id": 654825,
+            "practice_name": "Simply Smiles",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-06-17T05:07:54+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 19751336,
+                "review_text": "Very attentive and patiently solved my problem. I would recommend her to other friends.The clinic can be depended upon",
+                "review_alterations": [],
+                "reviewed_on": "2016-06-16 17:18:15",
+                "channel": "web_email",
+                "source": "RAY",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 452583,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

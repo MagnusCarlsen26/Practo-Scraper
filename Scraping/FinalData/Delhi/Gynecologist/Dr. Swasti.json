@@ -1,0 +1,98 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 163331,
+                "text": "Endometriosis Treatment"
+            },
+            {
+                "id": 450,
+                "text": "Endometrial Cancer"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1425060,
+            "status": "PUBLISHED",
+            "note": "2020-05-13 13:08:08",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 707915,
+            "practice_id": 678414,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-05-13T14:00:26+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41262377,
+                "review_text": "Dr Swasti is a perfect knowledgeable, Brilliant *** **** ******* Also, I've seen in terms of knowledge and treatment. She is great human being as well. She treated and saved my mother's life after being diagnosed Endometrial CA. She guided me each and every step of the treatment and help me to come out the most difficult era of my life. Even , Still whenever , we needs any advised or emergency she is always available. Many Times, as attendant we raised lot of queries but always listen and answered everything in very calm and cool way. My mother surgery was really critical and I had visited number of places for the same. But She treated my mother in long surgery(more than 6 hours) and ensures and provide full support post-surgery process as well. Also, guide for further radiation. \n\nWe really don't have words to express my thanks and gratitude towards her. But, I would like to highly recommend her for any onco gynae Surgery.\n\nMy whole family owe him a huge thank-you!!!\n\nGod Bless You. You are god gift for me.\n",
+                "review_alterations": [
+                    {
+                        "start_index": 48,
+                        "end_index": 64,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 265259
+                    }
+                ],
+                "reviewed_on": "2020-05-12 10:02:56",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Vibhor "
+        },
+        "entity_id": 660898,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2242317,
+            "status": "PUBLISHED",
+            "note": "2023-08-01 06:14:06",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 707915,
+            "practice_id": 678414,
+            "practice_name": "Max Super Speciality Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-01T07:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45842919,
+                "review_text": "\nThankyou so much dr Swasti for special care and surgery you performed on me .You are such awesome doctor and I am blessed that I had you for my surgery. Your medical advice and human touch gave me courage to  under take medical procedure and made everything a very positive experience.Regards....  Neelu Gautam.\n",
+                "review_alterations": [],
+                "reviewed_on": "2023-07-29 17:20:04",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV1",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Neelu Gautam"
+        },
+        "entity_id": 660898,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

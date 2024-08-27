@@ -1,0 +1,1772 @@
+[
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 819,
+                "text": "Measles Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1877157,
+            "status": "PUBLISHED",
+            "note": "2021-11-21 05:36:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-21T06:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43731359,
+                "review_text": "My experience with doc deepanju mam is from wen she was treating to my dad wen he was admitted frist time in fortis hospital dat time my dad said she is well experienced and friendly and her medesince also r too good for diabetic patient dey vill not at all harm to any body parts n she is very sweet n understanding I love her very much.. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-20 04:43:31",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ayesha. "
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1679058,
+            "status": "PUBLISHED",
+            "note": "2021-03-23 04:26:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-23T05:01:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42597407,
+                "review_text": "Fortis La Femme Bangalore, receptionist at the doctors room was impatient. \nDoctor  reached the hospital 50 minutes late after the appointment although she attended well. \nNone of the medicines prescribed by her was available in the hospital pharmacy. \nPracto staff  couldn't connect with the hospital to help me know how long to wait. \n",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-20 13:17:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Namrata Ramakrishnan"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193990,
+                "text": "ARTHRITIS"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2248631,
+            "status": "PUBLISHED",
+            "note": "2023-08-22 10:10:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 1075197,
+            "practice_name": "Zion Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-22T11:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45886072,
+                "review_text": "**** ****** ** * ********* ***** *** ***** ** ********* ******** *** **** ***** *** *********** ** *** *********** ***********  ******** *** ***** *** ******** *********** She told me to get admitted, I am suffering from rheumatoid arthritis, and was supposed to call a doctor for rheumatology, but the hospital I stayed has no doctor for rheumatology, she finally told me could not arrange anyone,,and treated for nothing,  although I paid for hospital, her fees for five visits *** * ** ***** ********* **** ********* **** searching for **** doctors in rheumatology.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 170,
+                        "reason": "NON_COMPLIANT",
+                        "id": 466003
+                    },
+                    {
+                        "start_index": 480,
+                        "end_index": 523,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 466004
+                    },
+                    {
+                        "start_index": 539,
+                        "end_index": 542,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 466005
+                    }
+                ],
+                "reviewed_on": "2023-08-13 14:45:51",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kripa "
+        },
+        "entity_id": 502207,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1227596,
+            "status": "PUBLISHED",
+            "note": "2019-08-23 06:13:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-23T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39959195,
+                "review_text": "I felt the doctor gave a whole bunch of medicines and at one point, she asked if I could cope with the neck pain and then she gave another one a total of 7 meds. A little confused  I felt. * ********* ****** ***** **** ** **** ********* *** * ***** ********** Also she told us to start off the antibiotic even before the blood and urine test.\n\nI didn't feel satisfied at all. ",
+                "review_alterations": [
+                    {
+                        "start_index": 188,
+                        "end_index": 258,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 201066
+                    }
+                ],
+                "reviewed_on": "2019-08-20 05:57:42",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kauser "
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1108,
+                "text": "Thyroid Disorders"
+            },
+            {
+                "id": 335,
+                "text": "Dengue"
+            },
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            },
+            {
+                "id": 186431,
+                "text": "Respiratory tract infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1356297,
+            "status": "PUBLISHED",
+            "note": "2020-02-01 09:26:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 1075197,
+            "practice_name": "Zion Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-01T10:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40835732,
+                "review_text": "Dr Deepanju is more like our family doctor. Many times over the last 10 years she has treated us and cured all of us from some ailment or the other. She has a very kind and pleasant personality. Sometimes her schedule is very busy with a huge number of outpatients in addition to in patients that require her urgently, hence the wait times are long. She prescribe only necessary tests for diagnosing the ailment and also makes recommendations if a specialist needs to be consulted. When my father was admitted in Zion due to a pulmonary issue along with very high BP and a stomach infection, Doctor Deepanju oversaw his treatment. My family and I are very grateful to her. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-31 08:08:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 502207,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1336398,
+            "status": "PUBLISHED",
+            "note": "2020-01-10 10:15:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-10T11:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40687050,
+                "review_text": "I've had a similar experience at Fortis la femme, but i decided to give this place a try for the second time. At the time of my appointment, the receptionist called the doctor who said she will be 10 mins late. HALF AN HOUR later, i asked the receptionist again and the doc mentioned that she will be 10 mins late. By this time i was losing my trust in this establishment *** ********** **** ****** **** ** ******** *** ******* ** ** **** ***** *** *** ************* another 10 mins later (by which the doc still hadn't arrived, surprise surprise) i finally demanded a refund which they took 10 mins to pay back. absolutely p-a-the-t-ic. Please don't visit Fortis la femma (unless you've had a good experience with a doc) and especially do not visit this doc if you value your time. *** *** **** ***** *** ******** ********* ***** ******** ***** *** **** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 372,
+                        "end_index": 466,
+                        "reason": "NON_COMPLIANT",
+                        "id": 236343
+                    },
+                    {
+                        "start_index": 782,
+                        "end_index": 860,
+                        "reason": "NON_COMPLIANT",
+                        "id": 236344
+                    }
+                ],
+                "reviewed_on": "2020-01-09 09:45:38",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1143423,
+            "status": "PUBLISHED",
+            "note": "2019-05-01 13:36:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-01T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39426957,
+                "review_text": "Not at all professional! Doctor was one hour late for the appointment! No curtesy to inform that she\u2019ll be late. \nPatient\u2019s time is a joke for fortis le femme hospital.\nDoctor prescribed me antibiotic which I was supposed to take immediately. But the drug was not available in the hospital pharmacy or near by any pharmacy ( my friend visited 4 pharmacy) **** ***** * ****** ********* * **** ***** ** *** **** ********* ** ***** *** ******** ** *** **** ******** * ** ** **** **** ** ****** ******* \n\nMy whole experience was more painful than the pain due to infection!  \n",
+                "review_alterations": [
+                    {
+                        "start_index": 354,
+                        "end_index": 497,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 172520
+                    }
+                ],
+                "reviewed_on": "2019-04-30 13:31:26",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 326715,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 1075197,
+            "practice_name": "Zion Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-02T10:16:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22383439,
+                "review_text": "Has too much on her hands. Always in a hurry. Never available for in patients. Suggested medicine were prescribed incorrectly looked like a typographical error in prescription. Nurses randomly struck out one of the medicines when I pointed the error. I asked them to check with the doctor, but she was too busy for this. Absolutely disappointing experience. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-02 08:56:14",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Himanshu Batra"
+        },
+        "entity_id": 502207,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1576148,
+            "status": "PUBLISHED",
+            "note": "2020-11-19 06:41:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-19T07:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42042508,
+                "review_text": "Very humble doctor... I likw the way she explains the complications and the treatment for it in a simple manner.. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-18 05:53:39",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MOHAMMED NIZAMUDDIN"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1569971,
+            "status": "PUBLISHED",
+            "note": "2020-11-10 07:20:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-10T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42008367,
+                "review_text": "Nice & experienced. Problem solved.. On treatment. Medicine provided as per requirement. Strongly recommended. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-08 05:45:48",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sarthak Mohanty"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 819,
+                "text": "Measles Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1877157,
+            "status": "PUBLISHED",
+            "note": "2021-11-21 05:36:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-11-21T06:01:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43731359,
+                "review_text": "My experience with doc deepanju mam is from wen she was treating to my dad wen he was admitted frist time in fortis hospital dat time my dad said she is well experienced and friendly and her medesince also r too good for diabetic patient dey vill not at all harm to any body parts n she is very sweet n understanding I love her very much.. ",
+                "review_alterations": [],
+                "reviewed_on": "2021-11-20 04:43:31",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Ayesha. "
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1575,
+                "text": "Preventive Medicine"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1679058,
+            "status": "PUBLISHED",
+            "note": "2021-03-23 04:26:25",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-03-23T05:01:27+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42597407,
+                "review_text": "Fortis La Femme Bangalore, receptionist at the doctors room was impatient. \nDoctor  reached the hospital 50 minutes late after the appointment although she attended well. \nNone of the medicines prescribed by her was available in the hospital pharmacy. \nPracto staff  couldn't connect with the hospital to help me know how long to wait. \n",
+                "review_alterations": [],
+                "reviewed_on": "2021-03-20 13:17:44",
+                "channel": "web",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Namrata Ramakrishnan"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 193990,
+                "text": "ARTHRITIS"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 2248631,
+            "status": "PUBLISHED",
+            "note": "2023-08-22 10:10:15",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 1075197,
+            "practice_name": "Zion Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2023-08-22T11:00:52+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 45886072,
+                "review_text": "**** ****** ** * ********* ***** *** ***** ** ********* ******** *** **** ***** *** *********** ** *** *********** ***********  ******** *** ***** *** ******** *********** She told me to get admitted, I am suffering from rheumatoid arthritis, and was supposed to call a doctor for rheumatology, but the hospital I stayed has no doctor for rheumatology, she finally told me could not arrange anyone,,and treated for nothing,  although I paid for hospital, her fees for five visits *** * ** ***** ********* **** ********* **** searching for **** doctors in rheumatology.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 170,
+                        "reason": "NON_COMPLIANT",
+                        "id": 466003
+                    },
+                    {
+                        "start_index": 480,
+                        "end_index": 523,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 466004
+                    },
+                    {
+                        "start_index": 539,
+                        "end_index": 542,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 466005
+                    }
+                ],
+                "reviewed_on": "2023-08-13 14:45:51",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kripa "
+        },
+        "entity_id": 502207,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1227596,
+            "status": "PUBLISHED",
+            "note": "2019-08-23 06:13:21",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-08-23T07:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39959195,
+                "review_text": "I felt the doctor gave a whole bunch of medicines and at one point, she asked if I could cope with the neck pain and then she gave another one a total of 7 meds. A little confused  I felt. * ********* ****** ***** **** ** **** ********* *** * ***** ********** Also she told us to start off the antibiotic even before the blood and urine test.\n\nI didn't feel satisfied at all. ",
+                "review_alterations": [
+                    {
+                        "start_index": 188,
+                        "end_index": 258,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 201066
+                    }
+                ],
+                "reviewed_on": "2019-08-20 05:57:42",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Kauser "
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1108,
+                "text": "Thyroid Disorders"
+            },
+            {
+                "id": 335,
+                "text": "Dengue"
+            },
+            {
+                "id": 186429,
+                "text": "Throat infection"
+            },
+            {
+                "id": 162,
+                "text": "Blood Pressure Changes"
+            },
+            {
+                "id": 186431,
+                "text": "Respiratory tract infection"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1356297,
+            "status": "PUBLISHED",
+            "note": "2020-02-01 09:26:32",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 1075197,
+            "practice_name": "Zion Hospital",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-02-01T10:00:19+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40835732,
+                "review_text": "Dr Deepanju is more like our family doctor. Many times over the last 10 years she has treated us and cured all of us from some ailment or the other. She has a very kind and pleasant personality. Sometimes her schedule is very busy with a huge number of outpatients in addition to in patients that require her urgently, hence the wait times are long. She prescribe only necessary tests for diagnosing the ailment and also makes recommendations if a specialist needs to be consulted. When my father was admitted in Zion due to a pulmonary issue along with very high BP and a stomach infection, Doctor Deepanju oversaw his treatment. My family and I are very grateful to her. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-31 08:08:44",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 502207,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1336398,
+            "status": "PUBLISHED",
+            "note": "2020-01-10 10:15:40",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-10T11:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40687050,
+                "review_text": "I've had a similar experience at Fortis la femme, but i decided to give this place a try for the second time. At the time of my appointment, the receptionist called the doctor who said she will be 10 mins late. HALF AN HOUR later, i asked the receptionist again and the doc mentioned that she will be 10 mins late. By this time i was losing my trust in this establishment *** ********** **** ****** **** ** ******** *** ******* ** ** **** ***** *** *** ************* another 10 mins later (by which the doc still hadn't arrived, surprise surprise) i finally demanded a refund which they took 10 mins to pay back. absolutely p-a-the-t-ic. Please don't visit Fortis la femma (unless you've had a good experience with a doc) and especially do not visit this doc if you value your time. *** *** **** ***** *** ******** ********* ***** ******** ***** *** **** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 372,
+                        "end_index": 466,
+                        "reason": "NON_COMPLIANT",
+                        "id": 236343
+                    },
+                    {
+                        "start_index": 782,
+                        "end_index": 860,
+                        "reason": "NON_COMPLIANT",
+                        "id": 236344
+                    }
+                ],
+                "reviewed_on": "2020-01-09 09:45:38",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Wait time"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1143423,
+            "status": "PUBLISHED",
+            "note": "2019-05-01 13:36:56",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-05-01T14:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39426957,
+                "review_text": "Not at all professional! Doctor was one hour late for the appointment! No curtesy to inform that she\u2019ll be late. \nPatient\u2019s time is a joke for fortis le femme hospital.\nDoctor prescribed me antibiotic which I was supposed to take immediately. But the drug was not available in the hospital pharmacy or near by any pharmacy ( my friend visited 4 pharmacy) **** ***** * ****** ********* * **** ***** ** *** **** ********* ** ***** *** ******** ** *** **** ******** * ** ** **** **** ** ****** ******* \n\nMy whole experience was more painful than the pain due to infection!  \n",
+                "review_alterations": [
+                    {
+                        "start_index": 354,
+                        "end_index": 497,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 172520
+                    }
+                ],
+                "reviewed_on": "2019-04-30 13:31:26",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 326715,
+            "status": "PUBLISHED",
+            "note": null,
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 1075197,
+            "practice_name": "Zion Hospital",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2016-08-02T10:16:07+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 22383439,
+                "review_text": "Has too much on her hands. Always in a hurry. Never available for in patients. Suggested medicine were prescribed incorrectly looked like a typographical error in prescription. Nurses randomly struck out one of the medicines when I pointed the error. I asked them to check with the doctor, but she was too busy for this. Absolutely disappointing experience. ",
+                "review_alterations": [],
+                "reviewed_on": "2016-08-02 08:56:14",
+                "channel": "mobile",
+                "source": "OpenFeedback",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Himanshu Batra"
+        },
+        "entity_id": 502207,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 172115,
+                "text": "Diabetes Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1576148,
+            "status": "PUBLISHED",
+            "note": "2020-11-19 06:41:22",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-19T07:01:16+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42042508,
+                "review_text": "Very humble doctor... I likw the way she explains the complications and the treatment for it in a simple manner.. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-18 05:53:39",
+                "channel": "android",
+                "source": "DoctorOpenFeedbackV2",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "MOHAMMED NIZAMUDDIN"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 1044,
+                "text": "Stomach Pain"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1569971,
+            "status": "PUBLISHED",
+            "note": "2020-11-10 07:20:20",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-11-10T08:00:43+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 42008367,
+                "review_text": "Nice & experienced. Problem solved.. On treatment. Medicine provided as per requirement. Strongly recommended. ",
+                "review_alterations": [],
+                "reviewed_on": "2020-11-08 05:45:48",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sarthak Mohanty"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186443,
+                "text": "Annual health checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1820461,
+            "status": "PUBLISHED",
+            "note": "2021-09-07 05:45:51",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2021-09-07T06:00:49+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 43379643,
+                "review_text": "Doctor's politeness,, friendliness and patience eventhough it is late hour. I wish to recomend the hospital to my friends and relatives ",
+                "review_alterations": [],
+                "reviewed_on": "2021-09-04 14:10:44",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Dev subramani v "
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 186442,
+                "text": "Wellness checkup"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1404773,
+            "status": "PUBLISHED",
+            "note": "2020-03-21 08:20:04",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-03-21T09:00:50+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 41155835,
+                "review_text": "*** ******** * *********** ** *** **** ****** * **** **** **** She is very kind, carrying a** ************** just how the doctor should be. I would love Dr Deepanju to be my doctor when I have a baby. \nThank you Dr. ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 62,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 258796
+                    },
+                    {
+                        "start_index": 91,
+                        "end_index": 108,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 258797
+                    }
+                ],
+                "reviewed_on": "2020-03-19 13:46:52",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Alona Taran"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 168918,
+                "text": "Consultation"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1335737,
+            "status": "PUBLISHED",
+            "note": "2020-01-10 05:55:36",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-10T06:00:36+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40682718,
+                "review_text": "A wonderful doctor,very understanding,always ready to help with a smile,she knows how to make her patients feel better....",
+                "review_alterations": [],
+                "reviewed_on": "2020-01-08 14:43:17",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Sher Ayi"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": null,
+        "contexts": null,
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1262129,
+            "status": "PUBLISHED",
+            "note": "2019-10-05 04:41:42",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "Yes",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-10-05T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40182234,
+                "review_text": "*** ** * **** **** ****** * **** **** She was very polite and understanding. I am satisfied with the medications prescribed by her.",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 36,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 212244
+                    }
+                ],
+                "reviewed_on": "2019-10-03 13:53:19",
+                "channel": "OFFLINE_THUNDERCLAP",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Tanushree Dwivedi"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1124525,
+            "status": "PUBLISHED",
+            "note": "2019-04-09 10:44:16",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-04-09T11:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39306545,
+                "review_text": "********* ******* simplifies all explainations *** ***** *** **** *** *********** ********** Must add you start feeling better the moment you start speaking to her. Gem of a Doc ! ",
+                "review_alterations": [
+                    {
+                        "start_index": 0,
+                        "end_index": 17,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 166621
+                    },
+                    {
+                        "start_index": 47,
+                        "end_index": 92,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 166622
+                    }
+                ],
+                "reviewed_on": "2019-04-05 12:44:27",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Jyoti Sharma"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 97,
+                "text": "Cold Sores"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1343511,
+            "status": "PUBLISHED",
+            "note": "2020-01-19 07:37:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2020-01-19T08:01:39+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40739663,
+                "review_text": "Very well spoken.. she listened all my problems calmly and suggested **** medication. **** **** ****** ",
+                "review_alterations": [
+                    {
+                        "start_index": 69,
+                        "end_index": 72,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 239027
+                    },
+                    {
+                        "start_index": 86,
+                        "end_index": 101,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 239028
+                    }
+                ],
+                "reviewed_on": "2020-01-17 09:32:10",
+                "channel": "android",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1284056,
+            "status": "PUBLISHED",
+            "note": "2019-11-07 10:39:55",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-11-07T11:00:03+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40325537,
+                "review_text": "Very well spoken ... ************* ****** ..she listened all my problems calmly and prescribed appropriate medicine \n\n",
+                "review_alterations": [
+                    {
+                        "start_index": 21,
+                        "end_index": 41,
+                        "reason": "MEDICAL_ABILITY",
+                        "id": 219048
+                    }
+                ],
+                "reviewed_on": "2019-11-05 13:30:28",
+                "channel": "web",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1254348,
+            "status": "PUBLISHED",
+            "note": "2019-09-25 05:06:19",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "NO",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-25T06:00:01+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40131089,
+                "review_text": "Bad hospital management and inexcusable amount of delay. I am very disappointed with the way OPD treatment is carried out. doctor isn't on time, hospital staff has no idea about the whereabouts. ",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-23 08:48:23",
+                "channel": "android",
+                "source": "FABRIC",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": false,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            },
+            {
+                "tag": "Wait time"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 144555,
+                "text": "Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1244171,
+            "status": "PUBLISHED",
+            "note": "2019-09-12 05:51:07",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-09-12T06:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 40065596,
+                "review_text": "I am happy with the treatment. Doctor is very friendly. I suffered from recurring fever and allergies. The treatment was effective and I recovered well. I strongly recommend Dr. Deepanju.",
+                "review_alterations": [],
+                "reviewed_on": "2019-09-10 15:47:17",
+                "channel": "web",
+                "source": "DoctorOpenFeedback",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    },
+    {
+        "feedback_summary_tags": [
+            {
+                "tag": "Doctor friendliness"
+            },
+            {
+                "tag": "Explanation of the health issue"
+            },
+            {
+                "tag": "Treatment satisfaction"
+            },
+            {
+                "tag": "Value for money"
+            }
+        ],
+        "contexts": [
+            {
+                "id": 941,
+                "text": "Dengue Fever Treatment"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1191194,
+            "status": "PUBLISHED",
+            "note": "2019-07-05 04:49:02",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 539474,
+            "practice_id": 940113,
+            "practice_name": "Fortis la Femme",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2019-07-05T05:00:02+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 39730388,
+                "review_text": "Very professional and explain the situation in good manner make patience comfortable zone.appreciate  it\n",
+                "review_alterations": [],
+                "reviewed_on": "2019-07-03 13:33:30",
+                "channel": "web",
+                "source": "QWIKWELL",
+                "anonymous": true,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Verified Patient"
+        },
+        "entity_id": 669190,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]

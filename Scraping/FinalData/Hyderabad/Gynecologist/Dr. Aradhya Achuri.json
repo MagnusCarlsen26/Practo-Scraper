@@ -1,0 +1,47 @@
+[
+    {
+        "feedback_summary_tags": null,
+        "contexts": [
+            {
+                "id": 120953,
+                "text": "Pregnancy Scan"
+            }
+        ],
+        "found_helpful_data": {
+            "review_yes_count": 0,
+            "review_total_count": 0
+        },
+        "review": {
+            "id": 1925957,
+            "status": "PUBLISHED",
+            "note": "2022-02-04 04:42:33",
+            "unread": true,
+            "review_for": "DOCTOR",
+            "doctor_id": 623476,
+            "practice_id": 1340169,
+            "practice_name": "Medics Fertility Clinic",
+            "recommendation": "YES",
+            "publish_time_duration": "1 days",
+            "status_modified_at": "2022-02-04T05:00:46+0000",
+            "cron_frequency": "60",
+            "review_reply": null,
+            "survey_response": {
+                "id": 44019982,
+                "review_text": "Doctor's explained us clearly and happy with the consultation.  Doctor herself did the scanning and explained us clearly ",
+                "review_alterations": [],
+                "reviewed_on": "2022-02-02 14:18:47",
+                "channel": "mweb",
+                "source": "FABRIC",
+                "anonymous": false,
+                "is_online_consult": false
+            }
+        },
+        "patient": {
+            "recommends": true,
+            "name": "Suhas"
+        },
+        "entity_id": 771986,
+        "entity": "PRACTICE_DOCTOR",
+        "is_contested": false
+    }
+]
