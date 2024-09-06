@@ -3,6 +3,7 @@ import { db } from './../config.js'
 
 export function addDoctor({doctorId,payload}) {
 
+    console.log(doctorId,payload)
     setDoc( doc(db, "doctors", doctorId), {
         ...payload,
         timestamp : Date.now(),

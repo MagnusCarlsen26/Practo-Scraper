@@ -1,4 +1,4 @@
-const headers = {
+export const headers = {
     "accept": "application/json",
     "accept-language": "en-US,en;q=0.9",
     "priority": "u=1, i",
@@ -11,7 +11,7 @@ const headers = {
     "Referer": "https://www.practo.com/",
     "Referrer-Policy": "strict-origin-when-cross-origin"
 }
-const parameters = {
+export const parameters = {
     results_type: "doctor",
     url_path: "/search/doctors",
     ad_limit: 2,
@@ -23,28 +23,3 @@ const parameters = {
     show_new_reach_card: true,
     with_ad: true
 }
-
-queries = {
-    cities : [
-        "Mumbai",
-        "Delhi",
-        "Bangalore",
-        "Chennai",
-        "Kolkata",
-        "Hyderabad"
-    ],
-    words : [
-        "General Physician",
-        "Cardiologist",
-        "Gynecologist",
-        "Dentist",
-        "Orthopedist",
-        "Pediatrician"`,
-    ]
-}
-
-module.exports = {
-    headers,
-    parameters,
-    queries
-};
