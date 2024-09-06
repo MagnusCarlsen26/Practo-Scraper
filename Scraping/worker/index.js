@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { parameters, headers } from './constants.js'
 
-const MASTER_URL = 'http://localhost:5000'
+const MASTER_URL = 'https://practo-scraper-master.vercel.app'
 
 function pausecomp(millis)
 {
