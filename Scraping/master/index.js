@@ -1,11 +1,9 @@
 import express from 'express'
 import cors from 'cors'
-import { addPageParams, pickPageParams } from './firebase/functions/params.js'
+import { addPageParams, pickPageParams, savePageParams } from './firebase/functions/params.js'
 import { addDoctor, pickDoctor } from './firebase/functions/doctors.js'
 import { saveSlots } from './firebase/functions/slots.js'
-import _ from 'lodash'
-import {  collection, addDoc, getDocs, query, where, limit, updateDoc } from "firebase/firestore"
-import { db } from './firebase/config.js'
+
 const app = express()
 
 app.use(cors())
@@ -50,47 +48,12 @@ app.get('/getTask', async(req,res) => {
     })
 })
 
-export async function savePageParams({city, specialization, category, page}) {
-
-    const pageParamsCollection = collection(db, "pageParams")
-    const q = query(
-        pageParamsCollection,
-        where("city", "==", city),
-        where("specialization", "==", specialization),
-        where("category", "==", category),
-        where("page", "==", page),
-        limit(1)
-    )
-
-    try {
-        // console.log(q)
-        console.log("fucffnc",{city, specialization, category, page})
-        const querySnapshot = await getDocs(q)
-
-        if (!querySnapshot.empty) {
-
-            const docRef = querySnapshot.docs[0].ref
-            await updateDoc(docRef, { isScraped: true })
-            return "ok"
-
-        } else return ("Document doesn't exist.")
-        
-    } catch (error) {
-        console.error("Error retrieving or updating document: ", error)
-    }
-}
 
 app.get('/sendResultPage',async(req,res) => {
 
     const { results, pageParams } = req.body
-    console.log()
-    savePageParams({
-        "specialization": "Dentist",
-        "category": "subspeciality",
-        "city": "Mumbai",
-        "page" : 0
-})
-    
+    savePageParams(pageParams)
+     
     if (results) {
         await addPageParams({ ...pageParams, page : pageParams.page + 1 })
         results.forEach( async(result) => { await addDoctor(result) })
@@ -102,8 +65,8 @@ app.get('/sendResultPage',async(req,res) => {
 
 app.get('/sendResultSlots',async(req,res) => {
 
-    const { result } = req.body
-    await saveSlots(result)
+    const { doctorId, payload } = req.body
+    await saveSlots({ doctorId, payload })
     res.status(200).send("ok")
 
 })

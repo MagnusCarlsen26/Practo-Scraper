@@ -69,8 +69,6 @@ export async function savePageParams({city, specialization, category, page}) {
     )
 
     try {
-        // console.log(q)
-        console.log("func",{city, specialization, category, page})
         const querySnapshot = await getDocs(q)
 
         if (!querySnapshot.empty) {
@@ -85,19 +83,3 @@ export async function savePageParams({city, specialization, category, page}) {
         console.error("Error retrieving or updating document: ", error)
     }
 }
-
-
-// savePageParams()
-
-// const cities = ['Delhi','Mumbai']
-// const specializations = ['Dentist','General Physician']
-
-// cities.forEach(city => {
-//     specializations.forEach( specialization => {
-//         saveParams({
-//             city,
-//             specialization,
-//             category : 'subspeciality'
-//         })
-//     } )
-// })
