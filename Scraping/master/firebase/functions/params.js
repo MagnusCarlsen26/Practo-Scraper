@@ -49,7 +49,7 @@ export async function pickPageParams() {
         await updateDoc(docRef, { isPicked: true })
 
         if (!querySnapshot.empty) return querySnapshot.docs[0].data()
-        else return"No matching doctors found."
+        else return false
 
     } catch (error) {
         console.error("Error retrieving document: ", error)
@@ -59,7 +59,6 @@ export async function pickPageParams() {
 export async function savePageParams({city, specialization, category, page}) {
 
     const pageParamsCollection = collection(db, "pageParams")
-
     const q = query(
         pageParamsCollection,
         where("city", "==", city),
@@ -70,7 +69,10 @@ export async function savePageParams({city, specialization, category, page}) {
     )
 
     try {
+        // console.log(q)
+        console.log("func",{city, specialization, category, page})
         const querySnapshot = await getDocs(q)
+
         if (!querySnapshot.empty) {
 
             const docRef = querySnapshot.docs[0].ref
@@ -83,3 +85,19 @@ export async function savePageParams({city, specialization, category, page}) {
         console.error("Error retrieving or updating document: ", error)
     }
 }
+
+
+// savePageParams()
+
+// const cities = ['Delhi','Mumbai']
+// const specializations = ['Dentist','General Physician']
+
+// cities.forEach(city => {
+//     specializations.forEach( specialization => {
+//         saveParams({
+//             city,
+//             specialization,
+//             category : 'subspeciality'
+//         })
+//     } )
+// })

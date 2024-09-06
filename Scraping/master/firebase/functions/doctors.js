@@ -28,7 +28,7 @@ export async function pickDoctor() {
         const querySnapshot = await getDocs(q)
 
         if (!querySnapshot.empty) return querySnapshot.docs[0].data()
-        else return "No matching doctors found."
+        else return false
         
     } catch (error) {
         console.error("Error retrieving document: ", error)
