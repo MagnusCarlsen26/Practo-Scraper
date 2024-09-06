@@ -1,19 +1,3 @@
-const axios = require('axios') 
-const fs = require('fs')
-const { headers,parameters,queries } = require('./constants.js')
-
-const currentDateTime = new Date()
-const timestamp = currentDateTime.toLocaleString('en-US')
-
-async function saveToJSON(collectedData) {
-    await Promise.all(Object.keys(collectedData).map(async (id) => {
-        const slots = await collectSlots(id)
-        collectedData[id] = { ...collectedData[id], slots }
-      }))
-    
-      await fs.promises.writeFile("collectedData.json", JSON.stringify(collectedData, null, 4))
-}
-
 async function main( params ) {
     let collectedData = {}
 
