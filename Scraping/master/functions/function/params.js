@@ -108,27 +108,27 @@ export async function savePageParams({city, specialization, category, page}) {
     }
 }
 
-const cities = ['Delhi','Mumbai']
+// const cities = ['Delhi', 'Kolkata', 'Chennai', 'Hyderabad', 'Mumbai', 'Bangalore']
 
-const specializations = ['Dentist','General Physician']
-
-
+// const specializations = ['Cardiologist', 'Dentist', 'General Physician', 'Gynecologist', 'Orthopaedic', 'Paediatrician']
 
 
-cities.forEach(city => {
 
-    specializations.forEach( specialization => {
 
-        saveParams({
+// cities.forEach(city => {
 
-            city,
+//     specializations.forEach( specialization => {
 
-            specialization,
+//         saveParams({
 
-            category : 'subspeciality'
+//             city,
 
-        })
+//             specialization,
 
-    } )
+//             category : 'subspeciality'
 
-})
+//         })
+
+//     } )
+
+// })

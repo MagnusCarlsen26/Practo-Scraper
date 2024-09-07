@@ -137,7 +137,7 @@ async function main() {
 
                 }
 
-            } else console.error("ERR" , response.data.error.message,"Error")
+            } else console.error("ERR" , response.data.error,"Error")
 
         } catch (error) {
             console.error("ERR ",error)
