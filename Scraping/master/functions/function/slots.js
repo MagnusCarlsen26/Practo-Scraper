@@ -1,5 +1,5 @@
-import {  setDoc, doc, getDoc, updateDoc } from "firebase/firestore"
-import { db } from './../config.js'
+import {  setDoc, doc, getDoc, updateDoc, getDocs, collection } from "firebase/firestore"
+import { db } from '../config.js'
 
 export async function saveSlots({doctorId,payload}) {
 
@@ -20,4 +20,9 @@ export async function saveSlots({doctorId,payload}) {
         console.error("ERR in saveSlots",error)
         console.error(Date.now())
     }
+}
+
+export async function slotsScraped() {
+    const querySnapshot = await getDocs(collection(db, "slots"))
+    return querySnapshot.size
 }

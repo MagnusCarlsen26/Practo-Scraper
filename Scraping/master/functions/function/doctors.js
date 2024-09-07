@@ -1,5 +1,5 @@
 import { collection, setDoc, doc, getDocs, query, where, limit, addDoc } from "firebase/firestore"
-import { db } from './../config.js'
+import { db } from '../config.js'
 
 export function addDoctor({doctorId,payload}) {
 
@@ -48,3 +48,7 @@ export async function pickDoctor() {
     }
 }
 
+export async function doctorsScraped() {
+    const querySnapshot = await getDocs(collection(db, "doctors"))
+    return querySnapshot.size
+}

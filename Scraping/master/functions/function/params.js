@@ -1,5 +1,5 @@
 import {  collection, addDoc, getDocs, query, where, limit, updateDoc } from "firebase/firestore"
-import { db } from './../config.js'
+import { db } from '../config.js'
 
 export function saveParams({city, specialization, category}) {
 
@@ -108,27 +108,27 @@ export async function savePageParams({city, specialization, category, page}) {
     }
 }
 
-// const cities = ['Delhi','Mumbai']
+const cities = ['Delhi','Mumbai']
 
-// const specializations = ['Dentist','General Physician']
-
-
+const specializations = ['Dentist','General Physician']
 
 
-// cities.forEach(city => {
 
-//     specializations.forEach( specialization => {
 
-//         saveParams({
+cities.forEach(city => {
 
-//             city,
+    specializations.forEach( specialization => {
 
-//             specialization,
+        saveParams({
 
-//             category : 'subspeciality'
+            city,
 
-//         })
+            specialization,
 
-//     } )
+            category : 'subspeciality'
 
-// })
+        })
+
+    } )
+
+})

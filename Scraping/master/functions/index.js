@@ -1,9 +1,10 @@
 import express from 'express'
 import cors from 'cors'
-import { addPageParams, pickPageParams, savePageParams } from './firebase/functions/params.js'
-import { addDoctor, pickDoctor } from './firebase/functions/doctors.js'
-import { saveSlots } from './firebase/functions/slots.js'
+import { addPageParams, pickPageParams, savePageParams } from './function/params.js'
+import { addDoctor, doctorsScraped, pickDoctor } from './function/doctors.js'
+import { saveSlots, slotsScraped } from './function/slots.js'
 import bodyParser from 'body-parser'
+import functions from 'firebase-functions'
 
 const app = express()
 
@@ -92,8 +93,24 @@ app.post('/sendResultSlots',async(req,res) => {
 
 })
 
-const PORT = process.env.PORT || 5000
-
-app.listen(PORT, () => { 
-    console.log(`Server is running on port ${PORT}`)
+app.get('/doctorsScraped',async(req,res) => {
+    try {
+        const count = await doctorsScraped()
+        res.status(200).json(count)
+    } catch (error) {
+        console.error("ERR in doctorsScraped",error)
+        res.status(500).json(error)
+    }
 })
+
+app.get('/slotsScraped',async(req,res) => {
+    try {
+        const count = await slotsScraped()
+        res.status(200).json(count)
+    } catch (error) {
+        console.error("ERR in doctorsScraped",error)
+        res.status(500).json(error)
+    }
+})
+
+export const master = functions.https.onRequest(app);
