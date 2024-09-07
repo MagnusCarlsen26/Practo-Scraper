@@ -26,19 +26,27 @@ async function collectList({ city , specialization , page , category }) {
         try {
             response = await axios.get(url, { params,headers })
         } catch(error) {
-            if (error.code === 'ECONNRESET') {
+            if (error.response) {
+                if (error.response.status === 429) {
+                    console.error('Error 429: Too Many Requests', error.response.statusText);
+                    pausecomp(100*1000)
+                    return collectList({ city, specialization, page, category });
+                } else {
+                    console.error('Other HTTP error:', error.response.status, error.response.statusText);
+                    pausecomp(100*1000)
+                    return collectList({ city, specialization, page, category });
+                }
+            } else if (error.code === 'ECONNRESET') {
                 console.error('ECONNRESET error:', error.message);
-                return collectList({ city , word , page , category })
+                return collectList({ city , specialization , page , category })
             } else {
                 console.error('Other error:', error);
-                process.exit()
             }
         }
         if (Object.keys(response?.data.doctors?.entities).length) return response.data.doctors.entities
         else return false
     } catch (error) {
         console.error("ERR in collectList",error)
-        pausecomp(100*1000)
         return collectList({ city , specialization , page , category })
     }
 }
@@ -51,12 +59,21 @@ async function collectSlots(id) {
         try {
             response = await axios.get(url, { headers })
         } catch(error) {
-            if (error.code === 'ECONNRESET') {
+            if (error.response) {
+                if (error.response.status === 429) {
+                    console.error('Error 429: Too Many Requests', error.response.statusText);
+                    pausecomp(100*1000)
+                    return collectSlots(id)
+                } else {
+                    console.error('Other HTTP error:', error.response.status, error.response.statusText);
+                    pausecomp(100*1000)
+                    return collectSlots(id)
+                }
+            } else if (error.code === 'ECONNRESET') {
                 console.error('ECONNRESET error:', error.message);
                 return collectSlots(id)
             } else {
                 console.error('Other error:', error);
-                process.exit()
             }
         }
         return response.data.slots
