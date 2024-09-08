@@ -1,0 +1,1 @@
+npx -p node-firestore-import-export firestore-export -a config.json -b backup.json

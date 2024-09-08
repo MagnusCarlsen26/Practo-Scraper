@@ -68,3 +68,24 @@ export async function doctorsScraped() {
     const querySnapshot = await getDocs(collection(db, "doctors"))
     return querySnapshot.size
 }
+
+async function getDocsWithoutGender() {
+    const collectionRef = collection(db, 'doctors')
+  
+    try {
+      const querySnapshot = await getDocs(collectionRef);
+  
+      const docsWithoutGender = querySnapshot.docs.filter((doc) => {
+        const data = doc.data();
+        return !('gender' in data);
+      });
+  
+      docsWithoutGender.forEach((doc) => {
+        console.log(`Document ID: ${doc.id}`, doc.data());
+      });
+    } catch (error) {
+      console.error("Error fetching documents:", error);
+    }
+}
+
+// getDocsWithoutGender()
