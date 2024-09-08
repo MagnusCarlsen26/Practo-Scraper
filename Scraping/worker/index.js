@@ -3,8 +3,7 @@ import { parameters, headers } from './constants.js'
 
 const MASTER_URL = 'https://us-central1-practo-scraper.cloudfunctions.net/master'
 
-function pausecomp(millis)
-{
+function pausecomp(millis) {
     var date = new Date();
     var curDate = null;
     do { curDate = new Date(); }
@@ -12,13 +11,18 @@ function pausecomp(millis)
 }
 
 
-async function collectList({ city , specialization , page , category }) {
+async function collectList({ city , specialization , page , category , gender}) {
     try {
 
         const url = "https://www.practo.com/marketplace-api/dweb/search/provider/v2"
         
+        const modifiedFilters = {  }
+        if (gender) {
+            modifiedFilters['filters[doctor_gender][]'] = gender
+        }
+
         const params = {
-            city,page,...parameters,
+            city,page,...parameters,...modifiedFilters,
             q: JSON.stringify([{ word : specialization , "autocompleted": true, category }]),
         }
         
@@ -139,7 +143,6 @@ async function main() {
                         results : doctors,
                         pageParams : response.data.data.payload
                     })
-                    console.log(doctors)
                     console.log("Done",response.data.data.payload)
 
                 } else if (response.data.data.type === 'slots') {
@@ -153,6 +156,16 @@ async function main() {
                     })
                     console.log("Done",response.data.data.payload.doctorId)
 
+                } else if (response.data.data.type === 'gender') {
+
+                    console.log("Working on",response.data.data.payload)
+                    const doctors = await cleanDoctorsData(await collectList(response.data.data.payload))
+                    await axios.post(`${MASTER_URL}/sendGenderResultPage`, {
+                        results : doctors.map( doctor => ({ doctorId : doctor.doctorId, gender : response.data.data.payload.gender }) ),
+                        pageParams : response.data.data.payload
+                    })
+                    console.log("Done",response.data.data.payload) 
+
                 }
 
             } else console.error("ERR" , response.data.error,"Error")
@@ -164,3 +177,4 @@ async function main() {
 }
 
 main()
+

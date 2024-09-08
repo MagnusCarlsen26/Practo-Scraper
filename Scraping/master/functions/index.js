@@ -1,8 +1,9 @@
 import express from 'express'
 import cors from 'cors'
 import { addPageParams, pickPageParams, savePageParams } from './function/params.js'
-import { addDoctor, doctorsScraped, pickDoctor } from './function/doctors.js'
+import { addDoctor, doctorsScraped, pickDoctor, addGenderDoctor } from './function/doctors.js'
 import { saveSlots, slotsScraped } from './function/slots.js'
+import { addGenderPageParams, pickGenderPageParams, saveGenderPageParams } from './function/genderParams.js'
 import bodyParser from 'body-parser'
 import functions from 'firebase-functions'
 import { logger } from "firebase-functions";
@@ -48,6 +49,19 @@ app.get('/getTask', async(req,res) => {
             return
         }
 
+        payload = await pickGenderPageParams()
+        console.log(payload)
+        if (payload) {
+            res.status(200).send({
+                success : true,
+                data : {
+                    type : "gender",
+                    payload
+                }
+            })
+            return
+        }
+
         res.status(200).send({
             success : false,
             error : "No pending tasks."
@@ -78,6 +92,25 @@ app.post('/sendResultPage',async(req,res) => {
         res.status(500).send(error.message)
     }
 
+})
+
+app.post('/sendGenderResultPage',async(req,res) => {
+    try {
+
+        const { results, pageParams } = req.body
+        saveGenderPageParams(pageParams)
+        console.log(results)
+        if (results) {
+            await addGenderPageParams({ ...pageParams, page : pageParams.page + 1 })
+            results.forEach( async(result) => { await addGenderDoctor(result) })
+        }  
+
+        res.status(200).send("ok")
+    } catch (error) {
+        logger.info("ERR in sendResultPage",error.message)
+        console.error(Date.now())
+        res.status(500).send(error.message)
+    }
 })
 
 app.post('/sendResultSlots',async(req,res) => {

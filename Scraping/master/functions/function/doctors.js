@@ -1,4 +1,4 @@
-import { collection, setDoc, doc, getDocs, query, where, limit, addDoc } from "firebase/firestore"
+import { collection, setDoc, doc, getDocs, query, where, limit, addDoc, updateDoc } from "firebase/firestore"
 import { db } from '../config.js'
 
 export function addDoctor({doctorId,payload}) {
@@ -14,6 +14,22 @@ export function addDoctor({doctorId,payload}) {
         }).catch( error => console.log(error) )
         
         return "ok"
+    } catch (error) {
+        console.error("ERR in addDoctor",error)
+        console.error(Date.now())
+    }
+
+}
+
+export async function addGenderDoctor({doctorId,gender}) {
+
+    try {
+
+        const docRef = doc(db, 'doctors', doctorId)
+
+        await updateDoc(docRef, { gender })
+        return "ok"
+
     } catch (error) {
         console.error("ERR in addDoctor",error)
         console.error(Date.now())
