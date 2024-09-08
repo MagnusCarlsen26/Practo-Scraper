@@ -1,7 +1,8 @@
-import {  collection, addDoc, getDocs, query, where, limit, updateDoc } from "firebase/firestore"
+import {  collection, addDoc, getDocs, query, where, limit, updateDoc, doc, setDoc } from "firebase/firestore"
 import { db } from '../config.js'
+import { logger, params } from "firebase-functions";
 
-export function saveParams({city, specialization, category}) {
+export async function saveParams({city, specialization, category}) {
 
     try {
 
@@ -11,37 +12,41 @@ export function saveParams({city, specialization, category}) {
             category
         }).catch( error => console.log(error) )
         
-        addDoc( collection(db, "pageParams"), {
+        const docRef = doc( db, "pageParams", city+specialization+0);
+
+        await setDoc(docRef, {
             city,
             specialization,
             category,
-            page : 0,
-            isScraped : false,
-            isPicked : false
-        }).catch( error => console.log(error) )
+            page: 0,
+            isScraped: false,
+            isPicked: false
+        })
     } catch (error) {
-        console.error("ERR in saveParams",error)
-        console.error(Date.now())
+        logger.error("ERR in saveParams",error)
+        logger.error(Date.now())
     }
 }
 
-export function addPageParams({city, specialization, category, page}) {
+export async function addPageParams({city, specialization, category, page}) {
 
     try {
+        logger.info(city+specialization+page)
+        const docRef = doc(collection(db, "pageParams"), city+specialization+page);
 
-        addDoc( collection(db, "pageParams"), {
+        await setDoc(docRef, {
             city,
             specialization,
             category,
             page,
             isScraped : false,
             isPicked : false,
-        }).catch( error => console.log(error) )
+        })
         
         return "ok"
     } catch (error) {
-        console.error("ERR in addPageparams",error)
-        console.error(Date.now())
+        logger.error("ERR in addPageparams",error)
+        logger.error(Date.now())
     }
 }
 
@@ -66,11 +71,11 @@ export async function pickPageParams() {
             else return false
             
         } catch (error) {
-            return false // assumption
+            return false
         }
     } catch (error) {
-        console.error("ERR in pickPageparams",error)
-        console.error(Date.now())
+        logger.error("ERR in pickPageparams",error)
+        logger.error(Date.now())
     }
 }
     
@@ -100,11 +105,11 @@ export async function savePageParams({city, specialization, category, page}) {
             } else return ("Document doesn't exist.")
             
         } catch (error) {
-            console.error("ERR in savePageParams ", error)
+            logger.error("ERR in savePageParams ", error)
         }
     } catch (error) {
-        console.error("ERR in savePageparams",error)
-        console.error(Date.now())
+        logger.error("ERR in savePageparams",error)
+        logger.error(Date.now())
     }
 }
 

@@ -65,7 +65,7 @@ async function collectSlots(id) {
                     pausecomp(100*1000)
                     return collectSlots(id)
                 } else {
-                    console.error('Other HTTP error:', error.response.status, error.response.statusText);
+                    console.error('Other HTTP error:', error.response.status);
                     pausecomp(100*1000)
                     return collectSlots(id)
                 }
@@ -139,6 +139,7 @@ async function main() {
                         results : doctors,
                         pageParams : response.data.data.payload
                     })
+                    console.log(doctors)
                     console.log("Done",response.data.data.payload)
 
                 } else if (response.data.data.type === 'slots') {

@@ -5,6 +5,7 @@ import { addDoctor, doctorsScraped, pickDoctor } from './function/doctors.js'
 import { saveSlots, slotsScraped } from './function/slots.js'
 import bodyParser from 'body-parser'
 import functions from 'firebase-functions'
+import { logger } from "firebase-functions";
 
 const app = express()
 
@@ -14,7 +15,7 @@ app.use(bodyParser.json({ limit: '100mb' }));
 
 app.get('/helloWorld',(req,res) => {
 
-    console.log("Hello World !!")
+    logger.info("Hello World !!")
     res.send("Hello World !!")
 
 })
@@ -72,7 +73,7 @@ app.post('/sendResultPage',async(req,res) => {
 
         res.status(200).send("ok")
     } catch (error) {
-        console.log("ERR in sendResultPage",error.message)
+        logger.info("ERR in sendResultPage",error.message)
         console.error(Date.now())
         res.status(500).send(error.message)
     }
@@ -112,5 +113,11 @@ app.get('/slotsScraped',async(req,res) => {
         res.status(500).json(error)
     }
 })
+
+const PORT = 5000
+
+// app.listen(PORT, () => {
+    // logger.info(`Server is running on port ${PORT}`);
+// });
 
 export const master = functions.https.onRequest(app);
