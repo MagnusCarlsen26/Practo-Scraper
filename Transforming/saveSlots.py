@@ -44,34 +44,47 @@ def extractDoctors(path) :
                 slug = csvreader[i][5].split('/')[3].split('?')[0]
                 doctorsCSV.append(",".join([csvreader[i][6],slug,path,csvreader[i][7],"\n"]))
 
-def mapDoctorsToNewDoctors(path) :
-    print(path)
-    oldDoctor = pd.read_csv(path)
-    newDoctor = pd.read_csv(f"FinalData/{path.split("FinalData")[1]}")
-    newDoctor = newDoctor.merge(oldDoctor[['doctor_id', 'gender']], on='doctor_id', how='left')
-    newDoctor.to_csv(f"FinalData/{path.split("FinalData")[1]}",index=False)
+# def mapDoctorsToNewDoctors(path) :
+#     print(path)
+#     oldDoctor = pd.read_csv(path)
+#     newDoctor = pd.read_csv(f"FinalData/{path.split("FinalData")[1]}")
+#     newDoctor = newDoctor.merge(oldDoctor[['doctor_id', 'gender']], on='doctor_id', how='left')
+#     newDoctor.to_csv(f"FinalData/{path.split("FinalData")[1]}",index=False)
 
-def readJson(directory):
+# Deprecated
+# def readJson(directory):
 
-    dataframes = []
-    count = 0
+#     dataframes = []
+#     count = 0
+#     for root, _, files in os.walk(directory):
+#         for file in files:
+#             if file.endswith(".csv"):
+#                 file_path = os.path.join(root, file)
+#                 print(file_path.split("\\")[8])
+#                 if file_path.split("\\")[8] == 'data.csv' :
+#                     mapDoctorsToNewDoctors(file_path)
+#                     continue
+#                 else :
+#                     continue
+#                 if file_path[-6] == 'a' :
+#                     file_path = file_path[:len(file_path)-18]
+#                 else :
+#                     file_path = file_path[:len(file_path)-11] 
+#                 print(file_path)       
+#                 extractDoctors(file_path)
+
+def collectedDataToDataAndSlots(directory):
+
     for root, _, files in os.walk(directory):
         for file in files:
-            if file.endswith(".csv"):
+            if file.endswith(".json"):
                 file_path = os.path.join(root, file)
-                print(file_path.split("\\")[8])
-                if file_path.split("\\")[8] == 'data.csv' :
-                    mapDoctorsToNewDoctors(file_path)
-                    continue
-                else :
-                    continue
-                if file_path[-6] == 'a' :
-                    file_path = file_path[:len(file_path)-18]
-                else :
-                    file_path = file_path[:len(file_path)-11] 
-                print(file_path)       
-                extractDoctors(file_path)
-    
-readJson(r"C:\Users\tempo\Downloads\Practo_data_version1\FinalData")
-with open(f"fuck.csv", "w", newline="",encoding="utf-8") as csvfile:
-    csvfile.write("".join(list(set(doctorsCSV))))
+                city = file_path.split("/")[-3]
+                specialization = file_path.split("/")[-2]
+                file_path = f"./dbBackup/v1/FinalData/{city}/{specialization}"
+                print(file_path)
+                save(file_path)
+
+collectedDataToDataAndSlots("./dbBackup/v1/FinalData")
+# with open(f"fuck.csv", "w", newline="",encoding="utf-8") as csvfile:
+#     csvfile.write("".join(list(set(doctorsCSV))))
