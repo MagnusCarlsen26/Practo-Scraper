@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { parameters, headers } from './constants.js'
 
-const MASTER_URL = 'https://us-central1-practo-scraper.cloudfunctions.net/master'
+const MASTER_URL = 'https://us-central1-practoscraper.cloudfunctions.net/master'
 
 function pausecomp(millis) {
     var date = new Date();
@@ -47,6 +47,13 @@ async function collectList({ city , specialization , page , category , gender}) 
                 console.error('Other error:', error);
             }
         }
+        Object.keys(response.data.doctors.entities).forEach( key => {
+            response.data.doctors.entities[key] =  {
+            ...response.data.doctors.entities[key],
+            page
+        }})
+
+        console.log(response.data.doctors.entities,'f')
         if (Object.keys(response?.data.doctors?.entities).length) return response.data.doctors.entities
         else return false
     } catch (error) {
@@ -119,6 +126,7 @@ async function cleanDoctorsData( response ) {
                 reviews_count : value.reviews_count,
                 position : value.position,
                 rank : value.rank,
+                page : value.page,
                 workerTime : Date.now()
             }
         }
@@ -133,41 +141,54 @@ async function main() {
     while(1) {
         try {
             const response = await axios.get(`${MASTER_URL}/getTask`)
-
             if (response.data.success) {
-                if (response.data.data.type === 'doctors') {    
+                switch (response.data.data.type) {
+                    case 'doctors': {
 
-                    console.log("Working on",response.data.data.payload)
-                    const doctors = await cleanDoctorsData(await collectList(response.data.data.payload))
-                    await axios.post(`${MASTER_URL}/sendResultPage`, {
-                        results : doctors,
-                        pageParams : response.data.data.payload
-                    })
-                    console.log("Done",response.data.data.payload)
+                        console.log("Working on1", response.data.data.payload);
+                        const doctors = await cleanDoctorsData(await collectList(response.data.data.payload));
+                        
+                        await axios.post(`${MASTER_URL}/sendResultPage`, {
+                            results: doctors,
+                            pageParams: response.data.data.payload
+                        });
+                        
+                        console.log("Done", response.data.data.payload);
+                        break
+                    }
+                    case 'slots': {
+                        console.log("Working on2", response.data.data.payload.doctorId);
+                        
+                        const slots = await collectSlots(response.data.data.payload.doctorId);
+                        
+                        await axios.post(`${MASTER_URL}/sendResultSlots`, {
+                            doctorId: response.data.data.payload.doctorId,
+                            payload: slots
+                        });
+                        
+                        console.log("Done", response.data.data.payload.doctorId);
+                        break
+                    }
+                    case 'gender': {
 
-                } else if (response.data.data.type === 'slots') {
-
-                    console.log("Working on",response.data.data.payload.doctorId)
-                    const slots = await collectSlots(response.data.data.payload.doctorId)
-
-                    await axios.post(`${MASTER_URL}/sendResultSlots`, {
-                        doctorId : response.data.data.payload.doctorId,
-                        payload : slots 
-                    })
-                    console.log("Done",response.data.data.payload.doctorId)
-
-                } else if (response.data.data.type === 'gender') {
-
-                    console.log("Working on",response.data.data.payload)
-                    const doctors = await cleanDoctorsData(await collectList(response.data.data.payload))
-                    await axios.post(`${MASTER_URL}/sendGenderResultPage`, {
-                        results : doctors.map( doctor => ({ doctorId : doctor.doctorId, gender : response.data.data.payload.gender }) ),
-                        pageParams : response.data.data.payload
-                    })
-                    console.log("Done",response.data.data.payload) 
-
+                        console.log("Working on3", response.data.data.payload);
+                        const doctors = cleanDoctorsData(await collectList(response.data.data.payload));
+                        
+                        await axios.post(`${MASTER_URL}/sendGenderResultPage`, {
+                            results: doctors.map(doctor => ({
+                                doctorId: doctor.doctorId,
+                                gender: response.data.data.payload.gender
+                            })),
+                            pageParams: response.data.data.payload
+                        });
+                        
+                        console.log("Done", response.data.data.payload);
+                        break
+                    }
+                    default:
+                        console.log("Unknown type:", response.data.data.type);
                 }
-
+            
             } else console.error("ERR" , response.data.error,"Error")
 
         } catch (error) {
