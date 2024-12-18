@@ -172,8 +172,8 @@ async function main() {
                     case 'gender': {
 
                         console.log("Working on3", response.data.data.payload);
-                        const doctors = cleanDoctorsData(await collectList(response.data.data.payload));
-                        
+                        const doctors = await cleanDoctorsData(await collectList(response.data.data.payload));
+                        console.log(doctors)
                         await axios.post(`${MASTER_URL}/sendGenderResultPage`, {
                             results: doctors.map(doctor => ({
                                 doctorId: doctor.doctorId,
