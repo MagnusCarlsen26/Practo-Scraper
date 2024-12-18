@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app"
 import { getFirestore } from "firebase/firestore"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC96RRbvhR0VhtpWNEbGvlHuB4gPHhI6t4",
-    authDomain: "practo-scraper.firebaseapp.com",
-    projectId: "practo-scraper",
-    storageBucket: "practo-scraper.appspot.com",
-    messagingSenderId: "737638871871",
-    appId: "1:737638871871:web:144a920a4e24767b70198a"
+    apiKey: "AIzaSyAr_E-bxHksDT6ie4yR8T1a-Z814RRQ2jY",
+    authDomain: "practoscraper.firebaseapp.com",
+    projectId: "practoscraper",
+    storageBucket: "practoscraper.firebasestorage.app",
+    messagingSenderId: "355432267459",
+    appId: "1:355432267459:web:48010b71f98a37dd166c76"
 }
 
 export const app = initializeApp(firebaseConfig)

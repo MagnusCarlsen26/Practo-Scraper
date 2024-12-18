@@ -1,12 +1,15 @@
 import express from 'express'
 import cors from 'cors'
-import { addPageParams, pickPageParams, savePageParams } from './function/params.js'
+import { addPageParams, pickPageParams, savePageParams, saveParams } from './function/params.js'
 import { addDoctor, doctorsScraped, pickDoctor, addGenderDoctor } from './function/doctors.js'
 import { saveSlots, slotsScraped } from './function/slots.js'
-import { addGenderPageParams, pickGenderPageParams, saveGenderPageParams } from './function/genderParams.js'
+import { addGenderPageParams, pickGenderPageParams, saveGenderPageParams, saveGenderParams } from './function/genderParams.js'
 import bodyParser from 'body-parser'
 import functions from 'firebase-functions'
 import { logger } from "firebase-functions";
+import { db } from './config.js'
+import {  collection, addDoc, getDocs, query, where, limit, updateDoc, doc, setDoc, deleteDoc } from "firebase/firestore"
+
 
 const app = express()
 
@@ -14,14 +17,14 @@ app.use(cors())
 app.use(express.json())
 app.use(bodyParser.json({ limit: '100mb' }));
 
-app.get('/helloWorld',(req,res) => {
+app.get('/helloWorld',(_,res) => {
 
     logger.info("Hello World !!")
     res.send("Hello World !!")
 
 })
 
-app.get('/getTask', async(req,res) => {
+app.get('/getTask', async(_,res) => {
     
     try {
 
@@ -50,7 +53,6 @@ app.get('/getTask', async(req,res) => {
         }
 
         payload = await pickGenderPageParams()
-        console.log(payload)
         if (payload) {
             res.status(200).send({
                 success : true,
@@ -127,7 +129,7 @@ app.post('/sendResultSlots',async(req,res) => {
 
 })
 
-app.get('/doctorsScraped',async(req,res) => {
+app.get('/doctorsScraped',async(_,res) => {
     try {
         const count = await doctorsScraped()
         res.status(200).json(count)
@@ -137,7 +139,7 @@ app.get('/doctorsScraped',async(req,res) => {
     }
 })
 
-app.get('/slotsScraped',async(req,res) => {
+app.get('/slotsScraped',async(_,res) => {
     try {
         const count = await slotsScraped()
         res.status(200).json(count)
@@ -147,10 +149,127 @@ app.get('/slotsScraped',async(req,res) => {
     }
 })
 
-const PORT = 5000
+app.get('/init',async(_,res) => {
 
-// app.listen(PORT, () => {
-    // logger.info(`Server is running on port ${PORT}`);
-// });
+    const cities = ['Delhi', 'Kolkata', 'Chennai', 'Hyderabad', 'Mumbai', 'Bangalore']
+    const specializations = ['Cardiologist', 'Dentist', 'General Physician', 'Gynecologist', 'Orthopedist', 'Pediatrician']
+
+    cities.forEach(city => {
+        specializations.forEach( specialization => {
+
+            const query = {
+                city,
+                specialization,
+                category : 'subspeciality'
+            }
+
+            saveGenderParams(query)
+            saveParams(query)
+
+        } )
+    })
+
+    res.status(200).send("initialized")
+
+})
+
+async function resetScrapePageParams() {
+    try {
+        const pageParamsCollection = collection(db, 'genderPageParams');
+
+        const q = query(pageParamsCollection, where('isScraped', '==', false));
+        const querySnapshot = await getDocs(q);
+
+        if (querySnapshot.empty) {
+            console.log('No matching documents.');
+            return;
+        }
+
+        const updatePromises = querySnapshot.docs.map((docSnapshot) => {
+            const docRef = doc(db, 'genderPageParams', docSnapshot.id);
+            return updateDoc(docRef, { isPicked: false });
+        });
+
+        await Promise.all(updatePromises);
+        console.log('All documents updated successfully.');
+    } catch (error) {
+        console.error('Error updating documents:', error);
+    }
+}
+
+// async function resetScrapePageParams() {
+//     try {
+//         const pageParamsCollection = collection(db, 'genderPageParams');
+    
+//         const q = query(pageParamsCollection, where('isScraped', '==', false));
+//         const querySnapshot = await getDocs(q);
+  
+//         if (querySnapshot.empty) {
+//             console.log('No matching documents.');
+//             return;
+//         }
+  
+//         const updatePromises = querySnapshot.docs.map((docSnapshot) => {
+//             const docRef = doc(db, 'genderPageParams', docSnapshot.id);
+//             return updateDoc(docRef, { isPicked: false });
+//         });
+  
+//         await Promise.all(updatePromises);
+//         console.log('All documents updated successfully.');
+//     } catch (error) {
+//       console.error('Error updating documents:', error);
+//     }
+// }
+
+// async function resetScrapePageParams() {
+//     try {
+//         const pageParamsCollection = collection(db, 'pageParams');
+    
+//         const q = query(pageParamsCollection, where('isScraped', '==', false));
+//         const querySnapshot = await getDocs(q);
+  
+//         if (querySnapshot.empty) {
+//             console.log('No matching documents.');
+//             return;
+//         }
+  
+//         const updatePromises = querySnapshot.docs.map((docSnapshot) => {
+//             const docRef = doc(db, 'pageParams', docSnapshot.id);
+//             return updateDoc(docRef, { isPicked: false });
+//         });
+  
+//         await Promise.all(updatePromises);
+//         console.log('All documents updated successfully.');
+//     } catch (error) {
+//       console.error('Error updating documents:', error);
+//     }
+// }
+
+// async function resetPickPageParams() {
+//     try {
+//         const pageParamsCollection = collection(db, 'pageParams');
+    
+//         const q = query(pageParamsCollection, 
+//             where('isScraped', '==', true),
+//             where('isPicked','==',false)
+//         );
+//         const querySnapshot = await getDocs(q);
+  
+//         if (querySnapshot.empty) {
+//             console.log('No matching documents.');
+//             return;
+//         }
+  
+//         const updatePromises = querySnapshot.docs.map((docSnapshot) => {
+//             const docRef = doc(db, 'pageParams', docSnapshot.id);
+//             return updateDoc(docRef, { isScraped: false });
+//         });
+  
+//         await Promise.all(updatePromises);
+//         console.log('All documents updated successfully.');
+//     } catch (error) {
+//       console.error('Error updating documents:', error);
+//     }
+// }
 
 export const master = functions.https.onRequest(app);

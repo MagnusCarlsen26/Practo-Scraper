@@ -78,13 +78,13 @@ def collectedDataToDataAndSlots(directory):
     for root, _, files in os.walk(directory):
         for file in files:
             if file.endswith(".json"):
-                file_path = os.path.join(root, file)
-                city = file_path.split("/")[-3]
-                specialization = file_path.split("/")[-2]
+                file_path = os.path.join(root, file)[24:]
+                city = file_path.split("\\")[-3]
+                specialization = file_path.split("\\")[-2]
                 file_path = f"./dbBackup/v1/FinalData/{city}/{specialization}"
                 print(file_path)
                 save(file_path)
-
+# print(len("./dbBackup/v1/FinalData"))
 collectedDataToDataAndSlots("./dbBackup/v1/FinalData")
 # with open(f"fuck.csv", "w", newline="",encoding="utf-8") as csvfile:
 #     csvfile.write("".join(list(set(doctorsCSV))))

@@ -1,7 +1,7 @@
 import csv
 import json
 
-with open('./v1/backup.json') as json_file:
+with open('./v1/backup.json',encoding="utf-8") as json_file:
     data = json.load(json_file)
 
 def mapCities(string):
@@ -58,5 +58,3 @@ for id in data["doctors"] :
 
 for doctorData in doctorsData:
     saveTOJSON(f"./v1/FinalData/{doctorData}",doctorsData[doctorData],"collectedData") 
-
-print(data.keys())

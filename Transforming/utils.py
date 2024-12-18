@@ -42,7 +42,7 @@ def saveSlots(data) :
 
 def saveDoctors(data):
 
-    headers = "rank,id,doctor_id,practice_id,image_url,profile_url,doctor_name,specialization," + \
+    headers = "rank,page,id,doctor_id,practice_id,image_url,profile_url,doctor_name,specialization," + \
             "qualification,college,completion_year," + \
             "qualification,college,completion_year,experience_years," + \
             "practice_city,practice_locality,practice_type,practice_name," + \
@@ -56,7 +56,8 @@ def saveDoctors(data):
         qual2 = qualifications[1] if len(qualifications) > 1 else {}
         row = [
             data[element].get('rank', ''),
-            data[element].get('id', ''),
+            data[element].get('page',''),
+            element,
             data[element].get('doctor_id', ''),
             data[element].get('practice_id', ''),
             data[element].get('image_url', ''),
