@@ -134,7 +134,39 @@ async function cleanDoctorsData( response ) {
     }
         
     return doctors
-} 
+}
+
+async function collectReviews({ slug, page }) {
+  try {
+    const url = `https://www.practo.com/marketplace-api/dweb/profile/provider/feedback?slug=${slug}&profile_type=PROVIDER&page=${page}&mr=true&reco_count=0&no_of_stories_required=10&active_filter%5Bid%5D=0&active_filter%5Btext%5D=All&active_filter%5Btype%5D=All&show_recommended_reviews=true&show_feedback_summary_tags=true`;
+    let response;
+    try {
+      response = await axios.get(url, { headers });
+    } catch (error) {
+      if (error.response) {
+        if (error.response.status === 429) {
+          console.error('Error 429: Too Many Requests', error.response.statusText);
+          pausecomp(100 * 1000);
+          return collectReviews({ slug, page });
+        } else {
+          console.error('Other HTTP error:', error.response.status, error.response.statusText);
+          pausecomp(100 * 1000);
+          return collectReviews({ slug, page });
+        }
+      } else if (error.code === 'ECONNRESET') {
+        console.error('ECONNRESET error:', error.message);
+        return collectReviews({ slug, page });
+      } else {
+        console.error('Other error:', error);
+      }
+    }
+    return response.data.data.profileFeedback;
+  } catch (error) {
+    console.error("ERR in collectReviews", error);
+    pausecomp(100 * 1000);
+    return collectReviews({ slug, page });
+  }
+}
     
 async function main() {
 
@@ -184,6 +216,19 @@ async function main() {
                         
                         console.log("Done", response.data.data.payload);
                         break
+                    }
+                    case 'reviews': {
+                        console.log("Working on4", response.data.data.payload);
+                        const reviews = await collectReviews(response.data.data.payload);
+
+                        await axios.post(`${MASTER_URL}/sendResultReviews`, {
+                          slug: response.data.data.payload.slug,
+                          page: response.data.data.payload.page,
+                          payload: reviews
+                        });
+
+                        console.log("Done", response.data.data.payload);
+                        break;
                     }
                     default:
                         console.log("Unknown type:", response.data.data.type);
